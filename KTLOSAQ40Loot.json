@@ -13,39 +13,39 @@
 		"Gloves of the Immortal":{
 			"prio":["EP/GP"],
 			"gp:":"",
-			"wowID":""
+			"wowID":"21888"
 		},
 		"Gloves of the Redeemed Prophecy":{
 			"prio":["EP/GP"],
 			"gp:":"",
-			"wowID":""
+			"wowID":"21889"
 		},
 		"Neretzek, The Blood Drinker":{
 			"prio":["EP/GP"],
 			"gp:":"",
-			"wowID":""
+			"wowID":"21856"
 		},
 		"Ritssyn's Ring of Chaos":{
 			"prio":["EP/GP"],
 			"gp:":"",
-			"wowID":""
+			"wowID":"21836"
 		},
 		"Shard of the Fallen Star":{
 			"prio":["EP/GP"],
 			"gp:":"",
-			"wowID":""
+			"wowID":"21891"
 		}
 	},
 	"Boss Shared":{
 		"Imperial Qiraji Armaments":{
 			"prio":["Supertoxic(1)","SilkyJohnsn(2)","Stopbegging(2)","Shadowsfade(1)","Gnomeisbis (?)","EP/GP"],
 			"gp:":"",
-			"wowID":""
+			"wowID":"21232"
 		},
 		"Imperial Qiraji Regalia":{
 			"prio":["Coxxy","Blacklisted","Kuku","Austeezy","EP/GP"],
 			"gp:":"",
-			"wowID":""
+			"wowID":"21237"
 		}
 	},
 	"The Prophet Skeram":{
