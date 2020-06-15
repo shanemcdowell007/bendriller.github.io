@@ -52,67 +52,67 @@
 		"Boots of the Unwavering Will":{
 			"prio":["Tanks","EP/GP"],
 			"gp:":"",
-			"wowID":""
+			"wowID":"21706"
 		},
 		"Breastplate of Annihilation":{
 			"prio":["DPS Warrior","EP/GP"],
 			"gp:":"",
-			"wowID":""
+			"wowID":"21814"
 		},
 		"Cloak of Concentrated Hatred":{
 			"prio":["Supertoxic","Rogue","Warrior","EP/GP"],
 			"gp:":"",
-			"wowID":""
+			"wowID":"21701"
 		},
 		"Leggings of Immersion":{
 			"prio":["Rasbeary","EP/GP"],
 			"gp:":"",
-			"wowID":""
+			"wowID":"21698"
 		},
 		"Barrage Shoulders":{
 			"prio":["EP/GP"],
 			"gp:":"",
-			"wowID":""
+			"wowID":"21699"
 		},
 		"Pendant of the Qiraji Guardian":{
 			"prio":["Tanks","EP/GP"],
 			"gp:":"",
-			"wowID":""
+			"wowID":"21700"
 		},
 		"Ring of Swarming Thought":{
 			"prio":["EP/GP"],
 			"gp:":"",
-			"wowID":""
+			"wowID":"21707"
 		},
 		"Amulet of Foul Warding":{
 			"prio":["Melee Soakers","EP/GP"],
 			"gp:":"",
-			"wowID":""
+			"wowID":"21702"
 		},
 		"Boots of the Redeemed Prophecy":{
 			"prio":["EP/GP"],
 			"gp:":"",
-			"wowID":""
+			"wowID":"21704"
 		},
 		"Hammer of Ji'zhi":{
 			"prio":["EP/GP"],
 			"gp:":"",
-			"wowID":""
+			"wowID":"21703"
 		},
 		"Staff of the Qiraji Prophets":{
 			"prio":["EP/GP"],
 			"gp:":"",
-			"wowID":""
+			"wowID":"21128"
 		},
 		"Boots of the Fallen Prophet":{
 			"prio":["EP/GP"],
 			"gp:":"",
-			"wowID":""
+			"wowID":"21705"
 		},
 		"Beetle Scaled Wristguards":{
 			"prio":["Melee Soakers","EP/GP"],
 			"gp:":"",
-			"wowID":""
+			"wowID":"21708"
 		}
 	},
 	"Shared Bug Loot":{
