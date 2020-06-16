@@ -138,7 +138,7 @@
 			"wowID":""
 		},
 		"Aged Core Leather Gloves":{
-			"prio":["MS Dagger rogue","EP/GP"],
+			"prio":["MS Dagger rogue","Dagger tank","OS rogue","EP/GP"],
 			"gp:":"",
 			"wowID":""
 		},
@@ -163,7 +163,7 @@
 			"wowID":""
 		},
 		"Quick Strike Ring":{
-			"prio":["Chrixus(1)","Bonzai(1)","EP/GP"],
+			"prio":["Chrixus(1)","Bonzai(1)","LC","EP/GP"],
 			"gp:":"",
 			"wowID":""
 		},
@@ -267,7 +267,7 @@
 			"wowID":""
 		},
 		"Strikers Mark":{
-			"prio":["Supertoxic(1)","BenDriller(1)","Dardoc(1)","SilkyJohnsn(2)","EP/GP"],
+			"prio":["Supertoxic(1)","BenDriller(1)","Dardoc(1)","SilkyJohnsn(2)","LC","EP/GP"],
 			"gp:":"",
 			"wowID":""
 		},
@@ -364,6 +364,11 @@
 			"prio":["Wizzo(1)","EP/GP"],
 			"gp:":"",
 			"wowID":""
+		},
+		"Bindings of the Windseeker":{
+			"prio":["Dill(1)","Wizzo(1) or (3)","Redkiller (2)","Chart(1)","LEP/GP"],
+			"gp:":"",
+			"wowID":""
 		}
 	},
 	"Shazzrah":{
@@ -421,6 +426,11 @@
 		},
 		"Seal of the Archmagus":{
 			"prio":["EP/GP"],
+			"gp:":"",
+			"wowID":""
+		},
+		"Bindings of the Windseeker":{
+			"prio":["Wizzo(1) or (3)","Redkiller(2)","Chart(1)","LEP/GP"],
 			"gp:":"",
 			"wowID":""
 		}
@@ -663,17 +673,12 @@
 			"wowID":""
 		},
 		"Perditions Blade":{
-			"prio":["Dagger rogue","Dagger tank","off-spec rogue","EP/GP"],
+			"prio":["Ucuucu","LC","Dagger rogue","Dagger tank","off-spec rogue","EP/GP"],
 			"gp:":"",
 			"wowID":""
 		},
 		"Bonereavers Edge":{
 			"prio":["Soho(1)","EP/GP"],
-			"gp:":"",
-			"wowID":""
-			},
-		"Thunderfuy":{
-			"prio":["Dill (1)","Wizzo (1) or (3)","Redkiller (2)","LEP/GP"],
 			"gp:":"",
 			"wowID":""
 		}

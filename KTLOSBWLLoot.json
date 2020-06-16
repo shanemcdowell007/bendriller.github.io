@@ -78,7 +78,7 @@
 			"wowID":""
 		},
 		"Judgement Bindings":{
-			"prio":["Lianli (1)","PuffBuffCast (1)","EP/GP"],
+			"prio":["Lianli(1)","PuffBuffCast(1)","EP/GP"],
 			"gp":"",
 			"wowID":""
 		},
@@ -170,7 +170,7 @@
 			"wowID":""
 		},
 		"Helm of Endless Rage":{
-			"prio":["Gnomeisbis (1)","Tank Prio","PVP prio","EP/GP"],
+			"prio":["Tank Prio","PVP prio","EP/GP"],
 			"gp":"",
 			"wowID":""
 		},
@@ -185,14 +185,14 @@
 			"wowID":""
 		},
 		"Dragonfang Blade":{
-			"prio":["Mainspec Dagger Rogues prio","Dagger tank w/ ACLG","Offspec Rogues","EP/GP"],
+			"prio":["Ucuucu","Mainspec Dagger Rogues prio","Dagger tank w/ ACLG","Offspec Rogues","EP/GP"],
 			"gp":"",
 			"wowID":""
 		}
 	},
 	"Broodlord Lashlayer":{
 		"Boots of Transcendence":{
-			"prio":["Jowsus (1)","Claris (1)","WTBglad (3 piece)(2)","EP/GP"],
+			"prio":["Jowsus(1)","Claris(1)","WTBglad(2)","EP/GP"],
 			"gp":"",
 			"wowID":""
 		},
@@ -232,7 +232,7 @@
 			"wowID":""
 		},
 		"Lifegiving Gem":{
-			"prio":["Dardoc","Goosegawd","DillMcPickle","Bezebe (2)","EP/GP"],
+			"prio":["Dardoc(1)","DillMcPickle(1)","Bezebe(2)","LC","EP/GP"],
 			"gp":"",
 			"wowID":""
 		},
@@ -257,7 +257,7 @@
 			"wowID":""
 		},
 		"Maladath, Runed Blade of the Black Flight":{
-			"prio":["Beeny(2)","Soho(1)","Dillmcpickle(1)","Human Warr/Non-human Rogue","EP/GP"],
+			"prio":["Beeny(2)","Soho(1)","Dillmcpickle(1)","LC","Human Warr/Non-human Rogue","EP/GP"],
 			"gp":"",
 			"wowID":""
 		},
@@ -384,7 +384,7 @@
 			"wowID":""
 		},
 		"Drake Fang Talisman":{
-			"prio":["Stopbegging(2)","Killstep(2)","Shadowsfade(1)","Gnomeisbis(1)","Frau(2)","Rogue?(1)","Soho(1)","EP/GP"],
+			"prio":["Stopbegging(2)","Killstep(2)","Shadowsfade(1)","Frau(2)","Rogue?(1)","Soho(1)","LC","EP/GP"],
 			"gp":"",
 			"wowID":""
 		},
@@ -404,7 +404,7 @@
 			"wowID":""
 		},
 		"Band of Forced Concentration":{
-			"prio":["Kuku (1)","Mageup(2)","Austeezy(1)","Rasbeary(1)","Reahn(1)","Dasmi(2)","Gotosleep(1)","Warlock prio","EP/GP"],
+			"prio":["Kuku(1)","Mageup(2)","Austeezy(1)","Rasbeary(1)","Reahn(1)","Dasmi(2)","Gotosleep(1)","Warlock prio","EP/GP"],
 			"gp":"",
 			"wowID":""
 		},
@@ -434,7 +434,7 @@
 			"wowID":""
 		},
 		"Circle of Applied Force":{
-			"prio":["Soho(1)","Chrixus(1)","Bonzai(1)","Warrior prio","Feral","EP/GP"],
+			"prio":["Soho(1)","Chrixus(2)","Bonzai(1)","Warrior prio","Feral","EP/GP"],
 			"gp":"",
 			"wowID":""
 		}
@@ -521,7 +521,7 @@
 			"wowID":""
 		},
 		"Chromatic Boots":{
-			"prio":["Gnomeisbis(1)","Jsleazy(2)","Randingo(2)","DPS Then Tanks","EP/GP"],
+			"prio":["Dardoc(1)","Jsleazy(2)","Randingo(2)","DPS Then Tanks","EP/GP"],
 			"gp":"",
 			"wowID":""
 		},
@@ -531,7 +531,7 @@
 			"wowID":""
 		},
 		"Elementium Reinforced Bulwark":{
-			"prio":["Chrixus(1)","EP/GP"],
+			"prio":["Chrixus(2)","EP/GP"],
 			"gp":"",
 			"wowID":""
 		},
@@ -541,7 +541,7 @@
 			"wowID":""
 		},
 		"Chromatically Tempered Sword":{
-			"prio":["Chart(1)","Killstep(2)","EP/GP"],
+			"prio":["Chart(1)","Killstep(2)","LC","EP/GP"],
 			"gp":"",
 			"wowID":""
 		}
@@ -563,7 +563,7 @@
 			"wowID":""
 		},
 		"Bloodfang Chestpiece":{
-			"prio":["BenDriller","Stopbegging","SilkyJohnsn","EP/GP"],
+			"prio":["SilkyJohnsn","EP/GP"],
 			"gp":"",
 			"wowID":""
 		},
@@ -593,7 +593,7 @@
 			"wowID":""
 		},
 		"Lokamir il Romathis":{
-			"prio":["Iamfaith(2)","Silkybalboa(1)","Lianli(1)","EP/GP"],
+			"prio":["Iamfaith(2)","Silkybalboa(1)","Lianli(1)","LC","EP/GP"],
 			"gp":"",
 			"wowID":""
 		},
@@ -603,7 +603,7 @@
 			"wowID":""
 		},
 		"Ashkandi Greatsword of the Brotherhood":{
-			"prio":["Chrixus(1)","Oph(1)","PVP prio","Warriors, Hunter, Pally","EP/GP"],
+			"prio":["Chrixus(2)","Oph(1)","PVP prio","LC","Warriors, Hunter, Pally","EP/GP"],
 			"gp":"",
 			"wowID":""
 		},
