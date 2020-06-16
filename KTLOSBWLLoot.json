@@ -192,7 +192,7 @@
 	},
 	"Broodlord Lashlayer":{
 		"Boots of Transcendence":{
-			"prio":["Jowsus(1)","Claris(1)","WTBglad(2)","EP/GP"],
+			"prio":["Jowsus(1)","Claris(1)","EP/GP"],
 			"gp":"",
 			"wowID":""
 		},
@@ -603,7 +603,7 @@
 			"wowID":""
 		},
 		"Ashkandi Greatsword of the Brotherhood":{
-			"prio":["Chrixus(2)","Oph(1)","PVP prio","LC","Warriors, Hunter, Pally","EP/GP"],
+			"prio":["Chrixus(2)","Oph(1)","Wizzo(1)","PVP prio","LC","Warriors, Hunter, Pally","EP/GP"],
 			"gp":"",
 			"wowID":""
 		},

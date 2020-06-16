@@ -365,8 +365,8 @@
 			"gp:":"",
 			"wowID":""
 		},
-		"Bindings of the Windseeker":{
-			"prio":["Dill(1)","Wizzo(1) or (3)","Redkiller (2)","Chart(1)","LEP/GP"],
+		"Bindings of the Windseeker (Right)":{
+			"prio":["Dill(1)","Wizzo(1) or (3)","Redkiller (2)","Chart(1)","LC","LEP/GP"],
 			"gp:":"",
 			"wowID":""
 		}
@@ -429,8 +429,8 @@
 			"gp:":"",
 			"wowID":""
 		},
-		"Bindings of the Windseeker":{
-			"prio":["Wizzo(1) or (3)","Redkiller(2)","Chart(1)","LEP/GP"],
+		"Bindings of the Windseeker (Left)":{
+			"prio":["Wizzo(1) or (3)","Redkiller(2)","Chart(1)","LC","LEP/GP"],
 			"gp:":"",
 			"wowID":""
 		}
