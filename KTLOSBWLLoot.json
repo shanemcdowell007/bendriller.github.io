@@ -160,7 +160,7 @@
 			"wowID":""
 		},
 		"Mind Quickening Gem":{
-			"prio":["Meowingtons (1)","Siknasty (2)","Raehn (1)","EP/GP"],
+			"prio":["Meowingtons (1)","Siknasty (2)","EP/GP"],
 			"gp":"",
 			"wowID":""
 		},
@@ -232,7 +232,7 @@
 			"wowID":""
 		},
 		"Lifegiving Gem":{
-			"prio":["Dardoc(1)","DillMcPickle(1)","Bezebe(2)","LC","EP/GP"],
+			"prio":["DillMcPickle(1)","Bezebe(2)","LC","EP/GP"],
 			"gp":"",
 			"wowID":""
 		},
@@ -269,7 +269,7 @@
 	},
 	"Dragons (Firemaw, Ebonroc, Flamegor)":{
 		"Handguards of Transcendence":{
-			"prio":["Claris (1)","Thedarkdwarf (8 piece)(2)","Wildhealer(1)","Chuffy(2)","EP/GP"],
+			"prio":["Thedarkdwarf (8 piece)(2)","Wildhealer(1)","Chuffy(2)","EP/GP"],
 			"gp":"",
 			"wowID":""
 		},
@@ -314,7 +314,7 @@
 			"wowID":""
 		},
 		"Scrolls of Binding Light":{
-			"prio":["Lianli(1)","EP/GP"],
+			"prio":["EP/GP"],
 			"gp":"",
 			"wowID":""
 		},
@@ -389,7 +389,7 @@
 			"wowID":""
 		},
 		"Ebony Flame Gloves":{
-			"prio":["Gotosleep(1)","EP/GP"],
+			"prio":["EP/GP"],
 			"gp":"5",
 			"wowID":""
 		},
@@ -441,7 +441,7 @@
 	},
 	"Chromaggus":{
 		"Pauldrons of Transcendence":{
-			"prio":["Chuffy (2)","Thedoctorjaz (2)","EP/GP"],
+			"prio":["Chuffy (2)","EP/GP"],
 			"gp":"",
 			"wowID":""
 		},
