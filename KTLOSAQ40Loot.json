@@ -13,106 +13,106 @@
 		"Gloves of the Immortal":{
 			"prio":["EP/GP"],
 			"gp:":"",
-			"wowID":""
+			"wowID":"21888"
 		},
 		"Gloves of the Redeemed Prophecy":{
 			"prio":["EP/GP"],
 			"gp:":"",
-			"wowID":""
+			"wowID":"21889"
 		},
 		"Neretzek, The Blood Drinker":{
 			"prio":["EP/GP"],
 			"gp:":"",
-			"wowID":""
+			"wowID":"21856"
 		},
 		"Ritssyn's Ring of Chaos":{
 			"prio":["EP/GP"],
 			"gp:":"",
-			"wowID":""
+			"wowID":"21836"
 		},
 		"Shard of the Fallen Star":{
 			"prio":["EP/GP"],
 			"gp:":"",
-			"wowID":""
+			"wowID":"21891"
 		}
 	},
 	"Boss Shared":{
 		"Imperial Qiraji Armaments":{
 			"prio":["Supertoxic(1)","SilkyJohnsn(2)","Stopbegging(2)","Shadowsfade(1)","Gnomeisbis (?)","EP/GP"],
 			"gp:":"",
-			"wowID":""
+			"wowID":"21232"
 		},
 		"Imperial Qiraji Regalia":{
 			"prio":["Coxxy","Blacklisted","Kuku","Austeezy","EP/GP"],
 			"gp:":"",
-			"wowID":""
+			"wowID":"21237"
 		}
 	},
 	"The Prophet Skeram":{
 		"Boots of the Unwavering Will":{
 			"prio":["Tanks","EP/GP"],
 			"gp:":"",
-			"wowID":""
+			"wowID":"21706"
 		},
 		"Breastplate of Annihilation":{
 			"prio":["DPS Warrior","EP/GP"],
 			"gp:":"",
-			"wowID":""
+			"wowID":"21814"
 		},
 		"Cloak of Concentrated Hatred":{
 			"prio":["Supertoxic","Rogue","Warrior","EP/GP"],
 			"gp:":"",
-			"wowID":""
+			"wowID":"21701"
 		},
 		"Leggings of Immersion":{
 			"prio":["Rasbeary","EP/GP"],
 			"gp:":"",
-			"wowID":""
+			"wowID":"21698"
 		},
 		"Barrage Shoulders":{
 			"prio":["EP/GP"],
 			"gp:":"",
-			"wowID":""
+			"wowID":"21699"
 		},
 		"Pendant of the Qiraji Guardian":{
 			"prio":["Tanks","EP/GP"],
 			"gp:":"",
-			"wowID":""
+			"wowID":"21700"
 		},
 		"Ring of Swarming Thought":{
 			"prio":["EP/GP"],
 			"gp:":"",
-			"wowID":""
+			"wowID":"21707"
 		},
 		"Amulet of Foul Warding":{
 			"prio":["Melee Soakers","EP/GP"],
 			"gp:":"",
-			"wowID":""
+			"wowID":"21702"
 		},
 		"Boots of the Redeemed Prophecy":{
 			"prio":["EP/GP"],
 			"gp:":"",
-			"wowID":""
+			"wowID":"21704"
 		},
 		"Hammer of Ji'zhi":{
 			"prio":["EP/GP"],
 			"gp:":"",
-			"wowID":""
+			"wowID":"21703"
 		},
 		"Staff of the Qiraji Prophets":{
 			"prio":["EP/GP"],
 			"gp:":"",
-			"wowID":""
+			"wowID":"21128"
 		},
 		"Boots of the Fallen Prophet":{
 			"prio":["EP/GP"],
 			"gp:":"",
-			"wowID":""
+			"wowID":"21705"
 		},
 		"Beetle Scaled Wristguards":{
 			"prio":["Melee Soakers","EP/GP"],
 			"gp:":"",
-			"wowID":""
+			"wowID":"21708"
 		}
 	},
 	"Shared Bug Loot":{
