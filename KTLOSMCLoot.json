@@ -103,7 +103,7 @@
 			"wowID":""
 		},
 		"Salamander Scale Pants":{
-			"prio":["Ckock(1)","EP/GP"],
+			"prio":["EP/GP"],
 			"gp:":"",
 			"wowID":""
 		},
@@ -526,7 +526,7 @@
 			"wowID":""
 		},
 		"Wild Growth Spaulders":{
-			"prio":["Silkybalboa(1)","Rasbeary(1)","Ckock(1)","EP/GP"],
+			"prio":["Silkybalboa(1)","Rasbeary(1)","EP/GP"],
 			"gp:":"",
 			"wowID":""
 		},
