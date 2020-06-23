@@ -98,7 +98,7 @@
 			"wowID":""
 		},
 		"Mantle of the Blackwing Cabal":{
-			"prio":["KuKu(1)","Theprestige (1)","DPS Caster prio EPGP","EP/GP"],
+			"prio":["KuKu(1)","DPS Caster prio EPGP","EP/GP"],
 			"gp":"",
 			"wowID":""
 		},
@@ -135,7 +135,7 @@
 			"wowID":""
 		},
 		"Bloodfang Belt":{
-			"prio":["SilkyJohnsn","Supertoxic","BenDriller","EP/GP"],
+			"prio":["SilkyJohnsn(2)","BenDriller(1)","EP/GP"],
 			"gp":"",
 			"wowID":""
 		},
@@ -180,7 +180,7 @@
 			"wowID":""
 		},
 		"Red Dragonscale Protector":{
-			"prio":["Lianli(1)","EP/GP"],
+			"prio":["EP/GP"],
 			"gp":"",
 			"wowID":""
 		},
@@ -232,7 +232,7 @@
 			"wowID":""
 		},
 		"Lifegiving Gem":{
-			"prio":["DillMcPickle(1)","Bezebe(2)","LC","EP/GP"],
+			"prio":["Tank prio","EP/GP"],
 			"gp":"",
 			"wowID":""
 		},
@@ -247,7 +247,7 @@
 			"wowID":""
 		},
 		"Bracers of Arcane Accuracy":{
-			"prio":["Raehn(1)","Austeezy(1)","Mageup(2)","Dasmi(2)","Gotosleep(1)","EP/GP"],
+			"prio":["Austeezy(1)","Mageup(2)","Dasmi(2)","Gotosleep(1)","EP/GP"],
 			"gp":"",
 			"wowID":""
 		},
@@ -269,7 +269,7 @@
 	},
 	"Dragons (Firemaw, Ebonroc, Flamegor)":{
 		"Handguards of Transcendence":{
-			"prio":["Thedarkdwarf (8 piece)(2)","Wildhealer(1)","Chuffy(2)","EP/GP"],
+			"prio":["Wildhealer(1)","Chuffy(2)","EP/GP"],
 			"gp":"",
 			"wowID":""
 		},
@@ -319,7 +319,7 @@
 			"wowID":""
 		},
 		"Drake Talon Pauldrons":{
-			"prio":["Snydi(1)","Bonzai(1)","Jsleazy(2)","Beanchet(1)","Warrior Prio","EP/GP"],
+			"prio":["Bonzai(1)","Jsleazy(2)","Beanchet(1)","Warrior Prio","EP/GP"],
 			"gp":"",
 			"wowID":""
 		},
@@ -374,7 +374,7 @@
 			"wowID":""
 		},
 		"Rejuvenating Gem":{
-			"prio":["Jowsus(1)","Claris(1)","Silkybalboa(1)","EP/GP"],
+			"prio":["Jowsus(1)","Silkybalboa(1)","EP/GP"],
 			"gp":"",
 			"wowID":""
 		},
@@ -434,7 +434,7 @@
 			"wowID":""
 		},
 		"Circle of Applied Force":{
-			"prio":["Soho(1)","Chrixus(2)","Bonzai(1)","Warrior prio","Feral","EP/GP"],
+			"prio":["Chrixus(2)","Bonzai(1)","Warrior prio","Feral","EP/GP"],
 			"gp":"",
 			"wowID":""
 		}
@@ -521,12 +521,12 @@
 			"wowID":""
 		},
 		"Chromatic Boots":{
-			"prio":["Dardoc(1)","Jsleazy(2)","Randingo(2)","DPS Then Tanks","EP/GP"],
+			"prio":["Dardoc(1)","Randingo(2)","DPS Then Tanks","EP/GP"],
 			"gp":"",
 			"wowID":""
 		},
 		"Ashjrethul Crossbow of Smiting":{
-			"prio":["Grayfox","EP/GP"],
+			"prio":["EP/GP"],
 			"gp":"",
 			"wowID":""
 		},
@@ -603,7 +603,7 @@
 			"wowID":""
 		},
 		"Ashkandi Greatsword of the Brotherhood":{
-			"prio":["Chrixus(2)","Oph(1)","Wizzo(1)","PVP prio","LC","Warriors, Hunter, Pally","EP/GP"],
+			"prio":["Thrane(2)","Wizzo(1)","PVP prio","LC","Warriors, Hunter, Pally","EP/GP"],
 			"gp":"",
 			"wowID":""
 		},
@@ -648,7 +648,7 @@
 			"wowID":""
 		},
 		"Neltharions Tear":{
-			"prio":["Siknasty(2)","Meowingtons(1)","Gotosleep(1)","Raehn(1)","Rasbeary(1)","Theprestige(1)","EP/GP"],
+			"prio":["Killmcpickle(2)","Siknasty(2)","Gotosleep(1)","Meowingtons(1)","Raehn(1)","Rasbeary(1)","Theprestige(1)","EP/GP"],
 			"gp":"10",
 			"wowID":""
 		}
