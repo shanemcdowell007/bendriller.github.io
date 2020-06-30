@@ -41,7 +41,7 @@
 			"wowID":"19354"
 		},
 		"Draconic Maul":{
-			"prio":["Melee","EP/GP"],
+			"prio":["Notpq","Melee","EP/GP"],
 			"gp":"",
 			"wowID":"19358"
 		}
@@ -334,7 +334,7 @@
 			"wowID":"19400"
 		},
 		"Taut Dragonhide Belt":{
-			"prio":["EP/GP"],
+			"prio":["Notpq","EP/GP"],
 			"gp":"",
 			"wowID":"19396"
 		},
@@ -389,7 +389,7 @@
 			"wowID":"19407"
 		},
 		"Malfurions Blessed Bulwark":{
-			"prio":["Feral druids","EP/GP"],
+			"prio":["Notpq","Feral druids","EP/GP"],
 			"gp":"",
 			"wowID":"19405"
 		},
@@ -481,7 +481,7 @@
 			"wowID":"19389"
 		},
 		"Elementium Threaded Cloak":{
-			"prio":["EP/GP"],
+			"prio":["Notpq","EP/GP"],
 			"gp":"",
 			"wowID":"19386"
 		},
@@ -628,12 +628,12 @@
 			"wowID":"19380"
 		},
 		"Boots of the Shadow Flame":{
-			"prio":["Momyspankme","EP/GP"],
+			"prio":["Notpq","Momyspankme","EP/GP"],
 			"gp":"",
 			"wowID":"19381"
 		},
 		"Archimtiros Ring of Reckoning":{
-			"prio":["Tank Prio","PvP Rank prio among Physical DPS","EP/GP"],
+			"prio":["Notpq","Tank Prio","PvP Rank prio among Physical DPS","EP/GP"],
 			"gp":"5",
 			"wowID":"19376"
 		},
