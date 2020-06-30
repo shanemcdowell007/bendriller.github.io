@@ -41,7 +41,7 @@
 			"wowID":"19354"
 		},
 		"Draconic Maul":{
-			"prio":["Notpq","Melee","EP/GP"],
+			"prio":["Notpq(1)","Melee","EP/GP"],
 			"gp":"",
 			"wowID":"19358"
 		}
@@ -334,7 +334,7 @@
 			"wowID":"19400"
 		},
 		"Taut Dragonhide Belt":{
-			"prio":["Notpq","EP/GP"],
+			"prio":["Notpq(1)","EP/GP"],
 			"gp":"",
 			"wowID":"19396"
 		},
@@ -379,7 +379,7 @@
 			"wowID":"19345"
 		},
 		"Drake Fang Talisman":{
-			"prio":["Stopbegging(2)","Killstep(2)","Shadowsfade(1)","Frau(2)","Rogue?(1)","Soho(1)","LC","EP/GP"],
+			"prio":["Stopbegging(2)","Killstep(2)","Frau(2)","Rogue?(1)","Soho(1)","LC","EP/GP"],
 			"gp":"",
 			"wowID":"19406"
 		},
@@ -389,7 +389,7 @@
 			"wowID":"19407"
 		},
 		"Malfurions Blessed Bulwark":{
-			"prio":["Notpq","Feral druids","EP/GP"],
+			"prio":["Notpq(1)","Feral druids","EP/GP"],
 			"gp":"",
 			"wowID":"19405"
 		},
@@ -481,7 +481,7 @@
 			"wowID":"19389"
 		},
 		"Elementium Threaded Cloak":{
-			"prio":["Notpq","EP/GP"],
+			"prio":["Notpq(1)","EP/GP"],
 			"gp":"",
 			"wowID":"19386"
 		},
@@ -536,7 +536,7 @@
 			"wowID":"19347"
 		},
 		"Chromatically Tempered Sword":{
-			"prio":["Chart(1)","Killstep(2)","LC","EP/GP"],
+			"prio":["Chart(1)","LC","EP/GP"],
 			"gp":"",
 			"wowID":"19352"
 		}
@@ -628,12 +628,12 @@
 			"wowID":"19380"
 		},
 		"Boots of the Shadow Flame":{
-			"prio":["Notpq","Momyspankme","EP/GP"],
+			"prio":["Notpq(1)","Momyspankme","EP/GP"],
 			"gp":"",
 			"wowID":"19381"
 		},
 		"Archimtiros Ring of Reckoning":{
-			"prio":["Notpq","Tank Prio","PvP Rank prio among Physical DPS","EP/GP"],
+			"prio":["Notpq(1)","Tank Prio","PvP Rank prio among Physical DPS","EP/GP"],
 			"gp":"5",
 			"wowID":"19376"
 		},
