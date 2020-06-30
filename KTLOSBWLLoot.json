@@ -384,7 +384,7 @@
 			"wowID":""
 		},
 		"Drake Fang Talisman":{
-			"prio":["Stopbegging(2)","Killstep(2)","Shadowsfade(1)","Frau(2)","Rogue?(1)","Soho(1)","LC","EP/GP"],
+			"prio":["Stopbegging(2)","Killstep(2)","Frau(2)","Rogue?(1)","Soho(1)","LC","EP/GP"],
 			"gp":"",
 			"wowID":""
 		},
@@ -541,7 +541,7 @@
 			"wowID":""
 		},
 		"Chromatically Tempered Sword":{
-			"prio":["Chart(1)","Killstep(2)","LC","EP/GP"],
+			"prio":["Chart(1)","LC","EP/GP"],
 			"gp":"",
 			"wowID":""
 		}
