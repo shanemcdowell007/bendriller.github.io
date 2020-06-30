@@ -46,76 +46,76 @@
 			"wowID":"19358"
 		}
 	},
-	"Razoregore the Untamed":{
+	"Razorgore the Untamed":{
 		"Bindings of Transcendence":{
 			"prio":["Jowsus (1)","EP/GP"],
 			"gp":"",
-			"wowID":""
+			"wowID":"16926"
 		},
 		"Netherwind Bindings":{
 			"prio":["EP/GP"],
 			"gp":"",
-			"wowID":""
+			"wowID":"16918"
 		},
 		"Nemesis Bracers":{
 			"prio":["EP/GP"],
 			"gp":"",
-			"wowID":""
+			"wowID":"16934"
 		},
 		"Stormrage Bracers":{
 			"prio":["EP/GP"],
 			"gp":"",
-			"wowID":""
+			"wowID":"16904"
 		},
 		"Bloodfang Bracers":{
 			"prio":["EP/GP"],
 			"gp":"",
-			"wowID":""
+			"wowID":"16911"
 		},
 		"Dragonstalkers Bracers":{
 			"prio":["Grayfox","EP/GP"],
 			"gp":"",
-			"wowID":""
+			"wowID":"16935"
 		},
 		"Judgement Bindings":{
 			"prio":["Lianli(1)","PuffBuffCast(1)","EP/GP"],
 			"gp":"",
-			"wowID":""
+			"wowID":"16951"
 		},
 		"Bracelets of Wrath":{
 			"prio":["Tanks","EP/GP"],
 			"gp":"",
-			"wowID":""
+			"wowID":"16959"
 		},
 		"Arcane Infused Gem":{
 			"prio":["EP/GP"],
 			"gp":"",
-			"wowID":""
+			"wowID":"19336"
 		},
 		"The Black Book":{
 			"prio":["EP/GP"],
 			"gp":"",
-			"wowID":""
+			"wowID":"19337"
 		},
 		"Mantle of the Blackwing Cabal":{
 			"prio":["KuKu(1)","DPS Caster prio EPGP","EP/GP"],
 			"gp":"",
-			"wowID":""
+			"wowID":"19370"
 		},
 		"Gloves of Rapid Evolution":{
 			"prio":["EP/GP"],
 			"gp":"",
-			"wowID":""
+			"wowID":"19369"
 		},
 		"Spineshatter":{
 			"prio":["EP/GP"],
 			"gp":"",
-			"wowID":""
+			"wowID":"19335"
 		},
 		"The Untamed Blade":{
 			"prio":["PvP","EP/GP"],
 			"gp":"",
-			"wowID":""
+			"wowID":"19334"
 		}
 	},
 	"Vaelastrasz The Corrupt":{
