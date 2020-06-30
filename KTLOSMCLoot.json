@@ -103,7 +103,7 @@
 			"wowID":""
 		},
 		"Salamander Scale Pants":{
-			"prio":["Ckock(1)","EP/GP"],
+			"prio":["EP/GP"],
 			"gp:":"",
 			"wowID":""
 		},
@@ -526,7 +526,7 @@
 			"wowID":""
 		},
 		"Wild Growth Spaulders":{
-			"prio":["Silkybalboa(1)","Rasbeary(1)","Ckock(1)","EP/GP"],
+			"prio":["Silkybalboa(1)","Rasbeary(1)","EP/GP"],
 			"gp:":"",
 			"wowID":""
 		},
@@ -551,7 +551,7 @@
 			"wowID":""
 		},
 		"Cauterizing Band":{
-			"prio":["Silkybalboa(1)","Terpgodd(1)","Mh(1)","Rasbeary(1)","EP/GP"],
+			"prio":["Silkybalboa(1)","Thedoctorjaz(2)","Terpgodd(1)","Thedarkdwarf(2)","Mh(1)","Rasbeary(1)","Thrane(2)","Iamfaith(2)","EP/GP"],
 			"gp:":"",
 			"wowID":""
 		},
@@ -678,7 +678,7 @@
 			"wowID":""
 		},
 		"Bonereavers Edge":{
-			"prio":["Soho(1)","EP/GP"],
+			"prio":["Soho(1)","LC","EP/GP"],
 			"gp:":"",
 			"wowID":""
 		}
