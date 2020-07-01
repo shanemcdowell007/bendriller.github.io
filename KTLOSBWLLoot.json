@@ -41,7 +41,7 @@
 			"wowID":"19354"
 		},
 		"Draconic Maul":{
-			"prio":["Notpq(1)","Melee","EP/GP"],
+			"prio":["Melee","EP/GP"],
 			"gp":"",
 			"wowID":"19358"
 		}
