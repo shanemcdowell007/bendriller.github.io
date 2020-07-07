@@ -516,7 +516,7 @@
 			"wowID":"19391"
 		},
 		"Chromatic Boots":{
-			"prio":["Dardoc(1)","Randingo(2)","DPS Then Tanks","EP/GP"],
+			"prio":["Dardoc(1)","DPS Then Tanks","EP/GP"],
 			"gp":"",
 			"wowID":"19387"
 		},
@@ -613,7 +613,7 @@
 			"wowID":"19375"
 		},
 		"Prestors Talisman of Connivery":{
-			"prio":["Stopbegging","Huckfinn","EP/GP"],
+			"prio":["Stopbegging","","EP/GP"],
 			"gp":"",
 			"wowID":"19377"
 		},
