@@ -1,7 +1,7 @@
 {
 	"Trash":{
 		"Cloak of Draconic Might":{
-			"prio":["Dardoc(1)","Beanchet(1)","Bonzai(1)","Vajeen(1)","EP/GP"],
+			"prio":["Dardoc(1)","Vajeen(1)","Beanchet(1)","Bonzai(1)","EP/GP"],
 			"gp":"",
 			"wowID":"19436"
 		},
@@ -516,7 +516,7 @@
 			"wowID":"19391"
 		},
 		"Chromatic Boots":{
-			"prio":["Dardoc(1)","DPS Then Tanks","EP/GP"],
+			"prio":["Dardoc(1)","Vajeen(1)","Impactt(1)","DPS Then Tanks","EP/GP"],
 			"gp":"",
 			"wowID":"19387"
 		},
