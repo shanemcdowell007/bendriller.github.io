@@ -633,12 +633,12 @@
 			"wowID":"19381"
 		},
 		"Archimtiros Ring of Reckoning":{
-			"prio":["Notpq(1)","Tank Prio","PvP Rank prio among Physical DPS","EP/GP"],
+			"prio":["Tank Prio","PvP Rank prio among Physical DPS","EP/GP"],
 			"gp":"5",
 			"wowID":"19376"
 		},
 		"Pure Elementium Band":{
-			"prio":["Terpgodd(1)","(Rasbeary(1)","EP/GP"],
+			"prio":["(Rasbeary(1)","EP/GP"],
 			"gp":"",
 			"wowID":"19382"
 		},
