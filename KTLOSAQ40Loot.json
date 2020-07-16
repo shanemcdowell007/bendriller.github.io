@@ -422,6 +422,11 @@
 			"gp:":"",
 			"wowID":"21598"
 		},
+		"Amulet of Veknilash":{
+			"prio":["Mages/Warlocks","EP/GP"],
+			"gp:":"8",
+			"wowID":"21608"
+		},
 		"Boots of Epiphany":{
 			"prio":["EP/GP"],
 			"gp:":"",
