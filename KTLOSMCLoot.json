@@ -551,7 +551,7 @@
 			"wowID":""
 		},
 		"Cauterizing Band":{
-			"prio":["Silkybalboa(1)","Thedoctorjaz(2)","Terpgodd(1)","Thedarkdwarf(2)","Mh(1)","Rasbeary(1)","Thrane(2)","Iamfaith(2)","EP/GP"],
+			"prio":["Silkybalboa(1)","Terpgodd(1)","Thedarkdwarf(2)","Mh(1)","Rasbeary(1)","Thrane(2)","Iamfaith(2)","Thedoctorjaz(1)","EP/GP"],
 			"gp:":"",
 			"wowID":""
 		},
@@ -578,7 +578,7 @@
 	},
 	"Ragnaros":{
 		"Leggings of Transcendence":{
-			"prio":["Thedarkdwarf","EP/GP"],
+			"prio":["EP/GP"],
 			"gp:":"",
 			"wowID":""
 			},
