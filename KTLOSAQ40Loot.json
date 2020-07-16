@@ -119,269 +119,269 @@
 		"Angelista's Touch":{
 			"prio":["EP/GP"],
 			"gp:":"",
-			"wowID":""
+			"wowID":"21695"
 		},
 		"Triad Girdle":{
 			"prio":["Tanks","PvP","EP/GP"],
 			"gp:":"",
-			"wowID":""
+			"wowID":"21692"
 		},
 		"Guise of the Devourer":{
 			"prio":["Feral druid","EP/GP"],
 			"gp:":"",
-			"wowID":""
+			"wowID":"21693"
 		},
 		"Ternary Mantle":{
 			"prio":["EP/GP"],
 			"gp:":"",
-			"wowID":""
+			"wowID":"21694"
 		},
 		"Cape of Trinity":{
 			"prio":["EP/GP"],
 			"gp:":"",
-			"wowID":""
+			"wowID":"21697"
 		}
 	},
 	"Lord Kri":{
 		"Petrified Scarab":{
 			"prio":["EP/GP"],
 			"gp:":"",
-			"wowID":""
+			"wowID":"21685"
 		},
 		"Wand of Qiraji Nobility":{
 			"prio":["EP/GP"],
 			"gp:":"",
-			"wowID":""
+			"wowID":"21603"
 		},
 		"Ring of the Devoured":{
 			"prio":["EP/GP"],
 			"gp:":"",
-			"wowID":""
+			"wowID":"21681"
 		},
 		"Vest of Swift Execution":{
 			"prio":["Feral cat","EP/GP"],
 			"gp:":"",
-			"wowID":""
+			"wowID":"21680"
 		}
 	},
 	"Princess Yauj":{
 		"Bile-Covered Gauntlets":{
 			"prio":["EP/GP"],
 			"gp:":"",
-			"wowID":""
+			"wowID":"21682"
 		},
 		"Mantle of the Desert Crusade":{
 			"prio":["EP/GP"],
 			"gp:":"",
-			"wowID":""
+			"wowID":"21683"
 		},
 		"Mantle of the Desert's Fury":{
 			"prio":["EP/GP"],
 			"gp:":"",
-			"wowID":""
+			"wowID":"21684"
 		},
 		"Mantle of Phrenic Power":{
 			"prio":["EP/GP"],
 			"gp:":"",
-			"wowID":""
+			"wowID":"21686"
 		},
 		"Ukko's Ring of Darkness":{
 			"prio":["EP/GP"],
 			"gp:":"",
-			"wowID":""
+			"wowID":"21687"
 		}
 	},
 	"Vem":{
 		"Angelista's Charm":{
 			"prio":["EP/GP"],
 			"gp:":"",
-			"wowID":""
+			"wowID":"21690"
 		},
 		"Boots of the Fallen Hero":{
 			"prio":["Tanks","EP/GP"],
 			"gp:":"",
-			"wowID":""
+			"wowID":"21688"
 		},
 		"Gloves of Ebru":{
 			"prio":["Rasbeary","EP/GP"],
 			"gp:":"",
-			"wowID":""
+			"wowID":"21689"
 		},
 		"Ooze-ridden Gauntlets":{
 			"prio":["Melee soakers","EP/GP"],
 			"gp:":"",
-			"wowID":""
+			"wowID":"21691"
 		}
 	},
 	"Battleguard Sartura":{
 		"Badge of the Swarmguard":{
 			"prio":["Hunters","mdps","EP/GP"],
 			"gp:":"",
-			"wowID":""
+			"wowID":"21670"
 		},
 		"Creeping Vine Helm":{
 			"prio":["EP/GP"],
 			"gp:":"",
-			"wowID":""
+			"wowID":"21669"
 		},
 		"Gauntlets of Steadfast Determination":{
 			"prio":["Tanks","EP/GP"],
 			"gp:":"",
-			"wowID":""
+			"wowID":"21674"
 		},
 		"Gloves of enforcement":{
 			"prio":["Killstep(2)","Chart(1)","Sinister strike rogues","DS rogues","Ferals","nonDS dagger rogues","EP/GP"],
 			"gp:":"",
-			"wowID":""
+			"wowID":"21672"
 		},
 		"Leggings of the Festering Swarm":{
 			"prio":["EP/GP"],
 			"gp:":"",
-			"wowID":""
+			"wowID":"21676"
 		},
 		"Legplates of Blazing Light":{
 			"prio":["Pally Healers","Lianli","TZB","Thrane","Blunts","Karuna","EP/GP"],
 			"gp:":"",
-			"wowID":""
+			"wowID":"21667"
 		},
 		"Necklace of Purity":{
 			"prio":["EP/GP"],
 			"gp:":"",
-			"wowID":""
+			"wowID":"21678"
 		},
 		"Recomposed Boots":{
 			"prio":["EP/GP"],
 			"gp:":"",
-			"wowID":""
+			"wowID":"21648"
 		},
 		"Robes of the Battleguard":{
 			"prio":["EP/GP"],
 			"gp:":"",
-			"wowID":""
+			"wowID":"21671"
 		},
 		"Sartura's Might":{
 			"prio":["Healers","Wildhealer","Blunts","Faith","Darkdwarf","EP/GP"],
 			"gp:":"",
-			"wowID":""
+			"wowID":"21666"
 		},
 		"Scaled Leggings of Qiraji Fury":{
 			"prio":["EP/GP"],
 			"gp:":"",
-			"wowID":""
+			"wowID":"21668"
 		},
 		"Silithid Claw":{
 			"prio":["Hunters","EP/GP"],
 			"gp:":"",
-			"wowID":""
+			"wowID":"21673"
 		},
 		"Thick Qirajihide Belt":{
 			"prio":["EP/GP"],
 			"gp:":"",
-			"wowID":""
+			"wowID":"21675"
 		}
 	},
 	"Fankriss the Unyielding":{
 		"Ancient Qiraji Ripper":{
 			"prio":["rogues w/o cts","warriors w/o cts","EP/GP"],
 			"gp:":"",
-			"wowID":""
+			"wowID":"21650"
 		},
 		"Barb of the Sand Reaver":{
 			"prio":["Hunters","EP/GP"],
 			"gp:":"",
-			"wowID":""
+			"wowID":"21635"
 		},
 		"Barbed Choker":{
 			"prio":["Warriors","PvP","EP/GP"],
 			"gp:":"",
-			"wowID":""
+			"wowID":"21664"
 		},
 		"Cloak of Untold Secrets":{
 			"prio":["EP/GP"],
 			"gp:":"",
-			"wowID":""
+			"wowID":"21627"
 		},
 		"Fetish of the Sand Reaver":{
 			"prio":["BenDriller","EP/GP"],
 			"gp:":"",
-			"wowID":""
+			"wowID":"21647"
 		},
 		"Hive Tunneler's Boots":{
 			"prio":["EP/GP"],
 			"gp:":"",
-			"wowID":""
+			"wowID":"21645"
 		},
 		"Mantle of Wicked Revenge":{
 			"prio":["Feral","Fury who will pass on t2.5","Rogues","EP/GP"],
 			"gp:":"",
-			"wowID":""
+			"wowID":"21665"
 		},
 		"Pauldrons of the Unrelenting":{
 			"prio":["Tanks","EP/GP"],
 			"gp:":"",
-			"wowID":""
+			"wowID":"21639"
 		},
 		"Robes of the Guardian Saint":{
 			"prio":["Healers","Jowsus","Wildhealer","Terpgodd","EP/GP"],
 			"gp:":"",
-			"wowID":""
+			"wowID":"21663"
 		},
 		"Scaled Sand Reaver Leggings":{
 			"prio":["EP/GP"],
 			"gp:":"",
-			"wowID":""
+			"wowID":"21651"
 		},
 		"Silithis Carapace Chestguard":{
 			"prio":["Warriors","EP/GP"],
 			"gp:":"",
-			"wowID":""
+			"wowID":"21652"
 		},
 		"Libram of Grace":{
 			"prio":["Pally Healers","TZB","Blunts","Karuna","Lianli","Thrane","EP/GP"],
 			"gp:":"",
-			"wowID":""
+			"wowID":"22402"
 		}
 	},
 	"Viscidus":{
 		"Gauntlets of Kalimdor":{
 			"prio":["EP/GP"],
 			"gp:":"",
-			"wowID":""
+			"wowID":"21624"
 		},
 		"Slime-coated Leggings":{
 			"prio":["EP/GP"],
 			"gp:":"",
-			"wowID":""
+			"wowID":"21626"
 		},
 		"Sharpened Silithid Femur":{
 			"prio":["ThePrestige","Coxxy","Blacklisted","Meowingtons","Kuku","Austeezy","Raehn","EP/GP"],
 			"gp:":"",
-			"wowID":""
+			"wowID":"21622"
 		},
 		"Ring of the Qiriaji Fury":{
 			"prio":["Warrior","Hunter","EP/GP"],
 			"gp:":"",
-			"wowID":""
+			"wowID":"21677"
 		},
 		"Scarab Brooch":{
 			"prio":["EP/GP"],
 			"gp:":"",
-			"wowID":""
+			"wowID":"21625"
 		},
 		"Idol of Health":{
 			"prio":["Druid healers","Silkybalboa","Peku","Terpgodd","Faith","Druid Healer","EP/GP"],
 			"gp:":"",
-			"wowID":""
+			"wowID":"22399"
 		},
 		"Qiraji Bindings of Command":{
 			"prio":["Warrior","Rogue","Hunter","Priest","DPS Warriors","Frau","EP/GP"],
 			"gp:":"",
-			"wowID":""
+			"wowID":"20928"
 		},
 		"Qiraji Bindings of Dominance":{
 			"prio":["Paladin","Shaman","Mage","Warlock","Druid","Kuku","Austeezy","Blacklisted","Coxxy","EP/GP"],
 			"gp:":"",
-			"wowID":""
+			"wowID":"20932"
 		}
 	},
 	"Princess Huhuran":{
