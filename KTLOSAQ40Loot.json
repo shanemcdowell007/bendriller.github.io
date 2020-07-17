@@ -2,618 +2,618 @@
 	"Trash":{
 		"Anubisath Warhammer":{
 			"prio":["Human Warriors","EP/GP"],
-			"gp:":"7",
+			"gp":"7",
 			"wowID":"21837"
 		},
 		"Garb of Royal Ascension":{
 			"prio":["Vek'lor tanks","EP/GP"],
-			"gp:":"1",
+			"gp":"1",
 			"wowID":"21838"
 		},
 		"Gloves of the Immortal":{
 			"prio":["EP/GP"],
-			"gp:":"1",
+			"gp":"1",
 			"wowID":"21888"
 		},
 		"Gloves of the Redeemed Prophecy":{
 			"prio":["EP/GP"],
-			"gp:":"3",
+			"gp":"3",
 			"wowID":"21889"
 		},
 		"Neretzek, The Blood Drinker":{
 			"prio":["EP/GP"],
-			"gp:":"2",
+			"gp":"2",
 			"wowID":"21856"
 		},
 		"Ritssyn's Ring of Chaos":{
 			"prio":["EP/GP"],
-			"gp:":"5",
+			"gp":"5",
 			"wowID":"21836"
 		},
 		"Shard of the Fallen Star":{
 			"prio":["EP/GP"],
-			"gp:":"1",
+			"gp":"1",
 			"wowID":"21891"
 		}
 	},
 	"Boss Shared":{
 		"Imperial Qiraji Armaments":{
 			"prio":["Supertoxic(1)","SilkyJohnsn(2)","Stopbegging(2)","Shadowsfade(1)","Gnomeisbis (?)","EP/GP"],
-			"gp:":"10 (Pugio/Waraxe), 5 (otherwise)",
+			"gp":"10 (Pugio/Waraxe), 5 (otherwise)",
 			"wowID":"21232"
 		},
 		"Imperial Qiraji Regalia":{
 			"prio":["Coxxy","Blacklisted","Kuku","Austeezy","EP/GP"],
-			"gp:":"6",
+			"gp":"6",
 			"wowID":"21237"
 		}
 	},
 	"The Prophet Skeram":{
 		"Boots of the Unwavering Will":{
 			"prio":["Tanks","EP/GP"],
-			"gp:":"3",
+			"gp":"3",
 			"wowID":"21706"
 		},
 		"Breastplate of Annihilation":{
 			"prio":["DPS Warrior","EP/GP"],
-			"gp:":"8",
+			"gp":"8",
 			"wowID":"21814"
 		},
 		"Cloak of Concentrated Hatred":{
 			"prio":["Supertoxic","Rogue","Warrior","EP/GP"],
-			"gp:":"7",
+			"gp":"7",
 			"wowID":"21701"
 		},
 		"Leggings of Immersion":{
 			"prio":["Rasbeary","EP/GP"],
-			"gp:":"4",
+			"gp":"4",
 			"wowID":"21698"
 		},
 		"Barrage Shoulders":{
 			"prio":["EP/GP"],
-			"gp:":"2",
+			"gp":"2",
 			"wowID":"21699"
 		},
 		"Pendant of the Qiraji Guardian":{
 			"prio":["Tanks","EP/GP"],
-			"gp:":"3",
+			"gp":"3",
 			"wowID":"21700"
 		},
 		"Ring of Swarming Thought":{
 			"prio":["EP/GP"],
-			"gp:":"1",
+			"gp":"1",
 			"wowID":"21707"
 		},
 		"Amulet of Foul Warding":{
 			"prio":["Melee Soakers","EP/GP"],
-			"gp:":"1",
+			"gp":"1",
 			"wowID":"21702"
 		},
 		"Boots of the Redeemed Prophecy":{
 			"prio":["EP/GP"],
-			"gp:":"3",
+			"gp":"3",
 			"wowID":"21704"
 		},
 		"Hammer of Ji'zhi":{
 			"prio":["EP/GP"],
-			"gp:":"1",
+			"gp":"1",
 			"wowID":"21703"
 		},
 		"Staff of the Qiraji Prophets":{
 			"prio":["EP/GP"],
-			"gp:":"3",
+			"gp":"3",
 			"wowID":"21128"
 		},
 		"Boots of the Fallen Prophet":{
 			"prio":["EP/GP"],
-			"gp:":"1",
+			"gp":"1",
 			"wowID":"21705"
 		},
 		"Beetle Scaled Wristguards":{
 			"prio":["Melee Soakers","EP/GP"],
-			"gp:":"1",
+			"gp":"1",
 			"wowID":"21708"
 		}
 	},
 	"Shared Bug Loot":{
 		"Angelista's Touch":{
 			"prio":["EP/GP"],
-			"gp:":"3",
+			"gp":"3",
 			"wowID":"21695"
 		},
 		"Triad Girdle":{
 			"prio":["Tanks","PvP","EP/GP"],
-			"gp:":"3",
+			"gp":"3",
 			"wowID":"21692"
 		},
 		"Guise of the Devourer":{
 			"prio":["Feral druid","EP/GP"],
-			"gp:":"5",
+			"gp":"5",
 			"wowID":"21693"
 		},
 		"Ternary Mantle":{
 			"prio":["EP/GP"],
-			"gp:":"4",
+			"gp":"4",
 			"wowID":"21694"
 		},
 		"Cape of Trinity":{
 			"prio":["EP/GP"],
-			"gp:":"1",
+			"gp":"1",
 			"wowID":"21697"
 		}
 	},
 	"Lord Kri":{
 		"Petrified Scarab":{
 			"prio":["EP/GP"],
-			"gp:":"1",
+			"gp":"1",
 			"wowID":"21685"
 		},
 		"Wand of Qiraji Nobility":{
 			"prio":["EP/GP"],
-			"gp:":"5",
+			"gp":"5",
 			"wowID":"21603"
 		},
 		"Ring of the Devoured":{
 			"prio":["EP/GP"],
-			"gp:":"3",
+			"gp":"3",
 			"wowID":"21681"
 		},
 		"Vest of Swift Execution":{
 			"prio":["Feral cat","EP/GP"],
-			"gp:":"5",
+			"gp":"5",
 			"wowID":"21680"
 		}
 	},
 	"Princess Yauj":{
 		"Bile-Covered Gauntlets":{
 			"prio":["EP/GP"],
-			"gp:":"1",
+			"gp":"1",
 			"wowID":"21682"
 		},
 		"Mantle of the Desert Crusade":{
 			"prio":["EP/GP"],
-			"gp:":"4",
+			"gp":"4",
 			"wowID":"21683"
 		},
 		"Mantle of the Desert's Fury":{
 			"prio":["EP/GP"],
-			"gp:":"1",
+			"gp":"1",
 			"wowID":"21684"
 		},
 		"Mantle of Phrenic Power":{
 			"prio":["EP/GP"],
-			"gp:":"3",
+			"gp":"3",
 			"wowID":"21686"
 		},
 		"Ukko's Ring of Darkness":{
 			"prio":["EP/GP"],
-			"gp:":"1",
+			"gp":"1",
 			"wowID":"21687"
 		}
 	},
 	"Vem":{
 		"Angelista's Charm":{
 			"prio":["EP/GP"],
-			"gp:":"3",
+			"gp":"3",
 			"wowID":"21690"
 		},
 		"Boots of the Fallen Hero":{
 			"prio":["Tanks","EP/GP"],
-			"gp:":"6",
+			"gp":"6",
 			"wowID":"21688"
 		},
 		"Gloves of Ebru":{
 			"prio":["Rasbeary","EP/GP"],
-			"gp:":"3",
+			"gp":"3",
 			"wowID":"21689"
 		},
 		"Ooze-ridden Gauntlets":{
 			"prio":["Melee soakers","EP/GP"],
-			"gp:":"1",
+			"gp":"1",
 			"wowID":"21691"
 		}
 	},
 	"Battleguard Sartura":{
 		"Badge of the Swarmguard":{
 			"prio":["Hunters","mdps","EP/GP"],
-			"gp:":"5",
+			"gp":"5",
 			"wowID":"21670"
 		},
 		"Creeping Vine Helm":{
 			"prio":["EP/GP"],
-			"gp:":"3",
+			"gp":"3",
 			"wowID":"21669"
 		},
 		"Gauntlets of Steadfast Determination":{
 			"prio":["Tanks","EP/GP"],
-			"gp:":"6",
+			"gp":"6",
 			"wowID":"21674"
 		},
 		"Gloves of enforcement":{
 			"prio":["Killstep(2)","Chart(1)","Sinister strike rogues","DS rogues","Ferals","nonDS dagger rogues","EP/GP"],
-			"gp:":"8",
+			"gp":"8",
 			"wowID":"21672"
 		},
 		"Leggings of the Festering Swarm":{
 			"prio":["EP/GP"],
-			"gp:":"3",
+			"gp":"3",
 			"wowID":"21676"
 		},
 		"Legplates of Blazing Light":{
 			"prio":["Pally Healers","Lianli","TZB","Thrane","Blunts","Karuna","EP/GP"],
-			"gp:":"7",
+			"gp":"7",
 			"wowID":"21667"
 		},
 		"Necklace of Purity":{
 			"prio":["EP/GP"],
-			"gp:":"1",
+			"gp":"1",
 			"wowID":"21678"
 		},
 		"Recomposed Boots":{
 			"prio":["EP/GP"],
-			"gp:":"1",
+			"gp":"1",
 			"wowID":"21648"
 		},
 		"Robes of the Battleguard":{
 			"prio":["EP/GP"],
-			"gp:":"2",
+			"gp":"2",
 			"wowID":"21671"
 		},
 		"Sartura's Might":{
 			"prio":["Healers","Wildhealer","Blunts","Faith","Darkdwarf","EP/GP"],
-			"gp:":"5",
+			"gp":"5",
 			"wowID":"21666"
 		},
 		"Scaled Leggings of Qiraji Fury":{
 			"prio":["EP/GP"],
-			"gp:":"2",
+			"gp":"2",
 			"wowID":"21668"
 		},
 		"Silithid Claw":{
 			"prio":["Hunters","EP/GP"],
-			"gp:":"4",
+			"gp":"4",
 			"wowID":"21673"
 		},
 		"Thick Qirajihide Belt":{
 			"prio":["EP/GP"],
-			"gp:":"2",
+			"gp":"2",
 			"wowID":"21675"
 		}
 	},
 	"Fankriss the Unyielding":{
 		"Ancient Qiraji Ripper":{
 			"prio":["rogues w/o cts","warriors w/o cts","EP/GP"],
-			"gp:":"14",
+			"gp":"14",
 			"wowID":"21650"
 		},
 		"Barb of the Sand Reaver":{
 			"prio":["Hunters","EP/GP"],
-			"gp:":"3",
+			"gp":"3",
 			"wowID":"21635"
 		},
 		"Barbed Choker":{
 			"prio":["Warriors","PvP","EP/GP"],
-			"gp:":"6",
+			"gp":"6",
 			"wowID":"21664"
 		},
 		"Cloak of Untold Secrets":{
 			"prio":["EP/GP"],
-			"gp:":"1",
+			"gp":"1",
 			"wowID":"21627"
 		},
 		"Fetish of the Sand Reaver":{
 			"prio":["BenDriller","EP/GP"],
-			"gp:":"0",
+			"gp":"0",
 			"wowID":"21647"
 		},
 		"Hive Tunneler's Boots":{
 			"prio":["EP/GP"],
-			"gp:":"4",
+			"gp":"4",
 			"wowID":"21645"
 		},
 		"Mantle of Wicked Revenge":{
 			"prio":["Feral","Fury who will pass on t2.5","Rogues","EP/GP"],
-			"gp:":"5",
+			"gp":"5",
 			"wowID":"21665"
 		},
 		"Pauldrons of the Unrelenting":{
 			"prio":["Tanks","EP/GP"],
-			"gp:":"5",
+			"gp":"5",
 			"wowID":"21639"
 		},
 		"Robes of the Guardian Saint":{
 			"prio":["Healers","Jowsus","Wildhealer","Terpgodd","EP/GP"],
-			"gp:":"8",
+			"gp":"8",
 			"wowID":"21663"
 		},
 		"Scaled Sand Reaver Leggings":{
 			"prio":["EP/GP"],
-			"gp:":"4",
+			"gp":"4",
 			"wowID":"21651"
 		},
 		"Silithis Carapace Chestguard":{
 			"prio":["Warriors","EP/GP"],
-			"gp:":"1",
+			"gp":"1",
 			"wowID":"21652"
 		},
 		"Libram of Grace":{
 			"prio":["Pally Healers","TZB","Blunts","Karuna","Lianli","Thrane","EP/GP"],
-			"gp:":"3",
+			"gp":"3",
 			"wowID":"22402"
 		}
 	},
 	"Viscidus":{
 		"Gauntlets of Kalimdor":{
 			"prio":["EP/GP"],
-			"gp:":"1",
+			"gp":"1",
 			"wowID":"21624"
 		},
 		"Slime-coated Leggings":{
 			"prio":["EP/GP"],
-			"gp:":"1",
+			"gp":"1",
 			"wowID":"21626"
 		},
 		"Sharpened Silithid Femur":{
 			"prio":["ThePrestige","Coxxy","Blacklisted","Meowingtons","Kuku","Austeezy","Raehn","EP/GP"],
-			"gp:":"14",
+			"gp":"14",
 			"wowID":"21622"
 		},
 		"Ring of the Qiriaji Fury":{
 			"prio":["Warrior","Hunter","EP/GP"],
-			"gp:":"6",
+			"gp":"6",
 			"wowID":"21677"
 		},
 		"Scarab Brooch":{
 			"prio":["EP/GP"],
-			"gp:":"",
+			"gp":"",
 			"wowID":"21625"
 		},
 		"Idol of Health":{
 			"prio":["Druid healers","Silkybalboa","Peku","Terpgodd","Faith","Druid Healer","EP/GP"],
-			"gp:":"5",
+			"gp":"5",
 			"wowID":"22399"
 		},
 		"Qiraji Bindings of Command":{
 			"prio":["DPS Warriors","Frau","EP/GP"],
-			"gp:":"8",
+			"gp":"8",
 			"wowID":"20928"
 		},
 		"Qiraji Bindings of Dominance":{
 			"prio":["Kuku","Austeezy","Blacklisted","Coxxy","EP/GP"],
-			"gp:":"8, 5 (pally)",
+			"gp":"8, 5 (pally)",
 			"wowID":"20932"
 		}
 	},
 	"Princess Huhuran":{
 		"Cloak of the Golden Hive":{
 			"prio":["Tank","EP/GP"],
-			"gp:":"5",
+			"gp":"5",
 			"wowID":"21621"
 		},
 		"Hive Defiler Wristguards":{
 			"prio":["Fury","EP/GP"],
-			"gp:":"6",
+			"gp":"6",
 			"wowID":"21618"
 		},
 		"Gloves of the Messiah":{
 			"prio":["Priest Prio Healers","Jowsus","Wildhealer","Thedoctorjaz","Claris","Mh","EP/GP"],
-			"gp:":"6",
+			"gp":"6",
 			"wowID":"21619"
 		},
 		"Wasphide Gauntlets":{
 			"prio":["Druid healers","Peku","Silkybalboa","Faith","Terpgodd","EP/GP"],
-			"gp:":"6",
+			"gp":"6",
 			"wowID":"21617"
 		},
 		"Ring of the Martyr":{
 			"prio":["Druid Prio, then pallys","Silkybalboa","Faith","Terpgodd","Peku","EP/GP"],
-			"gp:":"6",
+			"gp":"6",
 			"wowID":"21620"
 		}, 
 		"Huhuran's Stinger":{
 			"prio":["EP/GP"],
-			"gp:":"1",
+			"gp":"1",
 			"wowID":"21616"
 		}
 	},
 	"Twin Emperors Vek'lor & Vek'nilash":{
 		"Royal Qiraji Belt":{
 			"prio":["Tank","EP/GP"],
-			"gp:":"4",
+			"gp":"4",
 			"wowID":"21598"
 		},
 		"Amulet of Veknilash":{
 			"prio":["Mages/Warlocks","EP/GP"],
-			"gp:":"8",
+			"gp":"8",
 			"wowID":"21608"
 		},
 		"Boots of Epiphany":{
 			"prio":["EP/GP"],
-			"gp:":"3",
+			"gp":"3",
 			"wowID":"21600"
 		},
 		"Vek'lor's Gloves of Devastation":{
 			"prio":["EP/GP"],
-			"gp:":"1",
+			"gp":"1",
 			"wowID":"21599"
 		},
 		"Royal Scepter of Vek'lor":{
 			"prio":["Mageup","Rasbeary (depending on drops)","ThePrestige","Coxxy","Blacklisted","Meowingtons","Kuku","Austeezy","Raehn","EP/GP"],
-			"gp:":"8",
+			"gp":"8",
 			"wowID":"21597"
 		},
 		"Qiraji Execution Bracers":{
 			"prio":["Rogues","Fury","Ferals","EP/GP"],
-			"gp:":"6",
+			"gp":"6",
 			"wowID":"21602"
 		},
 		"Ring of Emperor Vek'lor":{
 			"prio":["Tanks","EP/GP"],
-			"gp:":"3",
+			"gp":"3",
 			"wowID":"21601"
 		},
 		"Vek'lor's Diadem":{
 			"prio":["SilkyJohnsn","Bendriller","Supertoxic","Stopbegging","Chart","SilkyJohnsn","EP/GP"],
-			"gp:":"8",
+			"gp":"8",
 			"wowID":"20930"
 		},
 		"Regenerating Belt of Vek'nilash":{
 			"prio":["EP/GP"],
-			"gp:":"6",
+			"gp":"6",
 			"wowID":"21609"
 		},
 		"Belt of the Fallen Emperor":{
 			"prio":["EP/GP"],
-			"gp:":"3",
+			"gp":"3",
 			"wowID":"21606"
 		},
 		"Bracelets of Royal Redemption":{
 			"prio":["Druid and Pally Prio Healers","Blunts","Silkybalboa","TZB","Terpgodd","Lianli","Faith","Karuna","Peku","EP/GP"],
-			"gp:":"8",
+			"gp":"8",
 			"wowID":"21604"
 		},
 		"Kalimdor's Revenge":{
 			"prio":["EP/GP"],
-			"gp:":"6",
+			"gp":"6",
 			"wowID":"21679"
 		},
 		"Grasp of the Fallen Emperor":{
 			"prio":["EP/GP"],
-			"gp:":"1",
+			"gp":"1",
 			"wowID":"21607"
 		},
 		"Vek'nilash's Circlet":{
 			"prio":["Warrior","Priest","Mage","Warlock","Non Mish Casters","Gotosleep","EP/GP"],
-			"gp:":"5 (War), 8 (Mage/Warlock)",
+			"gp":"5 (War), 8 (Mage/Warlock)",
 			"wowID":"20926"
 		},
 		"Gloves of the Hidden Temple":{
 			"prio":["EP/GP"],
-			"gp:":"3",
+			"gp":"3",
 			"wowID":"21605"
 		}
 	},
 	"Ouro":{
 		"Don Rigoberto's Lost Hat":{
 			"prio":["Priest and Druid Prio Healers","Claris","Silky","Mh","Peku","Jowsus","Terpgodd","Wildhealer","EP/GP"],
-			"gp:":"8",
+			"gp":"8",
 			"wowID":"21615"
 		},
 		"Burrower Bracers":{
 			"prio":["Gotosleep","EP/GP"],
-			"gp:":"3",
+			"gp":"3",
 			"wowID":"21611"
 		},
 		"The Burrower's Shell":{
 			"prio":["EP/GP"],
-			"gp:":"1",
+			"gp":"1",
 			"wowID":"23558"
 		},
 		"Jom Gabbar":{
 			"prio":["Rogues","Hunters","EP/GP"],
-			"gp:":"8",
+			"gp":"8",
 			"wowID":"23570"
 		},
 		"Wormscale Blocker":{
 			"prio":["EP/GP"],
-			"gp:":"5",
+			"gp":"5",
 			"wowID":"21610"
 		},
 		"Larvae of the Great Worm":{
 			"prio":["BenDriller","mdps without strikers","EP/GP"],
-			"gp:":"4",
+			"gp":"4",
 			"wowID":"23557"
 		},
 		"Ouro's Intact Hide":{
 			"prio":["Mage, Priest, Rogue, Warrior","Warrior/rogues","EP/GP"],
-			"gp:":"8",
+			"gp":"8",
 			"wowID":"20927"
 		},
 		"Skin of the Great Sandworm":{
 			"prio":["Ret prio","EP/GP"],
-			"gp:":"6",
+			"gp":"6",
 			"wowID":"20931"
 		}
 	},
 	"Cthun":{
 		"Eye of C'Thun":{
 			"prio":["Mageup","Rhaen","Gotosleep","Tank?","Bendriller","Theprestige","Austeesy","Kuku","EP/GP"],
-			"gp:":"6",
+			"gp":"6",
 			"wowID":"21221"
 		},
 		"Husk of the Old God":{
 			"prio":["Druid, Mage, Priest, Warlock","Gotosleep","Rasbeary","EP/GP"],
-			"gp:":"6",
+			"gp":"6",
 			"wowID":"20933"
 		},
 		"Carapace of the Old God":{
 			"prio":["Hunter, Paladin, Rogue, Shaman, Warrior","Tanks","EP/GP"],
-			"gp:":"9",
+			"gp":"9",
 			"wowID":"20929"
 		},
 		"Ring of the Godslayer":{
 			"prio":["EP/GP"],
-			"gp:":"3",
+			"gp":"3",
 			"wowID":"21596"
 		},
 		"Eyestalk Waist Cord":{
 			"prio":["EP/GP"],
-			"gp:":"10",
+			"gp":"10",
 			"wowID":"22730"
 		},
 		"Cloak of the Devoured":{
 			"prio":["Austeezy","Kuku","EP/GP"],
-			"gp:":"5",
+			"gp":"5",
 			"wowID":"22731"
 		},
 		"Gauntlets of Annihilation":{
 			"prio":["Fury","Tank","EP/GP"],
-			"gp:":"10",
+			"gp":"10",
 			"wowID":"21581"
 		},
 		"Scepter of the False Prophet":{
 			"prio":["Lianli","Jowsus","Silkybalboa","Pekumen","Thedoctorjaz","EP/GP"],
-			"gp:":"18",
+			"gp":"18",
 			"wowID":"21839"
 		},
 		"Mark of C'Thun":{
 			"prio":["Tank","EP/GP"],
-			"gp:":"8",
+			"gp":"8",
 			"wowID":"22732"
 		},
 		"Cloak of Clarity":{
 			"prio":["Healers","Darkdwarf","Chuffy","Jowsus","Wildhealer","EP/GP"],
-			"gp:":"6",
+			"gp":"6",
 			"wowID":"21583"
 		},
 		"Dark Storm Gauntlets":{
 			"prio":["Coxxy","Blacklisted","Kuku","Austeezy","Gotosleep","EP/GP"],
-			"gp:":"10",
+			"gp":"10",
 			"wowID":"21585"
 		},
 		"Grasp of the Old God":{
 			"prio":["Healers,MH,Lianli,Tezebe","Thrane","EP/GP"],
-			"gp:":"10",
+			"gp":"10",
 			"wowID":"21582"
 		},
 		"Belt of Never-ending Agony":{
 			"prio":["BenDriller","Rogues","Feral ?","EP/GP"],
-			"gp:":"10",
+			"gp":"10",
 			"wowID":"21586"
 		},
 		"Vanquished Tentacle of C'Thun":{
 			"prio":["Blacklisted","EP/GP"],
-			"gp:":"1",
+			"gp":"1",
 			"wowID":"21579"
 		},
 		"Dark Edge of Insanity":{
 			"prio":["THE LEGEND","PvP prio","EP/GP"],
-			"gp:":"20",
+			"gp":"20",
 			"wowID":"21134"
 		},
 		"Death's Sting":{
 			"prio":["Supertoxic","Stopbegging","SilkyJohnsn","BenDriller","Rogues","EP/GP"],
-			"gp:":"18",
+			"gp":"18",
 			"wowID":"21126"
 		}
 	}
