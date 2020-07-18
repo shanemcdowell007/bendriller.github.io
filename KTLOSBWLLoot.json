@@ -369,7 +369,7 @@
 			"wowID":"19397"
 		},
 		"Rejuvenating Gem":{
-			"prio":["Jowsus(1)","Silkybalboa(1)","EP/GP"],
+			"prio":["Jowsus(1)","Silkybalboa(1)","Celesdea","Doligrian","EP/GP"],
 			"gp":"",
 			"wowID":"19395"
 		},
@@ -638,7 +638,7 @@
 			"wowID":"19376"
 		},
 		"Pure Elementium Band":{
-			"prio":["(Rasbeary(1)","Doligrian(1)","EP/GP"],
+			"prio":["Doligrian(1)","Rasbeary(1)","EP/GP"],
 			"gp":"",
 			"wowID":"19382"
 		},
