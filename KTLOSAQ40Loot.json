@@ -240,7 +240,7 @@
 			"wowID":"21676"
 		},
 		"Legplates of Blazing Light":{
-			"prio":["Pally Healers","Lianli","TZB","Thrane","Blunts","Karuna","EP/GP"],
+			"prio":["Pally Healers","Lianli","TZB","Thrane","Blunts","Karuna","Doligrian","EP/GP"],
 			"gp":"7",
 			"wowID":"21667"
 		},
@@ -369,7 +369,7 @@
 			"wowID":"21625"
 		},
 		"Idol of Health":{
-			"prio":["Druid healers","Silkybalboa","Peku","Terpgodd","Faith","Druid Healer","EP/GP"],
+			"prio":["Druid healers","Silkybalboa","Peku","Celesdea","Terpgodd","Faith","Druid Healer","EP/GP"],
 			"gp":"5",
 			"wowID":"22399"
 		},
@@ -401,12 +401,12 @@
 			"wowID":"21619"
 		},
 		"Wasphide Gauntlets":{
-			"prio":["Druid healers","Peku","Silkybalboa","Faith","Terpgodd","EP/GP"],
+			"prio":["Druid healers","Peku","Silkybalboa","Celesdea","Faith","Terpgodd","EP/GP"],
 			"gp":"6",
 			"wowID":"21617"
 		},
 		"Ring of the Martyr":{
-			"prio":["Druid Prio, then pallys","Silkybalboa","Faith","Terpgodd","Peku","EP/GP"],
+			"prio":["Druid Prio, then pallys","Silkybalboa","Faith","Terpgodd","Peku","Celesdea","EP/GP"],
 			"gp":"6",
 			"wowID":"21620"
 		}, 
