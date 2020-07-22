@@ -38,7 +38,7 @@
 	},
 	"Boss Shared":{
 		"Imperial Qiraji Armaments":{
-			"prio":["Supertoxic(1)","SilkyJohnsn(2)","Stopbegging(2)","Shadowsfade(1)","Gnomeisbis (?)","EP/GP"],
+			"prio":["SilkyJohnsn(2)","Supertoxic(1)","Stopbegging(2)","Shadowsfade(1)","Gnomeisbis (?)","EP/GP"],
 			"gp":"10 (Pugio/Waraxe), 5 (otherwise)",
 			"wowID":"21232"
 		},
@@ -282,7 +282,7 @@
 	},
 	"Fankriss the Unyielding":{
 		"Ancient Qiraji Ripper":{
-			"prio":["rogues w/o cts","warriors w/o cts","EP/GP"],
+			"prio":["Chart","rogues w/o cts","warriors w/o cts","LC","EP/GP"],
 			"gp":"14",
 			"wowID":"21650"
 		},
@@ -612,7 +612,7 @@
 			"wowID":"21134"
 		},
 		"Death's Sting":{
-			"prio":["Supertoxic","Stopbegging","SilkyJohnsn","BenDriller","Rogues","EP/GP"],
+			"prio":["Supertoxic","Stopbegging","SilkyJohnsn","BenDriller","LC","Rogues","EP/GP"],
 			"gp":"18",
 			"wowID":"21126"
 		}
