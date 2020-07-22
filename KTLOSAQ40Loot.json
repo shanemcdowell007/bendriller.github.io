@@ -43,7 +43,7 @@
 			"wowID":"21232"
 		},
 		"Imperial Qiraji Regalia":{
-			"prio":["Coxxy","Blacklisted","Kuku","Austeezy","EP/GP"],
+			"prio":["Austeezy","Coxxy","Blacklisted","Kuku","EP/GP"],
 			"gp":"6",
 			"wowID":"21237"
 		}
@@ -379,7 +379,7 @@
 			"wowID":"20928"
 		},
 		"Qiraji Bindings of Dominance":{
-			"prio":["Kuku","Austeezy","Blacklisted","Coxxy","EP/GP"],
+			"prio":["Kuku","Coxxy","Blacklisted","Austeezy","EP/GP"],
 			"gp":"8, 5 (pally)",
 			"wowID":"20932"
 		}
