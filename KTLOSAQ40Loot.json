@@ -127,7 +127,7 @@
 			"wowID":"21692"
 		},
 		"Guise of the Devourer":{
-			"prio":["Feral druid","EP/GP"],
+			"prio":["Notpq","Feral druid","EP/GP"],
 			"gp":"5",
 			"wowID":"21693"
 		},
@@ -275,7 +275,7 @@
 			"wowID":"21673"
 		},
 		"Thick Qirajihide Belt":{
-			"prio":["EP/GP"],
+			"prio":["Notpq","EP/GP"],
 			"gp":"2",
 			"wowID":"21675"
 		}
@@ -448,7 +448,7 @@
 			"wowID":"21602"
 		},
 		"Ring of Emperor Vek'lor":{
-			"prio":["Tanks","EP/GP"],
+			"prio":["Notpq","Tanks","EP/GP"],
 			"gp":"3",
 			"wowID":"21601"
 		},
