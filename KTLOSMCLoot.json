@@ -1,12 +1,12 @@
 {
 	"Trash":{
 		"Girdle of Prophecy":{
-			"prio":["Nattys(2)","EP/GP"],
+			"prio":["EP/GP"],
 			"gp":"",
 			"wowID":""
 		},
 		"Vambraces of Prophecy":{
-			"prio":["Nattys(2)","Jowsus(1)","EP/GP"],
+			"prio":["EP/GP"],
 			"gp":"",
 			"wowID":""
 		},
@@ -217,7 +217,7 @@
 	},
 	"Magmadar":{
 		"Pants of Prophecy":{
-			"prio":["Nattys(2)","EP/GP"],
+			"prio":["EP/GP"],
 			"gp:":"",
 			"wowID":""
 		},
@@ -279,7 +279,7 @@
 	},
 	"Gehennas":{
 		"Gloves of Prophecy":{
-			"prio":["Mh(1)","Jowsus","EP/GP"],
+			"prio":["Mh(1)","EP/GP"],
 			"gp:":"",
 			"wowID":""
 		},
@@ -306,7 +306,7 @@
 	},
 	"Garr":{
 		"Circlet of Prophecy":{
-			"prio":["Nattys(2)","EP/GP"],
+			"prio":["EP/GP"],
 			"gp:":"",
 			"wowID":""
 		},
@@ -373,7 +373,7 @@
 	},
 	"Shazzrah":{
 		"Boots of Prophecy":{
-			"prio":["Nattys(2)","EP/GP"],
+			"prio":["EP/GP"],
 			"gp:":"",
 			"wowID":""
 		},
@@ -482,7 +482,7 @@
 			"wowID":""
 		},
 		"Azuresong Mageblade":{
-			"prio":["Votelock","Caster prio","EP/GP"],
+			"prio":["Caster prio","EP/GP"],
 			"gp:":"",
 			"wowID":""
 		},
@@ -628,7 +628,7 @@
 			"wowID":""
 		},
 		"Choker of the Fire Lord":{
-			"prio":["Austeezy(1)","Puffbuffcast(1)","EP/GP"],
+			"prio":["Puffbuffcast(1)","EP/GP"],
 			"gp:":"",
 			"wowID":""
 		},
