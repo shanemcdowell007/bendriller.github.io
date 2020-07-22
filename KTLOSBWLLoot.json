@@ -48,7 +48,7 @@
 	},
 	"Razorgore the Untamed":{
 		"Bindings of Transcendence":{
-			"prio":["Jowsus (1)","EP/GP"],
+			"prio":["EP/GP"],
 			"gp":"",
 			"wowID":"16926"
 		},
@@ -78,7 +78,7 @@
 			"wowID":"16935"
 		},
 		"Judgement Bindings":{
-			"prio":["Lianli(1)","PuffBuffCast(1)","EP/GP"],
+			"prio":["PuffBuffCast(1)","EP/GP"],
 			"gp":"",
 			"wowID":"16951"
 		},
@@ -289,7 +289,7 @@
 			"wowID":"16907"
 		},
 		"Stormrage Handguards":{
-			"prio":["Silkybalboa(1)","EP/GP"],
+			"prio":["EP/GP"],
 			"gp":"",
 			"wowID":"16899"
 		},
@@ -299,7 +299,7 @@
 			"wowID":"16940"
 		},
 		"Judgement Gauntlets":{
-			"prio":["Lianli(1)","EP/GP"],
+			"prio":["EP/GP"],
 			"gp":"",
 			"wowID":"16956"
 		},
@@ -409,7 +409,7 @@
 			"wowID":"19431"
 		},
 		"Shroud of Pure Thought":{
-			"prio":["Wildhealer (1)","Claris (1)","EP/GP"],
+			"prio":["Claris (1)","EP/GP"],
 			"gp":"5",
 			"wowID":"19430"
 		},
