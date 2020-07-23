@@ -269,7 +269,7 @@
 	},
 	"Dragons (Firemaw, Ebonroc, Flamegor)":{
 		"Handguards of Transcendence":{
-			"prio":["Wildhealer(1)","EP/GP"],
+			"prio":["EP/GP"],
 			"gp":"",
 			"wowID":"16920"
 		},
