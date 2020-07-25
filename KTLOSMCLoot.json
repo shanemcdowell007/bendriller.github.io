@@ -643,7 +643,7 @@
 			"wowID":""
 		},
 		"Onslaught Girdle":{
-			"prio":["Wizzo(1)","Bonzai(1)","Gnomeisbis","EP/GP"],
+			"prio":["Wizzo(1)","Bonzai(1)","Vajeen","EP/GP"],
 			"gp:":"",
 			"wowID":""
 		},
@@ -673,7 +673,7 @@
 			"wowID":""
 		},
 		"Perditions Blade":{
-			"prio":["Ucuucu","LC","Dagger rogue","Dagger tank","off-spec rogue","EP/GP"],
+			"prio":["Dagger rogue","Dagger tank","off-spec rogue","EP/GP"],
 			"gp:":"",
 			"wowID":""
 		},

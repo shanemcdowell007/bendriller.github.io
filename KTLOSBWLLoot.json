@@ -257,7 +257,7 @@
 			"wowID":"19350"
 		},
 		"Maladath, Runed Blade of the Black Flight":{
-			"prio":["Beeny(2)","Soho(1)","Dillmcpickle(1)","Wizzo(1)","LC","Human Warr/Non-human Rogue","EP/GP"],
+			"prio":["Beeny(2)","Dillmcpickle(1)","Wizzo(1)","LC","Human Warr/Non-human Rogue","EP/GP"],
 			"gp":"",
 			"wowID":"19351"
 		},
@@ -314,7 +314,7 @@
 			"wowID":"19343"
 		},
 		"Drake Talon Pauldrons":{
-			"prio":["Bonzai(1)","Jsleazy(2)","Beanchet(1)","Warrior Prio","EP/GP"],
+			"prio":["Tank prio","Warrior Prio","EP/GP"],
 			"gp":"",
 			"wowID":"19394"
 		},
@@ -344,7 +344,7 @@
 			"wowID":"19401"
 		},
 		"Legguards of the Fallen Crusader":{
-			"prio":["Snydicate (1)","Tank prio MT/OT","EP/GP"],
+			"prio":["Tuglight(1)","Tank prio MT/OT","EP/GP"],
 			"gp":"",
 			"wowID":"19402"
 		},
@@ -379,7 +379,7 @@
 			"wowID":"19345"
 		},
 		"Drake Fang Talisman":{
-			"prio":["Stopbegging(2)","Killstep(2)","Frau(2)","Rogue?(1)","Soho(1)","LC","EP/GP"],
+			"prio":["Frau(2)","Killstep(flex)","Rogue?(1)","LC","EP/GP"],
 			"gp":"",
 			"wowID":"19406"
 		},
@@ -516,7 +516,7 @@
 			"wowID":"19391"
 		},
 		"Chromatic Boots":{
-			"prio":["Dardoc(1)","Vajeen(1)","Impactt(1)","DPS Then Tanks","EP/GP"],
+			"prio":["Vajeen(1)","Impactt(1)","DPS Then Tanks","EP/GP"],
 			"gp":"",
 			"wowID":"19387"
 		},
@@ -526,7 +526,7 @@
 			"wowID":"19361"
 		},
 		"Elementium Reinforced Bulwark":{
-			"prio":["Chrixus(2)","EP/GP"],
+			"prio":["EP/GP"],
 			"gp":"",
 			"wowID":"19349"
 		},
@@ -578,7 +578,7 @@
 			"wowID":"16958"
 		},
 		"Breastplate of Wrath":{
-			"prio":["Frau","Gnomeisbis","Dill","EP/GP"],
+			"prio":["Tank prio","EP/GP"],
 			"gp":"",
 			"wowID":"16966"
 		},
@@ -593,7 +593,7 @@
 			"wowID":"19360"
 		},
 		"Crulshorukh Edge of Chaos":{
-			"prio":["Frau(2)","Jsleazy(2)","EP/GP"],
+			"prio":["Frau(2)","Edgemaster prio","EP/GP"],
 			"gp":"",
 			"wowID":"19363"
 		},
