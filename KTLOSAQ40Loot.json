@@ -483,7 +483,7 @@
 			"wowID":"21607"
 		},
 		"Vek'nilash's Circlet":{
-			"prio":["Warrior","Priest","Mage","Warlock","Non Mish Casters","Gotosleep","EP/GP"],
+			"prio":["Austeezy","Gotosleep","Kuku","Blacklisted","Non Mish Casters","Warrior/Priest/Mage/Warlock","EP/GP"],
 			"gp":"5 (War), 8 (Mage/Warlock)",
 			"wowID":"20926"
 		},
@@ -537,12 +537,12 @@
 	},
 	"Cthun":{
 		"Eye of C'Thun":{
-			"prio":["Mageup","Rhaen","Gotosleep","Tank?","Bendriller","Theprestige","Austeesy","Kuku","EP/GP"],
+			"prio":["Mageup","Rhaen","Gotosleep","Bendriller","Theprestige","Austeesy","Kuku","EP/GP"],
 			"gp":"6",
 			"wowID":"21221"
 		},
 		"Husk of the Old God":{
-			"prio":["Druid, Mage, Priest, Warlock","Gotosleep","Rasbeary","EP/GP"],
+			"prio":["Pennington","Gotosleep","Rasbeary","Druid/Mage/Priest/Warlock","EP/GP"],
 			"gp":"6",
 			"wowID":"20933"
 		},
@@ -557,12 +557,12 @@
 			"wowID":"21596"
 		},
 		"Eyestalk Waist Cord":{
-			"prio":["EP/GP"],
+			"prio":["Blacklisted","EP/GP"],
 			"gp":"10",
 			"wowID":"22730"
 		},
 		"Cloak of the Devoured":{
-			"prio":["Austeezy","Kuku","EP/GP"],
+			"prio":["Austeezy","Pennington","Kuku","EP/GP"],
 			"gp":"5",
 			"wowID":"22731"
 		},
