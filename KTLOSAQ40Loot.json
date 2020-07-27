@@ -240,7 +240,7 @@
 			"wowID":"21676"
 		},
 		"Legplates of Blazing Light":{
-			"prio":["Pally Healers","Lianli","TZB","Thrane","Blunts","Karuna","Doligrian","EP/GP"],
+			"prio":["Lianli","TZB","Thrane","Blunts","Doligrian","Pally Healers","EP/GP"],
 			"gp":"7",
 			"wowID":"21667"
 		},
@@ -260,7 +260,7 @@
 			"wowID":"21671"
 		},
 		"Sartura's Might":{
-			"prio":["Healers","Wildhealer","Blunts","Faith","Darkdwarf","EP/GP"],
+			"prio":["Wildhealer","Blunts","Faith","Healers","EP/GP"],
 			"gp":"5",
 			"wowID":"21666"
 		},
@@ -337,7 +337,7 @@
 			"wowID":"21652"
 		},
 		"Libram of Grace":{
-			"prio":["Pally Healers","TZB","Blunts","Karuna","Lianli","Thrane","EP/GP"],
+			"prio":["Pally Healers","TZB","Blunts","Lianli","Thrane","EP/GP"],
 			"gp":"3",
 			"wowID":"22402"
 		}
@@ -396,7 +396,7 @@
 			"wowID":"21618"
 		},
 		"Gloves of the Messiah":{
-			"prio":["Priest Prio Healers","Jowsus","Wildhealer","Thedoctorjaz","Claris","Mh","EP/GP"],
+			"prio":["Priest Prio Healers","Jowsus","Wildhealer","Claris","Mh","EP/GP"],
 			"gp":"6",
 			"wowID":"21619"
 		},
@@ -468,7 +468,7 @@
 			"wowID":"21606"
 		},
 		"Bracelets of Royal Redemption":{
-			"prio":["Druid and Pally Prio Healers","Blunts","Silkybalboa","TZB","Terpgodd","Lianli","Faith","Karuna","Peku","EP/GP"],
+			"prio":["Druid and Pally Prio Healers","Blunts","Silkybalboa","TZB","Terpgodd","Lianli","Faith","Peku","EP/GP"],
 			"gp":"8",
 			"wowID":"21604"
 		},
@@ -582,7 +582,7 @@
 			"wowID":"22732"
 		},
 		"Cloak of Clarity":{
-			"prio":["Healers","Darkdwarf","Chuffy","Jowsus","Wildhealer","EP/GP"],
+			"prio":["Healers","Chuffy","Jowsus","Wildhealer","EP/GP"],
 			"gp":"6",
 			"wowID":"21583"
 		},
