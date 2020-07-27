@@ -537,7 +537,7 @@
 	},
 	"Cthun":{
 		"Eye of C'Thun":{
-			"prio":["Mageup","Rhaen","Gotosleep","Bendriller","Theprestige","Austeesy","Kuku","EP/GP"],
+			"prio":["Mageup","Rhaen","Gotosleep(skip until kazzak)","Bendriller","Theprestige","Austeesy","Kuku","Coxxy","EP/GP"],
 			"gp":"6",
 			"wowID":"21221"
 		},
