@@ -1,7 +1,7 @@
 {
 	"Trash":{
 		"Anubisath Warhammer":{
-			"prio":["Human Warriors","EP/GP"],
+			"prio":["Humans w/ emp demolisher","Human Warriors","EP/GP"],
 			"gp":"7",
 			"wowID":"21837"
 		},
@@ -38,12 +38,12 @@
 	},
 	"Boss Shared":{
 		"Imperial Qiraji Armaments":{
-			"prio":["SilkyJohnsn(2)","Supertoxic(1)","Stopbegging(2)","Shadowsfade(1)","Gnomeisbis (?)","EP/GP"],
+			"prio":["SilkyJohnsn(2)","Supertoxic(1)","Stopbegging(2)","Shadowsfade(1)","Impactt(1)","EP/GP"],
 			"gp":"10 (Pugio/Waraxe), 5 (otherwise)",
 			"wowID":"21232"
 		},
 		"Imperial Qiraji Regalia":{
-			"prio":["Austeezy","Coxxy","Blacklisted","Kuku","EP/GP"],
+			"prio":["Austeezy","Coxxy","Blacklisted","Kuku","Notpq(1)","EP/GP"],
 			"gp":"6",
 			"wowID":"21237"
 		}
@@ -55,12 +55,12 @@
 			"wowID":"21706"
 		},
 		"Breastplate of Annihilation":{
-			"prio":["DPS Warrior","EP/GP"],
+			"prio":["Impactt(1)","Vajeen(1)","Bonzai(1)","DPS Warrior","EP/GP"],
 			"gp":"8",
 			"wowID":"21814"
 		},
 		"Cloak of Concentrated Hatred":{
-			"prio":["Supertoxic","Rogue","Warrior","EP/GP"],
+			"prio":["Supertoxic(1)","Chart(1)","Silkyjohn(1)","Killstep(1)","Rogue->Warrior","EP/GP"],
 			"gp":"7",
 			"wowID":"21701"
 		},
@@ -110,7 +110,7 @@
 			"wowID":"21705"
 		},
 		"Beetle Scaled Wristguards":{
-			"prio":["Melee Soakers","EP/GP"],
+			"prio":["Rogues->Hunters->Warriors Soakers","EP/GP"],
 			"gp":"1",
 			"wowID":"21708"
 		}
@@ -122,7 +122,7 @@
 			"wowID":"21695"
 		},
 		"Triad Girdle":{
-			"prio":["Tanks","PvP","EP/GP"],
+			"prio":["Warriors w/o onslaught","Tanks","PvP","EP/GP"],
 			"gp":"3",
 			"wowID":"21692"
 		},
@@ -149,7 +149,7 @@
 			"wowID":"21685"
 		},
 		"Wand of Qiraji Nobility":{
-			"prio":["EP/GP"],
+			"prio":["Gotosleep(1)","EP/GP"],
 			"gp":"5",
 			"wowID":"21603"
 		},
@@ -166,7 +166,7 @@
 	},
 	"Princess Yauj":{
 		"Bile-Covered Gauntlets":{
-			"prio":["EP/GP"],
+			"prio":["Rogues soaks","EP/GP"],
 			"gp":"1",
 			"wowID":"21682"
 		},
@@ -186,7 +186,7 @@
 			"wowID":"21686"
 		},
 		"Ukko's Ring of Darkness":{
-			"prio":["EP/GP"],
+			"prio":["Emp tanks","EP/GP"],
 			"gp":"1",
 			"wowID":"21687"
 		}
@@ -198,24 +198,24 @@
 			"wowID":"21690"
 		},
 		"Boots of the Fallen Hero":{
-			"prio":["Tanks","EP/GP"],
+			"prio":["Tuglight(1)","Tanks w/o Chromatic","EP/GP"],
 			"gp":"6",
 			"wowID":"21688"
 		},
 		"Gloves of Ebru":{
-			"prio":["Rasbeary","EP/GP"],
+			"prio":["Rasbeary(1)","EP/GP"],
 			"gp":"3",
 			"wowID":"21689"
 		},
 		"Ooze-ridden Gauntlets":{
-			"prio":["Melee soakers","EP/GP"],
+			"prio":["Warrior soakers","EP/GP"],
 			"gp":"1",
 			"wowID":"21691"
 		}
 	},
 	"Battleguard Sartura":{
 		"Badge of the Swarmguard":{
-			"prio":["Hunters","mdps","EP/GP"],
+			"prio":["Grayfox(1)","Hunters","Melee","EP/GP"],
 			"gp":"5",
 			"wowID":"21670"
 		},
@@ -225,7 +225,7 @@
 			"wowID":"21669"
 		},
 		"Gauntlets of Steadfast Determination":{
-			"prio":["Tanks","EP/GP"],
+			"prio":["Tuglight(1)","Snydi(1)","Wizzo(1)","Tanks","EP/GP"],
 			"gp":"6",
 			"wowID":"21674"
 		},
@@ -245,12 +245,12 @@
 			"wowID":"21667"
 		},
 		"Necklace of Purity":{
-			"prio":["EP/GP"],
+			"prio":["Soakers","EP/GP"],
 			"gp":"1",
 			"wowID":"21678"
 		},
 		"Recomposed Boots":{
-			"prio":["EP/GP"],
+			"prio":["Rogues/Hunters for NR soak","EP/GP"],
 			"gp":"1",
 			"wowID":"21648"
 		},
@@ -270,7 +270,7 @@
 			"wowID":"21668"
 		},
 		"Silithid Claw":{
-			"prio":["Hunters","EP/GP"],
+			"prio":["Huckfin(1)","Grayfox(1)","Oph(1)","Hunters","EP/GP"],
 			"gp":"4",
 			"wowID":"21673"
 		},
@@ -282,22 +282,22 @@
 	},
 	"Fankriss the Unyielding":{
 		"Ancient Qiraji Ripper":{
-			"prio":["Chart","rogues w/o cts","warriors w/o cts","LC","EP/GP"],
+			"prio":["Chart(1)","Killstep(1)","Dz(3)","rogues w/o cts","warriors w/o cts","LC","EP/GP"],
 			"gp":"14",
 			"wowID":"21650"
 		},
 		"Barb of the Sand Reaver":{
-			"prio":["Hunters","EP/GP"],
+			"prio":["Grayfox(1)","Hunters","EP/GP"],
 			"gp":"3",
 			"wowID":"21635"
 		},
 		"Barbed Choker":{
-			"prio":["Warriors","PvP","EP/GP"],
+			"prio":["Chrixus(1)","Beanchet(1)","Bonzai(1)","Vajeen(1)","Warriors/PvP","EP/GP"],
 			"gp":"6",
 			"wowID":"21664"
 		},
 		"Cloak of Untold Secrets":{
-			"prio":["EP/GP"],
+			"prio":["Emps tanks","EP/GP"],
 			"gp":"1",
 			"wowID":"21627"
 		},
@@ -307,17 +307,17 @@
 			"wowID":"21647"
 		},
 		"Hive Tunneler's Boots":{
-			"prio":["EP/GP"],
+			"prio":["Feral","EP/GP"],
 			"gp":"4",
 			"wowID":"21645"
 		},
 		"Mantle of Wicked Revenge":{
-			"prio":["Feral","Fury who will pass on t2.5","Rogues","EP/GP"],
+			"prio":["Notpq","Feral->Fury who will pass on t2.5->Rogues","EP/GP"],
 			"gp":"5",
 			"wowID":"21665"
 		},
 		"Pauldrons of the Unrelenting":{
-			"prio":["Tanks","EP/GP"],
+			"prio":["Snydi(1)","Tanks","EP/GP"],
 			"gp":"5",
 			"wowID":"21639"
 		},
@@ -332,7 +332,7 @@
 			"wowID":"21651"
 		},
 		"Silithis Carapace Chestguard":{
-			"prio":["Warriors","EP/GP"],
+			"prio":["Dill","Dardoc","Chrixus","Impactt","Bonzai","Warriors","EP/GP"],
 			"gp":"1",
 			"wowID":"21652"
 		},
@@ -358,8 +358,8 @@
 			"gp":"14",
 			"wowID":"21622"
 		},
-		"Ring of the Qiriaji Fury":{
-			"prio":["Warrior","Hunter","EP/GP"],
+		"Ring of the Qiraji Fury":{
+			"prio":["Chrixus(1)","Huck(1)","Warrior->Hunter","EP/GP"],
 			"gp":"6",
 			"wowID":"21677"
 		},
@@ -374,7 +374,7 @@
 			"wowID":"22399"
 		},
 		"Qiraji Bindings of Command":{
-			"prio":["DPS Warriors","Frau","EP/GP"],
+			"prio":["Frau(2)","Vajeen(1)","Impactt(1)","Dill(1)","Silkyjohnson","Rogues->Non-drake talon DPS Warriors","EP/GP"],
 			"gp":"8",
 			"wowID":"20928"
 		},
@@ -428,7 +428,7 @@
 			"wowID":"21608"
 		},
 		"Boots of Epiphany":{
-			"prio":["EP/GP"],
+			"prio":["Gotosleep(1)","EP/GP"],
 			"gp":"3",
 			"wowID":"21600"
 		},
@@ -443,17 +443,17 @@
 			"wowID":"21597"
 		},
 		"Qiraji Execution Bracers":{
-			"prio":["Rogues","Fury","Ferals","EP/GP"],
+			"prio":["Silkyjohn","Chart","Killstep","Rogues->Feral->Fury","EP/GP"],
 			"gp":"6",
 			"wowID":"21602"
 		},
 		"Ring of Emperor Vek'lor":{
-			"prio":["Notpq","Tanks","EP/GP"],
+			"prio":["Notpq(1)","Tanks","EP/GP"],
 			"gp":"3",
 			"wowID":"21601"
 		},
 		"Vek'lor's Diadem":{
-			"prio":["SilkyJohnsn","Bendriller","Supertoxic","Stopbegging","Chart","SilkyJohnsn","EP/GP"],
+			"prio":["SilkyJohnsn","Bendriller","Supertoxic","Stopbegging","Chart","Retlol","EP/GP"],
 			"gp":"8",
 			"wowID":"20930"
 		},
@@ -510,7 +510,7 @@
 			"wowID":"23558"
 		},
 		"Jom Gabbar":{
-			"prio":["Rogues","Hunters","EP/GP"],
+			"prio":["Oph","Silkyjohnson","Grayfox","Huck","Hunters->Rogues->Warrior","EP/GP"],
 			"gp":"8",
 			"wowID":"23570"
 		},
@@ -525,7 +525,7 @@
 			"wowID":"23557"
 		},
 		"Ouro's Intact Hide":{
-			"prio":["Mage, Priest, Rogue, Warrior","Warrior/rogues","EP/GP"],
+			"prio":["Snydi(1)","Frau(2)","Dill(1)","Warrior/rogues","EP/GP"],
 			"gp":"8",
 			"wowID":"20927"
 		},
