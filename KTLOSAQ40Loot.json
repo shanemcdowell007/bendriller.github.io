@@ -495,7 +495,7 @@
 	},
 	"Ouro":{
 		"Don Rigoberto's Lost Hat":{
-			"prio":["Priest and Druid Prio Healers","Claris","Silky","Mh","Peku","Jowsus","Terpgodd","Wildhealer","EP/GP"],
+			"prio":["Claris","Silky","Mh","Peku","Jowsus","Terpgodd","Wildhealer","Priest and Druid Prio Healers","EP/GP"],
 			"gp":"8",
 			"wowID":"21615"
 		},
@@ -537,7 +537,7 @@
 	},
 	"Cthun":{
 		"Eye of C'Thun":{
-			"prio":["Mageup","Rhaen","Gotosleep (skip until kazzak)","Bendriller","Theprestige","Austeesy","Kuku","Coxxy","EP/GP"],
+			"prio":["Mageup","Rhaen","Gotosleep(skip until kazzak)","Bendriller","Theprestige","Austeesy","Kuku","Coxxy","EP/GP"],
 			"gp":"6",
 			"wowID":"21221"
 		},
@@ -547,7 +547,7 @@
 			"wowID":"20933"
 		},
 		"Carapace of the Old God":{
-			"prio":["Hunter, Paladin, Rogue, Shaman, Warrior","Tanks","EP/GP"],
+			"prio":["Snydi(1)","Frau(2)","Tuglight(1)","Wizzo(1)","Tanks","Hunter/Paladin/Rogue/Shaman/Warrior","EP/GP"],
 			"gp":"9",
 			"wowID":"20929"
 		},
@@ -567,7 +567,7 @@
 			"wowID":"22731"
 		},
 		"Gauntlets of Annihilation":{
-			"prio":["Fury","Tank","EP/GP"],
+			"prio":["Dill(1)","Dardoc(1)","Fury->Tank","EP/GP"],
 			"gp":"10",
 			"wowID":"21581"
 		},
@@ -577,7 +577,7 @@
 			"wowID":"21839"
 		},
 		"Mark of C'Thun":{
-			"prio":["Tank","EP/GP"],
+			"prio":["Snydi(1)","Frau(2)","Tank","EP/GP"],
 			"gp":"8",
 			"wowID":"22732"
 		},
@@ -597,7 +597,7 @@
 			"wowID":"21582"
 		},
 		"Belt of Never-ending Agony":{
-			"prio":["BenDriller","Rogues","Feral ?","EP/GP"],
+			"prio":["BenDriller","Silkyjohnson","Rogues->Feral ?","EP/GP"],
 			"gp":"10",
 			"wowID":"21586"
 		},
@@ -612,7 +612,7 @@
 			"wowID":"21134"
 		},
 		"Death's Sting":{
-			"prio":["Supertoxic","Stopbegging","SilkyJohnsn","BenDriller","LC","Rogues","EP/GP"],
+			"prio":["Supertoxic","Stopbegging","SilkyJohnsn","BenDriller","LC/Rogues","EP/GP"],
 			"gp":"18",
 			"wowID":"21126"
 		}
