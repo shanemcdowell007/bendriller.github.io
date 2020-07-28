@@ -158,7 +158,7 @@
 			"wowID":""
 		},
 		"Magma Tempered Boots":{
-			"prio":[",Puffbuffcast(1)","EP/GP"],
+			"prio":["EP/GP"],
 			"gp:":"",
 			"wowID":""
 		},
@@ -168,7 +168,7 @@
 			"wowID":""
 		},
 		"Talisman of Ephemeral Power":{
-			"prio":["Kuku(1)","EP/GP"],
+			"prio":["EP/GP"],
 			"gp:":"",
 			"wowID":""
 		},
@@ -200,7 +200,7 @@
 			"wowID":""
 		},
 		"Lawbringer Boots":{
-			"prio":["Puffbuffcast","EP/GP"],
+			"prio":["EP/GP"],
 			"gp:":"",
 			"wowID":""
 		},
@@ -247,7 +247,7 @@
 			"wowID":""
 		},
 		"Lawbringer Legplates":{
-			"prio":["Puffbuffcast(1)","EP/GP"],
+			"prio":["EP/GP"],
 			"gp:":"",
 			"wowID":""
 		},
@@ -279,7 +279,7 @@
 	},
 	"Gehennas":{
 		"Gloves of Prophecy":{
-			"prio":["Mh(1)","EP/GP"],
+			"prio":["EP/GP"],
 			"gp:":"",
 			"wowID":""
 		},
@@ -531,7 +531,7 @@
 			"wowID":""
 		},
 		"Fireproof Cloak":{
-			"prio":["Mh(1)","EP/GP"],
+			"prio":["EP/GP"],
 			"gp:":"",
 			"wowID":""
 		},
@@ -608,7 +608,7 @@
 			"wowID":""
 		},
 		"Judgement Legplates":{
-			"prio":["Puffbuffcast(1)","EP/GP"],
+			"prio":["EP/GP"],
 			"gp:":"",
 			"wowID":""
 		},
@@ -628,7 +628,7 @@
 			"wowID":""
 		},
 		"Choker of the Fire Lord":{
-			"prio":["Puffbuffcast(1)","EP/GP"],
+			"prio":["EP/GP"],
 			"gp:":"",
 			"wowID":""
 		},
