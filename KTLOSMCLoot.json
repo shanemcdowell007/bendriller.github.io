@@ -267,7 +267,7 @@
 			"wowID":""
 		},
 		"Strikers Mark":{
-			"prio":["Supertoxic(1)","BenDriller(1)","Dardoc(1)","SilkyJohnsn(2)","LC","EP/GP"],
+			"prio":["BenDriller(1)","Dardoc(1)","SilkyJohnsn(2)","LC","EP/GP"],
 			"gp:":"",
 			"wowID":""
 		},
@@ -551,7 +551,7 @@
 			"wowID":""
 		},
 		"Cauterizing Band":{
-			"prio":["Silkybalboa(1)","Terpgodd(1)","Thedarkdwarf(2)","Doligrian(1)","Rasbeary(1)","Thrane(2)","Iamfaith(2)","EP/GP"],
+			"prio":["Terpgodd(1)","Thedarkdwarf(2)","Doligrian(1)","Rasbeary(1)","Thrane(2)","Iamfaith(2)","EP/GP"],
 			"gp:":"",
 			"wowID":""
 		},

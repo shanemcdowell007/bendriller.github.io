@@ -260,7 +260,7 @@
 			"wowID":"21671"
 		},
 		"Sartura's Might":{
-			"prio":["Wildhealer","Blunts","Faith","Healers","EP/GP"],
+			"prio":["Blunts","Celesdea","Faith","Healers","EP/GP"],
 			"gp":"5",
 			"wowID":"21666"
 		},
@@ -406,7 +406,7 @@
 			"wowID":"21617"
 		},
 		"Ring of the Martyr":{
-			"prio":["Druid Prio, then pallys","Silkybalboa","Faith","Terpgodd","Peku","Celesdea","EP/GP"],
+			"prio":["Celesdea","Silkybalboa","Faith","Terpgodd","Peku","EP/GP"],
 			"gp":"6",
 			"wowID":"21620"
 		}, 
@@ -572,7 +572,7 @@
 			"wowID":"21581"
 		},
 		"Scepter of the False Prophet":{
-			"prio":["Lianli","Jowsus","Silkybalboa","Pekumen","Thedoctorjaz","EP/GP"],
+			"prio":["Lianli","Thedoctorjaz","Pekumen","Jowsus","Silkybalboa","EP/GP"],
 			"gp":"18",
 			"wowID":"21839"
 		},
