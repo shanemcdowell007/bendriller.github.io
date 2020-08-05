@@ -163,7 +163,7 @@
 			"wowID":""
 		},
 		"Quick Strike Ring":{
-			"prio":["Chrixus(1)","Bonzai(1)","LC","EP/GP"],
+			"prio":["Chrixus(1)","LC","EP/GP"],
 			"gp:":"",
 			"wowID":""
 		},
@@ -551,7 +551,7 @@
 			"wowID":""
 		},
 		"Cauterizing Band":{
-			"prio":["Terpgodd(1)","Thedarkdwarf(2)","Doligrian(1)","Rasbeary(1)","Thrane(2)","Iamfaith(2)","EP/GP"],
+			"prio":["Terpgodd(1)","Thedarkdwarf(2)","Doligrian(1)","Rasbeary(1)","Iamfaith(2)","EP/GP"],
 			"gp:":"",
 			"wowID":""
 		},
