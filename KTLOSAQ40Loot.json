@@ -240,7 +240,7 @@
 			"wowID":"21676"
 		},
 		"Legplates of Blazing Light":{
-			"prio":["Lianli","TZB","Thrane","Blunts","Doligrian","Pally Healers","EP/GP"],
+			"prio":["Lianli","TZB","Thrane","Doligrian","Pally Healers","EP/GP"],
 			"gp":"7",
 			"wowID":"21667"
 		},
@@ -260,7 +260,7 @@
 			"wowID":"21671"
 		},
 		"Sartura's Might":{
-			"prio":["Blunts","Celesdea","Faith","Healers","EP/GP"],
+			"prio":["Celesdea","Faith","Healers","EP/GP"],
 			"gp":"5",
 			"wowID":"21666"
 		},
@@ -322,7 +322,7 @@
 			"wowID":"21639"
 		},
 		"Robes of the Guardian Saint":{
-			"prio":["Healers","Jowsus","Wildhealer","Terpgodd","EP/GP"],
+			"prio":["Healers","Jowsus","Wildhealer","Blunts","Terpgodd","EP/GP"],
 			"gp":"8",
 			"wowID":"21663"
 		},
