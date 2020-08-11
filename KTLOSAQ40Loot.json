@@ -337,7 +337,7 @@
 			"wowID":"21652"
 		},
 		"Libram of Grace":{
-			"prio":["Pally Healers","TZB","Blunts","Lianli","Thrane","EP/GP"],
+			"prio":["Pally Healers","Blunts","Lianli","Thrane","TZB","EP/GP"],
 			"gp":"3",
 			"wowID":"22402"
 		}
@@ -406,7 +406,7 @@
 			"wowID":"21617"
 		},
 		"Ring of the Martyr":{
-			"prio":["Celesdea","Silkybalboa","Faith","Terpgodd","Peku","EP/GP"],
+			"prio":["Faith","Celesdea","Silkybalboa","Terpgodd","Peku","EP/GP"],
 			"gp":"6",
 			"wowID":"21620"
 		}, 

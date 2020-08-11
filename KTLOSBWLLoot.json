@@ -369,7 +369,7 @@
 			"wowID":"19397"
 		},
 		"Rejuvenating Gem":{
-			"prio":["Jowsus(1)","Silkybalboa(1)","Celesdea(1)","Doligrian(3)","EP/GP"],
+			"prio":["Jowsus(1)","Silkybalboa(1)","Celesdea(1)","Doligrian(3)","Drussano(1)","EP/GP"],
 			"gp":"",
 			"wowID":"19395"
 		},
@@ -379,7 +379,7 @@
 			"wowID":"19345"
 		},
 		"Drake Fang Talisman":{
-			"prio":["Frau(2)","Killstep(flex)","Rogue?(1)","LC","EP/GP"],
+			"prio":["Frau(2)","Notpq(1)","Killstep(flex)","Rogue?(1)","LC","EP/GP"],
 			"gp":"",
 			"wowID":"19406"
 		},
@@ -506,7 +506,7 @@
 			"wowID":"19392"
 		},
 		"Empowered Leggings":{
-			"prio":["Lianli(1)","Terpgod(1)","Doligrian(1)","EP/GP"],
+			"prio":["Lianli(1)","Terpgod(1)","Doligrian(1)","Celesdea(1)","EP/GP"],
 			"gp":"",
 			"wowID":"19385"
 		},
@@ -588,7 +588,7 @@
 			"wowID":"19003"
 		},
 		"Lokamir il Romathis":{
-			"prio":["Iamfaith(2)","Silkybalboa(1)","Lianli(1)","LC","EP/GP"],
+			"prio":["Iamfaith(2)","Silkybalboa(1)","Drussano(1)","Lianli(1)","LC","EP/GP"],
 			"gp":"",
 			"wowID":"19360"
 		},
