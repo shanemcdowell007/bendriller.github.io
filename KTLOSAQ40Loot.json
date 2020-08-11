@@ -423,7 +423,7 @@
 			"wowID":"21598"
 		},
 		"Amulet of Veknilash":{
-			"prio":["Mages/Warlocks","EP/GP"],
+			"prio":["Reebs","Rhaen","Pennington","Theprestige","Meowingtons","Mages/Warlocks","EP/GP"],
 			"gp":"8",
 			"wowID":"21608"
 		},
@@ -557,12 +557,12 @@
 			"wowID":"21596"
 		},
 		"Eyestalk Waist Cord":{
-			"prio":["Blacklisted","EP/GP"],
+			"prio":["Blacklisted","Reebs","Rhaen","Pennington","Meowingtons","EP/GP"],
 			"gp":"10",
 			"wowID":"22730"
 		},
 		"Cloak of the Devoured":{
-			"prio":["Austeezy","Pennington","Kuku","EP/GP"],
+			"prio":["Austeezy","Pennington","Kuku","Reebs","EP/GP"],
 			"gp":"5",
 			"wowID":"22731"
 		},
