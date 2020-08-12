@@ -1,7 +1,7 @@
 {
 	"Trash":{
 		"Anubisath Warhammer":{
-			"prio":["Humans w/ emp demolisher","Human Warriors","EP/GP"],
+			"prio":["Mulligen","Humans w/ emp demolisher","Human Warriors","EP/GP"],
 			"gp":"7",
 			"wowID":"21837"
 		},
@@ -55,7 +55,7 @@
 			"wowID":"21706"
 		},
 		"Breastplate of Annihilation":{
-			"prio":["Impactt(1)","Vajeen(1)","Bonzai(1)","DPS Warrior","EP/GP"],
+			"prio":["Impactt(1)","Vajeen(1)","DPS Warrior","EP/GP"],
 			"gp":"8",
 			"wowID":"21814"
 		},
@@ -270,7 +270,7 @@
 			"wowID":"21668"
 		},
 		"Silithid Claw":{
-			"prio":["Huckfin(1)","Grayfox(1)","Oph(1)","Hunters","EP/GP"],
+			"prio":["Huckfin(1)","Grayfox(1)","Hunters","EP/GP"],
 			"gp":"4",
 			"wowID":"21673"
 		},
@@ -547,7 +547,7 @@
 			"wowID":"20933"
 		},
 		"Carapace of the Old God":{
-			"prio":["Snydi(1)","Frau(2)","Tuglight(1)","Wizzo(1)","Tanks","Hunter/Paladin/Rogue/Shaman/Warrior","EP/GP"],
+			"prio":["Snydi(1)","Frau(2)","Tuglight(1)","Wizzo(1)","Tanks","r12+ Hunter/Paladin/Rogue/Shaman/Warrior","EP/GP"],
 			"gp":"9",
 			"wowID":"20929"
 		},
