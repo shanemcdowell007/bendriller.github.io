@@ -1,7 +1,7 @@
 {
 	"Trash":{
 		"Cloak of Draconic Might":{
-			"prio":["Dardoc(1)","Vajeen(1)","Beanchet(1)","Bonzai(1)","EP/GP"],
+			"prio":["Dardoc(1)","Vajeen(1)","Beanchet(1)","EP/GP"],
 			"gp":"",
 			"wowID":"19436"
 		},
@@ -379,7 +379,7 @@
 			"wowID":"19345"
 		},
 		"Drake Fang Talisman":{
-			"prio":["Frau(2)","Notpq(1)","Killstep(flex)","Rogue?(1)","LC","EP/GP"],
+			"prio":["Frau(2)","Notpq(1)","SilkyJohnsn(2)","LC","EP/GP"],
 			"gp":"",
 			"wowID":"19406"
 		},
@@ -429,7 +429,7 @@
 			"wowID":"19357"
 		},
 		"Circle of Applied Force":{
-			"prio":["Chrixus(2)","Bonzai(1)","Warrior prio","Feral","EP/GP"],
+			"prio":["Chrixus(2)","Warrior prio","Feral","EP/GP"],
 			"gp":"",
 			"wowID":"19432"
 		}
