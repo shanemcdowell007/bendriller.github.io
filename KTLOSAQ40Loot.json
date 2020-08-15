@@ -65,7 +65,7 @@
 			"wowID":"21701"
 		},
 		"Leggings of Immersion":{
-			"prio":["Rasbeary","EP/GP"],
+			"prio":["EP/GP"],
 			"gp":"4",
 			"wowID":"21698"
 		},
@@ -127,7 +127,7 @@
 			"wowID":"21692"
 		},
 		"Guise of the Devourer":{
-			"prio":["Notpq","Feral druid","EP/GP"],
+			"prio":["Feral druid","EP/GP"],
 			"gp":"5",
 			"wowID":"21693"
 		},
@@ -240,7 +240,7 @@
 			"wowID":"21676"
 		},
 		"Legplates of Blazing Light":{
-			"prio":["Lianli","TZB","Thrane","Doligrian","Pally Healers","EP/GP"],
+			"prio":["TZB","Thrane","Doligrian","Pally Healers","EP/GP"],
 			"gp":"7",
 			"wowID":"21667"
 		},
@@ -322,7 +322,7 @@
 			"wowID":"21639"
 		},
 		"Robes of the Guardian Saint":{
-			"prio":["Healers","Jowsus","Wildhealer","Blunts","Terpgodd","EP/GP"],
+			"prio":["Healers","Jowsus","Blunts","Terpgodd","EP/GP"],
 			"gp":"8",
 			"wowID":"21663"
 		},
@@ -332,7 +332,7 @@
 			"wowID":"21651"
 		},
 		"Silithis Carapace Chestguard":{
-			"prio":["Dill","Dardoc","Chrixus","Impactt","Bonzai","Warriors","EP/GP"],
+			"prio":["Dill","Bonzai","Impactt","Chrixus","Warriors","EP/GP"],
 			"gp":"1",
 			"wowID":"21652"
 		},
@@ -359,7 +359,7 @@
 			"wowID":"21622"
 		},
 		"Ring of the Qiraji Fury":{
-			"prio":["Chrixus(1)","Huck(1)","Warrior->Hunter","EP/GP"],
+			"prio":["Chrixus(1)", "Dill(warrs w/o QSR?)","Warrior->Hunter","EP/GP"],
 			"gp":"6",
 			"wowID":"21677"
 		},
@@ -374,12 +374,12 @@
 			"wowID":"22399"
 		},
 		"Qiraji Bindings of Command":{
-			"prio":["Frau(2)","Vajeen(1)","Impactt(1)","Dill(1)","Silkyjohnson","Rogues->Non-drake talon DPS Warriors","EP/GP"],
+			"prio":["Impactt(1)","Dill(1)","Silkyjohnson","Rogues->Non-drake talon DPS Warriors","EP/GP"],
 			"gp":"8",
 			"wowID":"20928"
 		},
 		"Qiraji Bindings of Dominance":{
-			"prio":["Kuku","Coxxy","Blacklisted","Austeezy","EP/GP"],
+			"prio":["Kuku","Blacklisted","Austeezy","EP/GP"],
 			"gp":"8, 5 (pally)",
 			"wowID":"20932"
 		}
@@ -438,7 +438,7 @@
 			"wowID":"21599"
 		},
 		"Royal Scepter of Vek'lor":{
-			"prio":["Mageup","Rasbeary (depending on drops)","ThePrestige","Coxxy","Blacklisted","Meowingtons","Kuku","Austeezy","Raehn","EP/GP"],
+			"prio":["Mageup","ThePrestige","Coxxy","Blacklisted","Meowingtons","Kuku","Austeezy","Raehn","EP/GP"],
 			"gp":"8",
 			"wowID":"21597"
 		},
@@ -483,7 +483,7 @@
 			"wowID":"21607"
 		},
 		"Vek'nilash's Circlet":{
-			"prio":["Austeezy","Gotosleep","Kuku","Blacklisted","Non Mish Casters","Warrior/Priest/Mage/Warlock","EP/GP"],
+			"prio":["Gotosleep","Kuku","Blacklisted","Non Mish Casters","Warrior/Priest/Mage/Warlock","EP/GP"],
 			"gp":"5 (War), 8 (Mage/Warlock)",
 			"wowID":"20926"
 		},
@@ -525,7 +525,7 @@
 			"wowID":"23557"
 		},
 		"Ouro's Intact Hide":{
-			"prio":["Snydi(1)","Frau(2)","Dill(1)","Warrior/rogues","EP/GP"],
+			"prio":["Frau(2)","Dill(1)","Warrior/rogues","EP/GP"],
 			"gp":"8",
 			"wowID":"20927"
 		},
@@ -547,7 +547,7 @@
 			"wowID":"20933"
 		},
 		"Carapace of the Old God":{
-			"prio":["Snydi(1)","Frau(2)","Tuglight(1)","Wizzo(1)","Tanks","r12+ Hunter/Paladin/Rogue/Shaman/Warrior","EP/GP"],
+			"prio":["Snydi(1)","Tuglight(1)","Wizzo(1)","Tanks","r12+ Hunter/Paladin/Rogue/Shaman/Warrior","EP/GP"],
 			"gp":"9",
 			"wowID":"20929"
 		},
@@ -557,7 +557,7 @@
 			"wowID":"21596"
 		},
 		"Eyestalk Waist Cord":{
-			"prio":["Blacklisted","Reebs","Rhaen","Pennington","Meowingtons","EP/GP"],
+			"prio":["Reebs","Rhaen","Pennington","Meowingtons","EP/GP"],
 			"gp":"10",
 			"wowID":"22730"
 		},
@@ -577,7 +577,7 @@
 			"wowID":"21839"
 		},
 		"Mark of C'Thun":{
-			"prio":["Snydi(1)","Frau(2)","Tank","EP/GP"],
+			"prio":["Snydi(1)","Tank","EP/GP"],
 			"gp":"8",
 			"wowID":"22732"
 		},
@@ -607,7 +607,7 @@
 			"wowID":"21579"
 		},
 		"Dark Edge of Insanity":{
-			"prio":["THE LEGEND","PvP prio","EP/GP"],
+			"prio":["LC","PvP prio","EP/GP"],
 			"gp":"20",
 			"wowID":"21134"
 		},
