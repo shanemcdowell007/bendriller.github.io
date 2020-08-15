@@ -1,7 +1,7 @@
 {
 	"Trash":{
 		"Cloak of Draconic Might":{
-			"prio":["Dardoc(1)","Vajeen(1)","Beanchet(1)","EP/GP"],
+			"prio":["Vajeen(1)","Beanchet(1)","EP/GP"],
 			"gp":"",
 			"wowID":"19436"
 		},
@@ -185,7 +185,7 @@
 			"wowID":"19348"
 		},
 		"Dragonfang Blade":{
-			"prio":["Ucuucu","Mainspec Dagger Rogues prio","Dagger tank w/ ACLG","Offspec Rogues","EP/GP"],
+			"prio":["Mainspec Dagger Rogues prio","Dagger tank w/ ACLG","Offspec Rogues","EP/GP"],
 			"gp":"",
 			"wowID":"19346"
 		}
@@ -247,7 +247,7 @@
 			"wowID":"19373"
 		},
 		"Bracers of Arcane Accuracy":{
-			"prio":["Austeezy(1)","Mageup(2)","Dasmi(2)","Gotosleep(1)","EP/GP"],
+			"prio":["Gotosleep(1)","EP/GP"],
 			"gp":"",
 			"wowID":"19374"
 		},
@@ -334,7 +334,7 @@
 			"wowID":"19400"
 		},
 		"Taut Dragonhide Belt":{
-			"prio":["Notpq(1)","EP/GP"],
+			"prio":["EP/GP"],
 			"gp":"",
 			"wowID":"19396"
 		},
@@ -399,7 +399,7 @@
 			"wowID":"19368"
 		},
 		"Band of Forced Concentration":{
-			"prio":["Kuku(1)","Mageup(2)","Austeezy(1)","Rasbeary(1)","Reahn(1)","Dasmi(2)","Gotosleep(1)","Warlock prio","EP/GP"],
+			"prio":["Mageup(2)","Rasbeary(1)","Reahn(1)","Gotosleep(1)","Warlock prio","EP/GP"],
 			"gp":"",
 			"wowID":"19403"
 		},
@@ -516,7 +516,7 @@
 			"wowID":"19391"
 		},
 		"Chromatic Boots":{
-			"prio":["Vajeen(1)","Impactt(1)","DPS Then Tanks","EP/GP"],
+			"prio":["Impactt(1)","DPS Then Tanks","EP/GP"],
 			"gp":"",
 			"wowID":"19387"
 		},
@@ -593,7 +593,7 @@
 			"wowID":"19360"
 		},
 		"Crulshorukh Edge of Chaos":{
-			"prio":["Frau(2)","Edgemaster prio","EP/GP"],
+			"prio":["Edgemaster prio","EP/GP"],
 			"gp":"",
 			"wowID":"19363"
 		},
@@ -603,7 +603,7 @@
 			"wowID":"19364"
 		},
 		"Staff of Shadow Flame":{
-			"prio":["Austeezy(1)","Coxxy(1)","Dasmi(2)","EP/GP"],
+			"prio":["EP/GP"],
 			"gp":"14",
 			"wowID":"19356"
 		},
@@ -623,7 +623,7 @@
 			"wowID":"19378"
 		},
 		"Therazanes Link":{
-			"prio":["EP/GP"],
+			"prio":["Doligrian","EP/GP"],
 			"gp":"",
 			"wowID":"19380"
 		},
@@ -638,7 +638,7 @@
 			"wowID":"19376"
 		},
 		"Pure Elementium Band":{
-			"prio":["Doligrian(1)","Rasbeary(1)","EP/GP"],
+			"prio":["Rasbeary(1)","EP/GP"],
 			"gp":"",
 			"wowID":"19382"
 		},
