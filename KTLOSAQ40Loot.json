@@ -542,7 +542,7 @@
 			"wowID":"21221"
 		},
 		"Husk of the Old God":{
-			"prio":["Pennington","Gotosleep","Rasbeary","Druid/Mage/Priest/Warlock","EP/GP"],
+			"prio":["Pennington","Gotosleep","Druid/Mage/Priest/Warlock","EP/GP"],
 			"gp":"6",
 			"wowID":"20933"
 		},
