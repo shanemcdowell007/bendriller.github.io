@@ -488,7 +488,7 @@
 			"wowID":"20926"
 		},
 		"Gloves of the Hidden Temple":{
-			"prio":["EP/GP"],
+			"prio":["Notpq(1)","EP/GP"],
 			"gp":"3",
 			"wowID":"21605"
 		}
