@@ -525,7 +525,7 @@
 			"wowID":"23557"
 		},
 		"Ouro's Intact Hide":{
-			"prio":["Frau(2)","Dill(1)","Warrior/rogues","EP/GP"],
+			"prio":["Frau(2)","Dill(1)","Wizzo(2)","Aisli(1)","Warrior/rogues","EP/GP"],
 			"gp":"8",
 			"wowID":"20927"
 		},
@@ -547,7 +547,7 @@
 			"wowID":"20933"
 		},
 		"Carapace of the Old God":{
-			"prio":["Snydi(1)","Tuglight(1)","Wizzo(1)","Tanks","r12+ Hunter/Paladin/Rogue/Shaman/Warrior","EP/GP"],
+			"prio":["Snydi(1)","Tuglight(1)","Wizzo(2)","Tanks","r12+ Hunter/Paladin/Rogue/Warrior","EP/GP"],
 			"gp":"9",
 			"wowID":"20929"
 		},
@@ -567,7 +567,7 @@
 			"wowID":"22731"
 		},
 		"Gauntlets of Annihilation":{
-			"prio":["Dill(1)","Fury->Tank","EP/GP"],
+			"prio":["Dill(1)","LC","Fury->Tank","EP/GP"],
 			"gp":"10",
 			"wowID":"21581"
 		},
