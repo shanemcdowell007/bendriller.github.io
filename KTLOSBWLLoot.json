@@ -429,7 +429,7 @@
 			"wowID":"19357"
 		},
 		"Circle of Applied Force":{
-			"prio":["Chrixus(2)","Warrior prio","Feral","EP/GP"],
+			"prio":["Warrior prio","Feral","EP/GP"],
 			"gp":"",
 			"wowID":"19432"
 		}
@@ -526,7 +526,7 @@
 			"wowID":"19361"
 		},
 		"Elementium Reinforced Bulwark":{
-			"prio":["EP/GP"],
+			"prio":["Tanks","EP/GP"],
 			"gp":"",
 			"wowID":"19349"
 		},
@@ -608,7 +608,7 @@
 			"wowID":"19356"
 		},
 		"Mishundare Circlet of the Mind Flayer":{
-			"prio":["Rasbeary(1)","Blacklisted(1)","Svir(1)","EP/GP"],
+			"prio":["Rasbeary(1)","Svir(1)","EP/GP"],
 			"gp":"",
 			"wowID":"19375"
 		},
@@ -638,7 +638,7 @@
 			"wowID":"19376"
 		},
 		"Pure Elementium Band":{
-			"prio":["Rasbeary(1)","EP/GP"],
+			"prio":["EP/GP"],
 			"gp":"",
 			"wowID":"19382"
 		},
