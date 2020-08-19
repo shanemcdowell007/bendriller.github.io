@@ -379,7 +379,7 @@
 			"wowID":"20928"
 		},
 		"Qiraji Bindings of Dominance":{
-			"prio":["Kuku","Austeezy","EP/GP"],
+			"prio":["Kuku","EP/GP"],
 			"gp":"8, 5 (pally)",
 			"wowID":"20932"
 		}
@@ -525,7 +525,7 @@
 			"wowID":"23557"
 		},
 		"Ouro's Intact Hide":{
-			"prio":["Frau(2)","Aisli(1)","Warrior/rogues","EP/GP"],
+			"prio":["Aisli(1)","Warrior/rogues","EP/GP"],
 			"gp":"8",
 			"wowID":"20927"
 		},
