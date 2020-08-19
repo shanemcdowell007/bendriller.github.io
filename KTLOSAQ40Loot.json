@@ -240,7 +240,7 @@
 			"wowID":"21676"
 		},
 		"Legplates of Blazing Light":{
-			"prio":["TZB","Thrane","Doligrian","Pally Healers","EP/GP"],
+			"prio":["Doligrian R1","Bergerac R2","To EP/GP Pally Healers"],
 			"gp":"7",
 			"wowID":"21667"
 		},
@@ -322,7 +322,7 @@
 			"wowID":"21639"
 		},
 		"Robes of the Guardian Saint":{
-			"prio":["Healers","Jowsus","Blunts","Terpgodd","EP/GP"],
+			"prio":["Healers","Blunts R2","Faith R1","Peku R2","Celesdea R1","EP/GP"],
 			"gp":"8",
 			"wowID":"21663"
 		},
@@ -406,7 +406,7 @@
 			"wowID":"21617"
 		},
 		"Ring of the Martyr":{
-			"prio":["Faith","Celesdea","Silkybalboa","Terpgodd","Peku","EP/GP"],
+			"prio":["Faith R1","Celesdea R1","Silkybalboa R1","Terpgodd R1","Peku R2","Bergerac R2","Darkdwarf R2","EP/GP"],
 			"gp":"6",
 			"wowID":"21620"
 		}, 
@@ -468,7 +468,7 @@
 			"wowID":"21606"
 		},
 		"Bracelets of Royal Redemption":{
-			"prio":["Druid and Pally Prio Healers","Blunts","Silkybalboa","TZB","Terpgodd","Lianli","Faith","Peku","EP/GP"],
+			"prio":["Druid and Pally Prio Healers","Blunts R2","Silkybalboa R1","Terpgodd R1","Lianli R1","Faith R1","Peku R2","Bergerac","EP/GP"],
 			"gp":"8",
 			"wowID":"21604"
 		},
@@ -495,7 +495,7 @@
 	},
 	"Ouro":{
 		"Don Rigoberto's Lost Hat":{
-			"prio":["Claris","Silky","Mh","Peku","Jowsus","Terpgodd","Wildhealer","Priest and Druid Prio Healers","EP/GP"],
+			"prio":["Claris R1","Silky R1","Peku R2","Jowsus R1","Terpgodd R1","Wildhealer R1","Nisio R2","Darkdwarf R2","Priest and Druid Prio Healers","EP/GP"],
 			"gp":"8",
 			"wowID":"21615"
 		},
@@ -582,7 +582,7 @@
 			"wowID":"22732"
 		},
 		"Cloak of Clarity":{
-			"prio":["Healers","Chuffy","Jowsus","Wildhealer","EP/GP"],
+			"prio":["Healers","Chuffy R2","Jowsus R1","Wildhealer R1","Healers to EP/GP"],
 			"gp":"6",
 			"wowID":"21583"
 		},
@@ -592,7 +592,7 @@
 			"wowID":"21585"
 		},
 		"Grasp of the Old God":{
-			"prio":["Healers,MH,Lianli,Tezebe","Thrane","EP/GP"],
+			"prio":["Healers to EP/GP"],
 			"gp":"10",
 			"wowID":"21582"
 		},
