@@ -203,7 +203,7 @@
 			"wowID":"21688"
 		},
 		"Gloves of Ebru":{
-			"prio":["Rasbeary(1)","EP/GP"],
+			"prio":["EP/GP"],
 			"gp":"3",
 			"wowID":"21689"
 		},
@@ -240,7 +240,7 @@
 			"wowID":"21676"
 		},
 		"Legplates of Blazing Light":{
-			"prio":["Doligrian R1","Bergerac R2","To EP/GP Pally Healers"],
+			"prio":["Doligrian(1)","Bergerac(2)","To EP/GP Pally Healers"],
 			"gp":"7",
 			"wowID":"21667"
 		},
@@ -322,7 +322,7 @@
 			"wowID":"21639"
 		},
 		"Robes of the Guardian Saint":{
-			"prio":["Healers","Blunts R2","Faith R1","Peku R2","Celesdea R1","EP/GP"],
+			"prio":["Blunts(2)","Faith(1)","Peku(2)","Celesdea(1)","Healers","EP/GP"],
 			"gp":"8",
 			"wowID":"21663"
 		},
@@ -359,7 +359,7 @@
 			"wowID":"21622"
 		},
 		"Ring of the Qiraji Fury":{
-			"prio":["Chrixus(1)", "Dill(warrs w/o QSR?)","Warrior->Hunter","EP/GP"],
+			"prio":["Dill(warrs w/o QSR?)","Warrior->Hunter","EP/GP"],
 			"gp":"6",
 			"wowID":"21677"
 		},
@@ -374,12 +374,12 @@
 			"wowID":"22399"
 		},
 		"Qiraji Bindings of Command":{
-			"prio":["Impactt(1)","Dill(1)","Silkyjohnson","Rogues->Non-drake talon DPS Warriors","EP/GP"],
+			"prio":["Silkyjohnson(2)","Rogues->Non-drake talon DPS Warriors","EP/GP"],
 			"gp":"8",
 			"wowID":"20928"
 		},
 		"Qiraji Bindings of Dominance":{
-			"prio":["Kuku","Blacklisted","Austeezy","EP/GP"],
+			"prio":["Kuku","EP/GP"],
 			"gp":"8, 5 (pally)",
 			"wowID":"20932"
 		}
@@ -391,7 +391,7 @@
 			"wowID":"21621"
 		},
 		"Hive Defiler Wristguards":{
-			"prio":["Vajeen(1)","Bonzai(1)","Dardoc","EP/GP"],
+			"prio":["Bonzai(1)","EP/GP"],
 			"gp":"6",
 			"wowID":"21618"
 		},
@@ -423,7 +423,7 @@
 			"wowID":"21598"
 		},
 		"Amulet of Veknilash":{
-			"prio":["Reebs","Rhaen","Pennington","Theprestige","Meowingtons","Mages/Warlocks","EP/GP"],
+			"prio":["Reebs","Pennington","Theprestige","Meowingtons","Mages/Warlocks","EP/GP"],
 			"gp":"8",
 			"wowID":"21608"
 		},
@@ -453,7 +453,7 @@
 			"wowID":"21601"
 		},
 		"Vek'lor's Diadem":{
-			"prio":["SilkyJohnsn","Bendriller","Supertoxic","Stopbegging","Chart","Retlol","EP/GP"],
+			"prio":["Supertoxic(1)","Stopbegging(2)","Killstep(2)","Chart(1)","rogues","EP/GP"],
 			"gp":"8",
 			"wowID":"20930"
 		},
@@ -483,7 +483,7 @@
 			"wowID":"21607"
 		},
 		"Vek'nilash's Circlet":{
-			"prio":["Gotosleep","Kuku","Blacklisted","Non Mish Casters","Warrior/Priest/Mage/Warlock","EP/GP"],
+			"prio":["Kuku","Blacklisted","Non Mish Casters","Warrior/Priest/Mage/Warlock","EP/GP"],
 			"gp":"5 (War), 8 (Mage/Warlock)",
 			"wowID":"20926"
 		},
@@ -525,7 +525,7 @@
 			"wowID":"23557"
 		},
 		"Ouro's Intact Hide":{
-			"prio":["Frau(2)","Dill(1)","Aisli(1)","Warrior/rogues","EP/GP"],
+			"prio":["Aisli(1)","Warrior/rogues","EP/GP"],
 			"gp":"8",
 			"wowID":"20927"
 		},
@@ -537,17 +537,17 @@
 	},
 	"Cthun":{
 		"Eye of C'Thun":{
-			"prio":["Mageup","Rhaen","Gotosleep(skip until kazzak)","Bendriller","Theprestige","Austeesy","Kuku","Coxxy","EP/GP"],
+			"prio":["Mageup","Gotosleep(skip until kazzak)","Bendriller","Theprestige","Austeesy","Kuku","Coxxy","EP/GP"],
 			"gp":"6",
 			"wowID":"21221"
 		},
 		"Husk of the Old God":{
-			"prio":["Pennington","Gotosleep","Druid/Mage/Priest/Warlock","EP/GP"],
+			"prio":["Gotosleep","Druid/Mage/Priest/Warlock","EP/GP"],
 			"gp":"6",
 			"wowID":"20933"
 		},
 		"Carapace of the Old God":{
-			"prio":["Snydi(1)","Tuglight(1)","Wizzo(2)","Tanks","r12+ Hunter/Paladin/Rogue/Warrior","EP/GP"],
+			"prio":["Tuglight(1)","Wizzo(2)","Tanks","r12+ Hunter/Paladin/Rogue/Warrior","EP/GP"],
 			"gp":"9",
 			"wowID":"20929"
 		},
