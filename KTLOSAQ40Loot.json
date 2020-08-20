@@ -1,7 +1,7 @@
 {
 	"Trash":{
 		"Anubisath Warhammer":{
-			"prio":["Mulligen","Humans w/ emp demolisher","Human Warriors","EP/GP"],
+			"prio":["Mulligen(1)","Wizzo(2)","Human Warriors","EP/GP"],
 			"gp":"7",
 			"wowID":"21837"
 		},
@@ -43,7 +43,7 @@
 			"wowID":"21232"
 		},
 		"Imperial Qiraji Regalia":{
-			"prio":["Austeezy(1)","Notpq(1)","Kuku(1)","EP/GP"],
+			"prio":["Austeezy(1)","Notpq(1)","Kuku(1)","Wizzo(2)","EP/GP"],
 			"gp":"6",
 			"wowID":"21237"
 		}
