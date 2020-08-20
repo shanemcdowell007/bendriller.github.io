@@ -38,7 +38,7 @@
 	},
 	"Boss Shared":{
 		"Imperial Qiraji Armaments":{
-			"prio":["SilkyJohnsn(2)","Supertoxic(1)","Stopbegging(2)","Shadowsfade(1)","Impactt(1)","EP/GP"],
+			"prio":["SilkyJohnsn(2)","Stopbegging(2)","Shadowsfade(1)","Impactt(1)","EP/GP"],
 			"gp":"10 (Pugio/Waraxe), 5 (otherwise)",
 			"wowID":"21232"
 		},
@@ -250,7 +250,7 @@
 			"wowID":"21678"
 		},
 		"Recomposed Boots":{
-			"prio":["Rogues/Hunters for NR soak","EP/GP"],
+			"prio":["Caster Soakers","EP/GP"],
 			"gp":"1",
 			"wowID":"21648"
 		},
@@ -292,7 +292,7 @@
 			"wowID":"21635"
 		},
 		"Barbed Choker":{
-			"prio":["Chrixus(1)","Bonzai(1)","Beanchet(1)","Vajeen(1)","Warriors/PvP","EP/GP"],
+			"prio":["Chrixus(1)","Bonzai(1)","Vajeen(1)","Warriors/PvP","EP/GP"],
 			"gp":"6",
 			"wowID":"21664"
 		},
@@ -349,7 +349,7 @@
 			"wowID":"21624"
 		},
 		"Slime-coated Leggings":{
-			"prio":["EP/GP"],
+			"prio":["Warrior Soakers","EP/GP"],
 			"gp":"1",
 			"wowID":"21626"
 		},
@@ -374,7 +374,7 @@
 			"wowID":"22399"
 		},
 		"Qiraji Bindings of Command":{
-			"prio":["Silkyjohnson(2)","Rogues->Non-drake talon DPS Warriors","EP/GP"],
+			"prio":["Silkyjohnson","non-DTP/R13 DPS Warriors->Rogues->Warriors","EP/GP"],
 			"gp":"8",
 			"wowID":"20928"
 		},
@@ -423,7 +423,7 @@
 			"wowID":"21598"
 		},
 		"Amulet of Veknilash":{
-			"prio":["Reebs","Pennington","Theprestige","Meowingtons","Mages/Warlocks","EP/GP"],
+			"prio":["Pennington","Theprestige","Meowingtons","Mages/Warlocks","EP/GP"],
 			"gp":"8",
 			"wowID":"21608"
 		},
@@ -525,7 +525,7 @@
 			"wowID":"23557"
 		},
 		"Ouro's Intact Hide":{
-			"prio":["Aisli(1)","Warrior/rogues","EP/GP"],
+			"prio":["Frau(2)","Aisli(1)","Tuglight(1)","Warrior TANKS->rogues","EP/GP"],
 			"gp":"8",
 			"wowID":"20927"
 		},
@@ -557,12 +557,12 @@
 			"wowID":"21596"
 		},
 		"Eyestalk Waist Cord":{
-			"prio":["Reebs","Rhaen","Pennington","Meowingtons","EP/GP"],
+			"prio":["Rhaen","Pennington","Meowingtons","EP/GP"],
 			"gp":"10",
 			"wowID":"22730"
 		},
 		"Cloak of the Devoured":{
-			"prio":["Austeezy","Pennington","Kuku","Reebs","EP/GP"],
+			"prio":["Pennington","Kuku","Reebs","EP/GP"],
 			"gp":"5",
 			"wowID":"22731"
 		},
