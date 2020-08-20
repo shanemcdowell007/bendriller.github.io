@@ -43,7 +43,7 @@
 			"wowID":"21232"
 		},
 		"Imperial Qiraji Regalia":{
-			"prio":["Austeezy","Notpq","Coxxy","Blacklisted","Kuku","Wizzo(2)","EP/GP"],
+			"prio":["Austeezy(1)","Notpq(1)","Kuku(1)","Wizzo(2)","EP/GP"],
 			"gp":"6",
 			"wowID":"21237"
 		}
@@ -149,7 +149,7 @@
 			"wowID":"21685"
 		},
 		"Wand of Qiraji Nobility":{
-			"prio":["Gotosleep(1)","EP/GP"],
+			"prio":["Raehn(1)","Gotosleep(1)","EP/GP"],
 			"gp":"5",
 			"wowID":"21603"
 		},
@@ -354,7 +354,7 @@
 			"wowID":"21626"
 		},
 		"Sharpened Silithid Femur":{
-			"prio":["ThePrestige","Coxxy","Blacklisted","Meowingtons","Kuku","Austeezy","Raehn","EP/GP"],
+			"prio":["Coxxy","Blacklisted","Meowingtons","ThePrestige","Kuku","Austeezy","Raehn","EP/GP"],
 			"gp":"14",
 			"wowID":"21622"
 		},
@@ -379,7 +379,7 @@
 			"wowID":"20928"
 		},
 		"Qiraji Bindings of Dominance":{
-			"prio":["Kuku","EP/GP"],
+			"prio":["Kuku(1)","Killmcpickle(2)","Svir(2)","Moxie(2)","Raehn(1)","Warlock->Mages","EP/GP"],
 			"gp":"8, 5 (pally)",
 			"wowID":"20932"
 		}
@@ -423,7 +423,7 @@
 			"wowID":"21598"
 		},
 		"Amulet of Veknilash":{
-			"prio":["Pennington","Theprestige","Meowingtons","Mages/Warlocks","EP/GP"],
+			"prio":["Pennington","Theprestige","Meowingtons","Raehn","Mages/Warlocks","EP/GP"],
 			"gp":"8",
 			"wowID":"21608"
 		},
@@ -438,7 +438,7 @@
 			"wowID":"21599"
 		},
 		"Royal Scepter of Vek'lor":{
-			"prio":["Mageup","ThePrestige","Coxxy","Blacklisted","Meowingtons","Kuku","Austeezy","Raehn","EP/GP"],
+			"prio":["ThePrestige(1)","Coxxy(1)","Blacklisted(1)","Mageup(1)","Meowingtons(1)","Kuku(1)","Austeezy(1)","Raehn(1)","EP/GP"],
 			"gp":"8",
 			"wowID":"21597"
 		},
@@ -483,7 +483,7 @@
 			"wowID":"21607"
 		},
 		"Vek'nilash's Circlet":{
-			"prio":["Kuku","Blacklisted","Non Mish Casters","Warrior/Priest/Mage/Warlock","EP/GP"],
+			"prio":["Kuku(1)","Meowingtons(1)","Non Mish Casters","Warrior/Priest/Mage/Warlock","EP/GP"],
 			"gp":"5 (War), 8 (Mage/Warlock)",
 			"wowID":"20926"
 		},
@@ -537,7 +537,7 @@
 	},
 	"Cthun":{
 		"Eye of C'Thun":{
-			"prio":["Mageup","Gotosleep(skip until kazzak)","Bendriller","Theprestige","Austeesy","Kuku","Coxxy","EP/GP"],
+			"prio":["Gotosleep(skip until kazzak)","Bendriller(1)","Theprestige(1)","Austeezy(1)","Kuku(1)","Coxxy(1)","Mageup(1)","EP/GP"],
 			"gp":"6",
 			"wowID":"21221"
 		},
@@ -552,7 +552,7 @@
 			"wowID":"20929"
 		},
 		"Ring of the Godslayer":{
-			"prio":["EP/GP"],
+			"prio":["Oph(1)","EP/GP"],
 			"gp":"3",
 			"wowID":"21596"
 		},
@@ -562,7 +562,7 @@
 			"wowID":"22730"
 		},
 		"Cloak of the Devoured":{
-			"prio":["Pennington","Kuku","Reebs","EP/GP"],
+			"prio":["Pennington","Kuku","EP/GP"],
 			"gp":"5",
 			"wowID":"22731"
 		},
@@ -587,7 +587,7 @@
 			"wowID":"21583"
 		},
 		"Dark Storm Gauntlets":{
-			"prio":["Coxxy","Blacklisted","Kuku","Austeezy","Gotosleep","EP/GP"],
+			"prio":["Coxxy(1)","Blacklisted(1)","Kuku(1)","Austeezy(1)","Votelock(2)","Gotosleep","EP/GP"],
 			"gp":"10",
 			"wowID":"21585"
 		},
