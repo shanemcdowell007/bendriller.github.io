@@ -149,7 +149,7 @@
 			"wowID":"21685"
 		},
 		"Wand of Qiraji Nobility":{
-			"prio":["Gotosleep(1)","EP/GP"],
+			"prio":["Raehn(1)","Gotosleep(1)","EP/GP"],
 			"gp":"5",
 			"wowID":"21603"
 		},
@@ -483,7 +483,7 @@
 			"wowID":"21607"
 		},
 		"Vek'nilash's Circlet":{
-			"prio":["Kuku(1)","Non Mish Casters","Warrior/Priest/Mage/Warlock","EP/GP"],
+			"prio":["Kuku(1)","Meowingtons(1)","Non Mish Casters","Warrior/Priest/Mage/Warlock","EP/GP"],
 			"gp":"5 (War), 8 (Mage/Warlock)",
 			"wowID":"20926"
 		},
