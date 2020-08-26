@@ -38,7 +38,7 @@
 	},
 	"Boss Shared":{
 		"Imperial Qiraji Armaments":{
-			"prio":["SilkyJohnsn(2)","Stopbegging(2)","Shadowsfade(1)","Impactt(1)","EP/GP"],
+			"prio":["SilkyJohnsn(2)","Stopbegging(2)","Impactt(1)","EP/GP"],
 			"gp":"10 (Pugio/Waraxe), 5 (otherwise)",
 			"wowID":"21232"
 		},
@@ -198,7 +198,7 @@
 			"wowID":"21690"
 		},
 		"Boots of the Fallen Hero":{
-			"prio":["Tuglight(1)","Tanks w/o Chromatic","EP/GP"],
+			"prio":["Tanks w/o Chromatic","EP/GP"],
 			"gp":"6",
 			"wowID":"21688"
 		},
@@ -275,7 +275,7 @@
 			"wowID":"21673"
 		},
 		"Thick Qirajihide Belt":{
-			"prio":["Notpq","EP/GP"],
+			"prio":["EP/GP"],
 			"gp":"2",
 			"wowID":"21675"
 		}
@@ -317,7 +317,7 @@
 			"wowID":"21665"
 		},
 		"Pauldrons of the Unrelenting":{
-			"prio":["Snydi(1)","Tanks","EP/GP"],
+			"prio":["Tanks","EP/GP"],
 			"gp":"5",
 			"wowID":"21639"
 		},
@@ -391,7 +391,7 @@
 			"wowID":"21621"
 		},
 		"Hive Defiler Wristguards":{
-			"prio":["Bonzai(1)","EP/GP"],
+			"prio":["Bonzai(1)", "Impact","EP/GP"],
 			"gp":"6",
 			"wowID":"21618"
 		},
@@ -453,7 +453,7 @@
 			"wowID":"21601"
 		},
 		"Vek'lor's Diadem":{
-			"prio":["Supertoxic(1)","Killstep(2)","Chart(1)","rogues","EP/GP"],
+			"prio":["Killstep(2)","Chart(1)","rogues","EP/GP"],
 			"gp":"8",
 			"wowID":"20930"
 		},
@@ -483,7 +483,7 @@
 			"wowID":"21607"
 		},
 		"Vek'nilash's Circlet":{
-			"prio":["Kuku(1)","Meowingtons(1)","Non Mish Casters","Warrior/Priest/Mage/Warlock","EP/GP"],
+			"prio":["Meowingtons(1)","Non Mish Casters","Warrior/Priest/Mage/Warlock","EP/GP"],
 			"gp":"5 (War), 8 (Mage/Warlock)",
 			"wowID":"20926"
 		},
@@ -525,7 +525,7 @@
 			"wowID":"23557"
 		},
 		"Ouro's Intact Hide":{
-			"prio":["Aisli(1)","Tuglight(1)","Warrior TANKS->rogues","EP/GP"],
+			"prio":["Tuglight(1)","Warrior TANKS->rogues","EP/GP"],
 			"gp":"8",
 			"wowID":"20927"
 		},
@@ -537,17 +537,17 @@
 	},
 	"Cthun":{
 		"Eye of C'Thun":{
-			"prio":["Gotosleep(skip until kazzak)","Bendriller(1)","Rasbeary(1)","Austeezy(1)","Kuku(1)","Coxxy(1)","Mageup(1)","Theprestige(1)","EP/GP"],
+			"prio":["Gotosleep(skip until kazzak)","Rasbeary(1)","Austeezy(1)","Kuku(1)","Coxxy(1)","Mageup(1)","Theprestige(1)","EP/GP"],
 			"gp":"6",
 			"wowID":"21221"
 		},
 		"Husk of the Old God":{
-			"prio":["Gotosleep","Druid/Mage/Priest/Warlock","EP/GP"],
+			"prio":["Druid/Mage/Priest/Warlock","EP/GP"],
 			"gp":"6",
 			"wowID":"20933"
 		},
 		"Carapace of the Old God":{
-			"prio":["Tuglight(1)","Wizzo(2)","Tanks","r12+ Hunter/Paladin/Rogue/Warrior","EP/GP"],
+			"prio":["Tanks","r12+ Hunter>Rogue>Ret>Warrior","EP/GP"],
 			"gp":"9",
 			"wowID":"20929"
 		},
@@ -557,7 +557,7 @@
 			"wowID":"21596"
 		},
 		"Eyestalk Waist Cord":{
-			"prio":["Rhaen","Pennington","Meowingtons","EP/GP"],
+			"prio":["Pennington","Meowingtons","EP/GP"],
 			"gp":"10",
 			"wowID":"22730"
 		},
@@ -567,7 +567,7 @@
 			"wowID":"22731"
 		},
 		"Gauntlets of Annihilation":{
-			"prio":["Dill(1)","LC","Fury->Tank","EP/GP"],
+			"prio":["Bonzai","LC","Fury->Tank","EP/GP"],
 			"gp":"10",
 			"wowID":"21581"
 		},
