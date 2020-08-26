@@ -78,7 +78,7 @@
 			"wowID":"16935"
 		},
 		"Judgement Bindings":{
-			"prio":["PuffBuffCast(1)","EP/GP"],
+			"prio":["EP/GP"],
 			"gp":"",
 			"wowID":"16951"
 		},
@@ -98,7 +98,7 @@
 			"wowID":"19337"
 		},
 		"Mantle of the Blackwing Cabal":{
-			"prio":["KuKu(1)","DPS Caster prio EPGP","EP/GP"],
+			"prio":["DPS Caster prio EPGP","EP/GP"],
 			"gp":"",
 			"wowID":"19370"
 		},
@@ -257,12 +257,12 @@
 			"wowID":"19350"
 		},
 		"Maladath, Runed Blade of the Black Flight":{
-			"prio":["Beeny(2)","Dillmcpickle(1)","Wizzo(1)","LC","Human Warr/Non-human Rogue","EP/GP"],
+			"prio":["Beeny(2)","Wizzo(1)","Vajeen","LC","Human Warr/Non-human Rogue","EP/GP"],
 			"gp":"",
 			"wowID":"19351"
 		},
 		"Head of the Broodlord Lashlayer":{
-			"prio":["Blacklisted(1)","Pekuman(2)","EP/GP"],
+			"prio":["EP/GP"],
 			"gp":"",
 			"wowID":"20383"
 		}
@@ -344,7 +344,7 @@
 			"wowID":"19401"
 		},
 		"Legguards of the Fallen Crusader":{
-			"prio":["Tuglight(1)","Tank prio MT/OT","EP/GP"],
+			"prio":["Tank prio MT/OT","EP/GP"],
 			"gp":"",
 			"wowID":"19402"
 		},
@@ -379,7 +379,7 @@
 			"wowID":"19345"
 		},
 		"Drake Fang Talisman":{
-			"prio":["Frau(2)","Notpq(1)","SilkyJohnsn(2)","LC","EP/GP"],
+			"prio":["Notpq(1)","SilkyJohnsn(2)","LC","EP/GP"],
 			"gp":"",
 			"wowID":"19406"
 		},
@@ -608,7 +608,7 @@
 			"wowID":"19356"
 		},
 		"Mishundare Circlet of the Mind Flayer":{
-			"prio":["Rasbeary(1)","Svir(1)","EP/GP"],
+			"prio":["Rasbeary(1)","EP/GP"],
 			"gp":"",
 			"wowID":"19375"
 		},
@@ -633,7 +633,7 @@
 			"wowID":"19381"
 		},
 		"Archimtiros Ring of Reckoning":{
-			"prio":["Tank Prio","PvP Rank prio among Physical DPS","EP/GP"],
+			"prio":["Dill","Tank Prio","PvP Rank prio among Physical DPS","EP/GP"],
 			"gp":"5",
 			"wowID":"19376"
 		},
