@@ -354,7 +354,7 @@
 			"wowID":"21626"
 		},
 		"Sharpened Silithid Femur":{
-			"prio":["Coxxy","Blacklisted","Meowingtons","ThePrestige","Kuku","Austeezy","Raehn","EP/GP"],
+			"prio":["Coxxy(1)","Theprestige(1)","Blacklisted(1)","Meowingtons(1)","Kuku(1)","Austeezy(1)","Raehn(1)","EP/GP"],
 			"gp":"14",
 			"wowID":"21622"
 		},
@@ -537,7 +537,7 @@
 	},
 	"Cthun":{
 		"Eye of C'Thun":{
-			"prio":["Gotosleep(skip until kazzak)","Rasbeary(1)","Austeezy(1)","Kuku(1)","Coxxy(1)","Mageup(1)","Theprestige(1)","EP/GP"],
+			"prio":["Mageup(1)","Gotosleep(skip until kazzak)","Rasbeary(1)","Austeezy(1)","Kuku(1)","Coxxy(1)","Theprestige(1)","EP/GP"],
 			"gp":"6",
 			"wowID":"21221"
 		},
@@ -557,7 +557,7 @@
 			"wowID":"21596"
 		},
 		"Eyestalk Waist Cord":{
-			"prio":["Pennington","Meowingtons","EP/GP"],
+			"prio":["Theprestige(1)","Pennington","Meowingtons","EP/GP"],
 			"gp":"10",
 			"wowID":"22730"
 		},
