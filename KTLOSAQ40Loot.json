@@ -1,7 +1,7 @@
 {
 	"Trash":{
 		"Anubisath Warhammer":{
-			"prio":["Mulligen (1)","Wizzo(2)","Human Warriors","EP/GP"],
+			"prio":["Mulligen(1)","Wizzo(2)","Human Warriors","EP/GP"],
 			"gp":"7",
 			"wowID":"21837"
 		},
@@ -260,7 +260,7 @@
 			"wowID":"21671"
 		},
 		"Sartura's Might":{
-			"prio":["Celesdea","Faith","Healers","EP/GP"],
+			"prio":["Celesdea(2)","Faith(1)","Healers","EP/GP"],
 			"gp":"5",
 			"wowID":"21666"
 		},
@@ -282,7 +282,7 @@
 	},
 	"Fankriss the Unyielding":{
 		"Ancient Qiraji Ripper":{
-			"prio":["Chart(1)","Killstep(1)","Dz(3)","rogues w/o cts","warriors w/o cts","LC","EP/GP"],
+			"prio":["Chart(1)","Killstep(1)","rogues w/o cts","warriors w/o cts","LC","EP/GP"],
 			"gp":"14",
 			"wowID":"21650"
 		},
@@ -322,7 +322,7 @@
 			"wowID":"21639"
 		},
 		"Robes of the Guardian Saint":{
-			"prio":["Faith(1)","Peku(2)","Celesdea(1)","Healers","EP/GP"],
+			"prio":["Faith(1)","Peku(2)","Celesdea(2)","Healers","EP/GP"],
 			"gp":"8",
 			"wowID":"21663"
 		},
@@ -337,7 +337,7 @@
 			"wowID":"21652"
 		},
 		"Libram of Grace":{
-			"prio":["Pally Healers","Blunts","Lianli","Thrane","TZB","EP/GP"],
+			"prio":["Pally Healers","Blunts(2)","Lianli(1)","Bergerac(2)","Thrane(1)","Doligrian(1)","EP/GP"],
 			"gp":"3",
 			"wowID":"22402"
 		}
@@ -369,7 +369,7 @@
 			"wowID":"21625"
 		},
 		"Idol of Health":{
-			"prio":["Druid healers","Silkybalboa","Peku","Celesdea","Terpgodd","Faith","Druid Healer","EP/GP"],
+			"prio":["Druid healers","Silkybalboa(1)","Peku(2)","Celesdea(2)","Faith(1)","Kare(1)","Druid Healer","EP/GP"],
 			"gp":"5",
 			"wowID":"22399"
 		},
@@ -396,17 +396,17 @@
 			"wowID":"21618"
 		},
 		"Gloves of the Messiah":{
-			"prio":["Priest Prio Healers","Jowsus","Wildhealer","Claris","Mh","EP/GP"],
+			"prio":["Priest Prio Healers","Jowsus(1)","Wildhealer(1)","Claris(1)","EP/GP"],
 			"gp":"6",
 			"wowID":"21619"
 		},
 		"Wasphide Gauntlets":{
-			"prio":["Druid healers","Peku","Silkybalboa","Celesdea","Faith","Terpgodd","EP/GP"],
+			"prio":["Druid healers","Peku(2)","Silkybalboa(1)","Celesdea(2)","Faith(1)","Kare(1)","Terpgodd(1)","EP/GP"],
 			"gp":"6",
 			"wowID":"21617"
 		},
 		"Ring of the Martyr":{
-			"prio":["Faith R1","Celesdea R1","Silkybalboa R1","Terpgodd R1","Peku R2","Bergerac R2","Darkdwarf R2","EP/GP"],
+			"prio":["Faith(1)","Celesdea(2)","Thrane(1)","Silkybalboa(1)","Kare(1)","Peku(2)","Bergerac(2)","Darkdwarf(2)","EP/GP"],
 			"gp":"6",
 			"wowID":"21620"
 		}, 
@@ -468,7 +468,7 @@
 			"wowID":"21606"
 		},
 		"Bracelets of Royal Redemption":{
-			"prio":["Druid and Pally Prio Healers","Blunts R2","Silkybalboa R1","Terpgodd R1","Lianli R1","Faith R1","Peku R2","Bergerac","EP/GP"],
+			"prio":["Druid and Pally Prio Healers","Blunts(2)","Silkybalboa(1)","Terpgodd(1)","Lianli(1)","Faith(1)","Peku(2)","Bergerac(2)","EP/GP"],
 			"gp":"8",
 			"wowID":"21604"
 		},
@@ -495,7 +495,7 @@
 	},
 	"Ouro":{
 		"Don Rigoberto's Lost Hat":{
-			"prio":["Claris R1","Silky R1","Peku R2","Jowsus R1","Terpgodd R1","Wildhealer R1","Nisio R2","Darkdwarf R2","Priest and Druid Prio Healers","EP/GP"],
+			"prio":["Claris(1)","Silky(1)","Peku(2)","Jowsus(1)","Terpgodd(1)","Wildhealer(1)","Nisio(2)","Darkdwarf(2)","Priest and Druid Prio Healers","EP/GP"],
 			"gp":"8",
 			"wowID":"21615"
 		},
@@ -572,7 +572,7 @@
 			"wowID":"21581"
 		},
 		"Scepter of the False Prophet":{
-			"prio":["Lianli R1","Thedarkdwarf R2","Blunts R2","Thedoctorjaz R1","Silkybalboa R1","Jowsus R1","EP/GP"],
+			"prio":["Lianli(1)","Thedarkdwarf(2)","Blunts(2)","Thedoctorjaz(1)","Silkybalboa(1)","Jowsus(1)","Nisio(2)","Kare(1)","EP/GP"],
 			"gp":"18",
 			"wowID":"21839"
 		},
@@ -582,7 +582,7 @@
 			"wowID":"22732"
 		},
 		"Cloak of Clarity":{
-			"prio":["Healers","Chuffy R2","Jowsus R1","Wildhealer R1","Healers to EP/GP"],
+			"prio":["Healers","Chuffy(2)","Jowsus(1)","Wildhealer(1)","Kare(1)","Healers to EP/GP"],
 			"gp":"6",
 			"wowID":"21583"
 		},
@@ -592,7 +592,7 @@
 			"wowID":"21585"
 		},
 		"Grasp of the Old God":{
-			"prio":["Healers to EP/GP"],
+			"prio":["Bis for all Healers to EP/GP"],
 			"gp":"10",
 			"wowID":"21582"
 		},
