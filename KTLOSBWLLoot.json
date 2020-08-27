@@ -369,7 +369,7 @@
 			"wowID":"19397"
 		},
 		"Rejuvenating Gem":{
-			"prio":["Jowsus R1","Silkybalboa R1","Doligrian R1","Nisio R2","Celesdea R2","EP/GP"],
+			"prio":["Jowsus(1)","Silkybalboa(1)","Doligrian(1)","Nisio(2)","Celesdea(2)","EP/GP"],
 			"gp":"",
 			"wowID":"19395"
 		},
@@ -409,7 +409,7 @@
 			"wowID":"19431"
 		},
 		"Shroud of Pure Thought":{
-			"prio":["Claris (1)","EP/GP"],
+			"prio":["EP/GP"],
 			"gp":"5",
 			"wowID":"19430"
 		},
@@ -506,7 +506,7 @@
 			"wowID":"19392"
 		},
 		"Empowered Leggings":{
-			"prio":["Lianli(1)","Terpgod(1)","Doligrian(1)","Celesdea(1)","EP/GP"],
+			"prio":["Lianli(1)","Terpgod(1)","Doligrian(1)","Celesdea(2)","EP/GP"],
 			"gp":"",
 			"wowID":"19385"
 		},
@@ -588,7 +588,7 @@
 			"wowID":"19003"
 		},
 		"Lokamir il Romathis":{
-			"prio":["Iamfaith(2)","Silkybalboa(1)","Drussano(1)","Lianli(1)","LC","EP/GP"],
+			"prio":["Iamfaith(1)","Silkybalboa(1)","Lianli(1)","Celesdea(2)","Bergerac(2)","LC","EP/GP"],
 			"gp":"",
 			"wowID":"19360"
 		},
@@ -638,7 +638,7 @@
 			"wowID":"19376"
 		},
 		"Pure Elementium Band":{
-			"prio":["EP/GP"],
+			"prio":["Thrane(1)","EP/GP"],
 			"gp":"",
 			"wowID":"19382"
 		},
