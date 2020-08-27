@@ -326,7 +326,7 @@
 			"wowID":""
 		},
 		"Cenarion Helm":{
-			"prio":["Swagdragon(1)","EP/GP"],
+			"prio":["EP/GP"],
 			"gp:":"",
 			"wowID":""
 		},
@@ -393,7 +393,7 @@
 			"wowID":""
 		},
 		"Cenarion Gloves":{
-			"prio":["Swagdragon","EP/GP"],
+			"prio":["EP/GP"],
 			"gp:":"",
 			"wowID":""
 		},
@@ -415,7 +415,7 @@
 			"wowID":""
 		},
 		"Cenarion Spaulders":{
-			"prio":["Swagdragon(1)","EP/GP"],
+			"prio":["EP/GP"],
 			"gp:":"",
 			"wowID":""
 		},
@@ -437,7 +437,7 @@
 	},
 	"Golemagg the Incinerator":{
 		"Robes of Prophecy":{
-			"prio":["Mh(1)","EP/GP"],
+			"prio":["EP/GP"],
 			"gp:":"",
 			"wowID":""
 		},
@@ -551,7 +551,7 @@
 			"wowID":""
 		},
 		"Cauterizing Band":{
-			"prio":["Terpgodd(1)","Thedarkdwarf(2)","Doligrian(1)","Rasbeary(1)","Iamfaith(2)","EP/GP"],
+			"prio":["Thedarkdwarf(2)","Doligrian(1)","Celesdea(2)","Rasbeary(1)","Iamfaith(1)","EP/GP"],
 			"gp:":"",
 			"wowID":""
 		},
