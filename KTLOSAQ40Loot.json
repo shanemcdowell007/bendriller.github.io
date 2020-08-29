@@ -510,7 +510,7 @@
 			"wowID":"23558"
 		},
 		"Jom Gabbar":{
-			"prio":["Oph(1)","Silkyjohnson(2)","Grayfox(1)","Huck(1)","Supertoxic(1)","Chart(1)","Killstep(2)","Hunters->Rogues->Warrior","EP/GP"],
+			"prio":["Oph(1)","Silkyjohnson(2)","Grayfox(1)","Supertoxic(1)","Huck(1)","Chart(1)","Killstep(2)","Hunters->Rogues->Warrior","EP/GP"],
 			"gp":"8",
 			"wowID":"23570"
 		},
@@ -597,7 +597,7 @@
 			"wowID":"21582"
 		},
 		"Belt of Never-ending Agony":{
-			"prio":["BenDriller(1)","Silkyjohnson(2)","Chart(1)","Killstep(2)","Supertoxic(1)","Stopbegging(2)","Shadowsfade(1)","Rogues->Feral ?","EP/GP"],
+			"prio":["BenDriller(1)","Silkyjohnson(2)","Chart(1)","Killstep(2)","Stopbegging(2)","Shadowsfade(1)","Supertoxic(1)","Rogues->Feral ?","EP/GP"],
 			"gp":"10",
 			"wowID":"21586"
 		},
