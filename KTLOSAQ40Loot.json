@@ -374,7 +374,7 @@
 			"wowID":"22399"
 		},
 		"Qiraji Bindings of Command":{
-			"prio":["non-DTP/R13 DPS Warriors->Rogues->Warriors","EP/GP"],
+			"prio":["non-DTP Warrior","SilkyJohnsn(2)","Shadowsfade(1)x2","non-DTP Warrior","Killstep(2)","non-DTP Warrior","Killstep(2)","Chart(1)x2","non-DTP Warrior","Stopbegging(2)","non-DTP Warrior","Stopbegging(2)","BenDriller(1)x2","non-DTP/R13 DPS Warriors->Rogues->Warriors","EP/GP"],
 			"gp":"8",
 			"wowID":"20928"
 		},
@@ -453,7 +453,7 @@
 			"wowID":"21601"
 		},
 		"Vek'lor's Diadem":{
-			"prio":["Killstep(2)","Chart(1)","rogues","EP/GP"],
+			"prio":["Killstep(2)","Chart(1)","Stopbegging(2)","Supertoxic(1)","BenDriller(1)","rogues","EP/GP"],
 			"gp":"8",
 			"wowID":"20930"
 		},
@@ -510,7 +510,7 @@
 			"wowID":"23558"
 		},
 		"Jom Gabbar":{
-			"prio":["Oph","Silkyjohnson","Grayfox","Huck","Hunters->Rogues->Warrior","EP/GP"],
+			"prio":["Oph(1)","Silkyjohnson(2)","Grayfox(1)","Supertoxic(1)","Huck(1)","Chart(1)","Killstep(2)","Hunters->Rogues->Warrior","EP/GP"],
 			"gp":"8",
 			"wowID":"23570"
 		},
@@ -525,7 +525,7 @@
 			"wowID":"23557"
 		},
 		"Ouro's Intact Hide":{
-			"prio":["Tuglight(1)","Warrior TANKS->rogues","EP/GP"],
+			"prio":["Tuglight(1)","Shadowsfade(1)","Killstep(2)","Chart(1)","Stopbegging(2)","BenDriller(1)","Warrior TANKS->rogues","EP/GP"],
 			"gp":"8",
 			"wowID":"20927"
 		},
@@ -547,7 +547,7 @@
 			"wowID":"20933"
 		},
 		"Carapace of the Old God":{
-			"prio":["Tanks","r12+ Hunter>Rogue>Ret>Warrior","EP/GP"],
+			"prio":["Oph(1)","Shadowsfade(1)","Killstep(2)","Chart(1)","Stopbegging(2)","Supertoxic(1)","BenDriller(1)","Tanks","r12+ Hunter>Rogue>Ret>Warrior","EP/GP"],
 			"gp":"9",
 			"wowID":"20929"
 		},
@@ -597,7 +597,7 @@
 			"wowID":"21582"
 		},
 		"Belt of Never-ending Agony":{
-			"prio":["BenDriller","Silkyjohnson","Rogues->Feral ?","EP/GP"],
+			"prio":["BenDriller(1)","Silkyjohnson(2)","Chart(1)","Killstep(2)","Stopbegging(2)","Shadowsfade(1)","Supertoxic(1)","Rogues->Feral ?","EP/GP"],
 			"gp":"10",
 			"wowID":"21586"
 		},
@@ -612,7 +612,7 @@
 			"wowID":"21134"
 		},
 		"Death's Sting":{
-			"prio":["Supertoxic","Stopbegging","SilkyJohnsn","BenDriller","LC/Rogues","EP/GP"],
+			"prio":["Supertoxic(1)","Stopbegging(2)","SilkyJohnsn(2)","BenDriller(1)","LC/Rogues","EP/GP"],
 			"gp":"18",
 			"wowID":"21126"
 		}
