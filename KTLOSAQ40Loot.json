@@ -423,7 +423,7 @@
 			"wowID":"21598"
 		},
 		"Amulet of Veknilash":{
-			"prio":["Pennington","Theprestige","Meowingtons","Raehn","Mages/Warlocks","EP/GP"],
+			"prio":["Meowingtons","Pennington","Theprestige","Raehn","Mages/Warlocks","EP/GP"],
 			"gp":"8",
 			"wowID":"21608"
 		},
@@ -537,7 +537,7 @@
 	},
 	"Cthun":{
 		"Eye of C'Thun":{
-			"prio":["Mageup(1)","Gotosleep(skip until kazzak)","Rasbeary(1)","Austeezy(1)","Kuku(1)","Coxxy(1)","Theprestige(1)","EP/GP"],
+			"prio":["Mageup(1)","Meowingtons","Gotosleep(skip until kazzak)","Rasbeary(1)","Austeezy(1)","Kuku(1)","Coxxy(1)","Theprestige(1)","EP/GP"],
 			"gp":"6",
 			"wowID":"21221"
 		},
