@@ -43,7 +43,7 @@
 			"wowID":"21232"
 		},
 		"Imperial Qiraji Regalia":{
-			"prio":["Austeezy(1)","Notpq(1)","Kuku(1)","Wizzo(2)","EP/GP"],
+			"prio":["Austeezy(1)","Notpq(1)","Kuku(1)","EP/GP"],
 			"gp":"6",
 			"wowID":"21237"
 		}
@@ -225,7 +225,7 @@
 			"wowID":"21669"
 		},
 		"Gauntlets of Steadfast Determination":{
-			"prio":["Tuglight(1)","Snydi(1)","Wizzo(1)","Tanks","EP/GP"],
+			"prio":["Tuglight(1)","Snydi(1)","Tanks","EP/GP"],
 			"gp":"6",
 			"wowID":"21674"
 		},
@@ -292,7 +292,7 @@
 			"wowID":"21635"
 		},
 		"Barbed Choker":{
-			"prio":["Chrixus(1)","Bonzai(1)","Vajeen(1)","Warriors/PvP","EP/GP"],
+			"prio":["Bonzai(1)","Vajeen(1)","Warriors/PvP","EP/GP"],
 			"gp":"6",
 			"wowID":"21664"
 		},
@@ -374,7 +374,7 @@
 			"wowID":"22399"
 		},
 		"Qiraji Bindings of Command":{
-			"prio":["non-DTP Warrior","SilkyJohnsn(2)","Shadowsfade(1)x2","non-DTP Warrior","Killstep(2)","non-DTP Warrior","Killstep(2)","Chart(1)x2","non-DTP Warrior","Stopbegging(2)","non-DTP Warrior","Stopbegging(2)","BenDriller(1)x2","non-DTP/R13 DPS Warriors->Rogues->Warriors","EP/GP"],
+			"prio":["non-DTP Warrior","Shadowsfade(1)x2","non-DTP Warrior","Killstep(2)","non-DTP Warrior","Chart(1)x2","non-DTP Warrior","Stopbegging(2)","non-DTP Warrior","Stopbegging(2)","BenDriller(1)x2","non-DTP/R13 DPS Warriors->Rogues->Warriors","EP/GP"],
 			"gp":"8",
 			"wowID":"20928"
 		},
@@ -406,7 +406,7 @@
 			"wowID":"21617"
 		},
 		"Ring of the Martyr":{
-			"prio":["Faith(1)","Celesdea(2)","Thrane(1)","Silkybalboa(1)","Kare(1)","Peku(2)","Bergerac(2)","Darkdwarf(2)","EP/GP"],
+			"prio":["Faith(1)","Thrane(1)","Silkybalboa(1)","Kare(1)","Peku(2)","Bergerac(2)","Darkdwarf(2)","EP/GP"],
 			"gp":"6",
 			"wowID":"21620"
 		}, 
@@ -423,7 +423,7 @@
 			"wowID":"21598"
 		},
 		"Amulet of Veknilash":{
-			"prio":["Pennington","Theprestige","Meowingtons","Raehn","Mages/Warlocks","EP/GP"],
+			"prio":["Theprestige","Meowingtons","Raehn","Mages/Warlocks","EP/GP"],
 			"gp":"8",
 			"wowID":"21608"
 		},
@@ -453,7 +453,7 @@
 			"wowID":"21601"
 		},
 		"Vek'lor's Diadem":{
-			"prio":["Killstep(2)","Chart(1)","Stopbegging(2)","Supertoxic(1)","BenDriller(1)","rogues","EP/GP"],
+			"prio":["Chart(1)","Supertoxic(1)","BenDriller(1)","rogues","EP/GP"],
 			"gp":"8",
 			"wowID":"20930"
 		},
@@ -495,7 +495,7 @@
 	},
 	"Ouro":{
 		"Don Rigoberto's Lost Hat":{
-			"prio":["Claris(1)","Silky(1)","Peku(2)","Jowsus(1)","Terpgodd(1)","Wildhealer(1)","Nisio(2)","Darkdwarf(2)","Priest and Druid Prio Healers","EP/GP"],
+			"prio":["Claris(1)","Silky(1)","Jowsus(1)","Terpgodd(1)","Wildhealer(1)","Nisio(2)","Darkdwarf(2)","Priest and Druid Prio Healers","EP/GP"],
 			"gp":"8",
 			"wowID":"21615"
 		},
@@ -525,7 +525,7 @@
 			"wowID":"23557"
 		},
 		"Ouro's Intact Hide":{
-			"prio":["Tuglight(1)","Shadowsfade(1)","Killstep(2)","Chart(1)","Stopbegging(2)","BenDriller(1)","Warrior TANKS->rogues","EP/GP"],
+			"prio":["Tuglight(1)","Shadowsfade(1)","Chart(1)","Stopbegging(2)","BenDriller(1)","Warrior TANKS->rogues","EP/GP"],
 			"gp":"8",
 			"wowID":"20927"
 		},
@@ -547,7 +547,7 @@
 			"wowID":"20933"
 		},
 		"Carapace of the Old God":{
-			"prio":["Oph(1)","Shadowsfade(1)","Killstep(2)","Chart(1)","Stopbegging(2)","Supertoxic(1)","BenDriller(1)","Tanks","r12+ Hunter>Rogue>Ret>Warrior","EP/GP"],
+			"prio":["Oph(1)","Shadowsfade(1)","Beeny(2)","Chart(1)","Stopbegging(2)","Supertoxic(1)","BenDriller(1)","Tanks","r12+ Hunter>Rogue>Ret>Warrior","EP/GP"],
 			"gp":"9",
 			"wowID":"20929"
 		},
@@ -557,12 +557,12 @@
 			"wowID":"21596"
 		},
 		"Eyestalk Waist Cord":{
-			"prio":["Theprestige(1)","Pennington","Meowingtons","EP/GP"],
+			"prio":["Theprestige(1)","Meowingtons","EP/GP"],
 			"gp":"10",
 			"wowID":"22730"
 		},
 		"Cloak of the Devoured":{
-			"prio":["Pennington","Kuku","EP/GP"],
+			"prio":["Kuku","EP/GP"],
 			"gp":"5",
 			"wowID":"22731"
 		},
