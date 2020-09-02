@@ -537,7 +537,7 @@
 	},
 	"Cthun":{
 		"Eye of C'Thun":{
-			"prio":["Mageup(1)","Meowingtons","Gotosleep(skip until kazzak)","Rasbeary(1)","Austeezy(1)","Kuku(1)","Coxxy(1)","Theprestige(1)","EP/GP"],
+			"prio":["Meowingtons(1)","Gotosleep(skip until kazzak)","Austeezy(1)","Mageup(1)","Kuku(1)","Coxxy(1)","Theprestige(1)","EP/GP"],
 			"gp":"6",
 			"wowID":"21221"
 		},
@@ -557,7 +557,7 @@
 			"wowID":"21596"
 		},
 		"Eyestalk Waist Cord":{
-			"prio":["Theprestige(1)","Meowingtons","EP/GP"],
+			"prio":["Theprestige(1)","Meowingtons(1)","EP/GP"],
 			"gp":"10",
 			"wowID":"22730"
 		},
