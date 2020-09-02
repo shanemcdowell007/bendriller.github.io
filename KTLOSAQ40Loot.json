@@ -260,7 +260,7 @@
 			"wowID":"21671"
 		},
 		"Sartura's Might":{
-			"prio":["Celesdea(2)","Faith(1)","Healers","EP/GP"],
+			"prio":["Non Lei OH","EP/GP"],
 			"gp":"5",
 			"wowID":"21666"
 		},
@@ -401,7 +401,7 @@
 			"wowID":"21619"
 		},
 		"Wasphide Gauntlets":{
-			"prio":["Druid healers","Peku(2)","Silkybalboa(1)","Celesdea(2)","Faith(1)","Kare(1)","Terpgodd(1)","EP/GP"],
+			"prio":["Druid healers","Peku(2)","Celesdea(2)","Faith(1)","Terpgodd(1)","EP/GP"],
 			"gp":"6",
 			"wowID":"21617"
 		},
