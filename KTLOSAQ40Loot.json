@@ -215,7 +215,7 @@
 	},
 	"Battleguard Sartura":{
 		"Badge of the Swarmguard":{
-			"prio":["Grayfox(1)","Hunters","Melee","EP/GP"],
+			"prio":["Hunters","Melee","EP/GP"],
 			"gp":"5",
 			"wowID":"21670"
 		},
@@ -225,7 +225,7 @@
 			"wowID":"21669"
 		},
 		"Gauntlets of Steadfast Determination":{
-			"prio":["Tuglight(1)","Snydi(1)","Tanks","EP/GP"],
+			"prio":["Snydi(1)","Tanks","EP/GP"],
 			"gp":"6",
 			"wowID":"21674"
 		},
@@ -282,7 +282,7 @@
 	},
 	"Fankriss the Unyielding":{
 		"Ancient Qiraji Ripper":{
-			"prio":["Chart(1)","Killstep(1)","rogues w/o cts","warriors w/o cts","LC","EP/GP"],
+			"prio":["Chart(1)","Killstep(2)","rogues w/o cts","warriors w/o cts","LC","EP/GP"],
 			"gp":"14",
 			"wowID":"21650"
 		},
@@ -292,7 +292,7 @@
 			"wowID":"21635"
 		},
 		"Barbed Choker":{
-			"prio":["Bonzai(1)","Vajeen(1)","Warriors/PvP","EP/GP"],
+			"prio":["Vajeen(1)", "Dillmcpickle(1)","Warriors/PvP","EP/GP"],
 			"gp":"6",
 			"wowID":"21664"
 		},
@@ -302,7 +302,7 @@
 			"wowID":"21627"
 		},
 		"Fetish of the Sand Reaver":{
-			"prio":["BenDriller","EP/GP"],
+			"prio":["EP/GP"],
 			"gp":"0",
 			"wowID":"21647"
 		},
@@ -379,7 +379,7 @@
 			"wowID":"20928"
 		},
 		"Qiraji Bindings of Dominance":{
-			"prio":["Raehn(1)","Warlock->Mages","EP/GP"],
+			"prio":["Warlock->Mages","EP/GP"],
 			"gp":"8, 5 (pally)",
 			"wowID":"20932"
 		}
@@ -525,7 +525,7 @@
 			"wowID":"23557"
 		},
 		"Ouro's Intact Hide":{
-			"prio":["Tuglight(1)","Shadowsfade(1)","Chart(1)","Stopbegging(2)","BenDriller(1)","Warrior TANKS->rogues","EP/GP"],
+			"prio":["Shadowsfade(1)","Chart(1)","Stopbegging(2)", "Raid 2 Tank", "BenDriller(1)","Warrior TANKS->rogues","EP/GP"],
 			"gp":"8",
 			"wowID":"20927"
 		},
@@ -547,7 +547,7 @@
 			"wowID":"20933"
 		},
 		"Carapace of the Old God":{
-			"prio":["Oph(1)","Shadowsfade(1)","Beeny(2)","Chart(1)","Stopbegging(2)","Supertoxic(1)","BenDriller(1)","Tanks","r12+ Hunter>Rogue>Ret>Warrior","EP/GP"],
+			"prio":["Shadowsfade(1)","Beeny(2)","Chart(1)","Stopbegging(2)","Supertoxic(1)","BenDriller(1)", "Dillmcpickle", "Tanks","r12+ Hunter>Rogue>Ret>Warrior","EP/GP"],
 			"gp":"9",
 			"wowID":"20929"
 		},
@@ -567,7 +567,7 @@
 			"wowID":"22731"
 		},
 		"Gauntlets of Annihilation":{
-			"prio":["Bonzai","LC","Fury->Tank","EP/GP"],
+			"prio":["Chrixus","LC","Fury->Tank","EP/GP"],
 			"gp":"10",
 			"wowID":"21581"
 		},
@@ -597,12 +597,12 @@
 			"wowID":"21582"
 		},
 		"Belt of Never-ending Agony":{
-			"prio":["BenDriller(1)","Silkyjohnson(2)","Chart(1)","Killstep(2)","Stopbegging(2)","Shadowsfade(1)","Supertoxic(1)","Rogues->Feral ?","EP/GP"],
+			"prio":["Silkyjohnson(2)","Chart(1)","Killstep(2)","Stopbegging(2)","Shadowsfade(1)","Supertoxic(1)","Rogues->Feral ?","EP/GP"],
 			"gp":"10",
 			"wowID":"21586"
 		},
 		"Vanquished Tentacle of C'Thun":{
-			"prio":["Blacklisted","EP/GP"],
+			"prio":["Gbid","EP/GP"],
 			"gp":"1",
 			"wowID":"21579"
 		},
