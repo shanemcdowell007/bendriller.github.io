@@ -257,7 +257,7 @@
 			"wowID":"19350"
 		},
 		"Maladath, Runed Blade of the Black Flight":{
-			"prio":["Beeny(2)","Wizzo(1)","Vajeen","LC","Human Warr/Non-human Rogue","EP/GP"],
+			"prio":["Beeny(2)","Tuglight(1)","Vajeen(1)","LC","Human Warr/Non-human Rogue","EP/GP"],
 			"gp":"",
 			"wowID":"19351"
 		},
@@ -379,7 +379,7 @@
 			"wowID":"19345"
 		},
 		"Drake Fang Talisman":{
-			"prio":["Notpq(1)","SilkyJohnsn(2)","LC","EP/GP"],
+			"prio":["Notpq(1)","SilkyJohnsn(2)", "Chrixus", "LC","EP/GP"],
 			"gp":"",
 			"wowID":"19406"
 		},
@@ -399,7 +399,7 @@
 			"wowID":"19368"
 		},
 		"Band of Forced Concentration":{
-			"prio":["Mageup(2)","Rasbeary(1)","Reahn(1)","Gotosleep(1)","Warlock prio","EP/GP"],
+			"prio":["Mageup(2)","Reahn(1)","Gotosleep(1)","Warlock prio","EP/GP"],
 			"gp":"",
 			"wowID":"19403"
 		},
@@ -516,7 +516,7 @@
 			"wowID":"19391"
 		},
 		"Chromatic Boots":{
-			"prio":["Impactt(1)","DPS Then Tanks","EP/GP"],
+			"prio":["Warrior DPS Then Tanks","EP/GP"],
 			"gp":"",
 			"wowID":"19387"
 		},
