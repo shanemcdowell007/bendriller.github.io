@@ -60,7 +60,7 @@
 			"wowID":"21814"
 		},
 		"Cloak of Concentrated Hatred":{
-			"prio":["Supertoxic(1)","Chart(1)","Killstep(1)","Rogue->Warrior","EP/GP"],
+			"prio":["Supertoxic(1)","Chart(1)","Killstep(2)","Rogue->Warrior","EP/GP"],
 			"gp":"7",
 			"wowID":"21701"
 		},
