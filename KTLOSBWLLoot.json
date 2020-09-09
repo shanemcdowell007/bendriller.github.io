@@ -1,7 +1,7 @@
 {
 	"Trash":{
 		"Cloak of Draconic Might":{
-			"prio":["Vajeen(1)","Beanchet(1)","EP/GP"],
+			"prio":["Vajeen(1)","Fury Warr","EP/GP"],
 			"gp":"",
 			"wowID":"19436"
 		},
@@ -257,7 +257,7 @@
 			"wowID":"19350"
 		},
 		"Maladath, Runed Blade of the Black Flight":{
-			"prio":["Beeny(2)","Tuglight(1)","Vajeen(1)","LC","Human Warr/Non-human Rogue","EP/GP"],
+			"prio":["Beeny(2)","Vajeen(1)","LC","Human Warr/Non-human Rogue","EP/GP"],
 			"gp":"",
 			"wowID":"19351"
 		},
@@ -379,7 +379,7 @@
 			"wowID":"19345"
 		},
 		"Drake Fang Talisman":{
-			"prio":["Notpq(1)","SilkyJohnsn(2)", "Chrixus", "LC","EP/GP"],
+			"prio":["Notpq(1)","Chrixus","LC","EP/GP"],
 			"gp":"",
 			"wowID":"19406"
 		},
@@ -526,7 +526,7 @@
 			"wowID":"19361"
 		},
 		"Elementium Reinforced Bulwark":{
-			"prio":["Tanks","EP/GP"],
+			"prio":["Aisli","Tanks","EP/GP"],
 			"gp":"",
 			"wowID":"19349"
 		},
@@ -613,7 +613,7 @@
 			"wowID":"19375"
 		},
 		"Prestors Talisman of Connivery":{
-			"prio":["Stopbegging","Huckfinn","EP/GP"],
+			"prio":["Stopbegging","Huckfinn","Hunters/Rogues","EP/GP"],
 			"gp":"",
 			"wowID":"19377"
 		},
@@ -628,7 +628,7 @@
 			"wowID":"19380"
 		},
 		"Boots of the Shadow Flame":{
-			"prio":["Notpq(1)","EP/GP"],
+			"prio":["Rogues/Feral Druids","EP/GP"],
 			"gp":"",
 			"wowID":"19381"
 		},
@@ -643,7 +643,7 @@
 			"wowID":"19382"
 		},
 		"Neltharions Tear":{
-			"prio":["Killmcpickle(2)","Raehn(1)","Theprestige(1)","Rasbeary(1)","EP/GP"],
+			"prio":["Raehn(1)","Theprestige(1)","Rasbeary(1)","EP/GP"],
 			"gp":"10",
 			"wowID":"19379"
 		}
