@@ -208,7 +208,7 @@
 			"wowID":"21689"
 		},
 		"Ooze-ridden Gauntlets":{
-			"prio":["2dads(2)","World boss tanks","Warrior soakers","EP/GP"],
+			"prio":["Drazic(2)","World boss tanks","Warrior soakers","EP/GP"],
 			"gp":"1",
 			"wowID":"21691"
 		}
@@ -332,7 +332,7 @@
 			"wowID":"21651"
 		},
 		"Silithis Carapace Chestguard":{
-			"prio":["Dill","2dads(2)","Bonzai","Impactt","Chrixus","Warriors","EP/GP"],
+			"prio":["Dill","Drazic(2)","Bonzai","Impactt","Chrixus","Warriors","EP/GP"],
 			"gp":"1",
 			"wowID":"21652"
 		},
@@ -525,7 +525,7 @@
 			"wowID":"23557"
 		},
 		"Ouro's Intact Hide":{
-			"prio":["Chart(1)","Destain(1)","Stopbegging(2)","Raid 2 Tank", "BenDriller(1)","Warrior TANKS->rogues","EP/GP"],
+			"prio":["Chart(1)","Destain(1)","Raid 2 Tank", "BenDriller(1)","Warrior TANKS->rogues","EP/GP"],
 			"gp":"8",
 			"wowID":"20927"
 		},
