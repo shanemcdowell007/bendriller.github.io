@@ -43,7 +43,7 @@
 			"wowID":"21232"
 		},
 		"Imperial Qiraji Regalia":{
-			"prio":["Austeezy(1)","Notpq(1)","Kuku(1)","EP/GP"],
+			"prio":["Kuku(1)","EP/GP"],
 			"gp":"6",
 			"wowID":"21237"
 		}
@@ -483,7 +483,7 @@
 			"wowID":"21607"
 		},
 		"Vek'nilash's Circlet":{
-			"prio":["Meowingtons(1)","Non Mish Casters","Warrior/Priest/Mage/Warlock","EP/GP"],
+			"prio":["Non Mish Casters","Warrior/Priest/Mage/Warlock","EP/GP"],
 			"gp":"5 (War), 8 (Mage/Warlock)",
 			"wowID":"20926"
 		},
@@ -537,7 +537,7 @@
 	},
 	"Cthun":{
 		"Eye of C'Thun":{
-			"prio":["Meowingtons(1)","Gotosleep(skip until kazzak)","Austeezy(1)","Coxxy(1)","Theprestige(1)","Mageup(1)","Kuku(1)","EP/GP"],
+			"prio":["Gotosleep(skip until kazzak)","Coxxy(1)","Austeezy(1)","Theprestige(1)","Mageup(1)","Kuku(1)","EP/GP"],
 			"gp":"6",
 			"wowID":"21221"
 		},
@@ -562,7 +562,7 @@
 			"wowID":"22730"
 		},
 		"Cloak of the Devoured":{
-			"prio":["Kuku","EP/GP"],
+			"prio":["Kuku(1)","EP/GP"],
 			"gp":"5",
 			"wowID":"22731"
 		},
