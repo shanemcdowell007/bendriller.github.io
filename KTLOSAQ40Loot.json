@@ -60,7 +60,7 @@
 			"wowID":"21814"
 		},
 		"Cloak of Concentrated Hatred":{
-			"prio":["Supertoxic(1)","Chart(1)","Killstep(2)","Rogue->Warrior","EP/GP"],
+			"prio":["Chart(1)","Killstep(2)","Rogue->Warrior","EP/GP"],
 			"gp":"7",
 			"wowID":"21701"
 		},
@@ -208,7 +208,7 @@
 			"wowID":"21689"
 		},
 		"Ooze-ridden Gauntlets":{
-			"prio":["Warrior soakers","EP/GP"],
+			"prio":["2dads(2)","World boss tanks","Warrior soakers","EP/GP"],
 			"gp":"1",
 			"wowID":"21691"
 		}
@@ -225,12 +225,12 @@
 			"wowID":"21669"
 		},
 		"Gauntlets of Steadfast Determination":{
-			"prio":["Snydi(1)","Tanks","EP/GP"],
+			"prio":["Aisli","Tanks","EP/GP"],
 			"gp":"6",
 			"wowID":"21674"
 		},
 		"Gloves of enforcement":{
-			"prio":["Killstep(2)","Chart(1)","Sinister strike rogues","DS rogues","Ferals","nonDS dagger rogues","EP/GP"],
+			"prio":["Killstep(2)","Sinister strike rogues","DS rogues","Ferals","nonDS dagger rogues","EP/GP"],
 			"gp":"8",
 			"wowID":"21672"
 		},
@@ -292,7 +292,7 @@
 			"wowID":"21635"
 		},
 		"Barbed Choker":{
-			"prio":["Vajeen(1)", "Dillmcpickle(1)","Warriors/PvP","EP/GP"],
+			"prio":["Dillmcpickle(1)","Warriors/PvP","EP/GP"],
 			"gp":"6",
 			"wowID":"21664"
 		},
@@ -332,7 +332,7 @@
 			"wowID":"21651"
 		},
 		"Silithis Carapace Chestguard":{
-			"prio":["Dill","Bonzai","Impactt","Chrixus","Warriors","EP/GP"],
+			"prio":["Dill","2dads(2)","Bonzai","Impactt","Chrixus","Warriors","EP/GP"],
 			"gp":"1",
 			"wowID":"21652"
 		},
@@ -374,12 +374,12 @@
 			"wowID":"22399"
 		},
 		"Qiraji Bindings of Command":{
-			"prio":["non-DTP Warrior","Shadowsfade(1)x2","non-DTP Warrior","Killstep(2)","non-DTP Warrior","Chart(1)x2","non-DTP Warrior","Stopbegging(2)","non-DTP Warrior","Stopbegging(2)","BenDriller(1)x2","non-DTP/R13 DPS Warriors->Rogues->Warriors","EP/GP"],
+			"prio":["non-DTP Warrior","Shadowsfade(1)x2","non-DTP Warrior","Chart(1)x2","non-DTP Warrior","Stopbegging(2)","non-DTP Warrior","Stopbegging(2)","BenDriller(1)x2","non-DTP/R13 DPS Warriors->Rogues->Warriors","EP/GP"],
 			"gp":"8",
 			"wowID":"20928"
 		},
 		"Qiraji Bindings of Dominance":{
-			"prio":["Warlock->Mages","EP/GP"],
+			"prio":["Warlock(shoulders)->Mages(boots)>Ret Pally","EP/GP"],
 			"gp":"8, 5 (pally)",
 			"wowID":"20932"
 		}
@@ -391,7 +391,7 @@
 			"wowID":"21621"
 		},
 		"Hive Defiler Wristguards":{
-			"prio":["Bonzai(1)", "Impact","EP/GP"],
+			"prio":["Impact","Dillmcpickle","DPS Warriors","EP/GP"],
 			"gp":"6",
 			"wowID":"21618"
 		},
@@ -428,7 +428,7 @@
 			"wowID":"21608"
 		},
 		"Boots of Epiphany":{
-			"prio":["Gotosleep(1)","EP/GP"],
+			"prio":["EP/GP"],
 			"gp":"3",
 			"wowID":"21600"
 		},
@@ -500,7 +500,7 @@
 			"wowID":"21615"
 		},
 		"Burrower Bracers":{
-			"prio":["Gotosleep","EP/GP"],
+			"prio":["EP/GP"],
 			"gp":"3",
 			"wowID":"21611"
 		},
@@ -552,7 +552,7 @@
 			"wowID":"20929"
 		},
 		"Ring of the Godslayer":{
-			"prio":["Oph(1)","EP/GP"],
+			"prio":["Hunters","EP/GP"],
 			"gp":"3",
 			"wowID":"21596"
 		},
