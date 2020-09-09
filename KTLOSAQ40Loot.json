@@ -60,7 +60,7 @@
 			"wowID":"21814"
 		},
 		"Cloak of Concentrated Hatred":{
-			"prio":["Supertoxic(1)","Chart(1)","Killstep(2)","Rogue->Warrior","EP/GP"],
+			"prio":["Chart(1)","Killstep(2)","Destain(1)","Rogue->Warrior","EP/GP"],
 			"gp":"7",
 			"wowID":"21701"
 		},
@@ -230,7 +230,7 @@
 			"wowID":"21674"
 		},
 		"Gloves of enforcement":{
-			"prio":["Killstep(2)","Chart(1)","Sinister strike rogues","DS rogues","Ferals","nonDS dagger rogues","EP/GP"],
+			"prio":["Killstep(2)","BenDriller(1)","Sinister strike rogues","DS rogues","Ferals","nonDS dagger rogues","EP/GP"],
 			"gp":"8",
 			"wowID":"21672"
 		},
@@ -374,7 +374,7 @@
 			"wowID":"22399"
 		},
 		"Qiraji Bindings of Command":{
-			"prio":["non-DTP Warrior","Shadowsfade(1)x2","non-DTP Warrior","Killstep(2)","non-DTP Warrior","Chart(1)x2","non-DTP Warrior","Stopbegging(2)","non-DTP Warrior","Stopbegging(2)","BenDriller(1)x2","non-DTP/R13 DPS Warriors->Rogues->Warriors","EP/GP"],
+			"prio":["non-DTP Warrior","Stopbegging(2)","non-DTP Warrior","Stopbegging(2)","BenDriller(1)x2","non-DTP/R13 DPS Warriors->Rogues->Warriors","EP/GP"],
 			"gp":"8",
 			"wowID":"20928"
 		},
@@ -443,7 +443,7 @@
 			"wowID":"21597"
 		},
 		"Qiraji Execution Bracers":{
-			"prio":["Silkyjohn","Chart","Killstep","Rogues->Feral->Fury","EP/GP"],
+			"prio":["Silkyjohsn(2)","Destain(1)","Chart(1)","Killstep(2)","Rogues->Feral->Fury","EP/GP"],
 			"gp":"6",
 			"wowID":"21602"
 		},
@@ -453,7 +453,7 @@
 			"wowID":"21601"
 		},
 		"Vek'lor's Diadem":{
-			"prio":["Chart(1)","Supertoxic(1)","BenDriller(1)","rogues","EP/GP"],
+			"prio":["rogues","EP/GP"],
 			"gp":"8",
 			"wowID":"20930"
 		},
@@ -525,7 +525,7 @@
 			"wowID":"23557"
 		},
 		"Ouro's Intact Hide":{
-			"prio":["Shadowsfade(1)","Chart(1)","Stopbegging(2)", "Raid 2 Tank", "BenDriller(1)","Warrior TANKS->rogues","EP/GP"],
+			"prio":["Chart(1)","Destain(1)","Stopbegging(2)","Raid 2 Tank", "BenDriller(1)","Warrior TANKS->rogues","EP/GP"],
 			"gp":"8",
 			"wowID":"20927"
 		},
@@ -547,7 +547,7 @@
 			"wowID":"20933"
 		},
 		"Carapace of the Old God":{
-			"prio":["Shadowsfade(1)","Beeny(2)","Chart(1)","Stopbegging(2)","Supertoxic(1)","BenDriller(1)", "Dillmcpickle", "Tanks","r12+ Hunter>Rogue>Ret>Warrior","EP/GP"],
+			"prio":["Beeny(2)","Chart(1)","Stopbegging(2)","Destain(1)","Supertoxic(1)","BenDriller(1)", "Dillmcpickle", "Tanks","r12+ Hunter>Rogue>Ret>Warrior","EP/GP"],
 			"gp":"9",
 			"wowID":"20929"
 		},
@@ -612,7 +612,7 @@
 			"wowID":"21134"
 		},
 		"Death's Sting":{
-			"prio":["Supertoxic(1)","Stopbegging(2)","SilkyJohnsn(2)","BenDriller(1)","LC/Rogues","EP/GP"],
+			"prio":["Supertoxic(1)","Stopbegging(2)","SilkyJohnsn(2)","tbd(1)","LC/Rogues","EP/GP"],
 			"gp":"18",
 			"wowID":"21126"
 		}
