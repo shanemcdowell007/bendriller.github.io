@@ -354,7 +354,7 @@
 			"wowID":"21626"
 		},
 		"Sharpened Silithid Femur":{
-			"prio":["Coxxy(1)","Theprestige(1)","Blacklisted(1)","Meowingtons(1)","Kuku(1)","Austeezy(1)","Raehn(1)","EP/GP"],
+			"prio":["Coxxy(1)","Theprestige(1)","Blacklisted(1)","Meowingtons(1)","Kuku(1)","Austeezy(1)","Raehn(1)","Caster DPS Prio","EP/GP"],
 			"gp":"14",
 			"wowID":"21622"
 		},
@@ -453,7 +453,7 @@
 			"wowID":"21601"
 		},
 		"Vek'lor's Diadem":{
-			"prio":["rogues","EP/GP"],
+			"prio":["Grayfox(1)","rogues","EP/GP"],
 			"gp":"8",
 			"wowID":"20930"
 		},
@@ -547,7 +547,7 @@
 			"wowID":"20933"
 		},
 		"Carapace of the Old God":{
-			"prio":["Beeny(2)","Chart(1)","Stopbegging(2)","Destain(1)","Supertoxic(1)","BenDriller(1)", "Dillmcpickle", "Tanks","r12+ Hunter>Rogue>Ret>Warrior","EP/GP"],
+			"prio":["Chart(1)","Stopbegging(2)","Destain(1)","Supertoxic(1)","BenDriller(1)", "Dillmcpickle", "Tanks","r12+ Hunter>Rogue>Ret>Warrior","EP/GP"],
 			"gp":"9",
 			"wowID":"20929"
 		},
