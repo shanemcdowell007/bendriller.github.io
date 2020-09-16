@@ -38,7 +38,7 @@
 	},
 	"Boss Shared":{
 		"Imperial Qiraji Armaments":{
-			"prio":["SilkyJohnsn(2)","Stopbegging(2)","Impactt(1)","EP/GP"],
+			"prio":["SilkyJohnsn(2)","Stopbegging(2)","Impactt(1)","Raid 1 Rogue?","Killstepp(1)","EP/GP"],
 			"gp":"10 (Pugio/Waraxe), 5 (otherwise)",
 			"wowID":"21232"
 		},
@@ -60,7 +60,7 @@
 			"wowID":"21814"
 		},
 		"Cloak of Concentrated Hatred":{
-      "prio":["Chart(1)","Killstep(2)","Destain(1)","Rogue->Warrior","EP/GP"],
+     			"prio":["Chart(1)","Killstep(2)","Destain(1)","Rogue->Warrior","EP/GP"],
 			"gp":"7",
 			"wowID":"21701"
 		},
@@ -208,7 +208,7 @@
 			"wowID":"21689"
 		},
 		"Ooze-ridden Gauntlets":{
-			"prio":["Drazic(2)","World boss tanks","Warrior soakers","EP/GP"],
+			"prio":["World boss tanks","Warrior soakers","EP/GP"],
 			"gp":"1",
 			"wowID":"21691"
 		}
@@ -391,7 +391,7 @@
 			"wowID":"21621"
 		},
 		"Hive Defiler Wristguards":{
-			"prio":["Impact","Dillmcpickle","DPS Warriors","EP/GP"],
+			"prio":["Impact","Dillmcpickle","Killstepp","DPS Warriors","EP/GP"],
 			"gp":"6",
 			"wowID":"21618"
 		},
@@ -567,7 +567,7 @@
 			"wowID":"22731"
 		},
 		"Gauntlets of Annihilation":{
-			"prio":["Chrixus","LC","Fury->Tank","EP/GP"],
+			"prio":["Vajeen(1)","LC","Fury->Tank","EP/GP"],
 			"gp":"10",
 			"wowID":"21581"
 		},
@@ -612,7 +612,7 @@
 			"wowID":"21134"
 		},
 		"Death's Sting":{
-			"prio":["Supertoxic(1)","Stopbegging(2)","SilkyJohnsn(2)","tbd(1)","LC/Rogues","EP/GP"],
+			"prio":["Stopbegging(2)","SilkyJohnsn(2)","tbd(1)","LC/Rogues","EP/GP"],
 			"gp":"18",
 			"wowID":"21126"
 		}
