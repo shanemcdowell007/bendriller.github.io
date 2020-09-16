@@ -43,7 +43,7 @@
 			"wowID":"21232"
 		},
 		"Imperial Qiraji Regalia":{
-			"prio":["Kuku(1)","EP/GP"],
+			"prio":["Kuku(1)","Bigthink(1)","EP/GP"],
 			"gp":"6",
 			"wowID":"21237"
 		}
@@ -60,7 +60,7 @@
 			"wowID":"21814"
 		},
 		"Cloak of Concentrated Hatred":{
-      "prio":["Chart(1)","Killstep(2)","Destain(1)","Rogue->Warrior","EP/GP"],
+      			"prio":["Chart(1)","Killstep(2)","Destain(1)","Rogue->Warrior","EP/GP"],
 			"gp":"7",
 			"wowID":"21701"
 		},
@@ -537,7 +537,7 @@
 	},
 	"Cthun":{
 		"Eye of C'Thun":{
-			"prio":["Gotosleep(skip until kazzak)","Coxxy(1)","Austeezy(1)","Theprestige(1)","Mageup(1)","Kuku(1)","EP/GP"],
+			"prio":["Gotosleep(1)","Austeezy(1)","Theprestige(1)","Mageup(1)","Kuku(1)","EP/GP"],
 			"gp":"6",
 			"wowID":"21221"
 		},
