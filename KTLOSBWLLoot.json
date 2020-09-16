@@ -506,7 +506,7 @@
 			"wowID":"19392"
 		},
 		"Empowered Leggings":{
-			"prio":["Drjaz(1)","Lianli(1)","Claris(1)","Celesdea(2)","EP/GP"],
+			"prio":["Lianli(1)","Claris(1)","Celesdea(2)","EP/GP"],
 			"gp":"",
 			"wowID":"19385"
 		},
@@ -516,7 +516,7 @@
 			"wowID":"19391"
 		},
 		"Chromatic Boots":{
-			"prio":["Warrior DPS Then Tanks","EP/GP"],
+			"prio":["Warrior DPS Then Tanks","Killstepp(1)","EP/GP"],
 			"gp":"",
 			"wowID":"19387"
 		},
@@ -598,7 +598,7 @@
 			"wowID":"19363"
 		},
 		"Ashkandi Greatsword of the Brotherhood":{
-			"prio":["Thrane(2)","Wizzo(1)","PVP prio","LC","Warriors, Hunter, Pally","EP/GP"],
+			"prio":["Thrane(1)","Wizzo(1)","PVP prio","LC","Warriors, Hunter, Pally","EP/GP"],
 			"gp":"",
 			"wowID":"19364"
 		},
@@ -623,7 +623,7 @@
 			"wowID":"19378"
 		},
 		"Therazanes Link":{
-			"prio":["Doligrian","EP/GP"],
+			"prio":["EP/GP"],
 			"gp":"",
 			"wowID":"19380"
 		},
