@@ -240,7 +240,7 @@
 			"wowID":"21676"
 		},
 		"Legplates of Blazing Light":{
-			"prio":["Doligrian(1)","Bergerac(2)","To EP/GP Pally Healers"],
+			"prio":["Doligrian(1)","To EP/GP Pally Healers"],
 			"gp":"7",
 			"wowID":"21667"
 		},
@@ -582,7 +582,7 @@
 			"wowID":"22732"
 		},
 		"Cloak of Clarity":{
-			"prio":["Healers","Chuffy(2)","Jowsus(1)","Wildhealer(1)","Kare(1)","Healers to EP/GP"],
+			"prio":["Jowsus(1)","Wildhealer(1)","Kare(1)","Healers to EP/GP"],
 			"gp":"6",
 			"wowID":"21583"
 		},
