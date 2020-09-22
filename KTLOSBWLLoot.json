@@ -237,7 +237,7 @@
 			"wowID":"19341"
 		},
 		"Venomous Totem":{
-			"prio":["BenDriller","Supertoxic","EP/GP"],
+			"prio":["EP/GP"],
 			"gp":"",
 			"wowID":"19342"
 		},
@@ -247,7 +247,7 @@
 			"wowID":"19373"
 		},
 		"Bracers of Arcane Accuracy":{
-			"prio":["Gotosleep(1)","EP/GP"],
+			"prio":["EP/GP"],
 			"gp":"",
 			"wowID":"19374"
 		},
@@ -319,7 +319,7 @@
 			"wowID":"19394"
 		},
 		"Cloak of Firemaw":{
-			"prio":["Shadowsfade","Bendriller","Rogue Prio","EP/GP"],
+			"prio":["Rogue Prio","EP/GP"],
 			"gp":"",
 			"wowID":"19398"
 		},
@@ -344,7 +344,7 @@
 			"wowID":"19401"
 		},
 		"Legguards of the Fallen Crusader":{
-			"prio":["Tank prio MT/OT","EP/GP"],
+			"prio":["EP/GP"],
 			"gp":"",
 			"wowID":"19402"
 		},
@@ -369,7 +369,7 @@
 			"wowID":"19397"
 		},
 		"Rejuvenating Gem":{
-			"prio":["Jowsus(1)","Silkybalboa(1)","Doligrian(1)","Nattys(2)","Darkdwarf(2)","Bergerac(2)","EP/GP"],
+			"prio":["Jowsus(1)","Silkybalboa(1)","Doligrian(1)","Darkdwarf(2)","Bergerac(2)","EP/GP"],
 			"gp":"",
 			"wowID":"19395"
 		},
@@ -379,7 +379,7 @@
 			"wowID":"19345"
 		},
 		"Drake Fang Talisman":{
-			"prio":["Notpq(1)","Chrixus","LC","EP/GP"],
+			"prio":["Notpq(1)","Chrixus(2)","LC","EP/GP"],
 			"gp":"",
 			"wowID":"19406"
 		},
@@ -399,7 +399,7 @@
 			"wowID":"19368"
 		},
 		"Band of Forced Concentration":{
-			"prio":["Mageup(2)","Reahn(1)","Gotosleep(1)","Warlock prio","EP/GP"],
+			"prio":["Reahn(1)","Gotosleep(1)","Warlock prio","EP/GP"],
 			"gp":"",
 			"wowID":"19403"
 		},
@@ -506,7 +506,7 @@
 			"wowID":"19392"
 		},
 		"Empowered Leggings":{
-			"prio":["Lianli(1)","Claris(1)","Celesdea(2)","EP/GP"],
+			"prio":["Lianli(1)","Claris(1)","EP/GP"],
 			"gp":"",
 			"wowID":"19385"
 		},
@@ -531,7 +531,7 @@
 			"wowID":"19349"
 		},
 		"Claw of Chromaggus":{
-			"prio":["Pennington(1)","Votelock(2)","EP/GP"],
+			"prio":["EP/GP"],
 			"gp":"10",
 			"wowID":"19347"
 		},
@@ -598,7 +598,7 @@
 			"wowID":"19363"
 		},
 		"Ashkandi Greatsword of the Brotherhood":{
-			"prio":["Thrane(1)","Wizzo(1)","PVP prio","LC","Warriors, Hunter, Pally","EP/GP"],
+			"prio":["Thrane(1)","Rozzy(2)","PVP prio","LC","Warriors, Hunter, Pally","EP/GP"],
 			"gp":"",
 			"wowID":"19364"
 		},
