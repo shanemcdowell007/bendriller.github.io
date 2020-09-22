@@ -215,7 +215,7 @@
 	},
 	"Battleguard Sartura":{
 		"Badge of the Swarmguard":{
-			"prio":["Hunters","Melee","EP/GP"],
+			"prio":["Hunters","Vajeen","Dill","Melee","EP/GP"],
 			"gp":"5",
 			"wowID":"21670"
 		},
@@ -374,7 +374,7 @@
 			"wowID":"22399"
 		},
 		"Qiraji Bindings of Command":{
-			"prio":["non-DTP Warrior","Stopbegging(2)","non-DTP Warrior","Stopbegging(2)","BenDriller(1)x2","non-DTP/R13 DPS Warriors->Rogues->Warriors","EP/GP"],
+			"prio":["Rachelstarr","Stopbegging(2)","non-DTP Warrior","Stopbegging(2)","BenDriller(1)x2","non-DTP/R13 DPS Warriors->Rogues->Warriors","EP/GP"],
 			"gp":"8",
 			"wowID":"20928"
 		},
@@ -386,12 +386,12 @@
 	},
 	"Princess Huhuran":{
 		"Cloak of the Golden Hive":{
-			"prio":["Tank","EP/GP"],
+			"prio":["Snydi","Tank","EP/GP"],
 			"gp":"5",
 			"wowID":"21621"
 		},
 		"Hive Defiler Wristguards":{
-			"prio":["Impact","Dillmcpickle","Killstepp","DPS Warriors","EP/GP"],
+			"prio":["Impact","Dillmcpickle","Healslol","Killstepp","DPS Warriors","EP/GP"],
 			"gp":"6",
 			"wowID":"21618"
 		},
@@ -547,7 +547,7 @@
 			"wowID":"20933"
 		},
 		"Carapace of the Old God":{
-			"prio":["Chart(1)","Stopbegging(2)","Destain(1)","Supertoxic(1)","BenDriller(1)", "Dillmcpickle", "Tanks","r12+ Hunter>Rogue>Ret>Warrior","EP/GP"],
+			"prio":["Chart(1)","Stopbegging(2)","Supertoxic(1)","BenDriller(1)", "Dillmcpickle", "Tanks","r12+ Hunter>Rogue>Ret>Warrior","EP/GP"],
 			"gp":"9",
 			"wowID":"20929"
 		},
@@ -577,7 +577,7 @@
 			"wowID":"21839"
 		},
 		"Mark of C'Thun":{
-			"prio":["Snydi(1)","Tank","EP/GP"],
+			"prio":["PQ","Tank","EP/GP"],
 			"gp":"8",
 			"wowID":"22732"
 		},
