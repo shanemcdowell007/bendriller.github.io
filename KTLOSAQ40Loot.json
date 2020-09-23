@@ -43,7 +43,7 @@
 			"wowID":"21232"
 		},
 		"Imperial Qiraji Regalia":{
-			"prio":["Kuku(1)","Bigthink(1)","EP/GP"],
+			"prio":["Bigthink(1)","EP/GP"],
 			"gp":"6",
 			"wowID":"21237"
 		}
@@ -374,7 +374,7 @@
 			"wowID":"22399"
 		},
 		"Qiraji Bindings of Command":{
-			"prio":["Rachelstarr","Stopbegging(2)","non-DTP Warrior","Stopbegging(2)","BenDriller(1)x2","non-DTP/R13 DPS Warriors->Rogues->Warriors","EP/GP"],
+			"prio":["Rachelstarr(2)","Bonzai(1)","Stopbegging(2)","non-DTP Warrior","BenDriller(1)x2","DPS Warriors->Rogues","EP/GP"],
 			"gp":"8",
 			"wowID":"20928"
 		},
@@ -391,7 +391,7 @@
 			"wowID":"21621"
 		},
 		"Hive Defiler Wristguards":{
-			"prio":["Impact","Dillmcpickle","Healslol","Killstepp","DPS Warriors","EP/GP"],
+			"prio":["Impactt","Dillmcpickle","Healslol","Killstepp","DPS Warriors","EP/GP"],
 			"gp":"6",
 			"wowID":"21618"
 		},
@@ -438,7 +438,7 @@
 			"wowID":"21599"
 		},
 		"Royal Scepter of Vek'lor":{
-			"prio":["ThePrestige(1)","Coxxy(1)","Blacklisted(1)","Meowingtons(1)","Kuku(1)","Austeezy(1)","Raehn(1)","EP/GP"],
+			"prio":["Coxxy(1)","Blacklisted(1)","Meowingtons(1)","Kuku(1)","Austeezy(1)","Raehn(1)","EP/GP"],
 			"gp":"8",
 			"wowID":"21597"
 		},
@@ -453,7 +453,7 @@
 			"wowID":"21601"
 		},
 		"Vek'lor's Diadem":{
-			"prio":["Grayfox(1)","rogues","EP/GP"],
+			"prio":["rogues","EP/GP"],
 			"gp":"8",
 			"wowID":"20930"
 		},
@@ -525,7 +525,7 @@
 			"wowID":"23557"
 		},
 		"Ouro's Intact Hide":{
-			"prio":["SilkyJohnsn(2)","Chart(1)","Sniped(1)","Raid 2 Tank", "BenDriller(1)","Warrior TANKS->rogues","EP/GP"],
+			"prio":["SilkyJohnsn(2)","Supertoxic(1)","Sniped(1)","Raid 2 Tank", "BenDriller(1)","Warrior TANKS->rogues","EP/GP"],
 			"gp":"8",
 			"wowID":"20927"
 		},
@@ -537,7 +537,7 @@
 	},
 	"Cthun":{
 		"Eye of C'Thun":{
-			"prio":["Gotosleep(1)","Austeezy(1)","Theprestige(1)","Kuku(1)","EP/GP"],
+			"prio":["Austeezy(1)","Theprestige(1)","Kuku(1)","EP/GP"],
 			"gp":"6",
 			"wowID":"21221"
 		},
@@ -547,7 +547,7 @@
 			"wowID":"20933"
 		},
 		"Carapace of the Old God":{
-			"prio":["Chart(1)","SilkyJohnsn(2)","Stopbegging(2)","Supertoxic(1)","Dillmcpickle(1)","Sniped(1)","Tanks","r12+ Hunter>Rogue>Ret>Warrior","EP/GP"],
+			"prio":["SilkyJohnsn(2)","Stopbegging(2)","Supertoxic(1)","Sniped(1)","Tanks","r12+ Hunter>Rogue>Ret>Warrior","EP/GP"],
 			"gp":"9",
 			"wowID":"20929"
 		},
@@ -567,7 +567,7 @@
 			"wowID":"22731"
 		},
 		"Gauntlets of Annihilation":{
-			"prio":["Vajeen(1)","LC","Fury->Tank","EP/GP"],
+			"prio":["Bonzai(1)","Healslol(1)","LC","Fury->Tank","EP/GP"],
 			"gp":"10",
 			"wowID":"21581"
 		},
