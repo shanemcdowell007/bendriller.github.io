@@ -602,6 +602,11 @@
 			"gp":"6",
 			"wowID":"21221"
 		},
+		"The Hungering Cold":{
+			"prio":["BenDriller","Frau","LC","EP/GP"],
+			"gp":"6",
+			"wowID":"21221"
+		},
 		"Bonescythe Ring":{
 			"prio":["Chart ofc","LC","EP/GP"],
 			"gp":"6",
