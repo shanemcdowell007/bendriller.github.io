@@ -662,6 +662,11 @@
 			"gp":"10",
 			"wowID":"21582"
 		},
+		"Nerubian Slavemaker":{
+			"prio":["Chart ofc","LC","EP/GP"],
+			"gp":"10",
+			"wowID":"21582"
+		},
 		"Doomfinger":{
 			"prio":["Bond, James Bond","EP/GP"],
 			"gp":"10",
