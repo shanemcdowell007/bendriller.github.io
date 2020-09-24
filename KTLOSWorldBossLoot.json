@@ -1,0 +1,281 @@
+{
+	"Green Dragons":{
+		"Acid Inscribed Greaves":{
+			"prio":["EP/GP"],
+			"gp":"",
+			"wowID":""
+		},
+		"Ancient Corroded Leggings":{
+			"prio":["EP/GP"],
+			"gp":"",
+			"wowID":""
+		},
+		"Dragonbone Wristguards":{
+			"prio":["EP/GP"],
+			"gp":"",
+			"wowID":""
+		},
+		"Dragonspur Wraps":{
+			"prio":["EP/GP"],
+			"gp":"",
+			"wowID":""
+		},
+		"Gloves of Delusional Power":{
+			"prio":["EP/GP"],
+			"gp":"",
+			"wowID":""
+		},
+		"Green Dragonskin Cloak":{
+			"prio":["EP/GP"],
+			"gp:":"",
+			"wowID":""
+		},
+		"Hammer of Bestial Fury":{
+			"prio":["EP/GP"],
+			"gp:":"",
+			"wowID":""
+		},
+		"Nightmare engulfed object":{
+			"prio":["mdps prio","EP/GP"],
+			"gp:":"",
+			"wowID":""
+		},
+		"Staff of Rampant Growth":{
+			"prio":["EP/GP"],
+			"gp":"",
+			"wowID":""
+		},
+		"Trance Stone":{
+			"prio":["EP/GP"],
+			"gp":"",
+			"wowID":""
+		}
+	},
+	"Emeriss":{
+		"Boots of the Endless Moor":{
+			"prio":["EP/GP"],
+			"gp:":"",
+			"wowID":""
+		},
+		"Circlet of Restless Dreams":{
+			"prio":["Mage Prio","EP/GP"],
+			"gp:":"",
+			"wowID":""
+		},
+		"Dragonheart Necklace":{
+			"prio":["EP/GP"],
+			"gp:":"",
+			"wowID":""
+		},
+		"Polished Ironwood Crossbow":{
+			"prio":["EP/GP"],
+			"gp:":"",
+			"wowID":""
+		},
+		"Ring of the Unliving":{
+			"prio":["EP/GP"],
+			"gp:":"",
+			"wowID":""
+		}
+	},
+	"Lethon":{
+		"Belt of the Dark Bog":{
+			"prio":["EP/GP"],
+			"gp:":"",
+			"wowID":""
+		},
+		"Black Bark Wristbands":{
+			"prio":["EP/GP"],
+			"gp:":"",
+			"wowID":""
+		},
+		"Dark Heart Pants":{
+			"prio":["EP/GP"],
+			"gp:":"",
+			"wowID":""
+		},
+		"Deviate Growth Cap":{
+			"prio":["Peku decides","EP/GP"],
+			"gp:":"",
+			"wowID":""
+		},
+		"Gauntlets of the Shining Light":{
+			"prio":["EP/GP"],
+			"gp:":"",
+			"wowID":""
+		},
+		"Malignant Footguards":{
+			"prio":["EP/GP"],
+			"gp:":"",
+			"wowID":""
+		}
+	},
+	"Taerar":{
+		"Boots of Fright":{
+			"prio":["EP/GP"],
+			"gp:":"",
+			"wowID":""
+		},
+		"Mendicant's Slippers":{
+			"prio":["EP/GP"],
+			"gp:":"",
+			"wowID":""
+		},
+		"Mindtear Band":{
+			"prio":["EP/GP"],
+			"gp:":"",
+			"wowID":""
+		},
+		"Nightmare Blade":{
+			"prio":["EP/GP"],
+			"gp:":"",
+			"wowID":""
+		},
+		"Unnatural Leather Spaulders":{
+			"prio":["EP/GP"],
+			"gp:":"",
+			"wowID":""
+		}
+	},
+	"Ysondre":{
+		"Emerald Dragonfang":{
+			"prio":["EP/GP"],
+			"gp:":"",
+			"wowID":""
+		},
+		"Jade Inlaid Vestments":{
+			"prio":["EP/GP"],
+			"gp:":"",
+			"wowID":""
+		},
+		"Leggings of the Demented Mind":{
+			"prio":["EP/GP"],
+			"gp:":"",
+			"wowID":""
+		},
+		"Strangely Glyphed Legplates":{
+			"prio":["EP/GP"],
+			"gp:":"",
+			"wowID":""
+		},
+		"Acid Inscribed Pauldrons":{
+			"prio":["EP/GP"],
+			"gp:":"",
+			"wowID":""
+		},
+		"Hibernation Crystal":{
+			"prio":["EP/GP"],
+			"gp:":"",
+			"wowID":""
+		}
+	},
+	"Kazzak":{
+		"Blazefury Medallion":{
+			"prio":["EP/GP"],
+			"gp:":"",
+			"wowID":""
+		},
+		"Ring of Entropy":{
+			"prio":["EP/GP"],
+			"gp:":"",
+			"wowID":""
+		},
+		"Eskhandar's Pelt":{
+			"prio":["EP/GP"],
+			"gp:":"",
+			"wowID":""
+		},
+		"Infernal Headcage":{
+			"prio":["EP/GP"],
+			"gp:":"",
+			"wowID":""
+		},
+		"Amberseal Keeper":{
+			"prio":["EP/GP"],
+			"gp:":"",
+			"wowID":""
+		},
+		"Doomhide Gauntlets":{
+			"prio":["EP/GP"],
+			"gp:":"",
+			"wowID":""
+		},
+		"Fel Infused Leggings":{
+			"prio":["Gotosleep","EP/GP"],
+			"gp:":"",
+			"wowID":""
+		},
+		"Empyrean Demolisher":{
+			"prio":["Drazic, but he has to sing the Star Spangled Banner for it","EP/GP"],
+			"gp:":"",
+			"wowID":""
+		},
+		"Blacklight Bracer":{
+			"prio":["Blacklisted's Bracer?","EP/GP"],
+			"gp:":"",
+			"wowID":""
+		},
+		"Flayed Doomguard Belt":{
+			"prio":["EP/GP"],
+			"gp:":"",
+			"wowID":""
+		}
+	},
+	"Azuregos":{
+		"Mature Blue Dragon Sinew":{
+			"prio":["GBID"],
+			"gp:":"",
+			"wowID":""
+		},
+		"Puissant Cape":{
+			"prio":["non-AQ40 cloak havin MDPS","EP/GP"],
+			"gp:":"",
+			"wowID":""
+		},
+		"Crystal Adorned Crown":{
+			"prio":["Peku decides","EP/GP"],
+			"gp:":"",
+			"wowID":""
+		},
+		"Eskhandar's Left Claw":{
+			"prio":["EP/GP"],
+			"gp:":"",
+			"wowID":""
+		},
+		"Fang of the Mystics":{
+			"prio":["EP/GP"],
+			"gp:":"",
+			"wowID":""
+		},
+		"Unmelting Ice Girdle":{
+			"prio":["EP/GP"],
+			"gp:":"",
+			"wowID":""
+		},
+		"Cold Snap":{
+			"prio":["EP/GP"],
+			"gp:":"",
+			"wowID":""
+		},
+		"Drape of Benediction":{
+			"prio":["EP/GP"],
+			"gp:":"",
+			"wowID":""
+		},
+		"Snowblind Shoes":{
+			"prio":["EP/GP"],
+			"gp:":"",
+			"wowID":""
+		},
+		"Typhoon":{
+			"prio":["EP/GP"],
+			"gp:":"",
+			"wowID":""
+		},
+		"Leggings of Arcane Supremacy":{
+			"prio":["EP/GP"],
+			"gp:":"",
+			"wowID":""
+		}
+	}
+}
