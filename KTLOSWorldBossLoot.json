@@ -95,123 +95,123 @@
 			"wowID":""
 		},
 		"Deviate Growth Cap":{
-			"prio":["Peku decides","EP/GP"],
-			"gp:":"",
+			"prio":["Pekumen","LC"],
+			"gp:":"10",
 			"wowID":""
 		},
 		"Gauntlets of the Shining Light":{
-			"prio":["EP/GP"],
+			"prio":["LC"],
 			"gp:":"",
 			"wowID":""
 		},
 		"Malignant Footguards":{
-			"prio":["EP/GP"],
+			"prio":["LC"],
 			"gp:":"",
 			"wowID":""
 		}
 	},
 	"Taerar":{
 		"Boots of Fright":{
-			"prio":["EP/GP"],
+			"prio":["LC"],
 			"gp:":"",
 			"wowID":""
 		},
 		"Mendicant's Slippers":{
-			"prio":["EP/GP"],
-			"gp:":"",
+			"prio":["LC"],
+			"gp:":"1",
 			"wowID":""
 		},
 		"Mindtear Band":{
-			"prio":["EP/GP"],
-			"gp:":"",
+			"prio":["Mages","LC"],
+			"gp:":"5",
 			"wowID":""
 		},
 		"Nightmare Blade":{
-			"prio":["EP/GP"],
-			"gp:":"",
+			"prio":["LC"],
+			"gp:":"5",
 			"wowID":""
 		},
 		"Unnatural Leather Spaulders":{
-			"prio":["EP/GP"],
+			"prio":["LC"],
 			"gp:":"",
 			"wowID":""
 		}
 	},
 	"Ysondre":{
 		"Emerald Dragonfang":{
-			"prio":["EP/GP"],
+			"prio":["LC"],
 			"gp:":"",
 			"wowID":""
 		},
 		"Jade Inlaid Vestments":{
-			"prio":["EP/GP"],
+			"prio":["LC"],
 			"gp:":"",
 			"wowID":""
 		},
 		"Leggings of the Demented Mind":{
-			"prio":["EP/GP"],
+			"prio":["LC"],
 			"gp:":"",
 			"wowID":""
 		},
 		"Strangely Glyphed Legplates":{
-			"prio":["EP/GP"],
+			"prio":["LC"],
 			"gp:":"",
 			"wowID":""
 		},
 		"Acid Inscribed Pauldrons":{
-			"prio":["EP/GP"],
+			"prio":["LC"],
 			"gp:":"",
 			"wowID":""
 		},
 		"Hibernation Crystal":{
-			"prio":["EP/GP"],
+			"prio":["LC"],
 			"gp:":"",
 			"wowID":""
 		}
 	},
 	"Kazzak":{
 		"Blazefury Medallion":{
-			"prio":["EP/GP"],
+			"prio":["LC"],
 			"gp:":"",
 			"wowID":""
 		},
 		"Ring of Entropy":{
-			"prio":["EP/GP"],
+			"prio":["LC"],
 			"gp:":"",
 			"wowID":""
 		},
 		"Eskhandar's Pelt":{
-			"prio":["EP/GP"],
+			"prio":["Bonzai"],
 			"gp:":"",
 			"wowID":""
 		},
 		"Infernal Headcage":{
-			"prio":["EP/GP"],
+			"prio":["LC"],
 			"gp:":"",
 			"wowID":""
 		},
 		"Amberseal Keeper":{
-			"prio":["EP/GP"],
+			"prio":["LC"],
 			"gp:":"",
 			"wowID":""
 		},
 		"Doomhide Gauntlets":{
-			"prio":["EP/GP"],
+			"prio":["LC"],
 			"gp:":"",
 			"wowID":""
 		},
 		"Fel Infused Leggings":{
-			"prio":["Gotosleep","EP/GP"],
+			"prio":["Gotosleep","LC"],
 			"gp:":"",
 			"wowID":""
 		},
 		"Empyrean Demolisher":{
-			"prio":["Drazic, but he has to sing the Star Spangled Banner for it","EP/GP"],
-			"gp:":"",
+			"prio":["Drazic","Chrixus","LC"],
+			"gp:":"14",
 			"wowID":""
 		},
 		"Blacklight Bracer":{
-			"prio":["Blacklisted's Bracer?","EP/GP"],
+			"prio":["Blacklisted's Bracer?","LC"],
 			"gp:":"",
 			"wowID":""
 		},
@@ -228,53 +228,53 @@
 			"wowID":""
 		},
 		"Puissant Cape":{
-			"prio":["non-AQ40 cloak havin MDPS","EP/GP"],
-			"gp:":"",
+			"prio":["non-AQ40 cloak havin MDPS","LC"],
+			"gp:":"6",
 			"wowID":""
 		},
 		"Crystal Adorned Crown":{
-			"prio":["Peku decides","EP/GP"],
-			"gp:":"",
+			"prio":["Pekumen","LC"],
+			"gp:":"10",
 			"wowID":""
 		},
 		"Eskhandar's Left Claw":{
-			"prio":["EP/GP"],
+			"prio":["Builtlike","Bonzai","LC"],
 			"gp:":"",
 			"wowID":""
 		},
 		"Fang of the Mystics":{
-			"prio":["EP/GP"],
-			"gp:":"",
+			"prio":["LC"],
+			"gp:":"5",
 			"wowID":""
 		},
 		"Unmelting Ice Girdle":{
-			"prio":["EP/GP"],
-			"gp:":"",
+			"prio":[" DPS Warr Prio"],
+			"gp:":"1",
 			"wowID":""
 		},
 		"Cold Snap":{
-			"prio":["EP/GP"],
-			"gp:":"",
+			"prio":["LC"],
+			"gp:":"7",
 			"wowID":""
 		},
 		"Drape of Benediction":{
-			"prio":["EP/GP"],
+			"prio":["LC"],
 			"gp:":"",
 			"wowID":""
 		},
 		"Snowblind Shoes":{
-			"prio":["EP/GP"],
-			"gp:":"",
+			"prio":["Gotosleep","Bodyhair","LC"],
+			"gp:":"5",
 			"wowID":""
 		},
 		"Typhoon":{
-			"prio":["EP/GP"],
-			"gp:":"",
+			"prio":["Death knight prio""LC"],
+			"gp:":"1",
 			"wowID":""
 		},
 		"Leggings of Arcane Supremacy":{
-			"prio":["EP/GP"],
-			"gp:":"",
+			"prio":["Boomkin Prio","LC"],
+			"gp:":"1",
 			"wowID":""
 		}
 	}
