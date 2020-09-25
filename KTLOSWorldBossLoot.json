@@ -122,7 +122,7 @@
 			"wowID":""
 		},
 		"Mindtear Band":{
-			"Give to mages":["LC"],
+			"prio":["Mages","LC"],
 			"gp:":"5",
 			"wowID":""
 		},
