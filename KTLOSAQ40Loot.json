@@ -1,7 +1,7 @@
 {
 	"Trash":{
 		"Anubisath Warhammer":{
-			"prio":["Mulligen(1)","Wizzo(2)","Human Warriors","EP/GP"],
+			"prio":["Mulligen(1)","Wizzo(2)","Drazic(2)","Chrixus(1or2)","Human Warriors","EP/GP"],
 			"gp":"7",
 			"wowID":"21837"
 		},
@@ -567,7 +567,7 @@
 			"wowID":"22731"
 		},
 		"Gauntlets of Annihilation":{
-			"prio":["Bonzai(1)","Healslol(1)","LC","Fury->Tank","EP/GP"],
+			"prio":["Bonzai(1)","Healslol(1)","Rozzy(2)","Jsleazy(2)","Drazic(2)","LC","Fury->Tank","EP/GP"],
 			"gp":"10",
 			"wowID":"21581"
 		},
