@@ -2,7 +2,7 @@
 	"Trash":{
 		"Cloak of Draconic Might":{
 			"prio":["Vajeen(1)","Fury Warr","EP/GP"],
-			"gp":"",
+			"gp":"4",
 			"wowID":"19436"
 		},
 		"Interlaced Shadow Jerkin":{
@@ -32,310 +32,310 @@
 		},
 		"Doom's Edge":{
 			"prio":["Melee","EP/GP"],
-			"gp":"",
+			"gp":"8",
 			"wowID":"19362"
 		},
 		"Draconic Avenger":{
 			"prio":["Melee","EP/GP"],
-			"gp":"",
+			"gp":"Whatever the addon says",
 			"wowID":"19354"
 		},
 		"Draconic Maul":{
 			"prio":["Melee","EP/GP"],
-			"gp":"",
+			"gp":"Whatever the addon says",
 			"wowID":"19358"
 		}
 	},
 	"Razorgore the Untamed":{
 		"Bindings of Transcendence":{
 			"prio":["EP/GP"],
-			"gp":"",
+			"gp":"5",
 			"wowID":"16926"
 		},
 		"Netherwind Bindings":{
 			"prio":["EP/GP"],
-			"gp":"",
+			"gp":"5",
 			"wowID":"16918"
 		},
 		"Nemesis Bracers":{
 			"prio":["EP/GP"],
-			"gp":"",
+			"gp":"4",
 			"wowID":"16934"
 		},
 		"Stormrage Bracers":{
 			"prio":["EP/GP"],
-			"gp":"",
+			"gp":"5",
 			"wowID":"16904"
 		},
 		"Bloodfang Bracers":{
 			"prio":["EP/GP"],
-			"gp":"",
+			"gp":"5",
 			"wowID":"16911"
 		},
 		"Dragonstalkers Bracers":{
 			"prio":["Grayfox","EP/GP"],
-			"gp":"",
+			"gp":"5",
 			"wowID":"16935"
 		},
 		"Judgement Bindings":{
 			"prio":["EP/GP"],
-			"gp":"",
+			"gp":"2",
 			"wowID":"16951"
 		},
 		"Bracelets of Wrath":{
 			"prio":["Tanks","EP/GP"],
-			"gp":"",
+			"gp":"5",
 			"wowID":"16959"
 		},
 		"Arcane Infused Gem":{
 			"prio":["EP/GP"],
-			"gp":"",
+			"gp":"1",
 			"wowID":"19336"
 		},
 		"The Black Book":{
 			"prio":["EP/GP"],
-			"gp":"",
+			"gp":"1",
 			"wowID":"19337"
 		},
 		"Mantle of the Blackwing Cabal":{
 			"prio":["DPS Caster prio EPGP","EP/GP"],
-			"gp":"",
+			"gp":"5",
 			"wowID":"19370"
 		},
 		"Gloves of Rapid Evolution":{
 			"prio":["EP/GP"],
-			"gp":"",
+			"gp":"1",
 			"wowID":"19369"
 		},
 		"Spineshatter":{
 			"prio":["EP/GP"],
-			"gp":"",
+			"gp":"1",
 			"wowID":"19335"
 		},
 		"The Untamed Blade":{
 			"prio":["PvP","EP/GP"],
-			"gp":"",
+			"gp":"Whatever the addon says",
 			"wowID":"19334"
 		}
 	},
 	"Vaelastrasz The Corrupt":{
 		"Belt of Transcendence":{
 			"prio":["EP/GP"],
-			"gp":"",
+			"gp":"5",
 			"wowID":"16925"
 		},
 		"Netherwind Belt":{
 			"prio":["EP/GP"],
-			"gp":"",
+			"gp":"5",
 			"wowID":"16818"
 		},
 		"Nemesis Belt":{
 			"prio":["EP/GP"],
-			"gp":"",
+			"gp":"5",
 			"wowID":"16933"
 		},
 		"Bloodfang Belt":{
 			"prio":["SilkyJohnsn(2)","BenDriller(1)","EP/GP"],
-			"gp":"",
+			"gp":"5",
 			"wowID":"16910"
 		},
 		"Stormrage Belt":{
 			"prio":["EP/GP"],
-			"gp":"",
+			"gp":"5",
 			"wowID":"16903"
 		},
 		"Dragonstalker's Belt":{
 			"prio":["Huckfinn","EP/GP"],
-			"gp":"",
+			"gp":"5",
 			"wowID":"16936"
 		},
 		"Judgement Belt":{
 			"prio":["EP/GP"],
-			"gp":"",
+			"gp":"2",
 			"wowID":"16952"
 		},
 		"Waistband of Wrath":{
 			"prio":["EP/GP"],
-			"gp":"",
+			"gp":"5",
 			"wowID":"16960"
 		},
 		"Mind Quickening Gem":{
 			"prio":["Meowingtons (1)","Siknasty (2)","EP/GP"],
-			"gp":"",
+			"gp":"5",
 			"wowID":"19339"
 		},
 		"Rune of Metamorphosis":{
 			"prio":["EP/GP"],
-			"gp":"",
+			"gp":"1",
 			"wowID":"19340"
 		},
 		"Helm of Endless Rage":{
 			"prio":["Tank Prio","PVP prio","EP/GP"],
-			"gp":"",
+			"gp":"7",
 			"wowID":"19372"
 		},
 		"Pendant of the Fallen Dragon":{
 			"prio":["EP/GP"],
-			"gp":"",
+			"gp":"1",
 			"wowID":"19371"
 		},
 		"Red Dragonscale Protector":{
 			"prio":["EP/GP"],
-			"gp":"",
+			"gp":"5",
 			"wowID":"19348"
 		},
 		"Dragonfang Blade":{
 			"prio":["Mainspec Dagger Rogues prio","Dagger tank w/ ACLG","Offspec Rogues","EP/GP"],
-			"gp":"",
+			"gp":"8",
 			"wowID":"19346"
 		}
 	},
 	"Broodlord Lashlayer":{
 		"Boots of Transcendence":{
 			"prio":["Jowsus(1)","EP/GP"],
-			"gp":"",
+			"gp":"5",
 			"wowID":"16919"
 		},
 		"Netherwind Boots":{
 			"prio":["EP/GP"],
-			"gp":"",
+			"gp":"5",
 			"wowID":"16912"
 		},
 		"Nemesis Boots":{
 			"prio":["EP/GP"],
-			"gp":"",
+			"gp":"5",
 			"wowID":"16927"
 		},
 		"Bloodfang Boots":{
 			"prio":["EP/GP"],
-			"gp":"",
+			"gp":"5",
 			"wowID":"16906"
 		},
 		"Stormrage Boots":{
 			"prio":["EP/GP"],
-			"gp":"",
+			"gp":"5",
 			"wowID":"16898"
 		},
 		"Dragonstalker's Greaves":{
 			"prio":["EP/GP"],
-			"gp":"",
+			"gp":"5",
 			"wowID":"16941"
 		},
 		"Judgement Sabatons":{
 			"prio":["EP/GP"],
-			"gp":"",
+			"gp":"2",
 			"wowID":"16957"
 		},
 		"Sabatons of Wrath":{
 			"prio":["EP/GP"],
-			"gp":"",
+			"gp":"5",
 			"wowID":"16965"
 		},
 		"Lifegiving Gem":{
 			"prio":["Tank prio","EP/GP"],
-			"gp":"",
+			"gp":"10",
 			"wowID":"19341"
 		},
 		"Venomous Totem":{
 			"prio":["EP/GP"],
-			"gp":"",
+			"gp":"1",
 			"wowID":"19342"
 		},
 		"Black Brood Pauldrons":{
 			"prio":["EP/GP"],
-			"gp":"",
+			"gp":"6",
 			"wowID":"19373"
 		},
 		"Bracers of Arcane Accuracy":{
 			"prio":["EP/GP"],
-			"gp":"",
+			"gp":"6",
 			"wowID":"19374"
 		},
 		"Heartstriker":{
 			"prio":["EP/GP"],
-			"gp":"",
+			"gp":"Whatever the addon says",
 			"wowID":"19350"
 		},
 		"Maladath, Runed Blade of the Black Flight":{
 			"prio":["Beeny(2)","Vajeen(1)","LC","Human Warr/Non-human Rogue","EP/GP"],
-			"gp":"",
+			"gp":"12",
 			"wowID":"19351"
 		},
 		"Head of the Broodlord Lashlayer":{
-			"prio":["EP/GP"],
-			"gp":"",
+			"prio":["Druid/Priest prio."],
+			"gp":"10",
 			"wowID":"20383"
 		}
 	},
 	"Dragons (Firemaw, Ebonroc, Flamegor)":{
 		"Handguards of Transcendence":{
 			"prio":["EP/GP"],
-			"gp":"",
+			"gp":"5",
 			"wowID":"16920"
 		},
 		"Netherwind Gloves":{
 			"prio":["EP/GP"],
-			"gp":"",
+			"gp":"5",
 			"wowID":"16913"
 		},
 		"Nemesis Gloves":{
 			"prio":["EP/GP"],
-			"gp":"",
+			"gp":"5",
 			"wowID":"16928"
 		},
 		"Bloodfang Gloves":{
 			"prio":["Shadowsfade(1)","EP/GP"],
-			"gp":"",
+			"gp":"5",
 			"wowID":"16907"
 		},
 		"Stormrage Handguards":{
 			"prio":["EP/GP"],
-			"gp":"",
+			"gp":"5",
 			"wowID":"16899"
 		},
 		"Dragonstalkers Gauntlets":{
 			"prio":["EP/GP"],
-			"gp":"",
+			"gp":"5",
 			"wowID":"16940"
 		},
 		"Judgement Gauntlets":{
 			"prio":["EP/GP"],
-			"gp":"",
+			"gp":"5",
 			"wowID":"16956"
 		},
 		"Gauntlets of Wrath":{
 			"prio":["EP/GP"],
-			"gp":"",
+			"gp":"5",
 			"wowID":"16964"
 		},
 		"Scrolls of Binding Light":{
 			"prio":["EP/GP"],
-			"gp":"",
+			"gp":"5",
 			"wowID":"19343"
 		},
 		"Drake Talon Pauldrons":{
 			"prio":["Tank prio","Warrior Prio","EP/GP"],
-			"gp":"",
+			"gp":"6",
 			"wowID":"19394"
 		},
 		"Cloak of Firemaw":{
 			"prio":["Rogue Prio","EP/GP"],
-			"gp":"",
+			"gp":"4",
 			"wowID":"19398"
 		},
 		"Black Ash Robe":{
 			"prio":["EP/GP"],
-			"gp":"",
+			"gp":"1",
 			"wowID":"19399"
 		},
 		"Firemaws Clutch":{
 			"prio":["Spriest/Boomkin","EP/GP"],
-			"gp":"",
+			"gp":"Addon",
 			"wowID":"19400"
 		},
 		"Taut Dragonhide Belt":{
 			"prio":["EP/GP"],
-			"gp":"",
+			"gp":"5",
 			"wowID":"19396"
 		},
 		"Primalists Linked Legguards":{
@@ -345,7 +345,7 @@
 		},
 		"Legguards of the Fallen Crusader":{
 			"prio":["EP/GP"],
-			"gp":"",
+			"gp":"5",
 			"wowID":"19402"
 		},
 		"Claw of the Black Drake":{
@@ -365,22 +365,22 @@
 		},
 		"Ring of Blackrock":{
 			"prio":["EP/GP"],
-			"gp":"",
+			"gp":"4",
 			"wowID":"19397"
 		},
 		"Rejuvenating Gem":{
 			"prio":["Jowsus(1)","Silkybalboa(1)","Doligrian(1)","Darkdwarf(2)","Bergerac(2)","EP/GP"],
-			"gp":"",
+			"gp":"10",
 			"wowID":"19395"
 		},
 		"Aegis of Preservation":{
 			"prio":["EP/GP"],
-			"gp":"",
+			"gp":"1",
 			"wowID":"19345"
 		},
 		"Drake Fang Talisman":{
 			"prio":["Notpq(1)","Chrixus(2)","LC","EP/GP"],
-			"gp":"",
+			"gp":"10",
 			"wowID":"19406"
 		},
 		"Ebony Flame Gloves":{
@@ -400,12 +400,12 @@
 		},
 		"Band of Forced Concentration":{
 			"prio":["Reahn(1)","Gotosleep(1)","Warlock prio","EP/GP"],
-			"gp":"",
+			"gp":"5",
 			"wowID":"19403"
 		},
 		"Styleen's Impeding Scarab":{
 			"prio":["Tank prio","EP/GP"],
-			"gp":"",
+			"gp":"8",
 			"wowID":"19431"
 		},
 		"Shroud of Pure Thought":{
@@ -437,57 +437,57 @@
 	"Chromaggus":{
 		"Pauldrons of Transcendence":{
 			"prio":["Chuffy (2)","EP/GP"],
-			"gp":"",
+			"gp":"5",
 			"wowID":"16924"
 		},
 		"Netherwind Mantle":{
 			"prio":["EP/GP"],
-			"gp":"",
+			"gp":"5",
 			"wowID":"16917"
 		},
 		"Nemesis Spaulders":{
 			"prio":["EP/GP"],
-			"gp":"",
+			"gp":"5",
 			"wowID":"16932"
 		},
 		"Bloodfang Spaulders":{
 			"prio":["EP/GP"],
-			"gp":"",
+			"gp":"5",
 			"wowID":"16832"
 		},
 		"Stormrage Pauldrons":{
 			"prio":["EP/GP"],
-			"gp":"",
+			"gp":"5",
 			"wowID":"16902"
 		},
 		"Dragonstalkers Spaulders":{
 			"prio":["EP/GP"],
-			"gp":"",
+			"gp":"5",
 			"wowID":"16937"
 		},
 		"Judgement Spaulders":{
 			"prio":["EP/GP"],
-			"gp":"",
+			"gp":"2",
 			"wowID":"16953"
 		},
 		"Pauldrons of Wrath":{
 			"prio":["EP/GP"],
-			"gp":"",
+			"gp":"5",
 			"wowID":"16961"
 		},
 		"Taut Dragonhide Shoulderpads":{
 			"prio":["EP/GP"],
-			"gp":"",
+			"gp":"5",
 			"wowID":"19389"
 		},
 		"Elementium Threaded Cloak":{
 			"prio":["Notpq(1)","EP/GP"],
-			"gp":"",
+			"gp":"5",
 			"wowID":"19386"
 		},
 		"Taut Dragonhide Gloves":{
 			"prio":["EP/GP"],
-			"gp":"",
+			"gp":"5",
 			"wowID":"19390"
 		},
 		"Angelistas Grasp":{
@@ -497,7 +497,7 @@
 		},
 		"Primealists Linked Waistguard":{
 			"prio":["EP/GP"],
-			"gp":"",
+			"gp":"5",
 			"wowID":"19393"
 		},
 		"Girdle of the Fallen Crusader":{
@@ -507,99 +507,99 @@
 		},
 		"Empowered Leggings":{
 			"prio":["Lianli(1)","Claris(1)","EP/GP"],
-			"gp":"",
+			"gp":"8",
 			"wowID":"19385"
 		},
 		"Shimmering Geta":{
 			"prio":["EP/GP"],
-			"gp":"",
+			"gp":"1",
 			"wowID":"19391"
 		},
 		"Chromatic Boots":{
 			"prio":["Warrior DPS Then Tanks","Killstepp(1)","EP/GP"],
-			"gp":"",
+			"gp":"8",
 			"wowID":"19387"
 		},
 		"Ashjrethul Crossbow of Smiting":{
 			"prio":["EP/GP"],
-			"gp":"",
+			"gp":"10",
 			"wowID":"19361"
 		},
 		"Elementium Reinforced Bulwark":{
 			"prio":["Tuglight","Tanks","EP/GP"],
-			"gp":"",
+			"gp":"10",
 			"wowID":"19349"
 		},
 		"Claw of Chromaggus":{
 			"prio":["EP/GP"],
-			"gp":"10",
+			"gp":"8",
 			"wowID":"19347"
 		},
 		"Chromatically Tempered Sword":{
 			"prio":["Chart(1)","LC","EP/GP"],
-			"gp":"",
+			"gp":"14",
 			"wowID":"19352"
 		}
 	},
 	"Nefarian":{
 		"Robes of Transcendence":{
 			"prio":["EP/GP"],
-			"gp":"",
+			"gp":"7",
 			"wowID":"16923"
 		},
 		"Netherwind Robes":{
 			"prio":["EP/GP"],
-			"gp":"",
+			"gp":"7",
 			"wowID":"16916"
 		},
 		"Nemesis Robes":{
 			"prio":["EP/GP"],
-			"gp":"",
+			"gp":"7",
 			"wowID":"16931"
 		},
 		"Bloodfang Chestpiece":{
 			"prio":["SilkyJohnsn","EP/GP"],
-			"gp":"",
+			"gp":"7",
 			"wowID":"16905"
 		},
 		"Stormrage Chestguard":{
 			"prio":["EP/GP"],
-			"gp":"",
+			"gp":"7",
 			"wowID":"16897"
 		},
 		"Dragonstalkers Breastplate":{
 			"prio":["EP/GP"],
-			"gp":"",
+			"gp":"7",
 			"wowID":"16942"
 		},
 		"Judgement Breastplate":{
 			"prio":["EP/GP"],
-			"gp":"",
+			"gp":"7",
 			"wowID":"16958"
 		},
 		"Breastplate of Wrath":{
 			"prio":["Tank prio","EP/GP"],
-			"gp":"",
+			"gp":"7",
 			"wowID":"16966"
 		},
 		"Head of Nefarian":{
 			"prio":["Melee prio","EP/GP"],
-			"gp":"",
+			"gp":"5",
 			"wowID":"19003"
 		},
 		"Lokamir il Romathis":{
-			"prio":["Iamfaith(1)","Lianli(1)","Thrane(1)","Celesdea(2)","Bergerac(2)","LC","EP/GP"],
-			"gp":"",
+			"prio":["Iamfaith(1)","Lianli(1)","Thrane(1)""Celesdea(2)","Bergerac(2)","LC","EP/GP"],
+			"gp":"14",
 			"wowID":"19360"
 		},
 		"Crulshorukh Edge of Chaos":{
 			"prio":["Edgemaster prio","EP/GP"],
-			"gp":"",
+			"gp":"14",
 			"wowID":"19363"
 		},
 		"Ashkandi Greatsword of the Brotherhood":{
 			"prio":["Thrane(1)","Rozzy(2)","PVP prio","LC","Warriors, Hunter, Pally","EP/GP"],
-			"gp":"",
+			"gp":"14",
 			"wowID":"19364"
 		},
 		"Staff of Shadow Flame":{
@@ -609,7 +609,7 @@
 		},
 		"Mishundare Circlet of the Mind Flayer":{
 			"prio":["Rasbeary(1)","EP/GP"],
-			"gp":"",
+			"gp":"10",
 			"wowID":"19375"
 		},
 		"Prestors Talisman of Connivery":{
@@ -619,7 +619,7 @@
 		},
 		"Cloak of the Brood Lord":{
 			"prio":["EP/GP"],
-			"gp":"",
+			"gp":"3",
 			"wowID":"19378"
 		},
 		"Therazanes Link":{
@@ -638,8 +638,8 @@
 			"wowID":"19376"
 		},
 		"Pure Elementium Band":{
-			"prio":["Thrane(1)","EP/GP"],
-			"gp":"",
+			"prio":["Thrane(1)","Kare(1)","EP/GP"],
+			"gp":"5",
 			"wowID":"19382"
 		},
 		"Neltharions Tear":{
