@@ -206,7 +206,7 @@
 			"wowID":""
 		},
 		"Empyrean Demolisher":{
-			"prio":["Drazic","Chrixus","Mulligen","Wizzo","LC"],
+			"prio":["Drazic","Chrixus","LC"],
 			"gp:":"14",
 			"wowID":""
 		},
@@ -248,7 +248,7 @@
 			"wowID":""
 		},
 		"Unmelting Ice Girdle":{
-			"prio":["Tank Prio for Naxx"],
+			"prio":[" DPS Warr Prio"],
 			"gp:":"1",
 			"wowID":""
 		},
