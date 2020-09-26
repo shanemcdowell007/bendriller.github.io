@@ -37,12 +37,12 @@
 		},
 		"Draconic Avenger":{
 			"prio":["Melee","EP/GP"],
-			"gp":"Whatever the addon says",
+			"gp":"13",
 			"wowID":"19354"
 		},
 		"Draconic Maul":{
 			"prio":["Melee","EP/GP"],
-			"gp":"Whatever the addon says",
+			"gp":"13",
 			"wowID":"19358"
 		}
 	},
@@ -114,7 +114,7 @@
 		},
 		"The Untamed Blade":{
 			"prio":["PvP","EP/GP"],
-			"gp":"Whatever the addon says",
+			"gp":"13",
 			"wowID":"19334"
 		}
 	},
@@ -253,7 +253,7 @@
 		},
 		"Heartstriker":{
 			"prio":["EP/GP"],
-			"gp":"Whatever the addon says",
+			"gp":"3",
 			"wowID":"19350"
 		},
 		"Maladath, Runed Blade of the Black Flight":{
@@ -330,7 +330,7 @@
 		},
 		"Firemaws Clutch":{
 			"prio":["Spriest/Boomkin","EP/GP"],
-			"gp":"Addon",
+			"gp":"5",
 			"wowID":"19400"
 		},
 		"Taut Dragonhide Belt":{
