@@ -165,7 +165,7 @@
 		},
 		"Hibernation Crystal":{
 			"prio":["LC"],
-			"gp:":"",
+			"gp:":"14",
 			"wowID":""
 		}
 	},
@@ -206,7 +206,7 @@
 			"wowID":""
 		},
 		"Empyrean Demolisher":{
-			"prio":["Drazic","Chrixus","LC"],
+			"prio":["Chrixus","Drazic","LC"],
 			"gp:":"14",
 			"wowID":""
 		},
