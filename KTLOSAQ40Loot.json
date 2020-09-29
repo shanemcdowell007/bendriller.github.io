@@ -60,7 +60,7 @@
 			"wowID":"21814"
 		},
 		"Cloak of Concentrated Hatred":{
-     		"prio":["Chart(1)","Killstep(2)","Destain(1)","Rogue->Warrior","EP/GP"],
+     		"prio":["Chart(1)","Killstep(2)","Stopbegging(2)","Rogue->Warrior","EP/GP"],
 			"gp":"7",
 			"wowID":"21701"
 		},
@@ -230,7 +230,7 @@
 			"wowID":"21674"
 		},
 		"Gloves of enforcement":{
-			"prio":["Killstep(2)","BenDriller(1)","Sinister strike rogues","DS rogues","Ferals","nonDS dagger rogues","EP/GP"],
+			"prio":["Killstep(2)","BenDriller(1)","Johnscar(2)","Sinister strike rogues","DS rogues","Ferals","nonDS dagger rogues","EP/GP"],
 			"gp":"8",
 			"wowID":"21672"
 		},
@@ -282,7 +282,7 @@
 	},
 	"Fankriss the Unyielding":{
 		"Ancient Qiraji Ripper":{
-			"prio":["Chart(1)","Killstep(2)","rogues w/o cts","warriors w/o cts","LC","EP/GP"],
+			"prio":["Chart(1)","Killstep(2)","Johnscar(2)","rogues w/o cts","warriors w/o cts","LC","EP/GP"],
 			"gp":"14",
 			"wowID":"21650"
 		},
@@ -443,7 +443,7 @@
 			"wowID":"21597"
 		},
 		"Qiraji Execution Bracers":{
-			"prio":["Silkyjohsn(2)","Destain(1)","Chart(1)","Killstep(2)","Rogues->Feral->Fury","EP/GP"],
+			"prio":["Silkyjohsn(2)","Notpq(1)","Chart(1)","Killstep(2)","Rogues->Feral->Fury","EP/GP"],
 			"gp":"6",
 			"wowID":"21602"
 		},
@@ -520,7 +520,7 @@
 			"wowID":"21610"
 		},
 		"Larvae of the Great Worm":{
-			"prio":["BenDriller","mdps without strikers","EP/GP"],
+			"prio":["mdps without strikers","EP/GP"],
 			"gp":"4",
 			"wowID":"23557"
 		},
