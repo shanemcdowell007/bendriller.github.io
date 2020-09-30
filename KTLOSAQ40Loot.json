@@ -1,7 +1,7 @@
 {
 	"Trash":{
 		"Anubisath Warhammer":{
-			"prio":["Mulligen(1)","Wizzo(2)","Drazic(2)","Chrixus(1or2)","Human Warriors","EP/GP"],
+			"prio":["Wizzo(2)","Drazic(2)","Chrixus(1or2)","Human Warriors","EP/GP"],
 			"gp":"7",
 			"wowID":"21837"
 		},
@@ -38,7 +38,7 @@
 	},
 	"Boss Shared":{
 		"Imperial Qiraji Armaments":{
-			"prio":["SilkyJohnsn(2)","Stopbegging(2)","Impactt(1)","Raid 1 Rogue?","Killstepp(1)","EP/GP"],
+			"prio":["SilkyJohnsn(2)","Stopbegging(2)","Raid 1 Rogue?","EP/GP"],
 			"gp":"10 (Pugio/Waraxe), 5 (otherwise)",
 			"wowID":"21232"
 		},
@@ -374,7 +374,7 @@
 			"wowID":"22399"
 		},
 		"Qiraji Bindings of Command":{
-			"prio":["Rachelstarr(2)","Bonzai(1)","Stopbegging(2)","non-DTP Warrior","BenDriller(1)x2","DPS Warriors->Rogues","EP/GP"],
+			"prio":["Stopbegging(2)","BenDriller(1)","Snydi","Tuglight","Mulligen","DPS Warriors->Rogues->Tanks","EP/GP"],
 			"gp":"8",
 			"wowID":"20928"
 		},
@@ -525,7 +525,7 @@
 			"wowID":"23557"
 		},
 		"Ouro's Intact Hide":{
-			"prio":["SilkyJohnsn(2)","Supertoxic(1)","Sniped(1)","Raid 2 Tank", "BenDriller(1)","Warrior TANKS->rogues","EP/GP"],
+			"prio":["SilkyJohnsn(2)","Sniped(1)","Raid 2 Tank", "BenDriller(1)","Warrior TANKS->rogues->DPS Warrs","EP/GP"],
 			"gp":"8",
 			"wowID":"20927"
 		},
@@ -537,7 +537,7 @@
 	},
 	"Cthun":{
 		"Eye of C'Thun":{
-			"prio":["Austeezy(1)","Theprestige(1)","Kuku(1)","Blacklisted(1)","Alters(1)","EP/GP"],
+			"prio":["Theprestige(1)","Kuku(1)","Blacklisted(1)","Alters(1)","EP/GP"],
 			"gp":"6",
 			"wowID":"21221"
 		},
@@ -547,7 +547,7 @@
 			"wowID":"20933"
 		},
 		"Carapace of the Old God":{
-			"prio":["SilkyJohnsn(2)","Stopbegging(2)","Supertoxic(1)","Sniped(1)","Tanks","r12+ Hunter>Rogue>Ret>Warrior","EP/GP"],
+			"prio":["SilkyJohnsn(2)","Stopbegging(2)","Sniped(1)","Tanks","r12+ Hunter>Rogue>Ret>Warrior","EP/GP"],
 			"gp":"9",
 			"wowID":"20929"
 		},
@@ -577,7 +577,7 @@
 			"wowID":"21839"
 		},
 		"Mark of C'Thun":{
-			"prio":["PQ","Tank","EP/GP"],
+			"prio":["Tank","EP/GP"],
 			"gp":"8",
 			"wowID":"22732"
 		},
@@ -587,7 +587,7 @@
 			"wowID":"21583"
 		},
 		"Dark Storm Gauntlets":{
-			"prio":["Coxxy(1)","Blacklisted(1)","Kuku(1)","Austeezy(1)","Votelock(2)","Gotosleep(1)","EP/GP"],
+			"prio":["Blacklisted(1)","Kuku(1)","Austeezy(1)","Votelock(2)","Gotosleep(1)","EP/GP"],
 			"gp":"10",
 			"wowID":"21585"
 		},
