@@ -240,7 +240,7 @@
 			"wowID":"21676"
 		},
 		"Legplates of Blazing Light":{
-			"prio":["Doligrian(1)","To EP/GP Pally Healers"],
+			"prio":["To EP/GP Pally Healers"],
 			"gp":"7",
 			"wowID":"21667"
 		},
@@ -322,7 +322,7 @@
 			"wowID":"21639"
 		},
 		"Robes of the Guardian Saint":{
-			"prio":["Faith(1)","Peku(2)","Celesdea(2)","Isidora(1)","Claris(1)","Healers","EP/GP"],
+			"prio":["Faith(1)","Peku(2)","Celesdea(2)","Claris(1)","Healers","EP/GP"],
 			"gp":"8",
 			"wowID":"21663"
 		},
@@ -337,7 +337,7 @@
 			"wowID":"21652"
 		},
 		"Libram of Grace":{
-			"prio":["Pally Healers","Blunts(2)","Bergerac(2)","Thrane(1)","Doligrian(1)","EP/GP"],
+			"prio":["Pally Healers","Bergerac(2)","Doligrian(1)","EP/GP"],
 			"gp":"3",
 			"wowID":"22402"
 		}
@@ -396,7 +396,7 @@
 			"wowID":"21618"
 		},
 		"Gloves of the Messiah":{
-			"prio":["Priest Prio Healers","Jowsus(1)","Wildhealer(1)","Claris(1)","EP/GP"],
+			"prio":["Priest Prio Healers","Wildhealer(1)","Claris(1)","EP/GP"],
 			"gp":"6",
 			"wowID":"21619"
 		},
@@ -406,7 +406,7 @@
 			"wowID":"21617"
 		},
 		"Ring of the Martyr":{
-			"prio":["Faith(1)","Thrane(1)","Silkybalboa(1)","Kare(1)","Peku(2)","Bergerac(2)","Darkdwarf(2)","EP/GP"],
+			"prio":["Faith(1)","Thrane(1)","Silkybalboa(1)","Kare(1)","Bergerac(2)","Darkdwarf(2)","EP/GP"],
 			"gp":"6",
 			"wowID":"21620"
 		}, 
