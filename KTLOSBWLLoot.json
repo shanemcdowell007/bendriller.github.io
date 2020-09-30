@@ -6,7 +6,7 @@
 			"wowID":"19436"
 		},
 		"Interlaced Shadow Jerkin":{
-			"prio":["Bendriller (1)","EP/GP"],
+			"prio":["EP/GP"],
 			"gp":"1",
 			"wowID":"19439"
 		},
@@ -284,7 +284,7 @@
 			"wowID":"16928"
 		},
 		"Bloodfang Gloves":{
-			"prio":["Shadowsfade(1)","EP/GP"],
+			"prio":["Highest PvP rank","EP/GP"],
 			"gp":"5",
 			"wowID":"16907"
 		},
@@ -516,7 +516,7 @@
 			"wowID":"19391"
 		},
 		"Chromatic Boots":{
-			"prio":["Warrior DPS Then Tanks","Killstepp(1)","EP/GP"],
+			"prio":["Killstepp(1)","Warrior DPS Then Tanks","EP/GP"],
 			"gp":"8",
 			"wowID":"19387"
 		},
@@ -613,7 +613,7 @@
 			"wowID":"19375"
 		},
 		"Prestors Talisman of Connivery":{
-			"prio":["Stopbegging","Huckfinn","Hunters/Rogues","EP/GP"],
+			"prio":["Hunters/Rogues","EP/GP"],
 			"gp":"",
 			"wowID":"19377"
 		},
@@ -628,7 +628,7 @@
 			"wowID":"19380"
 		},
 		"Boots of the Shadow Flame":{
-			"prio":["Rogues/Feral Druids","EP/GP"],
+			"prio":["Feral Druids","Rogues","EP/GP"],
 			"gp":"",
 			"wowID":"19381"
 		},

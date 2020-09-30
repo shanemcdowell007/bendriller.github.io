@@ -138,7 +138,7 @@
 			"wowID":""
 		},
 		"Aged Core Leather Gloves":{
-			"prio":["MS Dagger rogue","Dagger tank","OS rogue","EP/GP"],
+			"prio":["Sniped","MS Dagger rogue","Dagger tank","OS rogue","EP/GP"],
 			"gp:":"",
 			"wowID":""
 		},
@@ -267,7 +267,7 @@
 			"wowID":""
 		},
 		"Strikers Mark":{
-			"prio":["BenDriller(1)","Dardoc(1)","SilkyJohnsn(2)","LC","EP/GP"],
+			"prio":["LC","EP/GP"],
 			"gp:":"",
 			"wowID":""
 		},
