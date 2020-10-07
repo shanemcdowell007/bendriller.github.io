@@ -257,7 +257,7 @@
 			"wowID":"19350"
 		},
 		"Maladath, Runed Blade of the Black Flight":{
-			"prio":["Beeny(2)","Vajeen(1)","LC","Human Warr/Non-human Rogue","EP/GP"],
+			"prio":["Beeny(2)","Vajeen(1)","Jsleazy(2)","LC","Human Warr/Non-human Rogue","EP/GP"],
 			"gp":"12",
 			"wowID":"19351"
 		},
@@ -379,7 +379,7 @@
 			"wowID":"19345"
 		},
 		"Drake Fang Talisman":{
-			"prio":["Notpq(1)","Chrixus(2)","LC","EP/GP"],
+			"prio":["Notpq(1)","LC","EP/GP"],
 			"gp":"10",
 			"wowID":"19406"
 		},
@@ -389,7 +389,7 @@
 			"wowID":"19407"
 		},
 		"Malfurions Blessed Bulwark":{
-			"prio":["Notpq(1)","Feral druids","EP/GP"],
+			"prio":["Feral druids","EP/GP"],
 			"gp":"",
 			"wowID":"19405"
 		},
@@ -536,7 +536,7 @@
 			"wowID":"19347"
 		},
 		"Chromatically Tempered Sword":{
-			"prio":["Chart(1)","LC","EP/GP"],
+			"prio":["LC","EP/GP"],
 			"gp":"14",
 			"wowID":"19352"
 		}
@@ -598,7 +598,7 @@
 			"wowID":"19363"
 		},
 		"Ashkandi Greatsword of the Brotherhood":{
-			"prio":["Thrane(1)","Rozzy(2)","PVP prio","LC","Warriors, Hunter, Pally","EP/GP"],
+			"prio":["Karrc(1)","Rozzy(2)","PVP prio","LC","Warriors, Hunter, Pally","EP/GP"],
 			"gp":"14",
 			"wowID":"19364"
 		},
