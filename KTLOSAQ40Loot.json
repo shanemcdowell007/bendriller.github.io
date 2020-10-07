@@ -1,7 +1,7 @@
 {
 	"Trash":{
 		"Anubisath Warhammer":{
-			"prio":["Wizzo(2)","Drazic(2)","Chrixus(1or2)","Human Warriors","EP/GP"],
+			"prio":["Wizzo(2)","Chrixus(2)","Human Warriors","EP/GP"],
 			"gp":"7",
 			"wowID":"21837"
 		},
@@ -38,12 +38,12 @@
 	},
 	"Boss Shared":{
 		"Imperial Qiraji Armaments":{
-			"prio":["SilkyJohnsn(2)","Stopbegging(2)","Raid 1 Rogue?","EP/GP"],
+			"prio":["Stopbegging(2)","Raid 1 Rogue?","Edgemaster Warrs(2)","EP/GP"],
 			"gp":"10 (Pugio/Waraxe), 5 (otherwise)",
 			"wowID":"21232"
 		},
 		"Imperial Qiraji Regalia":{
-			"prio":["Bigthink(1)","Kare(1)","EP/GP"],
+			"prio":["Bigthink(1)","EP/GP"],
 			"gp":"6",
 			"wowID":"21237"
 		}
@@ -230,7 +230,7 @@
 			"wowID":"21674"
 		},
 		"Gloves of enforcement":{
-			"prio":["Killstep(2)","BenDriller(1)","Johnscar(2)","Sinister strike rogues","DS rogues","Ferals","nonDS dagger rogues","EP/GP"],
+			"prio":["BenDriller(1)","Johnscar(2)","Sinister strike rogues","DS rogues","Ferals","nonDS dagger rogues","EP/GP"],
 			"gp":"8",
 			"wowID":"21672"
 		},
@@ -282,17 +282,17 @@
 	},
 	"Fankriss the Unyielding":{
 		"Ancient Qiraji Ripper":{
-			"prio":["Chart(1)","Killstep(2)","Johnscar(2)","rogues w/o cts","warriors w/o cts","LC","EP/GP"],
+			"prio":["Chart(1)","Johnscar(2)","rogues w/o cts","warriors w/o cts","LC","EP/GP"],
 			"gp":"14",
 			"wowID":"21650"
 		},
 		"Barb of the Sand Reaver":{
-			"prio":["Grayfox(1)","Hunters","EP/GP"],
+			"prio":["Grayfox(1)","Karrc(2)","Hunters","EP/GP"],
 			"gp":"3",
 			"wowID":"21635"
 		},
 		"Barbed Choker":{
-			"prio":["Dillmcpickle(1)","Warriors/PvP","EP/GP"],
+			"prio":["Dillmcpickle(1)","Impactt(1)","Warriors/PvP","EP/GP"],
 			"gp":"6",
 			"wowID":"21664"
 		},
@@ -332,7 +332,7 @@
 			"wowID":"21651"
 		},
 		"Silithis Carapace Chestguard":{
-			"prio":["Dill","Drazic(2)","Bonzai","Impactt","Chrixus","Warriors","EP/GP"],
+			"prio":["Frau(2)","Tuglight(1)","Bonzai","Impactt","Chrixus","Warriors","EP/GP"],
 			"gp":"1",
 			"wowID":"21652"
 		},
@@ -359,7 +359,7 @@
 			"wowID":"21622"
 		},
 		"Ring of the Qiraji Fury":{
-			"prio":["Dill(warrs w/o QSR?)","Warrior->Hunter","EP/GP"],
+			"prio":["Vajeen(1)","Warrior->Hunter","EP/GP"],
 			"gp":"6",
 			"wowID":"21677"
 		},
@@ -374,7 +374,7 @@
 			"wowID":"22399"
 		},
 		"Qiraji Bindings of Command":{
-			"prio":["Stopbegging(2)","BenDriller(1)","Snydi","Tuglight","Mulligen","DPS Warriors->Rogues->Tanks","EP/GP"],
+			"prio":["Stopbegging(2)","BenDriller(1)","Mulligen","DPS Warriors->Rogues->Tanks","EP/GP"],
 			"gp":"8",
 			"wowID":"20928"
 		},
@@ -386,17 +386,17 @@
 	},
 	"Princess Huhuran":{
 		"Cloak of the Golden Hive":{
-			"prio":["Snydi","Tank","EP/GP"],
+			"prio":["Tank","EP/GP"],
 			"gp":"5",
 			"wowID":"21621"
 		},
 		"Hive Defiler Wristguards":{
-			"prio":["Impactt","Dillmcpickle","Healslol","Killstepp","DPS Warriors","EP/GP"],
+			"prio":["Impactt","Healslol","Dillmcpickle","Killstepp","DPS Warriors","EP/GP"],
 			"gp":"6",
 			"wowID":"21618"
 		},
 		"Gloves of the Messiah":{
-			"prio":["Priest Prio Healers","Wildhealer(1)","Claris(1)","EP/GP"],
+			"prio":["Priest Prio Healers","Wildhealer(1)","EP/GP"],
 			"gp":"6",
 			"wowID":"21619"
 		},
@@ -423,7 +423,7 @@
 			"wowID":"21598"
 		},
 		"Amulet of Veknilash":{
-			"prio":["Theprestige(1)","Blacklisted(1)","Alter(1)","Mages/Warlocks","EP/GP"],
+			"prio":["Blacklisted(1)","Alter(1)","Mages/Warlocks","EP/GP"],
 			"gp":"8",
 			"wowID":"21608"
 		},
@@ -525,7 +525,7 @@
 			"wowID":"23557"
 		},
 		"Ouro's Intact Hide":{
-			"prio":["SilkyJohnsn(2)","Sniped(1)","Raid 2 Tank", "BenDriller(1)","Warrior TANKS->rogues->DPS Warrs","EP/GP"],
+			"prio":["BenDriller(1)","Bonzai(1)","Warrior TANKS->rogues->DPS Warrs","EP/GP"],
 			"gp":"8",
 			"wowID":"20927"
 		},
@@ -537,7 +537,7 @@
 	},
 	"Cthun":{
 		"Eye of C'Thun":{
-			"prio":["Theprestige(1)","Kuku(1)","Blacklisted(1)","Alters(1)","EP/GP"],
+			"prio":["Kuku(1)","Blacklisted(1)","Alters(1)","EP/GP"],
 			"gp":"6",
 			"wowID":"21221"
 		},
@@ -547,7 +547,7 @@
 			"wowID":"20933"
 		},
 		"Carapace of the Old God":{
-			"prio":["SilkyJohnsn(2)","Stopbegging(2)","Sniped(1)","Tanks","r12+ Hunter>Rogue>Ret>Warrior","EP/GP"],
+			"prio":["Stopbegging(2)","Impactt(1)Unless he gets annihilation first","Vajeen(1)","Tanks","r12+ Hunter>Rogue>Ret>Warrior","EP/GP"],
 			"gp":"9",
 			"wowID":"20929"
 		},
@@ -567,7 +567,7 @@
 			"wowID":"22731"
 		},
 		"Gauntlets of Annihilation":{
-			"prio":["Bonzai(1)","Healslol(1)","Rozzy(2)","Jsleazy(2)","Drazic(2)","LC","Fury->Tank","EP/GP"],
+			"prio":["Bonzai(1)","Healslol(1)","Rozzy(2)","Jsleazy(2)","LC","Fury->Tank","EP/GP"],
 			"gp":"10",
 			"wowID":"21581"
 		},
@@ -587,7 +587,7 @@
 			"wowID":"21583"
 		},
 		"Dark Storm Gauntlets":{
-			"prio":["Blacklisted(1)","Kuku(1)","Austeezy(1)","Votelock(2)","Gotosleep(1)","EP/GP"],
+			"prio":["Kuku(1)","Austeezy(1)","Votelock(2)","Gotosleep(1)","EP/GP"],
 			"gp":"10",
 			"wowID":"21585"
 		},
