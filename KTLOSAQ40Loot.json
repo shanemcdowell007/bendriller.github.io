@@ -337,7 +337,7 @@
 			"wowID":"21652"
 		},
 		"Libram of Grace":{
-			"prio":["Pally Healers","Bergerac(2)","Doligrian(1)","EP/GP"],
+			"prio":["Pally Healers","Doligrian(1)","EP/GP"],
 			"gp":"3",
 			"wowID":"22402"
 		}
