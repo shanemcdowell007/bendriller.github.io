@@ -11,7 +11,7 @@
 			"wowID":"19439"
 		},
 		"Boots of Pure Thought":{
-			"prio":["Lianli (1)","Silkybalboa (1)","EP/GP"],
+			"prio":["Lianli(1)","Silkybalboa(1)","Thedoctorjaz(1)","EP/GP"],
 			"gp":"5",
 			"wowID":"19437"
 		},
@@ -369,7 +369,7 @@
 			"wowID":"19397"
 		},
 		"Rejuvenating Gem":{
-			"prio":["Jowsus(1)","Silkybalboa(1)","Doligrian(1)","Darkdwarf(2)","Bergerac(2)","EP/GP"],
+			"prio":["Jowsus(1)","Silkybalboa(1)","Doligrian(1)","Darkdwarf(2)","Snibbler(2)","EP/GP"],
 			"gp":"10",
 			"wowID":"19395"
 		},
