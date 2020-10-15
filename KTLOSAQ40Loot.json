@@ -396,17 +396,17 @@
 			"wowID":"21618"
 		},
 		"Gloves of the Messiah":{
-			"prio":["Priest Prio Healers","Wildhealer(1)","EP/GP"],
+			"prio":["Priest Prio Healers","Wildhealer(1)","Mazzo(1)","EP/GP"],
 			"gp":"6",
 			"wowID":"21619"
 		},
 		"Wasphide Gauntlets":{
-			"prio":["Druid healers","Peku(2)","Celesdea(2)","Faith(1)","Terpgodd(1)","EP/GP"],
+			"prio":["Druid healers","Peku(2)","Celesdea(2)","Faith(1)","EP/GP"],
 			"gp":"6",
 			"wowID":"21617"
 		},
 		"Ring of the Martyr":{
-			"prio":["Faith(1)","Thrane(1)","Silkybalboa(1)","Kare(1)","Bergerac(2)","Darkdwarf(2)","EP/GP"],
+			"prio":["Faith(1)","Thrane(1)","Silkybalboa(1)","Kare(1)","Darkdwarf(2)","EP/GP"],
 			"gp":"6",
 			"wowID":"21620"
 		}, 
@@ -468,7 +468,7 @@
 			"wowID":"21606"
 		},
 		"Bracelets of Royal Redemption":{
-			"prio":["Druid and Pally Prio Healers","Blunts(2)","Silkybalboa(1)","Terpgodd(1)","Lianli(1)","Faith(1)","Peku(2)","Bergerac(2)","EP/GP"],
+			"prio":["Druid and Pally Prio Healers","Blunts(2)","Silkybalboa(1)","Lianli(1)","Faith(1)","Peku(2)","EP/GP"],
 			"gp":"8",
 			"wowID":"21604"
 		},
@@ -495,7 +495,7 @@
 	},
 	"Ouro":{
 		"Don Rigoberto's Lost Hat":{
-			"prio":["Claris(1)","Silky(1)","Jowsus(1)","Terpgodd(1)","Wildhealer(1)","Nisio(2)","Darkdwarf(2)","Priest and Druid Prio Healers","EP/GP"],
+			"prio":["Claris(1)","Wildhealer(1)","Jowsus(1)","Thedoctorjaz(1)","Silkyb(1)","Darkdwarf(2)","Priest and Druid Prio Healers","EP/GP"],
 			"gp":"8",
 			"wowID":"21615"
 		},
@@ -572,7 +572,7 @@
 			"wowID":"21581"
 		},
 		"Scepter of the False Prophet":{
-			"prio":["Lianli(1)","Thedarkdwarf(2)","Blunts(2)","Thedoctorjaz(1)","Jowsus(1)","Thrane(1)","Nisio(2)","Kare(1)","Silkybalboa(1)","EP/GP"],
+			"prio":["Lianli(1)","Thedarkdwarf(2)","Blunts(2)","Thedoctorjaz(1)","Jowsus(1)","Thrane(1)","Wildhealer(1)","Kare(1)","Silkybalboa(1)","EP/GP"],
 			"gp":"18",
 			"wowID":"21839"
 		},
@@ -592,7 +592,7 @@
 			"wowID":"21585"
 		},
 		"Grasp of the Old God":{
-			"prio":["Bis for all Healers to EP/GP"],
+			"prio":["Wildhealer(1)","Bis for all Healers to EP/GP"],
 			"gp":"10",
 			"wowID":"21582"
 		},
