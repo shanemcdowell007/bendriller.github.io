@@ -505,7 +505,7 @@
 			"wowID":"21611"
 		},
 		"The Burrower's Shell":{
-			"prio":["EP/GP"],
+			"prio":["GBID","EP/GP"],
 			"gp":"1",
 			"wowID":"23558"
 		},
@@ -537,7 +537,7 @@
 	},
 	"Cthun":{
 		"Eye of C'Thun":{
-			"prio":["Kuku(1)","Blacklisted(1)","Alters(1)","EP/GP"],
+			"prio":["Blacklisted(1)","Alters(1)","TBD","EP/GP"],
 			"gp":"6",
 			"wowID":"21221"
 		},
