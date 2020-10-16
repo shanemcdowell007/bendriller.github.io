@@ -55,7 +55,7 @@
 			"wowID":"21706"
 		},
 		"Breastplate of Annihilation":{
-			"prio":["Impactt(1)","Dillmcpickle(1)", "Vajeen","DPS Warrior","EP/GP"],
+			"prio":["Impactt(1)","Vajeen","DPS Warrior","EP/GP"],
 			"gp":"8",
 			"wowID":"21814"
 		},
@@ -332,7 +332,7 @@
 			"wowID":"21651"
 		},
 		"Silithis Carapace Chestguard":{
-			"prio":["Frau(2)","Tuglight(1)","Bonzai","Impactt","Chrixus","Warriors","EP/GP"],
+			"prio":["Tuglight(1)","Bonzai","Impactt","Chrixus","Warriors","EP/GP"],
 			"gp":"1",
 			"wowID":"21652"
 		},
@@ -374,7 +374,7 @@
 			"wowID":"22399"
 		},
 		"Qiraji Bindings of Command":{
-			"prio":["Stopbegging(2)","BenDriller(1)","Mulligen","DPS Warriors->Rogues->Tanks","EP/GP"],
+			"prio":["Stopbegging(2)","BenDriller(1)","Destain(1)","DPS Warriors->Rogues->Tanks","EP/GP"],
 			"gp":"8",
 			"wowID":"20928"
 		},
@@ -386,7 +386,7 @@
 	},
 	"Princess Huhuran":{
 		"Cloak of the Golden Hive":{
-			"prio":["Tank","EP/GP"],
+			"prio":["Tank","Tug->Dill->Mulligen","EP/GP"],
 			"gp":"5",
 			"wowID":"21621"
 		},
@@ -443,7 +443,7 @@
 			"wowID":"21597"
 		},
 		"Qiraji Execution Bracers":{
-			"prio":["Silkyjohsn(2)","Notpq(1)","Chart(1)","Killstep(2)","Rogues->Feral->Fury","EP/GP"],
+			"prio":["Notpq(1)","Chart(1)","Killstep(2)","Rogues->Feral->Fury","EP/GP"],
 			"gp":"6",
 			"wowID":"21602"
 		},
@@ -468,7 +468,7 @@
 			"wowID":"21606"
 		},
 		"Bracelets of Royal Redemption":{
-			"prio":["Druid and Pally Prio Healers","Blunts(2)","Silkybalboa(1)","Lianli(1)","Faith(1)","Peku(2)","EP/GP"],
+			"prio":["Druid and Pally Prio Healers","Blunts(2)","Lianli(1)","Faith(1)","Peku(2)","EP/GP"],
 			"gp":"8",
 			"wowID":"21604"
 		},
@@ -520,12 +520,12 @@
 			"wowID":"21610"
 		},
 		"Larvae of the Great Worm":{
-			"prio":["mdps without strikers","EP/GP"],
+			"prio":["mdps without strikers","Vajeen(1)","EP/GP"],
 			"gp":"4",
 			"wowID":"23557"
 		},
 		"Ouro's Intact Hide":{
-			"prio":["BenDriller(1)","Bonzai(1)","Warrior TANKS->rogues->DPS Warrs","EP/GP"],
+			"prio":["BenDriller(1)","Killstepp(1)","Impactt(1)","Warrior TANKS->rogues->DPS Warrs","EP/GP"],
 			"gp":"8",
 			"wowID":"20927"
 		},
@@ -547,7 +547,7 @@
 			"wowID":"20933"
 		},
 		"Carapace of the Old God":{
-			"prio":["Stopbegging(2)","Impactt(1)Unless he gets annihilation first","Vajeen(1)","Tanks","r12+ Hunter>Rogue>Ret>Warrior","EP/GP"],
+			"prio":["Stopbegging(2)","Impactt(1)Unless he gets annihilation first","Mulligen(1)","Tanks","r12+ Hunter>Rogue>Ret>Warrior","EP/GP"],
 			"gp":"9",
 			"wowID":"20929"
 		},
