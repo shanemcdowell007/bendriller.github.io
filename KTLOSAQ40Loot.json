@@ -132,7 +132,7 @@
 			"wowID":"21693"
 		},
 		"Ternary Mantle":{
-			"prio":["EP/GP"],
+			"prio":["Doctorjaz(1)","EP/GP"],
 			"gp":"4",
 			"wowID":"21694"
 		},
@@ -260,7 +260,7 @@
 			"wowID":"21671"
 		},
 		"Sartura's Might":{
-			"prio":["Non Lei OH","EP/GP"],
+			"prio":["Mazzo(1)","Non Lei OH","EP/GP"],
 			"gp":"5",
 			"wowID":"21666"
 		},
@@ -537,7 +537,7 @@
 	},
 	"Cthun":{
 		"Eye of C'Thun":{
-			"prio":["Blacklisted(1)","Alters(1)","TBD","EP/GP"],
+			"prio":["Blacklisted(1)","Alters(1)","Doctorjaz(1)","Mazzo(1)","EP/GP"],
 			"gp":"6",
 			"wowID":"21221"
 		},
@@ -592,7 +592,7 @@
 			"wowID":"21585"
 		},
 		"Grasp of the Old God":{
-			"prio":["Wildhealer(1)","Bis for all Healers to EP/GP"],
+			"prio":["Wildhealer(1)","Mazzo(1)","Bis for all Healers to EP/GP"],
 			"gp":"10",
 			"wowID":"21582"
 		},
