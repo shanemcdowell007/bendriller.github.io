@@ -60,7 +60,7 @@
 			"wowID":"21814"
 		},
 		"Cloak of Concentrated Hatred":{
-     		"prio":["Chart(1)","Killstep(2)","Stopbegging(2)","Sniped(1)","Johnscar(2)","Rogue->Warrior","EP/GP"],
+     		"prio":["Chart(1)","Killstep(2)","Stopbegging(2)","Sniped(1)","Destain(1)","Johnscar(2)","Rogue->Warrior","EP/GP"],
 			"gp":"7",
 			"wowID":"21701"
 		},
@@ -230,7 +230,7 @@
 			"wowID":"21674"
 		},
 		"Gloves of enforcement":{
-			"prio":["BenDriller(1)","Johnscar(2)","Sinister strike rogues","DS rogues","Ferals","nonDS dagger rogues","EP/GP"],
+			"prio":["BenDriller(1)","NotPQ(1)","Johnscar(2)","Sinister strike rogues","DS rogues","Ferals","nonDS dagger rogues","EP/GP"],
 			"gp":"8",
 			"wowID":"21672"
 		},
@@ -374,7 +374,7 @@
 			"wowID":"22399"
 		},
 		"Qiraji Bindings of Command":{
-			"prio":["Stopbegging(2)","BenDriller(1)","Destain(1)","DPS Warriors->Rogues->Tanks","EP/GP"],
+			"prio":["Stopbegging(2)","Destain(1)","DPS Warriors->Rogues->Tanks","EP/GP"],
 			"gp":"8",
 			"wowID":"20928"
 		},
@@ -443,7 +443,7 @@
 			"wowID":"21597"
 		},
 		"Qiraji Execution Bracers":{
-			"prio":["Notpq(1)","Chart(1)","Killstep(2)","Rogues->Feral->Fury","EP/GP"],
+			"prio":["Notpq(1)","Chart(1)","Destain(1)","Killstep(2)","Rogues->Feral->Fury","EP/GP"],
 			"gp":"6",
 			"wowID":"21602"
 		},
@@ -520,12 +520,12 @@
 			"wowID":"21610"
 		},
 		"Larvae of the Great Worm":{
-			"prio":["mdps without strikers","Vajeen(1)","EP/GP"],
+			"prio":["Vajeen(1)","mdps without strikers","EP/GP"],
 			"gp":"4",
 			"wowID":"23557"
 		},
 		"Ouro's Intact Hide":{
-			"prio":["BenDriller(1)","Killstepp(1)","Impactt(1)","Warrior TANKS->rogues->DPS Warrs","EP/GP"],
+			"prio":["Destain(1)","Killstepp(1)","Impactt(1)","Warrior TANKS->rogues->DPS Warrs","EP/GP"],
 			"gp":"8",
 			"wowID":"20927"
 		},
