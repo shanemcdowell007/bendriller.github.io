@@ -31,7 +31,7 @@
 			"wowID":"21836"
 		},
 		"Shard of the Fallen Star":{
-			"prio":["EP/GP"],
+			"prio":["Gbid?","EP/GP"],
 			"gp":"1",
 			"wowID":"21891"
 		}
@@ -55,7 +55,7 @@
 			"wowID":"21706"
 		},
 		"Breastplate of Annihilation":{
-			"prio":["Impactt(1)","Vajeen","DPS Warrior","EP/GP"],
+			"prio":["Vajeen","DPS Warrior","EP/GP"],
 			"gp":"8",
 			"wowID":"21814"
 		},
@@ -215,7 +215,7 @@
 	},
 	"Battleguard Sartura":{
 		"Badge of the Swarmguard":{
-			"prio":["Hunters","Vajeen","Dill","Melee","EP/GP"],
+			"prio":["Vajeen","Dill","Melee","EP/GP"],
 			"gp":"5",
 			"wowID":"21670"
 		},
@@ -270,7 +270,7 @@
 			"wowID":"21668"
 		},
 		"Silithid Claw":{
-			"prio":["Huckfin(1)","Grayfox(1)","Hunters","EP/GP"],
+			"prio":["Huckfin(1)","Hunters","EP/GP"],
 			"gp":"4",
 			"wowID":"21673"
 		},
@@ -374,7 +374,7 @@
 			"wowID":"22399"
 		},
 		"Qiraji Bindings of Command":{
-			"prio":["Stopbegging(2)","Destain(1)","DPS Warriors->Rogues->Tanks","EP/GP"],
+			"prio":["DPS Warriors->Rogues->Tanks","EP/GP"],
 			"gp":"8",
 			"wowID":"20928"
 		},
@@ -438,7 +438,7 @@
 			"wowID":"21599"
 		},
 		"Royal Scepter of Vek'lor":{
-			"prio":["Meowingtons(1)","Blacklisted(1)","Coxxy(1)","Kuku(1)","Austeezy(1)","Raehn(1)","EP/GP"],
+			"prio":["Blacklisted(1)","Coxxy(1)","Kuku(1)","Austeezy(1)","Raehn(1)","EP/GP"],
 			"gp":"8",
 			"wowID":"21597"
 		},
@@ -448,7 +448,7 @@
 			"wowID":"21602"
 		},
 		"Ring of Emperor Vek'lor":{
-			"prio":["Notpq(1)","Tanks","EP/GP"],
+			"prio":["Tanks","EP/GP"],
 			"gp":"3",
 			"wowID":"21601"
 		},
@@ -525,7 +525,7 @@
 			"wowID":"23557"
 		},
 		"Ouro's Intact Hide":{
-			"prio":["Destain(1)","Killstepp(1)","Impactt(1)","Warrior TANKS->rogues->DPS Warrs","EP/GP"],
+			"prio":["Killstepp(1)","Impactt(1)","Warrior TANKS->rogues->DPS Warrs","EP/GP"],
 			"gp":"8",
 			"wowID":"20927"
 		},
@@ -537,7 +537,7 @@
 	},
 	"Cthun":{
 		"Eye of C'Thun":{
-			"prio":["Blacklisted(1)","Alters(1)","Doctorjaz(1)","Mazzo(1)","EP/GP"],
+			"prio":["Alters(1)","Doctorjaz(1)","Mazzo(1)","EP/GP"],
 			"gp":"6",
 			"wowID":"21221"
 		},
@@ -547,7 +547,7 @@
 			"wowID":"20933"
 		},
 		"Carapace of the Old God":{
-			"prio":["Stopbegging(2)","Impactt(1)Unless he gets annihilation first","Mulligen(1)","Tanks","r12+ Hunter>Rogue>Ret>Warrior","EP/GP"],
+			"prio":["Healslol(1)","Bonzai(1)","Tanks","r12+ Hunter>Rogue>Ret>Warrior","EP/GP"],
 			"gp":"9",
 			"wowID":"20929"
 		},
@@ -557,7 +557,7 @@
 			"wowID":"21596"
 		},
 		"Eyestalk Waist Cord":{
-			"prio":["Coxxy(1)","Meowingtons(1)","EP/GP"],
+			"prio":["Meowingtons(1)","EP/GP"],
 			"gp":"10",
 			"wowID":"22730"
 		},
@@ -567,7 +567,7 @@
 			"wowID":"22731"
 		},
 		"Gauntlets of Annihilation":{
-			"prio":["Bonzai(1)","Healslol(1)","Rozzy(2)","Jsleazy(2)","LC","Fury->Tank","EP/GP"],
+			"prio":["Bonzai(1)","Healslol(1)","Jsleazy(2)","LC","Fury->Tank","EP/GP"],
 			"gp":"10",
 			"wowID":"21581"
 		},
