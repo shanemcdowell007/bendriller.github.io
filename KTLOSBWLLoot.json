@@ -643,7 +643,7 @@
 			"wowID":"19382"
 		},
 		"Neltharions Tear":{
-			"prio":["Raehn(1)","Theprestige(1)","Rasbeary(1)","EP/GP"],
+			"prio":["Rasbeary(1)","EP/GP"],
 			"gp":"10",
 			"wowID":"19379"
 		}
