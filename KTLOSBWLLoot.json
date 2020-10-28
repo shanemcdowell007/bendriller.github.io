@@ -369,7 +369,7 @@
 			"wowID":"19397"
 		},
 		"Rejuvenating Gem":{
-			"prio":["Jowsus(1)","Silkybalboa(1)","Doligrian(1)","Snibbler(2)","EP/GP"],
+			"prio":["Silkybalboa(1)","Doligrian(1)","Snibbler(2)","EP/GP"],
 			"gp":"10",
 			"wowID":"19395"
 		},
@@ -608,7 +608,7 @@
 			"wowID":"19356"
 		},
 		"Mishundare Circlet of the Mind Flayer":{
-			"prio":["Rasbeary(1)","EP/GP"],
+			"prio":["EP/GP"],
 			"gp":"10",
 			"wowID":"19375"
 		},
