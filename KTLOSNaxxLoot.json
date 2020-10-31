@@ -189,7 +189,7 @@
 			"wowID":"22357"
 		},
 		"Kiss of the Spider":{
-			"prio":["Chart ofc","LC","EP/GP"],
+			"prio":["Vajeen(1)","LC","EP/GP"],
 			"gp":"3",
 			"wowID":"22954"
 		},
@@ -290,7 +290,7 @@
 			"wowID":"22352"
 		},
 		"Band of Unnatural Forces":{
-			"prio":["Chart(1)","EP/GP"],
+			"prio":["Sniped(1)","Supertoxic(1)","Killstep(2)","Johnscar(2)","Rogues","LC","EP/GP"],
 			"gp":"8",
 			"wowID":"23038"
 		},
@@ -376,7 +376,7 @@
 	},
 	"Four Horsemen":{
 		"Corrupted Ashbringer":{
-			"prio":["Hyperialol","EP/GP"],
+			"prio":["Thrane(1)","EP/GP"],
 			"gp":"5",
 			"wowID":"22691"
 		},
@@ -406,7 +406,7 @@
 			"wowID":"22809"
 		},
 		"Seal of the Damned":{
-			"prio":["Notpq","EP/GP"],
+			"prio":["EP/GP"],
 			"gp":"6",
 			"wowID":"23025"
 		}, 
@@ -561,7 +561,7 @@
 			"wowID":"23047"
 		},
 		"Shroud of Dominion":{
-			"prio":["LC","EP/GP"],
+			"prio":["FuryWarriors","LC","EP/GP"],
 			"gp":"3",
 			"wowID":"23045"
 		},
@@ -581,7 +581,7 @@
 			"wowID":"23048"
 		},
 		"Slayer's Crest":{
-			"prio":["BenDriller(2)","Destain(1)","EP/GP"],
+			"prio":["BenDriller(2)","Destain(1)","Killstep(2)","EP/GP"],
 			"gp":"18",
 			"wowID":"23041"
 		},
@@ -608,12 +608,12 @@
 	},
 	"Kel'Thuzad":{
 		"The Phylactery of Kel'Thuzad":{
-			"prio":["Chart(1)","Killstep(2)","LC","EP/GP"],
+			"prio":["Chart(1)","Killstep(2)","Supertoxic(1)","BenDriller(2)","Destain(1)","Johnscar(2)","Sniped(1)","Rogues","LC","EP/GP"],
 			"gp":"6",
 			"wowID":"22520"
 		},
 		"The Hungering Cold":{
-			"prio":["Tuglight(1)","BenDriller(2)","Frau(2)","Aisli(1)","Destain(1)","Wizzo(2)","LC","EP/GP"],
+			"prio":["Aisli(1)","Frau(2)","Wizzo(2)","BenDriller(2)","Tuglight(1)","Destain(1)","LC","EP/GP"],
 			"gp":"6",
 			"wowID":"23577"
 		},
@@ -643,12 +643,12 @@
 			"wowID":"23059"
 		},
 		"Kingsfall":{
-			"prio":["Supertoxic(1)","Sniped(1)","Stopbegging(2)","Shadowsfade(1)","LC","EP/GP"],
+			"prio":["Sniped(1)","Supertoxic(1)","Stopbegging(2)","Shadowsfade(1)","LC","EP/GP"],
 			"gp":"10",
 			"wowID":"22802"
 		},
 		"Stormrage's Talisman of Seething":{
-			"prio":["LC","EP/GP"],
+			"prio":["FuryWarriors","LC","EP/GP"],
 			"gp":"18",
 			"wowID":"23053"
 		},
@@ -688,7 +688,7 @@
 			"wowID":"23061"
 		},
 		"Gressil, Dawn of Ruin":{
-			"prio":["Chart(1)","Killstep(2)","LC","EP/GP"],
+			"prio":["Dillmcpickle(1)","Chart(1)","Vajeen(1)","Killstep(2)","Chrixus(2)","LC","EP/GP"],
 			"gp":"1",
 			"wowID":"23054"
 		},
