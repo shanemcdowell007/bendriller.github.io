@@ -15,7 +15,7 @@
 			"gp":"1",
 			"wowID":"23238"
 		},
-		"Necro-kinght's Garb":{
+		"Necro-knight's Garb":{
 			"prio":["EP/GP"],
 			"gp":"3",
 			"wowID":"23069"
@@ -47,6 +47,11 @@
 		}
 	},
 	"Boss Shared":{
+		"Dreadnaught 4 pc":{
+			"prio":["(1)", "(2)"],
+			"gp":"10",
+			"wowID":"22726"
+		},
 		"Splinter of Atiesh":{
 			"prio":["Moxie(2)","LC","EP/GP"],
 			"gp":"10",
@@ -152,7 +157,7 @@
 			"wowID":"22941"
 		},
 		"Widow's Remorse":{
-			"prio":["Wizzo(2)","EP/GP"],
+			"prio":["Wizzo(2)","Aisli(1)","EP/GP"],
 			"gp":"5",
 			"wowID":"22806"
 		},
@@ -376,7 +381,7 @@
 			"wowID":"22691"
 		},
 		"Desecrated Breastplate":{
-			"prio":["Snydicate(1)","Frau(2)","Tanks","Rogues","LC","EP/GP"],
+			"prio":["Aisli(1)","Snydicate(1)","Frau(2)","Tanks","Rogues","LC","EP/GP"],
 			"gp":"6",
 			"wowID":"22349"
 		},
@@ -608,7 +613,7 @@
 			"wowID":"22520"
 		},
 		"The Hungering Cold":{
-			"prio":["Snydicate(1)","BenDriller(2)","Frau(2)","Destain(1)","LC","EP/GP"],
+			"prio":["Tuglight(1)","BenDriller(2)","Frau(2)","Aisli(1)","Destain(1)","Wizzo(2)","LC","EP/GP"],
 			"gp":"6",
 			"wowID":"23577"
 		},
@@ -633,7 +638,7 @@
 			"wowID":"23066"
 		},
 		"Ring of the Dreadnaught":{
-			"prio":["Snydicate","LC","EP/GP"],
+			"prio":["LC","EP/GP"],
 			"gp":"5",
 			"wowID":"23059"
 		},
