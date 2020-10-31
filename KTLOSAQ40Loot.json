@@ -282,7 +282,7 @@
 	},
 	"Fankriss the Unyielding":{
 		"Ancient Qiraji Ripper":{
-			"prio":["Chart(1)","Johnscar(2)","Sniped(1)","rogues w/o cts","warriors w/o cts","LC","EP/GP"],
+			"prio":["Chart(1)","Johnscar(2)","rogues w/o cts","warriors w/o cts","LC","EP/GP"],
 			"gp":"14",
 			"wowID":"21650"
 		},
@@ -612,7 +612,7 @@
 			"wowID":"21134"
 		},
 		"Death's Sting":{
-			"prio":["Stopbegging(2)","tbd(1)","LC/Rogues","EP/GP"],
+			"prio":["Stopbegging(2)","Sniped(1)","Shadowsfade(1)","LC/Rogues","EP/GP"],
 			"gp":"18",
 			"wowID":"21126"
 		}

@@ -6,7 +6,7 @@
 			"wowID":"23044"
 		},
 		"Misplaced Servo Arm":{
-			"prio":["LC","EP/GP"],
+			"prio":["Mulligan(1)","LC","EP/GP"],
 			"gp":"1",
 			"wowID":"23221"
 		},
@@ -342,7 +342,7 @@
 			"wowID":"23017"
 		},
 		"Iblis, Blade of the Fallen Seraph":{
-			"prio":["Chart(1)","Killstep(2)","Johnscar(2)","Sniped(1)","LC","EP/GP"],
+			"prio":["Chart(1)","Killstep(2)","Johnscar(2)","LC","EP/GP"],
 			"gp":"4",
 			"wowID":"23014"
 		}
@@ -539,7 +539,7 @@
 			"wowID":"23000"
 		},
 		"The Castigator":{
-			"prio":["LC","EP/GP"],
+			"prio":["Healslol(1)","LC","EP/GP"],
 			"gp":"18",
 			"wowID":"22808"
 		}
@@ -613,7 +613,7 @@
 			"wowID":"22520"
 		},
 		"The Hungering Cold":{
-			"prio":["Aisli(1)","Frau(2)","Wizzo(2)","BenDriller(2)","Tuglight(1)","Destain(1)","LC","EP/GP"],
+			"prio":["Frau(2)","Wizzo(2)","BenDriller(2)","Aisli(1)","Tuglight(1)","Destain(1)","LC","EP/GP"],
 			"gp":"6",
 			"wowID":"23577"
 		},
