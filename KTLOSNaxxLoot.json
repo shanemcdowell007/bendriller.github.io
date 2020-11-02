@@ -702,5 +702,12 @@
 			"gp":"20",
 			"wowID":"22819"
 		}
+	},
+	"Atiesh":{
+		"Splinter of Atiesh":{
+			"prio":["Coxxy(1)","Blacklisted(1)","Moxie(2)","EP/GP"],
+			"gp":"20",
+			"wowID":"22726"
+		}
 	}
 }
