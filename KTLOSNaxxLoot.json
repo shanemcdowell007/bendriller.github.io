@@ -189,7 +189,7 @@
 			"wowID":"22954"
 		},
 		"Wraith blade":{
-			"prio":["LC","EP/GP"],
+			"prio":["Theprestige(1)","Austeezy(1)","Meow(1)","EP/GP"],
 			"gp":"3",
 			"wowID":"22807"
 		},
@@ -300,7 +300,7 @@
 			"wowID":"23037"
 		},
 		"Brimstone Staff":{
-			"prio":["Caster Soakers","EP/GP"],
+			"prio":["Coxxy(1)","Blacklisted(1)","EP/GP"],
 			"gp":"1",
 			"wowID":"22800"
 		},
@@ -433,7 +433,7 @@
 			"wowID":"22815"
 		},
 		"Wand of Fates":{
-			"prio":["EP/GP"],
+			"prio":["Kuku(1)","Austeezy(1)","Black(1)","Coxxy(1)","EP/GP"],
 			"gp":"1",
 			"wowID":"22820"
 		},
@@ -514,7 +514,7 @@
 			"wowID":"22367"
 		},
 		"Leggings of Polarity":{
-			"prio":["Coxxynormous","EP/GP"],
+			"prio":["Rhaen(1)","Meowingtons(1)","Blacklisted(1)","Theprestige(1)","EP/GP"],
 			"gp":"3",
 			"wowID":"23070"
 		},
@@ -586,17 +586,17 @@
 			"wowID":"23040"
 		},
 		"Restrained Essence of Sapphiron":{
-			"prio":["Coxxy knows no restraint, cannot have this","EP/GP"],
+			"prio":["Coxxy(1)","Blacklisted(1)","Meow(1)","EP/GP"],
 			"gp":"6",
 			"wowID":"23046"
 		},
 		"Cloak of the Necropolis":{
-			"prio":["LC","EP/GP"],
+			"prio":["Meow(1)","Coxxy(1)","Alters(1)","EP/GP"],
 			"gp":"10",
 			"wowID":"23050"
 		},
 		"Sapphiron's Left Eye":{
-			"prio":["EP/GP"],
+			"prio":["Austeezy(1)","Blacklisted(1)","EP/GP"],
 			"gp":"10",
 			"wowID":"23049"
 		}
@@ -618,7 +618,7 @@
 			"wowID":"23060"
 		},
 		"Gem of Trapped Innocents":{
-			"prio":["Coxxynormous","EP/GP"],
+			"prio":["Alters(1)","Kuku(1)","EP/GP"],
 			"gp":"9",
 			"wowID":"23057"
 		},
@@ -663,7 +663,7 @@
 			"wowID":"23067"
 		},
 		"Soulseeker":{
-			"prio":["EP/GP"],
+			"prio":["Alters(1)","Rhaen(1)","Kuku(1)","EP/GP"],
 			"gp":"10",
 			"wowID":"22799"
 		},
@@ -673,7 +673,7 @@
 			"wowID":"22812"
 		},
 		"Doomfinger":{
-			"prio":["Bond, James Bond","EP/GP"],
+			"prio":["Rhaen(1)","Meow(1)", "Theprestige(1)", "Alters(1)","James Bond","EP/GP"],
 			"gp":"10",
 			"wowID":"22821"
 		},
