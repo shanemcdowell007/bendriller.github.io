@@ -38,7 +38,7 @@
 	},
 	"Boss Shared":{
 		"Imperial Qiraji Armaments":{
-			"prio":["Stopbegging(2)","Raid 1 Rogue?","Edgemaster Warrs(2)","EP/GP"],
+			"prio":["Stopbegging(2)","Edgemaster Warrs(2)","EP/GP"],
 			"gp":"10 (Pugio/Waraxe), 5 (otherwise)",
 			"wowID":"21232"
 		},
@@ -282,7 +282,7 @@
 	},
 	"Fankriss the Unyielding":{
 		"Ancient Qiraji Ripper":{
-			"prio":["Chart(1)","Johnscar(2)","rogues w/o cts","warriors w/o cts","LC","EP/GP"],
+			"prio":["Sniped(1)","Johnscar(2)","rogues w/o cts","warriors w/o cts","LC","EP/GP"],
 			"gp":"14",
 			"wowID":"21650"
 		},
@@ -612,7 +612,7 @@
 			"wowID":"21134"
 		},
 		"Death's Sting":{
-			"prio":["Stopbegging(2)","Sniped(1)","Shadowsfade(1)","LC/Rogues","EP/GP"],
+			"prio":["Stopbegging(2)","Destain(1)","Shadowsfade(1)","LC/Rogues","EP/GP"],
 			"gp":"18",
 			"wowID":"21126"
 		}

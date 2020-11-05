@@ -342,7 +342,7 @@
 			"wowID":"23017"
 		},
 		"Iblis, Blade of the Fallen Seraph":{
-			"prio":["Chart(1)","Killstep(2)","Johnscar(2)","LC","EP/GP"],
+			"prio":["Chart(1)","Killstep(2)","Johnscar(2)","Sniped(1)","LC","EP/GP"],
 			"gp":"4",
 			"wowID":"23014"
 		}
@@ -643,7 +643,7 @@
 			"wowID":"23059"
 		},
 		"Kingsfall":{
-			"prio":["Sniped(1)","Supertoxic(1)","Stopbegging(2)","Shadowsfade(1)","LC","EP/GP"],
+			"prio":["Destain(1)","Supertoxic(1)","Stopbegging(2)","Shadowsfade(1)","LC","EP/GP"],
 			"gp":"10",
 			"wowID":"22802"
 		},
