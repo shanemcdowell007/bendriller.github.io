@@ -608,7 +608,7 @@
 	},
 	"Kel'Thuzad":{
 		"The Phylactery of Kel'Thuzad":{
-			"prio":["Chart(1)","Killstep(2)","Supertoxic(1)","BenDriller(2)","Destain(1)","Johnscar(2)","Sniped(1)","Rogues","LC","EP/GP"],
+			"prio":["Chart(1)","Killstep(2)","BenDriller(2)","Destain(1)","Shadowsfade(1)","Johnscar(2)","Sniped(1)","Rogues","LC","EP/GP"],
 			"gp":"6",
 			"wowID":"22520"
 		},
