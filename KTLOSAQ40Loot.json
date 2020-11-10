@@ -537,7 +537,7 @@
 	},
 	"Cthun":{
 		"Eye of C'Thun":{
-			"prio":["Doctorjaz(1)","Mazzo(1)","Doligrian(1)","EP/GP"],
+			"prio":["Mazzo(1)","Doligrian(1)","EP/GP"],
 			"gp":"6",
 			"wowID":"21221"
 		},
