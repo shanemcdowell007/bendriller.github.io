@@ -41,7 +41,7 @@
 			"wowID":"23668"
 		},
 		"Ring of the Eternal Flame":{
-			"prio":["EP/GP"],
+			"prio":["LC","EP/GP"],
 			"gp":"1",
 			"wowID":"23237"
 		}
@@ -58,7 +58,7 @@
 			"wowID":"22355"
 		},
 		"Desecrated Bindings":{
-			"prio":["LC","EP/GP"],
+			"prio":["priest","LC","EP/GP"],
 			"gp":"8",
 			"wowID":"22369"
 		},
@@ -73,7 +73,7 @@
 			"wowID":"22363"
 		},
 		"Desecrated Belt":{
-			"prio":["LC","EP/GP"],
+			"prio":["priest","LC","EP/GP"],
 			"gp":"8",
 			"wowID":"22370"
 		},
@@ -83,7 +83,7 @@
 			"wowID":"22356"
 		},
 		"Desecrated Sandals":{
-			"prio":["LC","EP/GP"],
+			"prio":["warlock with T3 chest","Alter(1)","Raehn(1)","Theprestige(1)", "MEOW(1)","LC","EP/GP"],
 			"gp":"8",
 			"wowID":"22372"
 		},
@@ -98,7 +98,7 @@
 			"wowID":"22358"
 		},
 		"Desecrated Shoulderpads":{
-			"prio":["LC","EP/GP"],
+			"prio":["KuKu(1)","Austezy(1)","Blacklisted(1)","Coxxy(1)","priest","LC","EP/GP"],
 			"gp":"8",
 			"wowID":"22368"
 		},
@@ -169,7 +169,7 @@
 	},
 	"Maexxna":{
 		"Desecrated Gloves":{
-			"prio":["EP/GP"],
+			"prio":["Priest","EP/GP"],
 			"gp":"1",
 			"wowID":"22371"
 		},
@@ -270,7 +270,7 @@
 	},
 	"Loatheb":{
 		"Desecrated Leggings":{
-			"prio":["Hunters","Vajeen","Dill","Melee","EP/GP"],
+			"prio":["Priest","EP/GP"],
 			"gp":"5",
 			"wowID":"22366"
 		},
@@ -381,7 +381,7 @@
 			"wowID":"22349"
 		},
 		"Desecrated Robe":{
-			"prio":["LC","EP/GP"],
+			"prio":["Coxxy(1)","Austezy(1)","KuKu(1)","Blacklisted(1)","LC","EP/GP"],
 			"gp":"6",
 			"wowID":"22351"
 		},
@@ -509,7 +509,7 @@
 			"wowID":"22360"
 		},
 		"Desecrated Circlet":{
-			"prio":["LC","r12+ Hunter","EP/GP"],
+			"prio":["Theprestige(1)","Alter(1)","Rahen(1)","Meow(1)","r12+ Hunter","EP/GP"],
 			"gp":"9",
 			"wowID":"22367"
 		},
@@ -648,7 +648,7 @@
 			"wowID":"23053"
 		},
 		"Frostfire Ring":{
-			"prio":["LC","EP/GP"],
+			"prio":["Meow(1)","Theprestige(1)","Alter(1)","Rahen(1)","EP/GP"],
 			"gp":"8",
 			"wowID":"23062"
 		},
