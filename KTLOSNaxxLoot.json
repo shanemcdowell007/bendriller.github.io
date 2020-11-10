@@ -236,7 +236,7 @@
 			"wowID":"22816"
 		},
 		"Libram of Light":{
-			"prio":["Dac","LC","EP/GP"],
+			"prio":["Doligrian","Lianli","LC","EP/GP"],
 			"gp":"3",
 			"wowID":"23006"
 		}
@@ -653,7 +653,7 @@
 			"wowID":"23062"
 		},
 		"Hammer of the Twisting Nether":{
-			"prio":["LC","Healers to EP/GP"],
+			"prio":["Doligrian(1)","Jaz(1)","Celesdea(1)","Darkdwarf(2)","Peku(2)","Healers to EP/GP"],
 			"gp":"6",
 			"wowID":"23056"
 		},
