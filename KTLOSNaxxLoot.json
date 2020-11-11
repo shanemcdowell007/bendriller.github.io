@@ -6,7 +6,7 @@
 			"wowID":"23044"
 		},
 		"Misplaced Servo Arm":{
-			"prio":["LC","EP/GP"],
+			"prio":["Mulligen(1)","LC","EP/GP"],
 			"gp":"1",
 			"wowID":"23221"
 		},
@@ -21,7 +21,7 @@
 			"wowID":"23069"
 		},
 		"Ghoul Skin Tunic":{
-			"prio":["EP/GP"],
+			"prio":["Feral","Fury Warrs","EP/GP"],
 			"gp":"2",
 			"wowID":"23226"
 		},
@@ -63,7 +63,7 @@
 			"wowID":"22369"
 		},
 		"Desecrated Wristguards":{
-      		"prio":["Chart(1)","Killstep(2)","Destain(1)","Rogue->Warrior","EP/GP"],
+      		"prio":["EP/GP"],
 			"gp":"7",
 			"wowID":"22362"
 		},
@@ -135,8 +135,8 @@
 			"wowID":"22938"
 		},
 		"Wristguards of Vengeance":{
-			"prio":["LC","EP/GP"],
-			"gp":"1",
+			"prio":["Dill(1)","Killstepp(1)","Warrior DPS","LC","EP/GP"],
+			"gp":"5",
 			"wowID":"22936"
 		}
 	},
@@ -152,7 +152,7 @@
 			"wowID":"22941"
 		},
 		"Widow's Remorse":{
-			"prio":["Feral druid","EP/GP"],
+			"prio":["Tanks","EP/GP"],
 			"gp":"5",
 			"wowID":"22806"
 		},
@@ -179,13 +179,13 @@
 			"wowID":"22364"
 		},
 		"Desecrated Gauntlets":{
-			"prio":["EP/GP"],
+			"prio":["DPS Warriors 4horsemen tanks","EP/GP"],
 			"gp":"3",
 			"wowID":"22357"
 		},
 		"Kiss of the Spider":{
-			"prio":["Chart ofc","LC","EP/GP"],
-			"gp":"3",
+			"prio":["Vajeen(1)","Dill(1)","Fury Warrior->Rogue","LC","EP/GP"],
+			"gp":"10",
 			"wowID":"22954"
 		},
 		"Wraith blade":{
@@ -204,15 +204,15 @@
 			"wowID":"22804"
 		},
 		"Crystal Webbed Robe":{
-			"prio":["LC","EP/GP"],
+			"prio":["Shadow","LC","EP/GP"],
 			"gp":"5",
 			"wowID":"23220"
 		}
 	},
 	"Noth the Corona Carrier":{
 		"Cloak of the Scourge":{
-			"prio":["EP/GP"],
-			"gp":"1",
+			"prio":["Tanks","PVP","EP/GP"],
+			"gp":"5",
 			"wowID":"23030"
 		},
 		"Noth's Frigid Heart":{
@@ -231,8 +231,8 @@
 			"wowID":"23028"
 		},
 		"Hatchet of Sundered Bone":{
-			"prio":["Impactt","LC","EP/GP"],
-			"gp":"3",
+			"prio":["Impactt","Killstepp(1)","Edgemaster's Warriors Non-Human->Human","LC","EP/GP"],
+			"gp":"12",
 			"wowID":"22816"
 		},
 		"Libram of Light":{
@@ -243,8 +243,8 @@
 	},
 	"Heigan the Unclean":{
 		"Legplates of Carnage":{
-			"prio":["EP/GP"],
-			"gp":"3",
+			"prio":["Dill(1)","Healslol(1)","Fury Warr","EP/GP"],
+			"gp":"8",
 			"wowID":"23068"
 		},
 		"Icy Scale Coif":{
@@ -253,7 +253,7 @@
 			"wowID":"23033"
 		},
 		"Preceptor's Hat":{
-			"prio":["EP/GP"],
+			"prio":["Shadow","EP/GP"],
 			"gp":"3",
 			"wowID":"23035"
 		},
@@ -285,7 +285,7 @@
 			"wowID":"22352"
 		},
 		"Band of Unnatural Forces":{
-			"prio":["Chart ofc","EP/GP"],
+			"prio":["LC","EP/GP"],
 			"gp":"8",
 			"wowID":"23038"
 		},
@@ -312,13 +312,13 @@
 	},
 	"Instructor Razuvious":{
 		"Wand of the Whispering Dead":{
-			"prio":["LC","EP/GP"],
+			"prio":["Healers","LC","EP/GP"],
 			"gp":"14",
 			"wowID":"23009"
 		},
 		"Signet of the Fallen Defender":{
-			"prio":["Snydicate","LC","EP/GP"],
-			"gp":"3",
+			"prio":["PQ(1)","LC","EP/GP"],
+			"gp":"5",
 			"wowID":"23018"
 		},
 		"Idol of Longevity":{
@@ -327,8 +327,8 @@
 			"wowID":"23004"
 		},
 		"Girdle of the Mentor":{
-			"prio":["Snydicate","EP/GP"],
-			"gp":"1",
+			"prio":["Aisli(1)","Warriors without Onslaught","Tanks","Fury Warrs","EP/GP"],
+			"gp":"10",
 			"wowID":"23219"
 		},
 		"Veil of the Eclipse":{
@@ -337,8 +337,8 @@
 			"wowID":"23017"
 		},
 		"Iblis, Blade of the Fallen Seraph":{
-			"prio":["Chart ofc","LC","EP/GP"],
-			"gp":"4",
+			"prio":["Chart(1)","Vajeen(1)?","Sniped?(1)","LC","EP/GP"],
+			"gp":"12",
 			"wowID":"23014"
 		}
 	},
@@ -349,13 +349,13 @@
 			"wowID":"23032"
 		},
 		"The Soul Harvester's Bindings":{
-			"prio":["Coxxynormous","EP/GP"],
+			"prio":["Mages","EP/GP"],
 			"gp":"1",
 			"wowID":"23021"
 		},
 		"Sadist's Collar":{
-			"prio":["BenDriller","LC","EP/GP"],
-			"gp":"14",
+			"prio":["BenDriller","Tanks->PVP","LC","EP/GP"],
+			"gp":"6",
 			"wowID":"23023"
 		},
 		"Boots of Displacement":{
@@ -371,8 +371,8 @@
 	},
 	"Four Horsemen":{
 		"Corrupted Ashbringer":{
-			"prio":["Hyperialol","EP/GP"],
-			"gp":"5",
+			"prio":["Thrane or Doli??","EP/GP"],
+			"gp":"20",
 			"wowID":"22691"
 		},
 		"Desecrated Breastplate":{
@@ -381,7 +381,7 @@
 			"wowID":"22349"
 		},
 		"Desecrated Robe":{
-			"prio":["Coxxy(1)","Austezy(1)","KuKu(1)","Blacklisted(1)","LC","EP/GP"],
+			"prio":["Coxxy(1)","Austezy(1)","KuKu(1)","Blacklisted(1)","Warlocks","LC","EP/GP"],
 			"gp":"6",
 			"wowID":"22351"
 		},
@@ -391,8 +391,8 @@
 			"wowID":"22350"
 		},
 		"Leggings of the Apocalypse":{
-			"prio":["Notpq","EP/GP"],
-			"gp":"6",
+			"prio":["Notpq","Feral->Fury DPS","EP/GP"],
+			"gp":"8",
 			"wowID":"23071"
 		}, 
 		"Maul of the Redeemed Crusader":{
@@ -401,12 +401,12 @@
 			"wowID":"22809"
 		},
 		"Seal of the Damned":{
-			"prio":["Kuku(1)","Austeezy(1)","Coxxy(1)","Blacklisted(1)","EP/GP"],
+			"prio":["Kuku(1)","Austeezy(1)","Coxxy(1)","Blacklisted(1)","Warlocks","EP/GP"],
 			"gp":"6",
 			"wowID":"23025"
 		}, 
 		"Soulstring":{
-			"prio":["BenDriller","LC","EP/GP"],
+			"prio":["BenDriller(2)","Dill(1)","LC","EP/GP"],
 			"gp":"6",
 			"wowID":"22811"
 		}, 
@@ -418,23 +418,23 @@
 	},
 	"Patchwerk":{
 		"Cloak of Suturing":{
-			"prio":["Tank","EP/GP"],
-			"gp":"4",
+			"prio":["Healer","EP/GP"],
+			"gp":"6",
 			"wowID":"22960"
 		},
 		"Band of Reanimation":{
-			"prio":["LC","EP/GP"],
-			"gp":"8",
+			"prio":["Hunters","LC","EP/GP"],
+			"gp":"6",
 			"wowID":"22961"
 		},
 		"Severance":{
-			"prio":["Drazic","LC","EP/GP"],
-			"gp":"3",
+			"prio":["LC","EP/GP"],
+			"gp":"16",
 			"wowID":"22815"
 		},
 		"Wand of Fates":{
-			"prio":["Kuku(1)","Austeezy(1)","Black(1)","Coxxy(1)","EP/GP"],
-			"gp":"1",
+			"prio":["Kuku(1)","Austeezy(1)","Black(1)","Coxxy(1)","Warlocks","EP/GP"],
+			"gp":"6",
 			"wowID":"22820"
 		},
 		"The Plague Bearer":{
@@ -450,18 +450,18 @@
 			"wowID":"22967"
 		},
 		"Toxin Injector":{
-			"prio":["Supertoxic","LC","EP/GP"],
-			"gp":"3",
+			"prio":["MDPS->PVP","LC","EP/GP"],
+			"gp":"6",
 			"wowID":"22810"
 		},
 		"The End of Dreams":{
-			"prio":["Rasbeary(1)","Notpq(1)","EP/GP"],
-			"gp":"1",
+			"prio":["Rasbeary(1)","Gotosleep(1)","Notpq(1)","EP/GP"],
+			"gp":"14",
 			"wowID":"22988"
 		},
 		"Midnight Haze":{
 			"prio":["EP/GP"],
-			"gp":"1",
+			"gp":"10",
 			"wowID":"22803"
 		},
 		"Glacial Mantle":{
@@ -473,26 +473,26 @@
 	"Gluth":{
 		"Claymore of Unholy Might":{
 			"prio":["Wizzo","EP/GP"],
-			"gp":"6",
+			"gp":"10",
 			"wowID":"22813"
 		},
 		"Gluth's Missing Collar":{
-			"prio":["Beeny","EP/GP"],
+			"prio":["Styleen(2)","Tanks","EP/GP"],
 			"gp":"6",
 			"wowID":"22981"
 		},
 		"Digested Hand of Power":{
-			"prio":["LC","r12+ Hunter","EP/GP"],
+			"prio":["LC","EP/GP"],
 			"gp":"9",
 			"wowID":"22994"
 		},
-		"Dac's Bargain":{
+		"Death's Bargain":{
 			"prio":["LC","EP/GP"],
-			"gp":"3",
+			"gp":"8",
 			"wowID":"23075"
 		},
 		"Rime covered Mantle":{
-			"prio":["Alters(1)","Rhaen(1)","Meow(1)","Theprestige(1)","EP/GP"],
+			"prio":["Alters(1)","Rhaen(1)","Meow(1)","Theprestige(1)","Mages","Spriest","EP/GP"],
 			"gp":"10",
 			"wowID":"22983"
 		}
@@ -509,13 +509,13 @@
 			"wowID":"22360"
 		},
 		"Desecrated Circlet":{
-			"prio":["Theprestige(1)","Alter(1)","Rahen(1)","Meow(1)","r12+ Hunter","EP/GP"],
+			"prio":["Theprestige(1)","Alter(1)","Rahen(1)","Meow(1)","EP/GP"],
 			"gp":"9",
 			"wowID":"22367"
 		},
 		"Leggings of Polarity":{
-			"prio":["Rhaen(1)","Meowingtons(1)","Blacklisted(1)","Theprestige(1)","EP/GP"],
-			"gp":"3",
+			"prio":["Rhaen(1)","Meowingtons(1)","Blacklisted(1)","Theprestige(1)","Warlocks and Mages","EP/GP"],
+			"gp":"8",
 			"wowID":"23070"
 		},
 		"Spire of Twilight":{
@@ -529,19 +529,19 @@
 			"wowID":"23001"
 		},
 		"Plated Abomination Ribcage":{
-			"prio":["LC","Fury->Tank","EP/GP"],
+			"prio":["Killstepp(1)","Healslol(1)","Dill(1),","LC","Fury->Tank","EP/GP"],
 			"gp":"10",
 			"wowID":"23000"
 		},
 		"The Castigator":{
-			"prio":["LC","EP/GP"],
-			"gp":"18",
+			"prio":["Healslol(1)","LC","EP/GP"],
+			"gp":"16",
 			"wowID":"22808"
 		}
 	},
 	"Sapphiron":{
 		"Might of the Scourge":{
-			"prio":["Chart ofc","LC","EP/GP"],
+			"prio":["Fury Warrs","LC","EP/GP"],
 			"gp":"6",
 			"wowID":"23548"
 		},
@@ -551,23 +551,23 @@
 			"wowID":"23545"
 		},
 		"Eye of the Dead":{
-			"prio":["Chart(1)","Stopbegging(2)","Supertoxic(1)","BenDriller(1)", "Dillmcpickle", "Tanks","r12+ Hunter>Rogue>Ret>Warrior","EP/GP"],
+			"prio":["Healers","EP/GP"],
 			"gp":"9",
 			"wowID":"23047"
 		},
 		"Shroud of Dominion":{
-			"prio":["Chart ofc","LC","EP/GP"],
-			"gp":"3",
+			"prio":["Bonzai(1)","Fury Warrs","LC","EP/GP"],
+			"gp":"6",
 			"wowID":"23045"
 		},
 		"Claw of the Frost Wyrm":{
-			"prio":["Kota","LC","EP/GP"],
+			"prio":["Rogues->PVP","LC","EP/GP"],
 			"gp":"10",
 			"wowID":"23242"
 		},
 		"The Face of Death":{
-			"prio":["Snydicate","LC","EP/GP"],
-			"gp":"5",
+			"prio":["Snydicate(1)","Frau(2)","Tanks","LC","EP/GP"],
+			"gp":"10",
 			"wowID":"23043"
 		},
 		"Sapphiron's right eye":{
@@ -576,12 +576,12 @@
 			"wowID":"23048"
 		},
 		"Slayer's Crest":{
-			"prio":["BenDriller","EP/GP"],
-			"gp":"18",
+			"prio":["BenDriller","Rogues->Fury Warriors","EP/GP"],
+			"gp":"10",
 			"wowID":"23041"
 		},
 		"Glyph of Deflection":{
-			"prio":["Beeny","EP/GP"],
+			"prio":["Tanks","EP/GP"],
 			"gp":"8",
 			"wowID":"23040"
 		},
@@ -603,28 +603,28 @@
 	},
 	"Kel'Thuzad":{
 		"The Phylactery of Kel'Thuzad":{
-			"prio":["Chart ofc","LC","EP/GP"],
+			"prio":["Rogues->Fury Warriors","LC","EP/GP"],
 			"gp":"6",
 			"wowID":"22520"
 		},
 		"The Hungering Cold":{
-			"prio":["BenDriller","Frau","LC","EP/GP"],
-			"gp":"6",
+			"prio":["Aisli(1)","Frau(2)","Wizzo(2)","Bendriller(2)","Tuglight(1) if no Tfury","Snydicate(1)","Dill(1)","Vajeen(1)","LC","EP/GP"],
+			"gp":"18",
 			"wowID":"23577"
 		},
 		"Bonescythe Ring":{
-			"prio":["Chart ofc","LC","EP/GP"],
+			"prio":["LC","EP/GP"],
 			"gp":"6",
 			"wowID":"23060"
 		},
 		"Gem of Trapped Innocents":{
 			"prio":["Alters(1)","Rasbeary(1)","Kuku(1)","EP/GP"],
-			"gp":"9",
+			"gp":"8",
 			"wowID":"23057"
 		},
 		"Might of Menethil":{
-			"prio":["Dillmcpickle","LC","EP/GP"],
-			"gp":"3",
+			"prio":["Dillmcpickle(1)","LC","EP/GP"],
+			"gp":"20",
 			"wowID":"22798"
 		},
 		"Ring of Redemption":{
@@ -633,18 +633,18 @@
 			"wowID":"23066"
 		},
 		"Ring of the Dreadnaught":{
-			"prio":["Snydicate","LC","EP/GP"],
+			"prio":["Tanks->DPS Warrs 4Horsemen","LC","EP/GP"],
 			"gp":"5",
 			"wowID":"23059"
 		},
 		"Kingsfall":{
-			"prio":["SilkyJohnsn","LC","EP/GP"],
-			"gp":"10",
+			"prio":["Destain(1)","LC","EP/GP"],
+			"gp":"18",
 			"wowID":"22802"
 		},
 		"Stormrage's Talisman of Seething":{
-			"prio":["Chart ofc","LC","EP/GP"],
-			"gp":"18",
+			"prio":["Fury Warr","LC","EP/GP"],
+			"gp":"8",
 			"wowID":"23053"
 		},
 		"Frostfire Ring":{
@@ -664,32 +664,32 @@
 		},
 		"Soulseeker":{
 			"prio":["Alters(1)","Rhaen(1)","Kuku(1)","EP/GP"],
-			"gp":"10",
+			"gp":"18",
 			"wowID":"22799"
 		},
 		"Nerubian Slavemaker":{
-			"prio":["Chart ofc","LC","EP/GP"],
-			"gp":"10",
+			"prio":["Hunter","LC","EP/GP"],
+			"gp":"20",
 			"wowID":"22812"
 		},
 		"Doomfinger":{
-			"prio":["Rhaen(1)","Meow(1)", "Theprestige(1)", "Alters(1)","James Bond","EP/GP"],
+			"prio":["Rhaen(1)","Meow(1)", "Theprestige(1)", "Alters(1)","James Bond","Mage?","EP/GP"],
 			"gp":"10",
 			"wowID":"22821"
 		},
 		"Ring of Faith":{
-			"prio":["Gbid","EP/GP"],
-			"gp":"1",
+			"prio":["EP/GP"],
+			"gp":"8",
 			"wowID":"23061"
 		},
 		"Gressil, Dawn of Ruin":{
-			"prio":["Chart ofc","LC","EP/GP"],
-			"gp":"1",
+			"prio":["Dill(1)","Chart(1)","Vajeen(1)","Killstep(2)","Chrixus(2)","LC","EP/GP"],
+			"gp":"18",
 			"wowID":"23054"
 		},
 		"Plagueheart Ring":{
-			"prio":["Gbid","EP/GP"],
-			"gp":"1",
+			"prio":["EP/GP"],
+			"gp":"3",
 			"wowID":"23063"
 		},
 		"Ring of the Dreamwalker":{
@@ -698,7 +698,7 @@
 			"wowID":"23064"
 		},
 		"Shield of Condemnation":{
-			"prio":["Wizzo(2)","LC","PvP prio","EP/GP"],
+			"prio":["LC","PvP prio","EP/GP"],
 			"gp":"20",
 			"wowID":"22819"
 		}
