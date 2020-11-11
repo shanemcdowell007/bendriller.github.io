@@ -55,12 +55,12 @@
 			"wowID":"21706"
 		},
 		"Breastplate of Annihilation":{
-			"prio":["Vajeen","DPS Warrior","EP/GP"],
+			"prio":["Bonzai","DPS Warrior","EP/GP"],
 			"gp":"8",
 			"wowID":"21814"
 		},
 		"Cloak of Concentrated Hatred":{
-     		"prio":["Chart(1)","Killstep(2)","Stopbegging(2)","Sniped(1)","Destain(1)","Johnscar(2)","Rogue->Warrior","EP/GP"],
+     		"prio":["Killstep(2)","Stopbegging(2)","Sniped(1)","Destain(1)","Johnscar(2)","Rogue->Warrior","EP/GP"],
 			"gp":"7",
 			"wowID":"21701"
 		},
@@ -132,7 +132,7 @@
 			"wowID":"21693"
 		},
 		"Ternary Mantle":{
-			"prio":["Doctorjaz(1)","EP/GP"],
+			"prio":["EP/GP"],
 			"gp":"4",
 			"wowID":"21694"
 		},
@@ -282,12 +282,12 @@
 	},
 	"Fankriss the Unyielding":{
 		"Ancient Qiraji Ripper":{
-			"prio":["Chart(1)","Johnscar(2)","rogues w/o cts","warriors w/o cts","LC","EP/GP"],
+			"prio":["Sniped(1)","Johnscar(2)","rogues w/o cts","warriors w/o cts","LC","EP/GP"],
 			"gp":"14",
 			"wowID":"21650"
 		},
 		"Barb of the Sand Reaver":{
-			"prio":["Grayfox(1)","Karrc(2)","Hunters","EP/GP"],
+			"prio":["Grayfox(1)","Hunters","EP/GP"],
 			"gp":"3",
 			"wowID":"21635"
 		},
@@ -396,7 +396,7 @@
 			"wowID":"21618"
 		},
 		"Gloves of the Messiah":{
-			"prio":["Priest Prio Healers","Wildhealer(1)","Mazzo(1)","EP/GP"],
+			"prio":["Priest Prio Healers","Mazzo(1)","EP/GP"],
 			"gp":"6",
 			"wowID":"21619"
 		},
@@ -510,7 +510,7 @@
 			"wowID":"23558"
 		},
 		"Jom Gabbar":{
-			"prio":["Oph(1)","Silkyjohnson(2)","Grayfox(1)","Supertoxic(1)","Huck(1)","Chart(1)","Killstep(2)","Hunters->Rogues->Warrior","EP/GP"],
+			"prio":["Oph(1)","Chiron(2)","Huck(1)","Chart(1)","Killstep(2)","Hunters->Rogues->Warrior","EP/GP"],
 			"gp":"8",
 			"wowID":"23570"
 		},
@@ -520,12 +520,12 @@
 			"wowID":"21610"
 		},
 		"Larvae of the Great Worm":{
-			"prio":["Vajeen(1)","mdps without strikers","EP/GP"],
+			"prio":["mdps without strikers","EP/GP"],
 			"gp":"4",
 			"wowID":"23557"
 		},
 		"Ouro's Intact Hide":{
-			"prio":["Killstepp(1)","Impactt(1)","Warrior TANKS->rogues->DPS Warrs","EP/GP"],
+			"prio":["Impactt(1)","Warrior TANKS->rogues->DPS Warrs","EP/GP"],
 			"gp":"8",
 			"wowID":"20927"
 		},
@@ -537,7 +537,7 @@
 	},
 	"Cthun":{
 		"Eye of C'Thun":{
-			"prio":["Mazzo(1)","Doligrian(1)","EP/GP"],
+			"prio":["Doligrian(1)","Caster->Healers->Tanks->Hunters->MDPS","EP/GP"],
 			"gp":"6",
 			"wowID":"21221"
 		},
@@ -547,7 +547,7 @@
 			"wowID":"20933"
 		},
 		"Carapace of the Old God":{
-			"prio":["Healslol(1)","Bonzai(1)","Tanks","r12+ Hunter>Rogue>Ret>Warrior","EP/GP"],
+			"prio":["Bonzai(1)","Tanks","r12+ Hunter>Rogue>Ret>Warrior","EP/GP"],
 			"gp":"9",
 			"wowID":"20929"
 		},
@@ -612,7 +612,7 @@
 			"wowID":"21134"
 		},
 		"Death's Sting":{
-			"prio":["Stopbegging(2)","SilkyJohnsn(2)","tbd(1)","LC/Rogues","EP/GP"],
+			"prio":["Stopbegging(2)","SilkyJohnsn(2)","Destain(1)","LC/Rogues","EP/GP"],
 			"gp":"18",
 			"wowID":"21126"
 		}
