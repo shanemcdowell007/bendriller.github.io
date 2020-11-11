@@ -322,7 +322,7 @@
 			"wowID":"21639"
 		},
 		"Robes of the Guardian Saint":{
-			"prio":["Peku(2)","Claris(1)","Celesdea(1)","Healers EP/GP"],
+			"prio":["Peku(2)","Claris(1)","Healers EP/GP"],
 			"gp":"8",
 			"wowID":"21663"
 		},
@@ -369,7 +369,7 @@
 			"wowID":"21625"
 		},
 		"Idol of Health":{
-			"prio":["Druid healers","Silkybalboa(1)","Celesdea(1)","Kare(1)","Druid Healer","EP/GP"],
+			"prio":["Druid healers","Silkybalboa(1)","Kare(1)","Celesdea(1)","Druid Healer","EP/GP"],
 			"gp":"5",
 			"wowID":"22399"
 		},
@@ -537,7 +537,7 @@
 	},
 	"Cthun":{
 		"Eye of C'Thun":{
-			"prio":["Doligrian(1)","Caster->Healers->Tanks->Hunters->MDPS","EP/GP"],
+			"prio":["Doligrian(1)","Soldeia(2)","Caster->Healers->Tanks->Hunters->MDPS","EP/GP"],
 			"gp":"6",
 			"wowID":"21221"
 		},
