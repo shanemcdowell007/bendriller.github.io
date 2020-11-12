@@ -110,7 +110,7 @@
 	},
 	"Anub'Rekhan":{
 		"Band of Unanswered Prayers":{
-			"prio":["EP/GP"],
+			"prio":["Rallo(1)","Druid Priest Healers EP/GP"],
 			"gp":"4",
 			"wowID":"22939"
 		},
@@ -231,7 +231,7 @@
 			"wowID":"22816"
 		},
 		"Libram of Light":{
-			"prio":["Doligrian(1)","Lianli(1)","LC","EP/GP"],
+			"prio":["Doligrian(1)","Lianli(1)","Soldeia(2)","Healer EP/GP"],
 			"gp":"3",
 			"wowID":"23006"
 		}
@@ -307,7 +307,7 @@
 	},
 	"Instructor Razuvious":{
 		"Wand of the Whispering Dead":{
-			"prio":["Healers","LC","EP/GP"],
+			"prio":["Wildhealer(1)","Chuffy(2)","Mazzo(1)","Darkdwarf(2)","DocJaz(1)","Snibbler(2)","EP/GP"],
 			"gp":"14",
 			"wowID":"23009"
 		},
@@ -317,7 +317,7 @@
 			"wowID":"23018"
 		},
 		"Idol of Longevity":{
-			"prio":["Peku(2)","LC","EP/GP"],
+			"prio":["Kare(1)","SilkyB(1)","Celesdea(1)","Peku(2)","EP/GP"],
 			"gp":"6",
 			"wowID":"23004"
 		},
@@ -406,14 +406,14 @@
 			"wowID":"22811"
 		}, 
 		"Warmth of Forgiveness":{
-			"prio":["Healers","LC","EP/GP"],
+			"prio":["Wildhealer(1)","Kare(1)","Mazzo(1)","Celesdea(1)","Chuffy(2)","Peku(2)","Snibbler(2)","Priest Druid Healers","EP/GP"],
 			"gp":"6",
 			"wowID":"23027"
 		}
 	},
 	"Patchwerk":{
 		"Cloak of Suturing":{
-			"prio":["Healer","EP/GP"],
+			"prio":["Mazzo(1)","Silkyb(1)","Snibbler(2)","Peku(2)","Wildhealer(1)","Kare(1)","Natties(2)","Healer EP/GP"],
 			"gp":"6",
 			"wowID":"22960"
 		},
@@ -482,7 +482,7 @@
 			"wowID":"22994"
 		},
 		"Death's Bargain":{
-			"prio":["Healers","LC","EP/GP"],
+			"prio":["Thrane(1)","Healer EP/GP"],
 			"gp":"8",
 			"wowID":"23075"
 		},
@@ -546,7 +546,7 @@
 			"wowID":"23545"
 		},
 		"Eye of the Dead":{
-			"prio":["Healers","EP/GP"],
+			"prio":["Kare(1)","Lianli(1)","Claris(1)","Peku(2)","Soldeia(2)","Darkdwarf(2)","Healers EP/GP"],
 			"gp":"9",
 			"wowID":"23047"
 		},
@@ -566,7 +566,7 @@
 			"wowID":"23043"
 		},
 		"Sapphiron's right eye":{
-			"prio":["Healers","LC","EP/GP"],
+			"prio":["Claris(1)","Celesdea(1)","Darkdwarf(2)","Peku(2)","Jowsus(1)","Silkyb(1)","Chuffy(2)","Healer EP/GP"],
 			"gp":"10",
 			"wowID":"23048"
 		},
@@ -623,7 +623,7 @@
 			"wowID":"22798"
 		},
 		"Ring of Redemption":{
-			"prio":["LC","EP/GP"],
+			"prio":["LC","Pally Healer EP/GP"],
 			"gp":"10",
 			"wowID":"23066"
 		},
@@ -673,7 +673,7 @@
 			"wowID":"22821"
 		},
 		"Ring of Faith":{
-			"prio":["EP/GP"],
+			"prio":["Jowsus(1)","Darkdwarf(2)","Wildhealer(1)","Natties(2)","Claris(1)","Chuffy(2)","Priest Healer EP/GP"],
 			"gp":"8",
 			"wowID":"23061"
 		},
