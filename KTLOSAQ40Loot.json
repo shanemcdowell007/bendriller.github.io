@@ -55,12 +55,12 @@
 			"wowID":"21706"
 		},
 		"Breastplate of Annihilation":{
-			"prio":["Vajeen","DPS Warrior","EP/GP"],
+			"prio":["Bonzai","DPS Warrior","EP/GP"],
 			"gp":"8",
 			"wowID":"21814"
 		},
 		"Cloak of Concentrated Hatred":{
-     		"prio":["Chart(1)","Killstep(2)","Stopbegging(2)","Sniped(1)","Destain(1)","Johnscar(2)","Rogue->Warrior","EP/GP"],
+     		"prio":["Killstep(2)","Stopbegging(2)","Sniped(1)","Destain(1)","Johnscar(2)","Rogue->Warrior","EP/GP"],
 			"gp":"7",
 			"wowID":"21701"
 		},
@@ -132,7 +132,7 @@
 			"wowID":"21693"
 		},
 		"Ternary Mantle":{
-			"prio":["Doctorjaz(1)","EP/GP"],
+			"prio":["EP/GP"],
 			"gp":"4",
 			"wowID":"21694"
 		},
@@ -287,7 +287,7 @@
 			"wowID":"21650"
 		},
 		"Barb of the Sand Reaver":{
-			"prio":["Grayfox(1)","Karrc(2)","Hunters","EP/GP"],
+			"prio":["Grayfox(1)","Hunters","EP/GP"],
 			"gp":"3",
 			"wowID":"21635"
 		},
@@ -322,7 +322,7 @@
 			"wowID":"21639"
 		},
 		"Robes of the Guardian Saint":{
-			"prio":["Faith(1)","Peku(2)","Celesdea(2)","Claris(1)","Healers","EP/GP"],
+			"prio":["Peku(2)","Claris(1)","Healers EP/GP"],
 			"gp":"8",
 			"wowID":"21663"
 		},
@@ -354,7 +354,7 @@
 			"wowID":"21626"
 		},
 		"Sharpened Silithid Femur":{
-			"prio":["Theprestige(1)","Blacklisted(1)","Coxxy(1)","Meowingtons(1)","Alter(1)","Raehn(1)","Kuku(1)","Austeezy(1)","Caster DPS Prio","EP/GP"],
+			"prio":["Blacklisted(1)","Coxxy(1)","Meowingtons(1)","Alter(1)","Raehn(1)","Kuku(1)","Austeezy(1)","Caster DPS Prio","EP/GP"],
 			"gp":"14",
 			"wowID":"21622"
 		},
@@ -369,7 +369,7 @@
 			"wowID":"21625"
 		},
 		"Idol of Health":{
-			"prio":["Druid healers","Silkybalboa(1)","Celesdea(2)","Faith(1)","Kare(1)","Druid Healer","EP/GP"],
+			"prio":["Druid healers","Silkybalboa(1)","Kare(1)","Celesdea(1)","Druid Healer","EP/GP"],
 			"gp":"5",
 			"wowID":"22399"
 		},
@@ -396,17 +396,17 @@
 			"wowID":"21618"
 		},
 		"Gloves of the Messiah":{
-			"prio":["Priest Prio Healers","Wildhealer(1)","Mazzo(1)","EP/GP"],
+			"prio":["Priest Prio Healers","Mazzo(1)","EP/GP"],
 			"gp":"6",
 			"wowID":"21619"
 		},
 		"Wasphide Gauntlets":{
-			"prio":["Druid healers","Peku(2)","Celesdea(2)","Faith(1)","EP/GP"],
+			"prio":["Druid healers","Peku(2)","Celesdea(1)","EP/GP"],
 			"gp":"6",
 			"wowID":"21617"
 		},
 		"Ring of the Martyr":{
-			"prio":["Faith(1)","Thrane(1)","Silkybalboa(1)","Kare(1)","Darkdwarf(2)","EP/GP"],
+			"prio":["Silkybalboa(1)","Kare(1)","Darkdwarf(2)","EP/GP"],
 			"gp":"6",
 			"wowID":"21620"
 		}, 
@@ -468,7 +468,7 @@
 			"wowID":"21606"
 		},
 		"Bracelets of Royal Redemption":{
-			"prio":["Druid and Pally Prio Healers","Lianli(1)","Faith(1)","Peku(2)","EP/GP"],
+			"prio":["Druid and Pally Prio Healers","Lianli(1)","Peku(2)","EP/GP"],
 			"gp":"8",
 			"wowID":"21604"
 		},
@@ -510,7 +510,7 @@
 			"wowID":"23558"
 		},
 		"Jom Gabbar":{
-			"prio":["Oph(1)","Huck(1)","Hunters->Rogues->Warrior","EP/GP"],
+			"prio":["Oph(1)","Chiron(2)","Huck(1)","Hunters->Rogues->Warrior","EP/GP"],
 			"gp":"8",
 			"wowID":"23570"
 		},
@@ -520,12 +520,12 @@
 			"wowID":"21610"
 		},
 		"Larvae of the Great Worm":{
-			"prio":["Vajeen(1)","mdps without strikers","EP/GP"],
+			"prio":["mdps without strikers","EP/GP"],
 			"gp":"4",
 			"wowID":"23557"
 		},
 		"Ouro's Intact Hide":{
-			"prio":["Killstepp(1)","Impactt(1)","Warrior TANKS->rogues->DPS Warrs","EP/GP"],
+			"prio":["Impactt(1)","Warrior TANKS->rogues->DPS Warrs","EP/GP"],
 			"gp":"8",
 			"wowID":"20927"
 		},
@@ -537,7 +537,7 @@
 	},
 	"Cthun":{
 		"Eye of C'Thun":{
-			"prio":["Alters(1)","Doctorjaz(1)","Mazzo(1)","Doligrian(1)","EP/GP"],
+			"prio":["Doligrian(1)","Soldeia(2)","Caster->Healers->Tanks->Hunters->MDPS","EP/GP"],
 			"gp":"6",
 			"wowID":"21221"
 		},
@@ -547,7 +547,7 @@
 			"wowID":"20933"
 		},
 		"Carapace of the Old God":{
-			"prio":["Healslol(1)","Bonzai(1)","Tanks","r12+ Hunter>Rogue>Ret>Warrior","EP/GP"],
+			"prio":["Bonzai(1)","Tanks","r12+ Hunter>Rogue>Ret>Warrior","EP/GP"],
 			"gp":"9",
 			"wowID":"20929"
 		},
@@ -562,7 +562,7 @@
 			"wowID":"22730"
 		},
 		"Cloak of the Devoured":{
-			"prio":["Kuku(1)","Meowingtons(1)","Coxxy(1)","Rasbeary(1)","Theprestige(1)","EP/GP"],
+			"prio":["Coxxy(1)","Rasbeary(1)","Theprestige(1)","EP/GP"],
 			"gp":"5",
 			"wowID":"22731"
 		},
@@ -572,7 +572,7 @@
 			"wowID":"21581"
 		},
 		"Scepter of the False Prophet":{
-			"prio":["Lianli(1)","Thedarkdwarf(2)","Blunts(2)","Thedoctorjaz(1)","Jowsus(1)","Thrane(1)","Wildhealer(1)","Kare(1)","Silkybalboa(1)","EP/GP"],
+			"prio":["Lianli(1)","Snibbler(2)","Jowsus(1)","Blunts(2)","Thrane(1)","Wildhealer(1)","Kare(1)","Silkybalboa(1)","EP/GP"],
 			"gp":"18",
 			"wowID":"21839"
 		},
@@ -592,7 +592,7 @@
 			"wowID":"21585"
 		},
 		"Grasp of the Old God":{
-			"prio":["Wildhealer(1)","Mazzo(1)","Bis for all Healers to EP/GP"],
+			"prio":["Bis for all Healers to EP/GP"],
 			"gp":"10",
 			"wowID":"21582"
 		},
@@ -613,6 +613,7 @@
 		},
 		"Death's Sting":{
 			"prio":["Stopbegging(2)","Destain(1)","Shadowsfade(1)","LC/Rogues","EP/GP"],
+
 			"gp":"18",
 			"wowID":"21126"
 		}

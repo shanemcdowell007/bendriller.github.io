@@ -369,7 +369,7 @@
 			"wowID":"19397"
 		},
 		"Rejuvenating Gem":{
-			"prio":["Silkybalboa(1)","Doligrian(1)","Snibbler(2)","EP/GP"],
+			"prio":["Silkybalboa(1)","Doligrian(1)","Kare(1)","EP/GP"],
 			"gp":"10",
 			"wowID":"19395"
 		},
@@ -436,7 +436,7 @@
 	},
 	"Chromaggus":{
 		"Pauldrons of Transcendence":{
-			"prio":["Chuffy (2)","EP/GP"],
+			"prio":["EP/GP"],
 			"gp":"5",
 			"wowID":"16924"
 		},
@@ -588,7 +588,7 @@
 			"wowID":"19003"
 		},
 		"Lokamir il Romathis":{
-			"prio":["Iamfaith(1)","Lianli(1)","Celesdea(2)","LC","EP/GP"],
+			"prio":["Healer EP/GP"],
 			"gp":"14",
 			"wowID":"19360"
 		},
@@ -638,7 +638,7 @@
 			"wowID":"19376"
 		},
 		"Pure Elementium Band":{
-			"prio":["Thrane(1)","Kare(1)","EP/GP"],
+			"prio":["Kare(1)","Healer EP/GP"],
 			"gp":"5",
 			"wowID":"19382"
 		},
