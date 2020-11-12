@@ -38,7 +38,7 @@
 	},
 	"Boss Shared":{
 		"Imperial Qiraji Armaments":{
-			"prio":["Stopbegging(2)","Raid 1 Rogue?","Edgemaster Warrs(2)","EP/GP"],
+			"prio":["Stopbegging(2)","Edgemaster Warrs(2)","EP/GP"],
 			"gp":"10 (Pugio/Waraxe), 5 (otherwise)",
 			"wowID":"21232"
 		},
@@ -230,7 +230,7 @@
 			"wowID":"21674"
 		},
 		"Gloves of enforcement":{
-			"prio":["BenDriller(1)","NotPQ(1)","Johnscar(2)","Sinister strike rogues","DS rogues","Ferals","nonDS dagger rogues","EP/GP"],
+			"prio":["NotPQ(1)","Johnscar(2)","Sinister strike rogues","DS rogues","Ferals","nonDS dagger rogues","EP/GP"],
 			"gp":"8",
 			"wowID":"21672"
 		},
@@ -510,7 +510,7 @@
 			"wowID":"23558"
 		},
 		"Jom Gabbar":{
-			"prio":["Oph(1)","Chiron(2)","Huck(1)","Chart(1)","Killstep(2)","Hunters->Rogues->Warrior","EP/GP"],
+			"prio":["Oph(1)","Chiron(2)","Huck(1)","Hunters->Rogues->Warrior","EP/GP"],
 			"gp":"8",
 			"wowID":"23570"
 		},
@@ -597,7 +597,7 @@
 			"wowID":"21582"
 		},
 		"Belt of Never-ending Agony":{
-			"prio":["Silkyjohnson(2)","Chart(1)","Killstep(2)","Stopbegging(2)","Shadowsfade(1)","Supertoxic(1)","Rogues->Feral ?","EP/GP"],
+			"prio":["Shadowsfade(1)","Chart(1)","Killstep(2)","Stopbegging(2)","Supertoxic(1)","Rogues->Feral ?","EP/GP"],
 			"gp":"10",
 			"wowID":"21586"
 		},
@@ -612,7 +612,8 @@
 			"wowID":"21134"
 		},
 		"Death's Sting":{
-			"prio":["Stopbegging(2)","SilkyJohnsn(2)","Destain(1)","LC/Rogues","EP/GP"],
+			"prio":["Stopbegging(2)","Destain(1)","Shadowsfade(1)","LC/Rogues","EP/GP"],
+
 			"gp":"18",
 			"wowID":"21126"
 		}

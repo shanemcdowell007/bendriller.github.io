@@ -15,7 +15,7 @@
 			"gp":"1",
 			"wowID":"23238"
 		},
-		"Necro-kinght's Garb":{
+		"Necro-knight's Garb":{
 			"prio":["EP/GP"],
 			"gp":"3",
 			"wowID":"23069"
@@ -47,6 +47,11 @@
 		}
 	},
 	"Boss Shared":{
+		"Dreadnaught 4 pc":{
+			"prio":["Snydi(1)", "tug", "aisli", "Dill", "Mulligen", "Vajeen", "Healslol", "Killstepp(1)", "Frau(2)", "Beeny", "Wizzo", "Chrixus", "Rozzy", "Quigbert(2)"],
+			"gp":"10",
+			"wowID":"22726"
+		},
 		"Desecrated Bracers":{
 			"prio":["Snydicate(1)","4h Tanks","LC","EP/GP"],
 			"gp":"3",
@@ -58,7 +63,7 @@
 			"wowID":"22369"
 		},
 		"Desecrated Wristguards":{
-			"prio":["EP/GP"],
+      "prio":["paladin/hunter/shaman/druid","EP/GP"],
 			"gp":"7",
 			"wowID":"22362"
 		},
@@ -147,7 +152,7 @@
 			"wowID":"22941"
 		},
 		"Widow's Remorse":{
-			"prio":["Tanks","EP/GP"],
+			"prio":["Wizzo(2)","Aisli(1)","EP/GP"],
 			"gp":"5",
 			"wowID":"22806"
 		},
@@ -194,7 +199,7 @@
 			"wowID":"22947"
 		},
 		"Maexxna's Fang":{
-			"prio":["LC","EP/GP"],
+			"prio":["Shadowsfade(1)","LC","EP/GP"],
 			"gp":"3",
 			"wowID":"22804"
 		},
@@ -280,7 +285,7 @@
 			"wowID":"22352"
 		},
 		"Band of Unnatural Forces":{
-			"prio":["LC","EP/GP"],
+			"prio":["Sniped(1)","Destain(1)","Killstep(2)","Johnscar(2)","Rogues","LC","EP/GP"],
 			"gp":"8",
 			"wowID":"23038"
 		},
@@ -332,7 +337,7 @@
 			"wowID":"23017"
 		},
 		"Iblis, Blade of the Fallen Seraph":{
-			"prio":["Chart(1)","Vajeen(1)?","Sniped?(1)","LC","EP/GP"],
+			"prio":["Chart(1)","Killstep(2)","Johnscar(2)","Sniped(1)","LC","EP/GP"],
 			"gp":"12",
 			"wowID":"23014"
 		}
@@ -366,8 +371,8 @@
 	},
 	"Four Horsemen":{
 		"Corrupted Ashbringer":{
-			"prio":["Thrane or Doli??","EP/GP"],
-			"gp":"20",
+			"prio":["Thrane(1)","EP/GP"],
+			"gp":"5",
 			"wowID":"22691"
 		},
 		"Desecrated Breastplate":{
@@ -391,7 +396,7 @@
 			"wowID":"23071"
 		}, 
 		"Maul of the Redeemed Crusader":{
-			"prio":["who the hell is this item for?","EP/GP"],
+			"prio":["EP/GP"],
 			"gp":"1",
 			"wowID":"22809"
 		},
@@ -571,7 +576,7 @@
 			"wowID":"23048"
 		},
 		"Slayer's Crest":{
-			"prio":["BenDriller(2)","Rogues->Fury Warriors","EP/GP"],
+			"prio":["BenDriller(2)","Destain(1)","Killstep(2)","EP/GP"],
 			"gp":"10",
 			"wowID":"23041"
 		},
@@ -598,7 +603,7 @@
 	},
 	"Kel'Thuzad":{
 		"The Phylactery of Kel'Thuzad":{
-			"prio":["Rogues->Fury Warriors","LC","EP/GP"],
+			"prio":["Chart(1)","Killstep(2)","BenDriller(2)","Destain(1)","Shadowsfade(1)","Johnscar(2)","Sniped(1)","Rogues","LC","EP/GP"],
 			"gp":"6",
 			"wowID":"22520"
 		},
@@ -608,7 +613,7 @@
 			"wowID":"23577"
 		},
 		"Bonescythe Ring":{
-			"prio":["LC","EP/GP"],
+			"prio":["Destain(1)","Killstep(2)","Chart(1)","BenDriller(2)","LC","EP/GP"],
 			"gp":"6",
 			"wowID":"23060"
 		},
@@ -663,7 +668,7 @@
 			"wowID":"22799"
 		},
 		"Nerubian Slavemaker":{
-			"prio":["Hunter","LC","EP/GP"],
+			"prio":["Oph(1)","LC","EP/GP","karrc"],
 			"gp":"20",
 			"wowID":"22812"
 		},
