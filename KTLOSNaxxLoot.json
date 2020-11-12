@@ -50,7 +50,7 @@
 		"Dreadnaught 4 pc":{
 			"prio":["Snydi(1)", "tug", "aisli", "Dill", "Mulligen", "Vajeen", "Healslol", "Killstepp(1)", "Frau(2)", "Beeny", "Wizzo", "Chrixus", "Rozzy", "Quigbert(2)"],
 			"gp":"10",
-			"wowID":"22726"
+			"wowID":""
 		},
 		"Desecrated Bracers":{
 			"prio":["Snydicate(1)","4h Tanks","LC","EP/GP"],
@@ -668,7 +668,7 @@
 			"wowID":"22799"
 		},
 		"Nerubian Slavemaker":{
-			"prio":["Oph(1)","LC","EP/GP","karrc"],
+			"prio":["Oph(1)","LC","EP/GP"],
 			"gp":"20",
 			"wowID":"22812"
 		},
