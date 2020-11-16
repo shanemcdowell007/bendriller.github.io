@@ -142,7 +142,7 @@
 	},
 	"Grand Widow Faerlina":{
 		"The Widow's Embrace":{
-			"prio":["Healers", "EP/GP"],
+			"prio":["Wildhealer(1)","Healers", "EP/GP"],
 			"gp":"3",
 			"wowID":"22942"
 		},
@@ -653,7 +653,7 @@
 			"wowID":"23062"
 		},
 		"Hammer of the Twisting Nether":{
-			"prio":["Doligrian(1)","Jaz(1)","Celesdea(1)","Darkdwarf(2)","Peku(2)","Healers to EP/GP"],
+			"prio":["Doligrian(1)","Jaz(1)","Celesdea(1)","Snibbler(2)","Peku(2)","Healers to EP/GP"],
 			"gp":"6",
 			"wowID":"23056"
 		},
