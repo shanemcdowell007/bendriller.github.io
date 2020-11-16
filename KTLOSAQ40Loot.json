@@ -260,7 +260,7 @@
 			"wowID":"21671"
 		},
 		"Sartura's Might":{
-			"prio":["Mazzo(1)","Non Lei OH","EP/GP"],
+			"prio":["Mazzo(1)","Wildhealer(1)","Non Lei OH","EP/GP"],
 			"gp":"5",
 			"wowID":"21666"
 		},
@@ -406,7 +406,7 @@
 			"wowID":"21617"
 		},
 		"Ring of the Martyr":{
-			"prio":["Silkybalboa(1)","Kare(1)","Darkdwarf(2)","EP/GP"],
+			"prio":["Silkybalboa(1)","Kare(1)","EP/GP"],
 			"gp":"6",
 			"wowID":"21620"
 		}, 
@@ -572,7 +572,7 @@
 			"wowID":"21581"
 		},
 		"Scepter of the False Prophet":{
-			"prio":["Lianli(1)","Snibbler(2)","Jowsus(1)","Blunts(2)","Thrane(1)","Wildhealer(1)","Kare(1)","Silkybalboa(1)","EP/GP"],
+			"prio":["Lianli(1)","Chuffy(2)","Jowsus(1)","Blunts(2)","Thrane(1)","Wildhealer(1)","Kare(1)","Silkybalboa(1)","EP/GP"],
 			"gp":"18",
 			"wowID":"21839"
 		},
