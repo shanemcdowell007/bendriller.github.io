@@ -418,7 +418,7 @@
 	},
 	"Patchwerk":{
 		"Cloak of Suturing":{
-			"prio":["Mazzo(1)","Silkyb(1)","Snibbler(2)","Peku(2)","Wildhealer(1)","Kare(1)","Natties(2)","Healer EP/GP"],
+			"prio":["Mazzo(1)","Silkyb(1)","Snibbler(2)","Peku(2)","Wildhealer(1)","Kare(1)","Blunts(2)","Natties(2)","Healer EP/GP"],
 			"gp":"6",
 			"wowID":"22960"
 		},
@@ -628,7 +628,7 @@
 			"wowID":"22798"
 		},
 		"Ring of Redemption":{
-			"prio":["LC","Pally Healer EP/GP"],
+			"prio":["Thrane(1)","Soldeia(2)","Lianli(1)","Blunts(2)","Pally Healer EP/GP"],
 			"gp":"10",
 			"wowID":"23066"
 		},
@@ -653,7 +653,7 @@
 			"wowID":"23062"
 		},
 		"Hammer of the Twisting Nether":{
-			"prio":["Doligrian(1)","Jaz(1)","Celesdea(1)","Snibbler(2)","Peku(2)","Healers to EP/GP"],
+			"prio":["Doligrian(1)","Jaz(1)","Celesdea(1)","Soldeia(2)","Peku(2)","Snibbler(2)","Nattys(2)","Healers to EP/GP"],
 			"gp":"6",
 			"wowID":"23056"
 		},
