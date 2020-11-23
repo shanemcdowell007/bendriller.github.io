@@ -58,7 +58,7 @@
 			"wowID":"22355"
 		},
 		"Desecrated Bindings":{
-			"prio":["priest","LC","EP/GP"],
+			"prio":["EP/GP"],
 			"gp":"8",
 			"wowID":"22369"
 		},
@@ -73,7 +73,7 @@
 			"wowID":"22363"
 		},
 		"Desecrated Belt":{
-			"prio":["priest","LC","EP/GP"],
+			"prio":["EP/GP"],
 			"gp":"8",
 			"wowID":"22370"
 		},
@@ -83,7 +83,7 @@
 			"wowID":"22356"
 		},
 		"Desecrated Sandals":{
-			"prio":["warlock with T3 chest","Alter(1)","Raehn(1)","Theprestige(1)", "MEOW(1)","LC","EP/GP"],
+			"prio":["warlock with T3 chest","mages with T3 chest","Alter(1)","Raehn(1)","Jowsus(1)","Meowingtons(1)","Theprestige(1)", "ThedoctorJaz(1)","LC","EP/GP"],
 			"gp":"8",
 			"wowID":"22372"
 		},
@@ -98,7 +98,7 @@
 			"wowID":"22358"
 		},
 		"Desecrated Shoulderpads":{
-			"prio":["KuKu(1)","Austezy(1)","Blacklisted(1)","Coxxy(1)","priest","LC","EP/GP"],
+			"prio":["KuKu(1)","Austezy(1)","Claris(1)","Blacklisted(1)","Mazzo(1)","Coxxy(1)","Cannigtr(1)","priest","LC","EP/GP"],
 			"gp":"8",
 			"wowID":"22368"
 		},
@@ -169,7 +169,7 @@
 	},
 	"Maexxna":{
 		"Desecrated Gloves":{
-			"prio":["Priest","EP/GP"],
+			"prio":["EP/GP"],
 			"gp":"1",
 			"wowID":"22371"
 		},
@@ -492,7 +492,7 @@
 			"wowID":"23075"
 		},
 		"Rime covered Mantle":{
-			"prio":["Alters(1)","Rhaen(1)","Meow(1)","Theprestige(1)","Mages","EP/GP"],
+			"prio":["Alters(1)","Rhaen(1)","Meow(1)","Theprestige(1)","Rasbeary(1)","Mages","EP/GP"],
 			"gp":"10",
 			"wowID":"22983"
 		}
@@ -509,7 +509,7 @@
 			"wowID":"22360"
 		},
 		"Desecrated Circlet":{
-			"prio":["Theprestige(1)","Alter(1)","Rahen(1)","Meow(1)","EP/GP"],
+			"prio":["Theprestige(1)","Alter(1)","Mazzo(1)","Rahen(1)","Meow(1)","1st Lock","2nd Lock","Thedoctorjaz(1)","EP/GP"],
 			"gp":"9",
 			"wowID":"22367"
 		},
