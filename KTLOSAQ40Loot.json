@@ -495,7 +495,7 @@
 	},
 	"Ouro":{
 		"Don Rigoberto's Lost Hat":{
-			"prio":["Claris(1)","Wildhealer(1)","Jowsus(1)","Thedoctorjaz(1)","Silkyb(1)","Darkdwarf(2)","Priest and Druid Prio Healers","EP/GP"],
+			"prio":["Claris(1)","Wildhealer(1)","Jowsus(1)","Thedoctorjaz(1)","Silkyb(1)","Priest and Druid Prio Healers","EP/GP"],
 			"gp":"8",
 			"wowID":"21615"
 		},
@@ -537,7 +537,7 @@
 	},
 	"Cthun":{
 		"Eye of C'Thun":{
-			"prio":["Doligrian(1)","Soldeia(2)","Caster->Healers->Tanks->Hunters->MDPS","EP/GP"],
+			"prio":["Doligrian(1)","Caster->Healers->Tanks->Hunters->MDPS","EP/GP"],
 			"gp":"6",
 			"wowID":"21221"
 		},
