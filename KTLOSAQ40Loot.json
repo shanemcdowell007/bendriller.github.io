@@ -1,7 +1,7 @@
 {
 	"Trash":{
 		"Anubisath Warhammer":{
-			"prio":["Wizzo(2)","Chrixus(2)","Human Warriors","EP/GP"],
+			"prio":["Human Warriors that are going Maces in Naxx","EP/GP"],
 			"gp":"7",
 			"wowID":"21837"
 		},
@@ -38,7 +38,7 @@
 	},
 	"Boss Shared":{
 		"Imperial Qiraji Armaments":{
-			"prio":["Stopbegging(2)","Edgemaster Warrs(2)","EP/GP"],
+			"prio":["Edgemaster Warrs(2)","EP/GP"],
 			"gp":"10 (Pugio/Waraxe), 5 (otherwise)",
 			"wowID":"21232"
 		},
@@ -55,12 +55,12 @@
 			"wowID":"21706"
 		},
 		"Breastplate of Annihilation":{
-			"prio":["Bonzai","DPS Warrior","EP/GP"],
+			"prio":["DPS Warrior","EP/GP"],
 			"gp":"8",
 			"wowID":"21814"
 		},
 		"Cloak of Concentrated Hatred":{
-     		"prio":["Killstep(2)","Stopbegging(2)","Sniped(1)","Destain(1)","Johnscar(2)","Rogue->Warrior","EP/GP"],
+     		"prio":["Stopbegging(2)","Sniped(1)","Destain(1)","Johnscar(2)","Rogue->Warrior","EP/GP"],
 			"gp":"7",
 			"wowID":"21701"
 		},
@@ -215,7 +215,7 @@
 	},
 	"Battleguard Sartura":{
 		"Badge of the Swarmguard":{
-			"prio":["Vajeen","Dill","Melee","EP/GP"],
+			"prio":["Dill","Snydi(Wishlist?)","Warrior DPS","EP/GP"],
 			"gp":"5",
 			"wowID":"21670"
 		},
@@ -354,12 +354,12 @@
 			"wowID":"21626"
 		},
 		"Sharpened Silithid Femur":{
-			"prio":["Blacklisted(1)","Coxxy(1)","Meowingtons(1)","Alter(1)","Raehn(1)","Kuku(1)","Austeezy(1)","Caster DPS Prio","EP/GP"],
+			"prio":["Blacklisted(1)","Coxxy(1)","Meowingtons(1)","Raehn(1)","Kuku(1)","Austeezy(1)","Caster DPS Prio","EP/GP"],
 			"gp":"14",
 			"wowID":"21622"
 		},
 		"Ring of the Qiraji Fury":{
-			"prio":["Vajeen(1)","Warrior->Hunter","EP/GP"],
+			"prio":["Warrior DPS->Hunter","EP/GP"],
 			"gp":"6",
 			"wowID":"21677"
 		},
@@ -443,7 +443,7 @@
 			"wowID":"21597"
 		},
 		"Qiraji Execution Bracers":{
-			"prio":["Notpq(1)","Chart(1)","Destain(1)","Killstep(2)","Rogues->Feral->Fury","EP/GP"],
+			"prio":["Chart(1)","Destain(1)","Killstep(2)","Rogues->Feral->Fury","EP/GP"],
 			"gp":"6",
 			"wowID":"21602"
 		},
@@ -495,7 +495,7 @@
 	},
 	"Ouro":{
 		"Don Rigoberto's Lost Hat":{
-			"prio":["Claris(1)","Wildhealer(1)","Jowsus(1)","Thedoctorjaz(1)","Silkyb(1)","Priest and Druid Prio Healers","EP/GP"],
+			"prio":["Wildhealer(1)","Jowsus(1)","Thedoctorjaz(1)","Silkyb(1)","Priest and Druid Prio Healers","EP/GP"],
 			"gp":"8",
 			"wowID":"21615"
 		},
@@ -567,7 +567,7 @@
 			"wowID":"22731"
 		},
 		"Gauntlets of Annihilation":{
-			"prio":["Bonzai(1)","Healslol(1)","Jsleazy(2)","LC","Fury->Tank","EP/GP"],
+			"prio":["Bonzai(1)","Jsleazy(2)","LC","Fury->Tank","EP/GP"],
 			"gp":"10",
 			"wowID":"21581"
 		},
@@ -582,7 +582,7 @@
 			"wowID":"22732"
 		},
 		"Cloak of Clarity":{
-			"prio":["Jowsus(1)","Wildhealer(1)","Kare(1)","Healers to EP/GP"],
+			"prio":["Wildhealer(1)","Kare(1)","Healers to EP/GP"],
 			"gp":"6",
 			"wowID":"21583"
 		},
@@ -607,7 +607,7 @@
 			"wowID":"21579"
 		},
 		"Dark Edge of Insanity":{
-			"prio":["Wizzo(2)","LC","PvP prio","EP/GP"],
+			"prio":["LC","PvP prio","EP/GP"],
 			"gp":"20",
 			"wowID":"21134"
 		},
