@@ -149,7 +149,7 @@
 			"wowID":"21685"
 		},
 		"Wand of Qiraji Nobility":{
-			"prio":["Raehn(1)","Gotosleep(1)","EP/GP"],
+			"prio":["Raehn(1)","EP/GP"],
 			"gp":"5",
 			"wowID":"21603"
 		},
@@ -354,7 +354,7 @@
 			"wowID":"21626"
 		},
 		"Sharpened Silithid Femur":{
-			"prio":["Blacklisted(1)","Coxxy(1)","Meowingtons(1)","Raehn(1)","Kuku(1)","Austeezy(1)","Caster DPS Prio","EP/GP"],
+			"prio":["Blacklisted(1)","Meowingtons(1)","Raehn(1)","Kuku(1)","Austeezy(1)","Caster DPS Prio","EP/GP"],
 			"gp":"14",
 			"wowID":"21622"
 		},
@@ -557,7 +557,7 @@
 			"wowID":"21596"
 		},
 		"Eyestalk Waist Cord":{
-			"prio":["Meowingtons(1)","EP/GP"],
+			"prio":["Meowingtons(1)","Austeezy(1)","EP/GP"],
 			"gp":"10",
 			"wowID":"22730"
 		},
@@ -587,7 +587,7 @@
 			"wowID":"21583"
 		},
 		"Dark Storm Gauntlets":{
-			"prio":["Kuku(1)","Austeezy(1)","Votelock(2)","Gotosleep(1)","EP/GP"],
+			"prio":["Kuku(1)","Austeezy(1)","Votelock(2)","EP/GP"],
 			"gp":"10",
 			"wowID":"21585"
 		},
@@ -613,7 +613,6 @@
 		},
 		"Death's Sting":{
 			"prio":["Stopbegging(2)","Destain(1)","Shadowsfade(1)","LC/Rogues","EP/GP"],
-
 			"gp":"18",
 			"wowID":"21126"
 		}
