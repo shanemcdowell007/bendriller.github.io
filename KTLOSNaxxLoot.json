@@ -63,12 +63,12 @@
 			"wowID":"22369"
 		},
 		"Desecrated Wristguards":{
-      "prio":["paladin/hunter/shaman/druid","EP/GP"],
+      			"prio":["Druid (Celesdea, Kare(1)Peku, Dr(2)) for 2 pc set","Hunters","EP/GP"],
 			"gp":"7",
 			"wowID":"22362"
 		},
 		"Desecrated Girdle":{
-			"prio":["LC","EP/GP"],
+			"prio":["Druid (Celesdea, Kare(1)Peku, Dr(2)) for 2 pc set","Hunter","EP/GP"],
 			"gp":"8",
 			"wowID":"22363"
 		},
@@ -88,7 +88,7 @@
 			"wowID":"22372"
 		},
 		"Desecrated Boots":{
-			"prio":["LC","EP/GP"],
+			"prio":["Druid (Celesdea, Kare(1)Peku, Dr(2)) for 2 pc set","Pally","EP/GP"],
 			"gp":"8",
 			"wowID":"22365"
 		},
@@ -108,7 +108,7 @@
 			"wowID":"22354"
 		},
 		"Desecrated Spaulders":{
-			"prio":["LC","EP/GP"],
+			"prio":["Druid (Celesdea, Kare(1)Peku, Dr(2)) for 2 pc set","Pally","EP/GP"],
 			"gp":"8",
 			"wowID":"22361"
 		}
@@ -169,12 +169,12 @@
 	},
 	"Maexxna":{
 		"Desecrated Gloves":{
-			"prio":["EP/GP"],
+			"prio":["Raehn(1)","Gotosleep(1)","EP/GP"],
 			"gp":"1",
 			"wowID":"22371"
 		},
 		"Desecrated Handguards":{
-			"prio":["Raehn(1)","Gotosleep(1)","EP/GP"],
+			"prio":["Druid (Celesdea, Kare(1)Peku, Dr(2)) for 2 pc set","Hunter","EP/GP"],
 			"gp":"5",
 			"wowID":"22364"
 		},
@@ -275,7 +275,7 @@
 			"wowID":"22366"
 		},
 		"Desecrated Legguards":{
-			"prio":["EP/GP"],
+			"prio":["Druid (Celesdea, Kare(1)Peku, Dr(2)) for 2 pc set","Hunter""EP/GP"],
 			"gp":"3",
 			"wowID":"22359"
 		},
@@ -386,7 +386,7 @@
 			"wowID":"22351"
 		},
 		"Desecrated Tunic":{
-			"prio":["LC","EP/GP"],
+			"prio":["Druid (Celesdea, Kare(1)Peku, Dr(2)) for 2 pc set","Pally","EP/GP"],
 			"gp":"6",
 			"wowID":"22350"
 		},
@@ -504,7 +504,7 @@
 			"wowID":"22353"
 		},
 		"Desecrated Headpiece":{
-			"prio":["LC","EP/GP"],
+			"prio":["Pally","EP/GP"],
 			"gp":"6",
 			"wowID":"22360"
 		},
