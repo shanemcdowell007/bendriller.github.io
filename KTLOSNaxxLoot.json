@@ -58,7 +58,7 @@
 			"wowID":"22355"
 		},
 		"Desecrated Bindings":{
-			"prio":["EP/GP"],
+			"prio":["Priest EP/GP"],
 			"gp":"8",
 			"wowID":"22369"
 		},
@@ -73,7 +73,7 @@
 			"wowID":"22363"
 		},
 		"Desecrated Belt":{
-			"prio":["EP/GP"],
+			"prio":["Priest EP/GP"],
 			"gp":"8",
 			"wowID":"22370"
 		},
@@ -169,7 +169,7 @@
 	},
 	"Maexxna":{
 		"Desecrated Gloves":{
-			"prio":["Raehn(1)","Gotosleep(1)","EP/GP"],
+			"prio":["Priest EP/GP"],
 			"gp":"1",
 			"wowID":"22371"
 		},
@@ -270,7 +270,7 @@
 	},
 	"Loatheb":{
 		"Desecrated Leggings":{
-			"prio":["Priest","EP/GP"],
+			"prio":["Wildhealer(1)","Priest","EP/GP"],
 			"gp":"5",
 			"wowID":"22366"
 		},
@@ -381,7 +381,7 @@
 			"wowID":"22349"
 		},
 		"Desecrated Robe":{
-			"prio":["Coxxy(1)","Austezy(1)","KuKu(1)","Blacklisted(1)","Warlocks","LC","EP/GP"],
+			"prio":["Coxxy(1)","Austezy(1)","1st Mage(1)","KuKu(1)","Blacklisted(1)","Mages","Wildhealer(1)","LC","EP/GP"],
 			"gp":"6",
 			"wowID":"22351"
 		},
