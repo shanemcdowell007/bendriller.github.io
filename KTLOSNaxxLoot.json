@@ -58,22 +58,22 @@
 			"wowID":"22355"
 		},
 		"Desecrated Bindings":{
-			"prio":["EP/GP"],
+			"prio":["Priest EP/GP"],
 			"gp":"8",
 			"wowID":"22369"
 		},
 		"Desecrated Wristguards":{
-      "prio":["paladin/hunter/shaman/druid","EP/GP"],
+      			"prio":["Druid (Celesdea, Kare(1)Peku, Dr(2)) for 2 pc set","Hunters","EP/GP"],
 			"gp":"7",
 			"wowID":"22362"
 		},
 		"Desecrated Girdle":{
-			"prio":["LC","EP/GP"],
+			"prio":["Druid (Celesdea, Kare(1)Peku, Dr(2)) for 2 pc set","Hunter","EP/GP"],
 			"gp":"8",
 			"wowID":"22363"
 		},
 		"Desecrated Belt":{
-			"prio":["EP/GP"],
+			"prio":["Priest EP/GP"],
 			"gp":"8",
 			"wowID":"22370"
 		},
@@ -88,7 +88,7 @@
 			"wowID":"22372"
 		},
 		"Desecrated Boots":{
-			"prio":["LC","EP/GP"],
+			"prio":["Druid (Celesdea, Kare(1)Peku, Dr(2)) for 2 pc set","Pally","EP/GP"],
 			"gp":"8",
 			"wowID":"22365"
 		},
@@ -98,7 +98,7 @@
 			"wowID":"22358"
 		},
 		"Desecrated Shoulderpads":{
-			"prio":["KuKu(1)","Austezy(1)","Claris(1)","Blacklisted(1)","Mazzo(1)","Coxxy(1)","Cannigtr(1)","priest","LC","EP/GP"],
+			"prio":["Warlock/Priest(2)","KuKu(1)","Austezy(1)","Claris(1)","Blacklisted(1)","Mazzo(1)","Coxxy(1)","Cannigtr(1)","priest","LC","EP/GP"],
 			"gp":"8",
 			"wowID":"22368"
 		},
@@ -108,7 +108,7 @@
 			"wowID":"22354"
 		},
 		"Desecrated Spaulders":{
-			"prio":["LC","EP/GP"],
+			"prio":["Druid (Celesdea, Kare(1)Peku, Dr(2)) for 2 pc set","Pally","EP/GP"],
 			"gp":"8",
 			"wowID":"22361"
 		}
@@ -169,12 +169,12 @@
 	},
 	"Maexxna":{
 		"Desecrated Gloves":{
-			"prio":["EP/GP"],
+			"prio":["Priest EP/GP"],
 			"gp":"1",
 			"wowID":"22371"
 		},
 		"Desecrated Handguards":{
-			"prio":["Raehn(1)","Gotosleep(1)","EP/GP"],
+			"prio":["Druid (Celesdea, Kare(1)Peku, Dr(2)) for 2 pc set","Hunter","EP/GP"],
 			"gp":"5",
 			"wowID":"22364"
 		},
@@ -270,12 +270,12 @@
 	},
 	"Loatheb":{
 		"Desecrated Leggings":{
-			"prio":["Priest","EP/GP"],
+			"prio":["Wildhealer(1)","Priest","EP/GP"],
 			"gp":"5",
 			"wowID":"22366"
 		},
 		"Desecrated Legguards":{
-			"prio":["EP/GP"],
+			"prio":["Druid (Celesdea, Kare(1)Peku, Dr(2)) for 2 pc set","Hunter""EP/GP"],
 			"gp":"3",
 			"wowID":"22359"
 		},
@@ -381,12 +381,12 @@
 			"wowID":"22349"
 		},
 		"Desecrated Robe":{
-			"prio":["Coxxy(1)","Austezy(1)","KuKu(1)","Blacklisted(1)","Warlocks","LC","EP/GP"],
+			"prio":["Coxxy(1)","Austezy(1)","1st Mage(1)","KuKu(1)","Blacklisted(1)","Locks/Mages(2)","Wildhealer(1)","LC","EP/GP"],
 			"gp":"6",
 			"wowID":"22351"
 		},
 		"Desecrated Tunic":{
-			"prio":["LC","EP/GP"],
+			"prio":["Druid (Celesdea, Kare(1)Peku, Dr(2)) for 2 pc set","Pally","EP/GP"],
 			"gp":"6",
 			"wowID":"22350"
 		},
@@ -504,12 +504,12 @@
 			"wowID":"22353"
 		},
 		"Desecrated Headpiece":{
-			"prio":["LC","EP/GP"],
+			"prio":["Pally","EP/GP"],
 			"gp":"6",
 			"wowID":"22360"
 		},
 		"Desecrated Circlet":{
-			"prio":["Theprestige(1)","Alter(1)","Mazzo(1)","Rahen(1)","Meow(1)","1st Lock","2nd Lock","Thedoctorjaz(1)","EP/GP"],
+			"prio":["Lock/Mage(2)","Theprestige(1)","Alter(1)","Mazzo(1)","Rahen(1)","Meow(1)","1st Lock","2nd Lock","Thedoctorjaz(1)","EP/GP"],
 			"gp":"9",
 			"wowID":"22367"
 		},
