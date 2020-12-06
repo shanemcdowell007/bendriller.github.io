@@ -189,7 +189,7 @@
 			"wowID":"22954"
 		},
 		"Wraith blade":{
-			"prio":["Meow(1)","Austeezy(1)","EP/GP"],
+			"prio":["Blacklisted(1)","Meow(1)","Austeezy(1)","EP/GP"],
 			"gp":"18",
 			"wowID":"22807"
 		},
@@ -300,7 +300,7 @@
 			"wowID":"23037"
 		},
 		"Brimstone Staff":{
-			"prio":["Blacklisted(1)","Coxxy(1)","EP/GP"],
+			"prio":["Coxxy(1)","EP/GP"],
 			"gp":"18",
 			"wowID":"22800"
 		},
