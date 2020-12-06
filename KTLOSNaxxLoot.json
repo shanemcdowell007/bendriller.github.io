@@ -190,7 +190,7 @@
 		},
 		"Wraith blade":{
 			"prio":["Theprestige(1)","Austeezy(1)","Meow(1)","EP/GP"],
-			"gp":"3",
+			"gp":"18",
 			"wowID":"22807"
 		},
 		"Pendant of Forgotten Names":{
@@ -290,8 +290,8 @@
 			"wowID":"23038"
 		},
 		"Eye of Nerub":{
-			"prio":["Oph(1)","EP/GP"],
-			"gp":"3",
+			"prio":["EP/GP"],
+			"gp":"18",
 			"wowID":"23039"
 		},
 		"Ring of Spiritual Fervor":{
@@ -300,8 +300,8 @@
 			"wowID":"23037"
 		},
 		"Brimstone Staff":{
-			"prio":["Coxxy(1)","Blacklisted(1)","EP/GP"],
-			"gp":"1",
+			"prio":["Blacklisted(1)","Coxxy(1)","EP/GP"],
+			"gp":"18",
 			"wowID":"22800"
 		},
 		"Loatheb's Reflection":{
@@ -587,7 +587,7 @@
 		},
 		"Restrained Essence of Sapphiron":{
 			"prio":["Coxxy(1)","Blacklisted(1)","Meow(1)","EP/GP"],
-			"gp":"6",
+			"gp":"15",
 			"wowID":"23046"
 		},
 		"Cloak of the Necropolis":{
@@ -596,7 +596,7 @@
 			"wowID":"23050"
 		},
 		"Sapphiron's Left Eye":{
-			"prio":["Austeezy(1)","Blacklisted(1)","EP/GP"],
+			"prio":["Austeezy(1)","Kuku(1)","EP/GP"],
 			"gp":"10",
 			"wowID":"23049"
 		}
