@@ -98,7 +98,7 @@
 			"wowID":"22358"
 		},
 		"Desecrated Shoulderpads":{
-			"prio":["Warlock/Priest(2)","KuKu(1)","Austezy(1)","Claris(1)","Blacklisted(1)","Mazzo(1)","Coxxy(1)","Cannigtr(1)","priest","LC","EP/GP"],
+			"prio":["Warlock/Priest(2)","Blacklisted(1)","Claris(1)","Austeezy(1)","Mazzo(1)","Coxxy(1)","Cannigtr(1)","priest","LC","EP/GP"],
 			"gp":"8",
 			"wowID":"22368"
 		},
@@ -189,7 +189,7 @@
 			"wowID":"22954"
 		},
 		"Wraith blade":{
-			"prio":["Theprestige(1)","Austeezy(1)","Meow(1)","EP/GP"],
+			"prio":["Meow(1)","Austeezy(1)","EP/GP"],
 			"gp":"18",
 			"wowID":"22807"
 		},
@@ -381,7 +381,7 @@
 			"wowID":"22349"
 		},
 		"Desecrated Robe":{
-			"prio":["Coxxy(1)","Austezy(1)","1st Mage(1)","KuKu(1)","Blacklisted(1)","Locks/Mages(2)","Wildhealer(1)","LC","EP/GP"],
+			"prio":["Blacklisted(1)","Austeezy(1)","1st Mage(1)","KuKu(1)","Locks/Mages(2)","Wildhealer(1)","LC","EP/GP"],
 			"gp":"6",
 			"wowID":"22351"
 		},
@@ -509,7 +509,7 @@
 			"wowID":"22360"
 		},
 		"Desecrated Circlet":{
-			"prio":["Lock/Mage(2)","Theprestige(1)","Alter(1)","Mazzo(1)","Rahen(1)","Meow(1)","1st Lock","2nd Lock","Thedoctorjaz(1)","EP/GP"],
+			"prio":["Lock/Mage(2)","Alter(1)","Mazzo(1)","Rahen(1)","Meow(1)","Coxxy(1)","Blacklisted(1)","Thedoctorjaz(1)","EP/GP"],
 			"gp":"9",
 			"wowID":"22367"
 		},
@@ -591,7 +591,7 @@
 			"wowID":"23046"
 		},
 		"Cloak of the Necropolis":{
-			"prio":["Meow(1)","Coxxy(1)","Alters(1)","EP/GP"],
+			"prio":["Coxxy(1)","Alters(1)","EP/GP"],
 			"gp":"10",
 			"wowID":"23050"
 		},
@@ -618,7 +618,7 @@
 			"wowID":"23060"
 		},
 		"Gem of Trapped Innocents":{
-			"prio":["Alters(1)","Rasbeary(1)","Kuku(1)","EP/GP"],
+			"prio":["Kuku(1)","EP/GP"],
 			"gp":"8",
 			"wowID":"23057"
 		},
