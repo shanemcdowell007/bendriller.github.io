@@ -103,7 +103,7 @@
 			"wowID":"22368"
 		},
 		"Desecrated Pauldrons":{
-			"prio":["Snydicate(1)","4h Tanks","LC","EP/GP"],
+			"prio":["Tuglight(1)","4h Tanks","LC","EP/GP"],
 			"gp":"8",
 			"wowID":"22354"
 		},
@@ -184,7 +184,7 @@
 			"wowID":"22357"
 		},
 		"Kiss of the Spider":{
-			"prio":["Vajeen(1)","Dill(1)","Fury Warrior->Rogue","LC","EP/GP"],
+			"prio":["Vajeen(1)","Impactt(1)","Dill(1)", "Chrixus(2)","Fury Warrior->Rogue","LC","EP/GP"],
 			"gp":"10",
 			"wowID":"22954"
 		},
@@ -337,7 +337,7 @@
 			"wowID":"23017"
 		},
 		"Iblis, Blade of the Fallen Seraph":{
-			"prio":["Chart(1)","Killstep(2)","Johnscar(2)","Sniped(1)","LC","EP/GP"],
+			"prio":["Chart(1)","Killstep(2)","Johnscar(2)","Human Sword Rogues-> Human Fury","LC","EP/GP"],
 			"gp":"12",
 			"wowID":"23014"
 		}
@@ -371,7 +371,7 @@
 	},
 	"Four Horsemen":{
 		"Corrupted Ashbringer":{
-			"prio":["Thrane(1)","EP/GP"],
+			"prio":["Thrane(1)","Doli(1)","LC","EP/GP"],
 			"gp":"5",
 			"wowID":"22691"
 		},
@@ -499,7 +499,7 @@
 	},
 	"Thaddius":{
 		"Desecrated Helmet":{
-			"prio":["Snydicate(1)","Tanks","LC","EP/GP"],
+			"prio":["Snydicate(1)","Frau(2)","Tanks","LC","EP/GP"],
 			"gp":"6",
 			"wowID":"22353"
 		},
@@ -519,7 +519,7 @@
 			"wowID":"23070"
 		},
 		"Spire of Twilight":{
-			"prio":["Healers","LC","EP/GP"],
+			"prio":["BIS Healers","LC","EP/GP"],
 			"gp":"10",
 			"wowID":"22801"
 		},
@@ -556,7 +556,7 @@
 			"wowID":"23047"
 		},
 		"Shroud of Dominion":{
-			"prio":["Bonzai(1)","Fury Warrs","LC","EP/GP"],
+			"prio":["Fury Warrs","LC R1","EP/GP"],
 			"gp":"6",
 			"wowID":"23045"
 		},
@@ -603,7 +603,7 @@
 	},
 	"Kel'Thuzad":{
 		"The Phylactery of Kel'Thuzad":{
-			"prio":["Chart(1)","Killstep(2)","BenDriller(2)","Destain(1)","Shadowsfade(1)","Johnscar(2)","Sniped(1)","Rogues","LC","EP/GP"],
+			"prio":["Chart(1)","Killstep(2)","Destain(1)","Shadowsfade(1)","Johnscar(2)","Sniped(1)","Rogues","LC","EP/GP"],
 			"gp":"6",
 			"wowID":"22520"
 		},
@@ -613,7 +613,7 @@
 			"wowID":"23577"
 		},
 		"Bonescythe Ring":{
-			"prio":["Destain(1)","Killstep(2)","Chart(1)","BenDriller(2)","LC","EP/GP"],
+			"prio":["Killstep(2)","Chart(1)","BenDriller(2)","LC","EP/GP"],
 			"gp":"6",
 			"wowID":"23060"
 		},
@@ -683,7 +683,7 @@
 			"wowID":"23061"
 		},
 		"Gressil, Dawn of Ruin":{
-			"prio":["Dill(1)","Chart(1)","Vajeen(1)","Killstep(2)","Chrixus(2)","LC","EP/GP"],
+			"prio":["Killstep-rogue(2)","Vajeen(1)","Chart(1)","Chrixus(2)","LC","EP/GP"],
 			"gp":"18",
 			"wowID":"23054"
 		},
