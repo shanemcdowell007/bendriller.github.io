@@ -509,8 +509,8 @@
 			"wowID":""
 		},
 		"Pauldrons of Might":{
-				"prio":["EP/GP"],
-				"gp:":"",
+			"prio":["EP/GP"],
+			"gp:":"",
 			"wowID":""
 			},
 		"Shadowstrike":{
@@ -541,8 +541,8 @@
 			"wowID":""
 		},
 		"Wristguards of True Flight":{
-				"prio":["Tanks","EP/GP"],
-				"gp:":"",
+			"prio":["Tanks","EP/GP"],
+			"gp:":"",
 			"wowID":""
 			},
 		"Core Forged Greaves":{
@@ -551,7 +551,7 @@
 			"wowID":""
 		},
 		"Cauterizing Band":{
-			"prio":["Thedarkdwarf(2)","Celesdea(2)","Iamfaith(1)","EP/GP"],
+			"prio":["Healer","EP/GP"],
 			"gp:":"",
 			"wowID":""
 		},
