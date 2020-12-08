@@ -11,7 +11,7 @@
 			"wowID":"19439"
 		},
 		"Boots of Pure Thought":{
-			"prio":["Lianli(1)","Silkybalboa(1)","Thedoctorjaz(1)","EP/GP"],
+			"prio":["Lianli","Thedoctorjaz","EP/GP"],
 			"gp":"5",
 			"wowID":"19437"
 		},
@@ -192,7 +192,7 @@
 	},
 	"Broodlord Lashlayer":{
 		"Boots of Transcendence":{
-			"prio":["Jowsus(1)","EP/GP"],
+			"prio":["Jowsus","EP/GP"],
 			"gp":"5",
 			"wowID":"16919"
 		},
@@ -262,7 +262,7 @@
 			"wowID":"19351"
 		},
 		"Head of the Broodlord Lashlayer":{
-			"prio":["Druid/Priest prio."],
+			"prio":["Have the quest"],
 			"gp":"10",
 			"wowID":"20383"
 		}
@@ -369,7 +369,7 @@
 			"wowID":"19397"
 		},
 		"Rejuvenating Gem":{
-			"prio":["Silkybalboa(1)","Doligrian(1)","Kare(1)","EP/GP"],
+			"prio":["Silkybalboa","Doligrian","Kare","EP/GP"],
 			"gp":"10",
 			"wowID":"19395"
 		},
@@ -506,7 +506,7 @@
 			"wowID":"19392"
 		},
 		"Empowered Leggings":{
-			"prio":["Lianli(1)","Claris(1)","EP/GP"],
+			"prio":["Lianli","Claris","EP/GP"],
 			"gp":"8",
 			"wowID":"19385"
 		},
@@ -638,7 +638,7 @@
 			"wowID":"19376"
 		},
 		"Pure Elementium Band":{
-			"prio":["Kare(1)","Healer EP/GP"],
+			"prio":["Kare","Healer EP/GP"],
 			"gp":"5",
 			"wowID":"19382"
 		},
