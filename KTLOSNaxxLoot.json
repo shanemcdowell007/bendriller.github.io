@@ -63,12 +63,12 @@
 			"wowID":"22369"
 		},
 		"Desecrated Wristguards":{
-      			"prio":["Druid (Celesdea, Kare(1)Peku, Dr(2)) for 2 pc set","Hunters","EP/GP"],
+      			"prio":["Druid (Kare(1),Peku,Dr(2)) for 2 pc set","Hunters","EP/GP"],
 			"gp":"7",
 			"wowID":"22362"
 		},
 		"Desecrated Girdle":{
-			"prio":["Druid (Celesdea, Kare(1)Peku, Dr(2)) for 2 pc set","Hunter","EP/GP"],
+			"prio":["Druid (Kare(1),Peku,Dr(2)) for 2 pc set","Hunter","EP/GP"],
 			"gp":"8",
 			"wowID":"22363"
 		},
@@ -88,7 +88,7 @@
 			"wowID":"22372"
 		},
 		"Desecrated Boots":{
-			"prio":["Druid (Celesdea, Kare(1)Peku, Dr(2)) for 2 pc set","Pally","EP/GP"],
+			"prio":["Druid (Kare(1),Peku, Dr(2)) for 2 pc set","Pally","EP/GP"],
 			"gp":"8",
 			"wowID":"22365"
 		},
@@ -98,7 +98,7 @@
 			"wowID":"22358"
 		},
 		"Desecrated Shoulderpads":{
-			"prio":["Warlock/Priest(2)","Blacklisted(1)","Claris(1)","Austeezy(1)","Mazzo(1)","Coxxy(1)","Cannigtr(1)","priest","LC","EP/GP"],
+			"prio":["Warlock/Priest(2)","Blacklisted(1)","Jaz(1)","Austeezy(1)","Mazzo(1)","Coxxy(1)","Cannigtr(1)","priest","LC","EP/GP"],
 			"gp":"8",
 			"wowID":"22368"
 		},
@@ -108,7 +108,7 @@
 			"wowID":"22354"
 		},
 		"Desecrated Spaulders":{
-			"prio":["Druid (Celesdea, Kare(1)Peku, Dr(2)) for 2 pc set","Pally","EP/GP"],
+			"prio":["Druid (Kare(1),Peku, Dr(2)) for 2 pc set","Pally","EP/GP"],
 			"gp":"8",
 			"wowID":"22361"
 		}
@@ -142,7 +142,7 @@
 	},
 	"Grand Widow Faerlina":{
 		"The Widow's Embrace":{
-			"prio":["Wildhealer(1)","Healers", "EP/GP"],
+			"prio":["Lianli(1)","Wildhealer(1)","Mazzo(1)","Healers", "EP/GP"],
 			"gp":"3",
 			"wowID":"22942"
 		},
@@ -386,7 +386,7 @@
 			"wowID":"22351"
 		},
 		"Desecrated Tunic":{
-			"prio":["Druid (Celesdea, Kare(1)Peku, Dr(2)) for 2 pc set","Pally","EP/GP"],
+			"prio":["Druid (Kare(1)Peku, Dr(2)) for 2 pc set","Lianli(1)","Pally","EP/GP"],
 			"gp":"6",
 			"wowID":"22350"
 		},
@@ -504,7 +504,7 @@
 			"wowID":"22353"
 		},
 		"Desecrated Headpiece":{
-			"prio":["Pally","EP/GP"],
+			"prio":["Doligrian","Pally","EP/GP"],
 			"gp":"6",
 			"wowID":"22360"
 		},
