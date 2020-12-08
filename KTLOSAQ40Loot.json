@@ -260,7 +260,7 @@
 			"wowID":"21671"
 		},
 		"Sartura's Might":{
-			"prio":["Mazzo(1)","Wildhealer(1)","Non Lei OH","EP/GP"],
+			"prio":["Mazzo","Wildhealer","Non Lei OH","EP/GP"],
 			"gp":"5",
 			"wowID":"21666"
 		},
@@ -322,7 +322,7 @@
 			"wowID":"21639"
 		},
 		"Robes of the Guardian Saint":{
-			"prio":["Peku(2)","Claris(1)","Healers EP/GP"],
+			"prio":["Peku","Claris","Healers EP/GP"],
 			"gp":"8",
 			"wowID":"21663"
 		},
@@ -337,7 +337,7 @@
 			"wowID":"21652"
 		},
 		"Libram of Grace":{
-			"prio":["Pally Healers","Doligrian(1)","EP/GP"],
+			"prio":["Pally Healers","EP/GP"],
 			"gp":"3",
 			"wowID":"22402"
 		}
@@ -369,7 +369,7 @@
 			"wowID":"21625"
 		},
 		"Idol of Health":{
-			"prio":["Druid healers","Silkybalboa(1)","Kare(1)","Celesdea(1)","Druid Healer","EP/GP"],
+			"prio":["Druid healers","Kare","Celesdea","Druid Healer","EP/GP"],
 			"gp":"5",
 			"wowID":"22399"
 		},
@@ -396,17 +396,17 @@
 			"wowID":"21618"
 		},
 		"Gloves of the Messiah":{
-			"prio":["Priest Prio Healers","Mazzo(1)","EP/GP"],
+			"prio":["Priest Prio Healers","Mazzo","EP/GP"],
 			"gp":"6",
 			"wowID":"21619"
 		},
 		"Wasphide Gauntlets":{
-			"prio":["Druid healers","Peku(2)","EP/GP"],
+			"prio":["Druid healers","Peku","EP/GP"],
 			"gp":"6",
 			"wowID":"21617"
 		},
 		"Ring of the Martyr":{
-			"prio":["Silkybalboa(1)","Kare(1)","EP/GP"],
+			"prio":["Kare","Silkybalboa","EP/GP"],
 			"gp":"6",
 			"wowID":"21620"
 		}, 
@@ -468,7 +468,7 @@
 			"wowID":"21606"
 		},
 		"Bracelets of Royal Redemption":{
-			"prio":["Druid and Pally Prio Healers","Lianli(1)","Peku(2)","EP/GP"],
+			"prio":["Druid and Pally Prio Healers","Lianli","Peku","EP/GP"],
 			"gp":"8",
 			"wowID":"21604"
 		},
@@ -495,7 +495,7 @@
 	},
 	"Ouro":{
 		"Don Rigoberto's Lost Hat":{
-			"prio":["Wildhealer(1)","Jowsus(1)","Thedoctorjaz(1)","Silkyb(1)","Priest and Druid Prio Healers","EP/GP"],
+			"prio":["Wildhealer","Jowsus","Thedoctorjaz","Priest and Druid Prio Healers","EP/GP"],
 			"gp":"8",
 			"wowID":"21615"
 		},
@@ -572,7 +572,7 @@
 			"wowID":"21581"
 		},
 		"Scepter of the False Prophet":{
-			"prio":["Lianli(1)","Chuffy(2)","Jowsus(1)","Blunts(2)","Thrane(1)","Wildhealer(1)","Kare(1)","Silkybalboa(1)","EP/GP"],
+			"prio":["Lianli","Wildhealer","Jowsus","Blunts","Thrane","Kare","Silkybalboa","EP/GP"],
 			"gp":"18",
 			"wowID":"21839"
 		},
@@ -582,7 +582,7 @@
 			"wowID":"22732"
 		},
 		"Cloak of Clarity":{
-			"prio":["Wildhealer(1)","Kare(1)","Healers to EP/GP"],
+			"prio":["Wildhealer","Kare","Healers to EP/GP"],
 			"gp":"6",
 			"wowID":"21583"
 		},
