@@ -285,7 +285,7 @@
 			"wowID":"22352"
 		},
 		"Band of Unnatural Forces":{
-			"prio":["Sniped(1)","Destain(1)","Killstep(2)","Johnscar(2)","Rogues","LC","EP/GP"],
+			"prio":["Sniped(1)","Destain(1)","Killstep(Fanta)","Johnscar(Fanta)","Rogues","LC","EP/GP"],
 			"gp":"8",
 			"wowID":"23038"
 		},
@@ -305,7 +305,7 @@
 			"wowID":"22800"
 		},
 		"Loatheb's Reflection":{
-			"prio":["BenDriller(2)","EP/GP"],
+			"prio":["Bendriller(Sunkist)","EP/GP"],
 			"gp":"1",
 			"wowID":"23042"
 		}
@@ -337,7 +337,7 @@
 			"wowID":"23017"
 		},
 		"Iblis, Blade of the Fallen Seraph":{
-			"prio":["Chart(1)","Killstep(2)","Johnscar(2)","Human Sword Rogues-> Human Fury","LC","EP/GP"],
+			"prio":["Killstep(Fanta)","Johnscar(Fanta)","Vajeen(1)","Human Sword Rogues-> Human Fury","LC","EP/GP"],
 			"gp":"12",
 			"wowID":"23014"
 		}
@@ -354,7 +354,7 @@
 			"wowID":"23021"
 		},
 		"Sadist's Collar":{
-			"prio":["BenDriller","Tanks->PVP","LC","EP/GP"],
+			"prio":["BenDriller(Sunkist)","Tanks->PVP","LC","EP/GP"],
 			"gp":"6",
 			"wowID":"23023"
 		},
@@ -391,7 +391,7 @@
 			"wowID":"22350"
 		},
 		"Leggings of the Apocalypse":{
-			"prio":["Notpq(1)","Feral->Fury DPS","EP/GP"],
+			"prio":["Feral->Fury DPS","EP/GP"],
 			"gp":"8",
 			"wowID":"23071"
 		}, 
@@ -406,7 +406,7 @@
 			"wowID":"23025"
 		}, 
 		"Soulstring":{
-			"prio":["BenDriller(2)","Dill(1)","LC","EP/GP"],
+			"prio":["Bendriller(Sunkist)","Dill(1)","LC","EP/GP"],
 			"gp":"6",
 			"wowID":"22811"
 		}, 
@@ -455,7 +455,7 @@
 			"wowID":"22810"
 		},
 		"The End of Dreams":{
-			"prio":["Rasbeary(1)","Notpq(1)","EP/GP"],
+			"prio":["Rasbeary(1)","EP/GP"],
 			"gp":"14",
 			"wowID":"22988"
 		},
@@ -576,7 +576,7 @@
 			"wowID":"23048"
 		},
 		"Slayer's Crest":{
-			"prio":["BenDriller(2)","Destain(1)","Killstep(2)","EP/GP"],
+			"prio":["Bendriller(Sunkist)","Destain(1)","Killstep(Fanta)","EP/GP"],
 			"gp":"10",
 			"wowID":"23041"
 		},
@@ -603,17 +603,17 @@
 	},
 	"Kel'Thuzad":{
 		"The Phylactery of Kel'Thuzad":{
-			"prio":["Chart(1)","Killstep(2)","Destain(1)","Shadowsfade(1)","Johnscar(2)","Sniped(1)","Rogues","LC","EP/GP"],
+			"prio":["Killstep(Fanta)","Destain(1)","Shadowsfade(1)","Johnscar(Fanta)","Sniped(1)","Rogues","LC","EP/GP"],
 			"gp":"6",
 			"wowID":"22520"
 		},
 		"The Hungering Cold":{
-			"prio":["Aisli(1)","Frau(2)","Wizzo(2) if no TF","Bendriller(2)","Tuglight(1) if no TF","Snydicate(1)","Dill(1)","Vajeen(1)","LC","EP/GP"],
+			"prio":["Aisli(1)","Frau(2)","Wizzo(2) if no TF","Bendriller(Sunkist)","Tuglight(1) if no TF","Snydicate(1)","Dill(1)","Vajeen(1)","LC","EP/GP"],
 			"gp":"18",
 			"wowID":"23577"
 		},
 		"Bonescythe Ring":{
-			"prio":["Killstep(2)","Chart(1)","BenDriller(2)","LC","EP/GP"],
+			"prio":["Killstep(Fanta)","Bendriller(Sunkist)","LC","EP/GP"],
 			"gp":"6",
 			"wowID":"23060"
 		},
@@ -683,7 +683,7 @@
 			"wowID":"23061"
 		},
 		"Gressil, Dawn of Ruin":{
-			"prio":["Killstep-rogue(2)","Vajeen(1)","Chart(1)","Chrixus(2)","LC","EP/GP"],
+			"prio":["Killstep-rogue(2)","Vajeen(1)","Chrixus(2)","LC","EP/GP"],
 			"gp":"18",
 			"wowID":"23054"
 		},
