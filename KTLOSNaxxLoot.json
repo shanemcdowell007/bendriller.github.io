@@ -596,7 +596,7 @@
 			"wowID":"23050"
 		},
 		"Sapphiron's Left Eye":{
-			"prio":["Austeezy(1)","Kuku(1)","EP/GP"],
+			"prio":["Blacklisted(1)", "Austeezy(1)","Kuku(1)","EP/GP"],
 			"gp":"10",
 			"wowID":"23049"
 		}
