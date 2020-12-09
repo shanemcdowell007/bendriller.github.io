@@ -63,12 +63,12 @@
 			"wowID":"22369"
 		},
 		"Desecrated Wristguards":{
-      			"prio":["Druid (Kare(1),Peku,Dr(2)) for 2 pc set","Hunters","EP/GP"],
+      			"prio":["Druid (Peku,Dr(2)) for 2 pc set","Hunters","EP/GP"],
 			"gp":"7",
 			"wowID":"22362"
 		},
 		"Desecrated Girdle":{
-			"prio":["Druid (Kare(1),Peku,Dr(2)) for 2 pc set","Hunter","EP/GP"],
+			"prio":["Druid (Peku,Dr(2)) for 2 pc set","Hunter","EP/GP"],
 			"gp":"8",
 			"wowID":"22363"
 		},
@@ -88,7 +88,7 @@
 			"wowID":"22372"
 		},
 		"Desecrated Boots":{
-			"prio":["Druid (Kare(1),Peku, Dr(2)) for 2 pc set","Pally","EP/GP"],
+			"prio":["Druid (Peku, Dr(2)) for 2 pc set","Pally","EP/GP"],
 			"gp":"8",
 			"wowID":"22365"
 		},
@@ -108,7 +108,7 @@
 			"wowID":"22354"
 		},
 		"Desecrated Spaulders":{
-			"prio":["Druid (Kare(1),Peku, Dr(2)) for 2 pc set","Pally","EP/GP"],
+			"prio":["Druid (Peku, Dr(2)) for 2 pc set","Pally","EP/GP"],
 			"gp":"8",
 			"wowID":"22361"
 		}
@@ -174,7 +174,7 @@
 			"wowID":"22371"
 		},
 		"Desecrated Handguards":{
-			"prio":["Druid (Celesdea, Kare(1)Peku, Dr(2)) for 2 pc set","Hunter","EP/GP"],
+			"prio":["Druid (Peku, Dr(2)) for 2 pc set","Hunter","EP/GP"],
 			"gp":"8",
 			"wowID":"22364"
 		},
@@ -275,7 +275,7 @@
 			"wowID":"22366"
 		},
 		"Desecrated Legguards":{
-			"prio":["Druid (Celesdea, Kare(1)Peku, Dr(2)) for 2 pc set","Hunter","EP/GP"],
+			"prio":["Druid (Peku, Dr(2)) for 2 pc set","Hunter","EP/GP"],
 			"gp":"3",
 			"wowID":"22359"
 		},
@@ -386,7 +386,7 @@
 			"wowID":"22351"
 		},
 		"Desecrated Tunic":{
-			"prio":["Druid (Kare(1)Peku, Dr(2)) for 2 pc set","Lianli(1)","Pally","EP/GP"],
+			"prio":["Druid (Peku, Dr(2)) for 2 pc set","Lianli(1)","Pally","EP/GP"],
 			"gp":"8",
 			"wowID":"22350"
 		},
@@ -519,7 +519,7 @@
 			"wowID":"23070"
 		},
 		"Spire of Twilight":{
-			"prio":["Mazzo(1)","Kare(1)","LC","EP/GP"],
+			"prio":["Mazzo(1)","LC","EP/GP"],
 			"gp":"12",
 			"wowID":"22801"
 		},
