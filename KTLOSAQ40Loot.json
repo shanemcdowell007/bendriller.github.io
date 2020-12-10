@@ -230,7 +230,7 @@
 			"wowID":"21674"
 		},
 		"Gloves of enforcement":{
-			"prio":["NotPQ(1)","Johnscar(2)","Sinister strike rogues","DS rogues","Ferals","nonDS dagger rogues","EP/GP"],
+			"prio":["Sniped(1)","Johnscar(2)","Sinister strike rogues","DS rogues","Ferals","nonDS dagger rogues","EP/GP"],
 			"gp":"8",
 			"wowID":"21672"
 		},
@@ -282,7 +282,7 @@
 	},
 	"Fankriss the Unyielding":{
 		"Ancient Qiraji Ripper":{
-			"prio":["Sniped(1)","Johnscar(2)","rogues w/o cts","warriors w/o cts","LC","EP/GP"],
+			"prio":["Johnscar(2)","rogues w/o cts","warriors w/o cts","LC","EP/GP"],
 			"gp":"14",
 			"wowID":"21650"
 		},
