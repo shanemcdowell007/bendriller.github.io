@@ -285,7 +285,7 @@
 			"wowID":"22352"
 		},
 		"Band of Unnatural Forces":{
-			"prio":["Sniped(1)","Destain(crush)","Killstep(sunnyD)","Johnscar(sunnyD)","Rogues","LC","EP/GP"],
+			"prio":["Sniped(crush)","Destain(crush)","Killstep(sunnyD)","Johnscar(sunnyD)","Rogues","LC","EP/GP"],
 			"gp":"8",
 			"wowID":"23038"
 		},
@@ -576,7 +576,7 @@
 			"wowID":"23048"
 		},
 		"Slayer's Crest":{
-			"prio":["Bendriller(crush)","Destain(crush)","Killstep(sunnyD)","Sniped(crush)","EP/GP"],
+			"prio":["Bendriller(crush)","Destain(crush)","Johnscar(sunnyD)","Sniped(crush)","EP/GP"],
 			"gp":"10",
 			"wowID":"23041"
 		},
@@ -613,7 +613,7 @@
 			"wowID":"23577"
 		},
 		"Bonescythe Ring":{
-			"prio":["Killstep(sunnyD)","Bendriller(crush)","LC","EP/GP"],
+			"prio":["Johnscar(sunnyD)","Bendriller(crush)","Killstep(sunnyD)","LC","EP/GP"],
 			"gp":"6",
 			"wowID":"23060"
 		},
