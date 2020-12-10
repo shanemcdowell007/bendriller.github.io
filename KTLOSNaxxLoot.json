@@ -285,7 +285,7 @@
 			"wowID":"22352"
 		},
 		"Band of Unnatural Forces":{
-			"prio":["Sniped(1)","Destain(1)","Killstep(Fanta)","Johnscar(Fanta)","Rogues","LC","EP/GP"],
+			"prio":["Sniped(1)","Destain(crush)","Killstep(sunnyD)","Johnscar(sunnyD)","Rogues","LC","EP/GP"],
 			"gp":"8",
 			"wowID":"23038"
 		},
@@ -305,7 +305,7 @@
 			"wowID":"22800"
 		},
 		"Loatheb's Reflection":{
-			"prio":["Bendriller(Sunkist)","EP/GP"],
+			"prio":["Bendriller(crush)","EP/GP"],
 			"gp":"1",
 			"wowID":"23042"
 		}
@@ -337,7 +337,7 @@
 			"wowID":"23017"
 		},
 		"Iblis, Blade of the Fallen Seraph":{
-			"prio":["Killstep(Fanta)","Johnscar(Fanta)","Vajeen(1)","Human Sword Rogues-> Human Fury","LC","EP/GP"],
+			"prio":["Killstep(sunnyD)","Johnscar(sunnyD)","Vajeen(1)","Human Sword Rogues-> Human Fury","LC","EP/GP"],
 			"gp":"12",
 			"wowID":"23014"
 		}
@@ -354,7 +354,7 @@
 			"wowID":"23021"
 		},
 		"Sadist's Collar":{
-			"prio":["BenDriller(Sunkist)","Tanks->PVP","LC","EP/GP"],
+			"prio":["Bendriller(crush)","Tanks->PVP","LC","EP/GP"],
 			"gp":"6",
 			"wowID":"23023"
 		},
@@ -406,7 +406,7 @@
 			"wowID":"23025"
 		}, 
 		"Soulstring":{
-			"prio":["Bendriller(Sunkist)","Dill(1)","LC","EP/GP"],
+			"prio":["Bendriller(crush)","Dill(1)","LC","EP/GP"],
 			"gp":"6",
 			"wowID":"22811"
 		}, 
@@ -576,7 +576,7 @@
 			"wowID":"23048"
 		},
 		"Slayer's Crest":{
-			"prio":["Bendriller(Sunkist)","Destain(1)","Killstep(Fanta)","EP/GP"],
+			"prio":["Bendriller(crush)","Destain(crush)","Killstep(sunnyD)","Sniped(crush)","EP/GP"],
 			"gp":"10",
 			"wowID":"23041"
 		},
@@ -603,17 +603,17 @@
 	},
 	"Kel'Thuzad":{
 		"The Phylactery of Kel'Thuzad":{
-			"prio":["Killstep(Fanta)","Destain(1)","Shadowsfade(1)","Johnscar(Fanta)","Sniped(1)","Rogues","LC","EP/GP"],
+			"prio":["Killstep(sunnyD)","Destain(crush)","Shadowsfade(1)","Johnscar(sunnyD)","Sniped(1)","Rogues","LC","EP/GP"],
 			"gp":"6",
 			"wowID":"22520"
 		},
 		"The Hungering Cold":{
-			"prio":["Aisli(1)","Frau(2)","Wizzo(2) if no TF","Bendriller(Sunkist)","Tuglight(1) if no TF","Snydicate(1)","Dill(1)","Vajeen(1)","LC","EP/GP"],
+			"prio":["Aisli(1)","Frau(2)","Wizzo(2) if no TF","Bendriller(crush)","Tuglight(1) if no TF","Snydicate(1)","Dill(1)","Vajeen(1)","LC","EP/GP"],
 			"gp":"18",
 			"wowID":"23577"
 		},
 		"Bonescythe Ring":{
-			"prio":["Killstep(Fanta)","Bendriller(Sunkist)","LC","EP/GP"],
+			"prio":["Killstep(sunnyD)","Bendriller(crush)","LC","EP/GP"],
 			"gp":"6",
 			"wowID":"23060"
 		},
@@ -638,7 +638,7 @@
 			"wowID":"23059"
 		},
 		"Kingsfall":{
-			"prio":["Destain(1)","LC","EP/GP"],
+			"prio":["Destain(crush)","LC","EP/GP"],
 			"gp":"18",
 			"wowID":"22802"
 		},
@@ -683,7 +683,7 @@
 			"wowID":"23061"
 		},
 		"Gressil, Dawn of Ruin":{
-			"prio":["Killstep-rogue(2)","Vajeen(1)","Chrixus(2)","LC","EP/GP"],
+			"prio":["Killstep-rogue(2)","Vajeen(1)","Chrixus(2)","Sniped(1)","Bendriller(1)","LC","EP/GP"],
 			"gp":"18",
 			"wowID":"23054"
 		},
