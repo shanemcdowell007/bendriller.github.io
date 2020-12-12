@@ -108,14 +108,14 @@
 			"wowID":"22354"
 		},
 		"Desecrated Spaulders":{
-			"prio":["Druid (Peku, Dr(2)) for 2 pc set","Pally","EP/GP"],
+			"prio":["Thrane(1)","Druid (Peku, Dr(2)) for 2 pc set","Pally","EP/GP"],
 			"gp":"8",
 			"wowID":"22361"
 		}
 	},
 	"Anub'Rekhan":{
 		"Band of Unanswered Prayers":{
-			"prio":["Rallo(1)","Druid Priest Healers EP/GP"],
+			"prio":["Rallo(1)","Navia(1)","Druid Priest Healers EP/GP"],
 			"gp":"6",
 			"wowID":"22939"
 		},
