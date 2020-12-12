@@ -83,7 +83,7 @@
 			"wowID":"22356"
 		},
 		"Desecrated Sandals":{
-			"prio":["warlock with T3 chest","mages with T3 chest","Alter(1)","Raehn(1)","Jowsus(1)","Meowingtons(1)","Theprestige(1)", "ThedoctorJaz(1)","LC","EP/GP"],
+			"prio":["warlock with T3 chest","mages with T3 chest","Meowingtons(1)","Raehn(1)","Jowsus(1)","Alter(1)","Theprestige(1)", "ThedoctorJaz(1)","LC","EP/GP"],
 			"gp":"8",
 			"wowID":"22372"
 		},
@@ -492,7 +492,7 @@
 			"wowID":"23075"
 		},
 		"Rime covered Mantle":{
-			"prio":["Rhaen(1)","Meow(1)","Theprestige(1)","Rasbeary(1)","Mages","EP/GP"],
+			"prio":["Meow(1)","Rhaen(1)","Theprestige(1)","Rasbeary(1)","Mages","EP/GP"],
 			"gp":"10",
 			"wowID":"22983"
 		}
