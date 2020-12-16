@@ -58,7 +58,7 @@
 			"wowID":"22355"
 		},
 		"Desecrated Bindings":{
-			"prio":["Priest EP/GP"],
+			"prio":["Navia(1)","Priest EP/GP"],
 			"gp":"8",
 			"wowID":"22369"
 		},
@@ -73,7 +73,7 @@
 			"wowID":"22363"
 		},
 		"Desecrated Belt":{
-			"prio":["Priest EP/GP"],
+			"prio":["Navia(1)","Priest EP/GP"],
 			"gp":"8",
 			"wowID":"22370"
 		},
@@ -98,7 +98,7 @@
 			"wowID":"22358"
 		},
 		"Desecrated Shoulderpads":{
-			"prio":["Warlock/Priest(2)","Austeezy(1)","Mazzo(1)","Coxxy(1)","Cannigtr(1)","priest","LC","EP/GP"],
+			"prio":["Warlock/Priest(2)","Austeezy(1)","Mazzo(1)","Coxxy(1)","Navia(1)","priest","LC","EP/GP"],
 			"gp":"8",
 			"wowID":"22368"
 		},
@@ -418,7 +418,7 @@
 	},
 	"Patchwerk":{
 		"Cloak of Suturing":{
-			"prio":["Mazzo(1)","Silkyb(1)","Snibbler(2)","Peku(2)","Wildhealer(1)","Kare(1)","Blunts(2)","Natties(2)","Healer EP/GP"],
+			"prio":["Mazzo(1)","Navia(1)","Snibbler(2)","Peku(2)","Wildhealer(1)","Kare(1)","Blunts(2)","Natties(2)","Healer EP/GP"],
 			"gp":"6",
 			"wowID":"22960"
 		},
