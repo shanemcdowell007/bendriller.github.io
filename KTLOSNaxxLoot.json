@@ -455,7 +455,7 @@
 			"wowID":"22810"
 		},
 		"The End of Dreams":{
-			"prio":["Rasbeary(1)","EP/GP"],
+			"prio":["EP/GP"],
 			"gp":"16",
 			"wowID":"22988"
 		},
@@ -603,7 +603,7 @@
 	},
 	"Kel'Thuzad":{
 		"The Phylactery of Kel'Thuzad":{
-			"prio":["Killstep(sunnyD)","Destain(crush)","Shadowsfade(1)","Johnscar(sunnyD)","Sniped(1)","Rogues","LC","EP/GP"],
+			"prio":["Killstep(sunnyD)","Destain(crush)","Shadowsfade(1)","Johnscar(sunnyD)","Rogues","LC","EP/GP"],
 			"gp":"6",
 			"wowID":"22520"
 		},
@@ -678,7 +678,7 @@
 			"wowID":"22821"
 		},
 		"Ring of Faith":{
-			"prio":["Jowsus(1)","Darkdwarf(2)","Wildhealer(1)","Natties(2)","Claris(1)","Chuffy(2)","Priest Healer EP/GP"],
+			"prio":["Darkdwarf(2)","Wildhealer(1)","Natties(2)","Claris(1)","Chuffy(2)","Priest Healer EP/GP"],
 			"gp":"6",
 			"wowID":"23061"
 		},
