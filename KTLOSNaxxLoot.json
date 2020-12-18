@@ -300,7 +300,7 @@
 			"wowID":"23037"
 		},
 		"Brimstone Staff":{
-			"prio":["Blondi(1)","EP/GP"],
+			"prio":["Kuku(1)","Blondi(1)","EP/GP"],
 			"gp":"16",
 			"wowID":"22800"
 		},
@@ -663,7 +663,7 @@
 			"wowID":"23067"
 		},
 		"Soulseeker":{
-			"prio":["Alters(1)","Rhaen(1)","Kuku(1)","EP/GP"],
+			"prio":["Alters(1)","Rhaen(1)","EP/GP"],
 			"gp":"18",
 			"wowID":"22799"
 		},
