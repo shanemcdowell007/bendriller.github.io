@@ -98,7 +98,7 @@
 			"wowID":"22358"
 		},
 		"Desecrated Shoulderpads":{
-			"prio":["Warlock/Priest(2)","Austeezy(1)","Mazzo(1)","Coxxy(1)","Navia(1)","priest","LC","EP/GP"],
+			"prio":["Warlock/Priest(2)","Coxxy(1)","Mazzo(1)","Austeezy(1)","Navia(1)","priest","LC","EP/GP"],
 			"gp":"8",
 			"wowID":"22368"
 		},
@@ -270,7 +270,7 @@
 	},
 	"Loatheb":{
 		"Desecrated Leggings":{
-			"prio":["Priest","EP/GP"],
+			"prio":["Alters","Priest","EP/GP"],
 			"gp":"8",
 			"wowID":"22366"
 		},
@@ -381,7 +381,7 @@
 			"wowID":"22349"
 		},
 		"Desecrated Robe":{
-			"prio":["KuKu(1)","Blacklisted(1)","Austeezy(1)","1st Mage(1)","Locks/Mages(2)","Wildhealer(1)","LC","EP/GP"],
+			"prio":["Blacklisted(1)","Alters(1)""Austeezy(1)","Locks/Mages(2)","Wildhealer(1)","LC","EP/GP"],
 			"gp":"8",
 			"wowID":"22351"
 		},
@@ -509,7 +509,7 @@
 			"wowID":"22360"
 		},
 		"Desecrated Circlet":{
-			"prio":["Lock/Mage(2)","Rahen(1)","Meow(1)","Coxxy(1)","Blacklisted(1)","Thedoctorjaz(1)","EP/GP"],
+			"prio":["Lock/Mage(2)","Rahen(1)","Meow(1)","Coxxy(1)","Blacklisted(1)","Thedoctorjaz(1)", "Blondi","EP/GP"],
 			"gp":"8",
 			"wowID":"22367"
 		},
