@@ -433,7 +433,7 @@
 			"wowID":"22815"
 		},
 		"Wand of Fates":{
-			"prio":["Kuku(1)","Austeezy(1)","Black(1)","Coxxy(1)","Blondi(1)","Warlocks","EP/GP"],
+			"prio":["Austeezy(1)","Black(1)","Coxxy(1)","Blondi(1)","Warlocks","EP/GP"],
 			"gp":"6",
 			"wowID":"22820"
 		},
@@ -586,7 +586,7 @@
 			"wowID":"23040"
 		},
 		"Restrained Essence of Sapphiron":{
-			"prio":["Coxxy(1)","Blacklisted(1)","Meow(1)","EP/GP"],
+			"prio":["Blacklisted(1)","Meow(1)","EP/GP"],
 			"gp":"15",
 			"wowID":"23046"
 		},
