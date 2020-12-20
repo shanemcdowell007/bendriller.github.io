@@ -443,7 +443,7 @@
 			"wowID":"21597"
 		},
 		"Qiraji Execution Bracers":{
-			"prio":["Killstep(2)","Rogues->Feral->Fury","EP/GP"],
+			"prio":["Killstep","Sniped","Rogues->Feral->Fury","EP/GP"],
 			"gp":"6",
 			"wowID":"21602"
 		},
