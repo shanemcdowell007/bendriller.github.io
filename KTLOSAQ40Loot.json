@@ -60,7 +60,7 @@
 			"wowID":"21814"
 		},
 		"Cloak of Concentrated Hatred":{
-     		"prio":["Stopbegging(2)","Sniped(1)","Destain(1)","Johnscar(2)","Rogue->Warrior","EP/GP"],
+     		"prio":["Destain(1)","Johnscar(2)","Rogue->Warrior","EP/GP"],
 			"gp":"7",
 			"wowID":"21701"
 		},
@@ -230,7 +230,7 @@
 			"wowID":"21674"
 		},
 		"Gloves of enforcement":{
-			"prio":["Sniped(1)","Johnscar(2)","Sinister strike rogues","DS rogues","Ferals","nonDS dagger rogues","EP/GP"],
+			"prio":["Johnscar(2)","Sniped(1)","Sinister strike rogues","DS rogues","Ferals","nonDS dagger rogues","EP/GP"],
 			"gp":"8",
 			"wowID":"21672"
 		},
@@ -443,7 +443,7 @@
 			"wowID":"21597"
 		},
 		"Qiraji Execution Bracers":{
-			"prio":["Chart(1)","Destain(1)","Killstep(2)","Rogues->Feral->Fury","EP/GP"],
+			"prio":["Killstep(2)","Rogues->Feral->Fury","EP/GP"],
 			"gp":"6",
 			"wowID":"21602"
 		},
@@ -597,7 +597,7 @@
 			"wowID":"21582"
 		},
 		"Belt of Never-ending Agony":{
-			"prio":["Shadowsfade(1)","Chart(1)","Killstep(2)","Stopbegging(2)","Supertoxic(1)","Rogues->Feral ?","EP/GP"],
+			"prio":["Shadowsfade(1)","Rogues->Feral ?","EP/GP"],
 			"gp":"10",
 			"wowID":"21586"
 		},
@@ -612,7 +612,7 @@
 			"wowID":"21134"
 		},
 		"Death's Sting":{
-			"prio":["Stopbegging(2)","Destain(1)","Shadowsfade(1)","LC/Rogues","EP/GP"],
+			"prio":["Destain(1)","Shadowsfade(1)","LC/Rogues","EP/GP"],
 			"gp":"18",
 			"wowID":"21126"
 		}
