@@ -22,7 +22,7 @@
 		},
 		"Ghoul Skin Tunic":{
 			"prio":["Feral","Fury Warrs","Soho(1)","EP/GP"],
-			"gp":"2",
+			"gp":"8",
 			"wowID":"23226"
 		},
 		"Belt of the Grand Crusader":{
@@ -63,12 +63,12 @@
 			"wowID":"22369"
 		},
 		"Desecrated Wristguards":{
-      			"prio":["Druid (Peku,Dr(2)) for 2 pc set","Hunters","EP/GP"],
+      			"prio":["Hunters","druid/pally","EP/GP"],
 			"gp":"7",
 			"wowID":"22362"
 		},
 		"Desecrated Girdle":{
-			"prio":["Druid (Peku,Dr(2)) for 2 pc set","Hunter","EP/GP"],
+			"prio":["Hunter","druid/pally","EP/GP"],
 			"gp":"8",
 			"wowID":"22363"
 		},
@@ -88,7 +88,7 @@
 			"wowID":"22372"
 		},
 		"Desecrated Boots":{
-			"prio":["Druid (Peku, Dr(2)) for 2 pc set","Pally","EP/GP"],
+			"prio":["Pally","druid/hunter","EP/GP"],
 			"gp":"8",
 			"wowID":"22365"
 		},
@@ -108,7 +108,7 @@
 			"wowID":"22354"
 		},
 		"Desecrated Spaulders":{
-			"prio":["Thrane(1)","Druid (Peku, Dr(2)) for 2 pc set","Pally","EP/GP"],
+			"prio":["Thrane(1)","Pally","druid/hunter","EP/GP"],
 			"gp":"8",
 			"wowID":"22361"
 		}
@@ -152,7 +152,7 @@
 			"wowID":"22941"
 		},
 		"Widow's Remorse":{
-			"prio":["Wizzo(2)","Aisli(1)","EP/GP"],
+			"prio":["Aisli(1)","EP/GP"],
 			"gp":"8",
 			"wowID":"22806"
 		},
@@ -174,7 +174,7 @@
 			"wowID":"22371"
 		},
 		"Desecrated Handguards":{
-			"prio":["Druid (Peku, Dr(2)) for 2 pc set","Hunter","EP/GP"],
+			"prio":["Hunter","druid/pally","EP/GP"],
 			"gp":"8",
 			"wowID":"22364"
 		},
@@ -275,7 +275,7 @@
 			"wowID":"22366"
 		},
 		"Desecrated Legguards":{
-			"prio":["Druid (Peku, Dr(2)) for 2 pc set","Hunter","EP/GP"],
+			"prio":["Hunter","druid/pally","EP/GP"],
 			"gp":"3",
 			"wowID":"22359"
 		},
@@ -322,7 +322,7 @@
 			"wowID":"23018"
 		},
 		"Idol of Longevity":{
-			"prio":["Kare(1)","SilkyB(1)","Celesdea(1)","Peku(2)","EP/GP"],
+			"prio":["Kare(1)","Celesdea(1)","Peku(2)","EP/GP"],
 			"gp":"6",
 			"wowID":"23004"
 		},
@@ -337,7 +337,7 @@
 			"wowID":"23017"
 		},
 		"Iblis, Blade of the Fallen Seraph":{
-			"prio":["Killstep(sunnyD)","Johnscar(sunnyD)","Vajeen(1)","Human Sword Rogues-> Human Fury","LC","EP/GP"],
+			"prio":["Johnscar(sunnyD)","Vajeen(1)","Human Sword Rogues-> Human Fury","LC","EP/GP"],
 			"gp":"12",
 			"wowID":"23014"
 		}
@@ -386,7 +386,7 @@
 			"wowID":"22351"
 		},
 		"Desecrated Tunic":{
-			"prio":["Druid (Peku, Dr(2)) for 2 pc set","Lianli(1)","Pally","EP/GP"],
+			"prio":["Lianli(1)","Pally","druid/hunter","EP/GP"],
 			"gp":"8",
 			"wowID":"22350"
 		},
