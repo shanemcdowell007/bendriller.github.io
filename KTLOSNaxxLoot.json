@@ -322,7 +322,7 @@
 			"wowID":"23018"
 		},
 		"Idol of Longevity":{
-			"prio":["Kare(1)","Celesdea(1)","Peku(2)","EP/GP"],
+			"prio":["Celesdea(1)","Kare(1)","Peku(2)","EP/GP"],
 			"gp":"6",
 			"wowID":"23004"
 		},
@@ -386,7 +386,7 @@
 			"wowID":"22351"
 		},
 		"Desecrated Tunic":{
-			"prio":["Lianli(1)","Pally","druid/hunter","EP/GP"],
+			"prio":["Lianli(1)","Doligrian(1)","Thrane(1)","Pally","druid/hunter","EP/GP"],
 			"gp":"8",
 			"wowID":"22350"
 		},
@@ -519,7 +519,7 @@
 			"wowID":"23070"
 		},
 		"Spire of Twilight":{
-			"prio":["Mazzo(1)","Navia(1)","LC","EP/GP"],
+			"prio":["Mazzo(1)","Navia(1)","Nattys(2)","LC","EP/GP"],
 			"gp":"12",
 			"wowID":"22801"
 		},
@@ -653,7 +653,7 @@
 			"wowID":"23062"
 		},
 		"Hammer of the Twisting Nether":{
-			"prio":["Doligrian(1)","Jaz(1)","Celesdea(1)","Soldeia(2)","Peku(2)","Snibbler(2)","Nattys(2)","Healers to EP/GP"],
+			"prio":["Doligrian(1)","Jaz(1)","Celesdea(1)","Soldeia(2)","Peku(2)","Nisio(2)","Nattys(2)","Jowsus, Claris, Thrane(1)","Healers to EP/GP"],
 			"gp":"18",
 			"wowID":"23056"
 		},
