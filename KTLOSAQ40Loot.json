@@ -406,7 +406,7 @@
 			"wowID":"21617"
 		},
 		"Ring of the Martyr":{
-			"prio":["Kare","Silkybalboa","EP/GP"],
+			"prio":["Kare","EP/GP"],
 			"gp":"6",
 			"wowID":"21620"
 		}, 
@@ -572,7 +572,7 @@
 			"wowID":"21581"
 		},
 		"Scepter of the False Prophet":{
-			"prio":["Lianli","Wildhealer","Jowsus","Blunts","Thrane","Kare","Silkybalboa","EP/GP"],
+			"prio":["Lianli","Jowsus","Blunts","Thrane","Kare","EP/GP"],
 			"gp":"18",
 			"wowID":"21839"
 		},
