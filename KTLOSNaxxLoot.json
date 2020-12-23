@@ -53,7 +53,7 @@
 			"wowID":""
 		},
 		"Desecrated Bracers":{
-			"prio":["Snydicate(1)","4h Tanks","LC","EP/GP"],
+			"prio":["Dill(1)","4h Tanks","LC","EP/GP"],
 			"gp":"8",
 			"wowID":"22355"
 		},
@@ -78,7 +78,7 @@
 			"wowID":"22370"
 		},
 		"Desecrated Waistguard":{
-			"prio":["Snydicate(1)","4h Tanks","LC","EP/GP"],
+			"prio":["4h Tanks","LC","EP/GP"],
 			"gp":"8",
 			"wowID":"22356"
 		},
@@ -93,7 +93,7 @@
 			"wowID":"22365"
 		},
 		"Desecrated Sabatons":{
-			"prio":["Snydicate(1)","4h Tanks","LC","EP/GP"],
+			"prio":["Dill(1)","4h Tanks","LC","EP/GP"],
 			"gp":"8",
 			"wowID":"22358"
 		},
@@ -103,7 +103,7 @@
 			"wowID":"22368"
 		},
 		"Desecrated Pauldrons":{
-			"prio":["Tuglight(1)","4h Tanks","LC","EP/GP"],
+			"prio":["Dill(1)","4h Tanks","LC","EP/GP"],
 			"gp":"8",
 			"wowID":"22354"
 		},
@@ -199,7 +199,7 @@
 			"wowID":"22947"
 		},
 		"Maexxna's Fang":{
-			"prio":["Shadowsfade(1)","LC","EP/GP"],
+			"prio":["LC","EP/GP"],
 			"gp":"12",
 			"wowID":"22804"
 		},
@@ -231,7 +231,7 @@
 			"wowID":"23028"
 		},
 		"Hatchet of Sundered Bone":{
-			"prio":["Impactt(1)","Killstepp(1)","Edgemaster's Warriors Non-Human->Human","LC","EP/GP"],
+			"prio":["Vesterx(1)","Impactt(1)","Edgemaster's Warriors Non-Human->Human","LC","EP/GP"],
 			"gp":"16",
 			"wowID":"22816"
 		},
@@ -280,7 +280,7 @@
 			"wowID":"22359"
 		},
 		"Desecrated Legplates":{
-			"prio":["Snydicate(1)","Tanks","LC","EP/GP"],
+			"prio":["4H Tanks","LC","EP/GP"],
 			"gp":"6",
 			"wowID":"22352"
 		},
@@ -376,7 +376,7 @@
 			"wowID":"22691"
 		},
 		"Desecrated Breastplate":{
-			"prio":["Mulligen(1)","Tanks","LC","EP/GP"],
+			"prio":["Mulligen(1)","Vajeen(1)","Killstepp(1)","Tanks","LC","EP/GP"],
 			"gp":"8",
 			"wowID":"22349"
 		},
@@ -450,7 +450,7 @@
 			"wowID":"22967"
 		},
 		"Toxin Injector":{
-			"prio":["MDPS->PVP","LC","EP/GP"],
+			"prio":["Tanks->MDPS->PVP","LC","EP/GP"],
 			"gp":"6",
 			"wowID":"22810"
 		},
@@ -519,7 +519,7 @@
 			"wowID":"23070"
 		},
 		"Spire of Twilight":{
-			"prio":["Mazzo(1)","Navia(1)","Nattys(2)","LC","EP/GP"],
+			"prio":["Navia(1)","Nattys(2)","LC","EP/GP"],
 			"gp":"12",
 			"wowID":"22801"
 		},
@@ -529,7 +529,7 @@
 			"wowID":"23001"
 		},
 		"Plated Abomination Ribcage":{
-			"prio":["Killstepp(1)","Rozzy(1)","Dill(1),","LC","Fury->Tank","EP/GP"],
+			"prio":["Killstepp(1)","Rozzy(2)","Dill(1),","LC","Fury->Tank","EP/GP"],
 			"gp":"10",
 			"wowID":"23000"
 		},
@@ -541,7 +541,7 @@
 	},
 	"Sapphiron":{
 		"Might of the Scourge":{
-			"prio":["Fury Warrs","BIS shoulder prio","LC","EP/GP"],
+			"prio":["BIS shoulder prio","LC","EP/GP"],
 			"gp":"6",
 			"wowID":"23548"
 		},
@@ -566,7 +566,7 @@
 			"wowID":"23242"
 		},
 		"The Face of Death":{
-			"prio":["Tuglight(1)","Frau(2)","Tanks","LC","EP/GP"],
+			"prio":["Brienne(1)","Aisli(1)","Frau(2)","Tanks","LC","EP/GP"],
 			"gp":"10",
 			"wowID":"23043"
 		},
@@ -668,7 +668,7 @@
 			"wowID":"22799"
 		},
 		"Nerubian Slavemaker":{
-			"prio":["LC","EP/GP"],
+			"prio":["Hunter","LC","EP/GP"],
 			"gp":"20",
 			"wowID":"22812"
 		},
@@ -683,7 +683,7 @@
 			"wowID":"23061"
 		},
 		"Gressil, Dawn of Ruin":{
-			"prio":["Killstep-rogue(2)","Vajeen(1)","Chrixus(2)","Sniped(1)","Bendriller(1)","LC","EP/GP"],
+			"prio":["Killstep-rogue(2)","Chrixus(2)","Sniped(1)","Bendriller(1)","LC","EP/GP"],
 			"gp":"18",
 			"wowID":"23054"
 		},
