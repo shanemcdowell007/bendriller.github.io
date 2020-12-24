@@ -64,7 +64,7 @@
 		},
 		"Desecrated Wristguards":{
       			"prio":["Hunters","druid/pally","EP/GP"],
-			"gp":"7",
+			"gp":"8",
 			"wowID":"22362"
 		},
 		"Desecrated Girdle":{
@@ -276,7 +276,7 @@
 		},
 		"Desecrated Legguards":{
 			"prio":["Hunter","druid/pally","EP/GP"],
-			"gp":"3",
+			"gp":"8",
 			"wowID":"22359"
 		},
 		"Desecrated Legplates":{
