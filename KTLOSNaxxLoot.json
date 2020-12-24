@@ -270,7 +270,7 @@
 	},
 	"Loatheb":{
 		"Desecrated Leggings":{
-			"prio":["Alters","Priest","EP/GP"],
+			"prio":["Priest","EP/GP"],
 			"gp":"8",
 			"wowID":"22366"
 		},
@@ -349,7 +349,7 @@
 			"wowID":"23032"
 		},
 		"The Soul Harvester's Bindings":{
-			"prio":["ThePrestige","Blondi","EP/GP"],
+			"prio":["Blondi","Meow","EP/GP"],
 			"gp":"6",
 			"wowID":"23021"
 		},
@@ -509,7 +509,7 @@
 			"wowID":"22360"
 		},
 		"Desecrated Circlet":{
-			"prio":["Lock/Mage(2)","Rahen(1)","Meow(1)","Coxxy(1)","Blacklisted(1)","Thedoctorjaz(1)", "Blondi","EP/GP"],
+			"prio":["Lock/Mage(2)","Meow(1)","Coxxy(1)","Blacklisted(1)","Thedoctorjaz(1)", "Blondi","EP/GP"],
 			"gp":"8",
 			"wowID":"22367"
 		},
