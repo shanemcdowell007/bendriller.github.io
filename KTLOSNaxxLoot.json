@@ -58,7 +58,7 @@
 			"wowID":"22355"
 		},
 		"Desecrated Bindings":{
-			"prio":["Navia(1)","Priest EP/GP"],
+			"prio":["Priest EP/GP"],
 			"gp":"8",
 			"wowID":"22369"
 		},
@@ -73,7 +73,7 @@
 			"wowID":"22363"
 		},
 		"Desecrated Belt":{
-			"prio":["Navia(1)","Priest EP/GP"],
+			"prio":["Priest EP/GP"],
 			"gp":"8",
 			"wowID":"22370"
 		},
@@ -142,7 +142,7 @@
 	},
 	"Grand Widow Faerlina":{
 		"The Widow's Embrace":{
-			"prio":["Lianli(1)","Wildhealer(1)","Mazzo(1)","Healers", "EP/GP"],
+			"prio":["Lianli(1)","Claris(1)","Wildhealer(1)","Mazzo(1)","Healers", "EP/GP"],
 			"gp":"12",
 			"wowID":"22942"
 		},
@@ -571,7 +571,7 @@
 			"wowID":"23043"
 		},
 		"Sapphiron's right eye":{
-			"prio":["Claris(1)","Celesdea(1)","Darkdwarf(2)","Peku(2)","Jowsus(1)","Silkyb(1)","Chuffy(2)","Healer EP/GP"],
+			"prio":["Celesdea(1)","Darkdwarf(2)","Peku(2)","Jowsus(1)","Silkyb(1)","Chuffy(2)","Healer EP/GP"],
 			"gp":"10",
 			"wowID":"23048"
 		},
@@ -628,7 +628,7 @@
 			"wowID":"22798"
 		},
 		"Ring of Redemption":{
-			"prio":["Thrane(1)","Soldeia(2)","Lianli(1)","Blunts(2)","Pally Healer EP/GP"],
+			"prio":["Soldeia(2)","Lianli(1)","Blunts(2)","Pally Healer EP/GP"],
 			"gp":"6",
 			"wowID":"23066"
 		},
