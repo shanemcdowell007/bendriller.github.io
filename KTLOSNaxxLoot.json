@@ -305,7 +305,7 @@
 			"wowID":"22800"
 		},
 		"Loatheb's Reflection":{
-			"prio":["Bendriller(crush)","EP/GP"],
+			"prio":["EP/GP"],
 			"gp":"1",
 			"wowID":"23042"
 		}
@@ -354,7 +354,7 @@
 			"wowID":"23021"
 		},
 		"Sadist's Collar":{
-			"prio":["Bendriller(crush)","Tanks->PVP","LC","EP/GP"],
+			"prio":["Tanks->PVP","LC","EP/GP"],
 			"gp":"6",
 			"wowID":"23023"
 		},
@@ -406,7 +406,7 @@
 			"wowID":"23025"
 		}, 
 		"Soulstring":{
-			"prio":["Bendriller(crush)","Dill(1)","LC","EP/GP"],
+			"prio":["Bendriller(flex)","Dill(1)","LC","EP/GP"],
 			"gp":"6",
 			"wowID":"22811"
 		}, 
@@ -576,7 +576,7 @@
 			"wowID":"23048"
 		},
 		"Slayer's Crest":{
-			"prio":["Bendriller(crush)","Destain(crush)","Johnscar(sunnyD)","Sniped(crush)","EP/GP"],
+			"prio":["Bendriller(flex)","Destain(crush)","Johnscar(sunnyD)","Sniped(crush)","EP/GP"],
 			"gp":"10",
 			"wowID":"23041"
 		},
@@ -608,12 +608,12 @@
 			"wowID":"22520"
 		},
 		"The Hungering Cold":{
-			"prio":["Aisli(1)","Frau(2)","Wizzo(2) if no TF","Bendriller(crush)","Tuglight(1) if no TF","Snydicate(1)","Dill(1)","Vajeen(1)","LC","EP/GP"],
+			"prio":["Aisli(1)","Frau(2)","Wizzo(2) if no TF","Bendriller(flex)","Tuglight(1) if no TF","Snydicate(1)","Dill(1)","Vajeen(1)","LC","EP/GP"],
 			"gp":"18",
 			"wowID":"23577"
 		},
 		"Bonescythe Ring":{
-			"prio":["Johnscar(sunnyD)","Bendriller(crush)","Killstep(sunnyD)","LC","EP/GP"],
+			"prio":["Sniped(crush)","Johnscar(sunnyD)","Bendriller(flex)","Killstep(sunnyD)","LC","EP/GP"],
 			"gp":"6",
 			"wowID":"23060"
 		},
@@ -683,7 +683,7 @@
 			"wowID":"23061"
 		},
 		"Gressil, Dawn of Ruin":{
-			"prio":["Killstep-rogue(2)","Chrixus(2)","Sniped(1)","Bendriller(1)","LC","EP/GP"],
+			"prio":["Killstep-rogue(2)","Chrixus(2)","Sniped(1)","Bendriller(flex)","LC","EP/GP"],
 			"gp":"18",
 			"wowID":"23054"
 		},

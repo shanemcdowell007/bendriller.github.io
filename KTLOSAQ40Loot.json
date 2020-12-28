@@ -38,12 +38,12 @@
 	},
 	"Boss Shared":{
 		"Imperial Qiraji Armaments":{
-			"prio":["Edgemaster Warrs(2)","EP/GP"],
+			"prio":["Edgemaster Warrs","EP/GP"],
 			"gp":"10 (Pugio/Waraxe), 5 (otherwise)",
 			"wowID":"21232"
 		},
 		"Imperial Qiraji Regalia":{
-			"prio":["Bigthink(1)","EP/GP"],
+			"prio":["Bigthink","EP/GP"],
 			"gp":"6",
 			"wowID":"21237"
 		}
@@ -60,7 +60,7 @@
 			"wowID":"21814"
 		},
 		"Cloak of Concentrated Hatred":{
-     		"prio":["Destain(1)","Johnscar(2)","Rogue->Warrior","EP/GP"],
+     		"prio":["Destain","Johnscar","Rogue->Warrior","EP/GP"],
 			"gp":"7",
 			"wowID":"21701"
 		},
@@ -149,7 +149,7 @@
 			"wowID":"21685"
 		},
 		"Wand of Qiraji Nobility":{
-			"prio":["Raehn(1)","EP/GP"],
+			"prio":["Raehn","EP/GP"],
 			"gp":"5",
 			"wowID":"21603"
 		},
@@ -230,7 +230,7 @@
 			"wowID":"21674"
 		},
 		"Gloves of enforcement":{
-			"prio":["Johnscar(2)","Sniped(1)","Sinister strike rogues","DS rogues","Ferals","nonDS dagger rogues","EP/GP"],
+			"prio":["Johnscar","Sniped","Sinister strike rogues","DS rogues","Ferals","nonDS dagger rogues","EP/GP"],
 			"gp":"8",
 			"wowID":"21672"
 		},
@@ -270,7 +270,7 @@
 			"wowID":"21668"
 		},
 		"Silithid Claw":{
-			"prio":["Huckfin(1)","Hunters","EP/GP"],
+			"prio":["Huckfin","Hunters","EP/GP"],
 			"gp":"4",
 			"wowID":"21673"
 		},
@@ -282,17 +282,17 @@
 	},
 	"Fankriss the Unyielding":{
 		"Ancient Qiraji Ripper":{
-			"prio":["Johnscar(2)","rogues w/o cts","warriors w/o cts","LC","EP/GP"],
+			"prio":["Johnscar","rogues w/o cts","warriors w/o cts","LC","EP/GP"],
 			"gp":"14",
 			"wowID":"21650"
 		},
 		"Barb of the Sand Reaver":{
-			"prio":["Grayfox(1)","Hunters","EP/GP"],
+			"prio":["Grayfox","Hunters","EP/GP"],
 			"gp":"3",
 			"wowID":"21635"
 		},
 		"Barbed Choker":{
-			"prio":["Dillmcpickle(1)","Impactt(1)","Warriors/PvP","EP/GP"],
+			"prio":["Dillmcpickle","Impactt","Warriors/PvP","EP/GP"],
 			"gp":"6",
 			"wowID":"21664"
 		},
@@ -332,7 +332,7 @@
 			"wowID":"21651"
 		},
 		"Silithis Carapace Chestguard":{
-			"prio":["Tuglight(1)","Bonzai","Impactt","Chrixus","Warriors","EP/GP"],
+			"prio":["Tuglight","Bonzai","Impactt","Chrixus","Warriors","EP/GP"],
 			"gp":"1",
 			"wowID":"21652"
 		},
@@ -423,7 +423,7 @@
 			"wowID":"21598"
 		},
 		"Amulet of Veknilash":{
-			"prio":["Blacklisted(1)","Alter(1)","Mages/Warlocks","EP/GP"],
+			"prio":["Blacklisted","Alter","Mages/Warlocks","EP/GP"],
 			"gp":"8",
 			"wowID":"21608"
 		},
@@ -438,7 +438,7 @@
 			"wowID":"21599"
 		},
 		"Royal Scepter of Vek'lor":{
-			"prio":["Blacklisted(1)","Coxxy(1)","Kuku(1)","Austeezy(1)","Raehn(1)","EP/GP"],
+			"prio":["Blacklisted","Coxxy","Kuku","Austeezy","Raehn","EP/GP"],
 			"gp":"8",
 			"wowID":"21597"
 		},
@@ -488,7 +488,7 @@
 			"wowID":"20926"
 		},
 		"Gloves of the Hidden Temple":{
-			"prio":["Notpq(1)","EP/GP"],
+			"prio":["Notpq","EP/GP"],
 			"gp":"3",
 			"wowID":"21605"
 		}
@@ -510,7 +510,7 @@
 			"wowID":"23558"
 		},
 		"Jom Gabbar":{
-			"prio":["Oph(1)","Chiron(2)","Huck(1)","Hunters->Rogues->Warrior","EP/GP"],
+			"prio":["Oph","Chiron","Huck","Hunters->Rogues->Warrior","EP/GP"],
 			"gp":"8",
 			"wowID":"23570"
 		},
@@ -525,7 +525,7 @@
 			"wowID":"23557"
 		},
 		"Ouro's Intact Hide":{
-			"prio":["Impactt(1)","Warrior TANKS->rogues->DPS Warrs","EP/GP"],
+			"prio":["Impactt","Warrior TANKS->rogues->DPS Warrs","EP/GP"],
 			"gp":"8",
 			"wowID":"20927"
 		},
@@ -547,7 +547,7 @@
 			"wowID":"20933"
 		},
 		"Carapace of the Old God":{
-			"prio":["Bonzai(1)","Tanks","r12+ Hunter>Rogue>Ret>Warrior","EP/GP"],
+			"prio":["Bonzai","Tanks","r12+ Hunter>Rogue>Ret>Warrior","EP/GP"],
 			"gp":"9",
 			"wowID":"20929"
 		},
@@ -557,17 +557,17 @@
 			"wowID":"21596"
 		},
 		"Eyestalk Waist Cord":{
-			"prio":["Austeezy(1)", "blondi","EP/GP"],
+			"prio":["Austeezy", "blondi","EP/GP"],
 			"gp":"10",
 			"wowID":"22730"
 		},
 		"Cloak of the Devoured":{
-			"prio":["Coxxy(1)","Rasbeary(1)","Theprestige(1)","EP/GP"],
+			"prio":["Coxxy","Rasbeary","Theprestige","EP/GP"],
 			"gp":"5",
 			"wowID":"22731"
 		},
 		"Gauntlets of Annihilation":{
-			"prio":["Jsleazy(2)","LC","Fury->Tank","EP/GP"],
+			"prio":["Jsleazy","LC","Fury->Tank","EP/GP"],
 			"gp":"10",
 			"wowID":"21581"
 		},
@@ -597,7 +597,7 @@
 			"wowID":"21582"
 		},
 		"Belt of Never-ending Agony":{
-			"prio":["Shadowsfade(1)","Rogues->Feral ?","EP/GP"],
+			"prio":["Johnscar","Shadowsfade","Rogues->Feral ?","EP/GP"],
 			"gp":"10",
 			"wowID":"21586"
 		},
@@ -612,7 +612,7 @@
 			"wowID":"21134"
 		},
 		"Death's Sting":{
-			"prio":["Destain(1)","Shadowsfade(1)","LC/Rogues","EP/GP"],
+			"prio":["Destain","Shadowsfade","LC/Rogues","EP/GP"],
 			"gp":"18",
 			"wowID":"21126"
 		}
