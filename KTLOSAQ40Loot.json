@@ -495,7 +495,7 @@
 	},
 	"Ouro":{
 		"Don Rigoberto's Lost Hat":{
-			"prio":["Wildhealer","Jowsus","Thedoctorjaz","Priest and Druid Prio Healers","EP/GP"],
+			"prio":["Wildhealer","Jowsus","Priest and Druid Prio Healers","EP/GP"],
 			"gp":"8",
 			"wowID":"21615"
 		},
@@ -567,12 +567,12 @@
 			"wowID":"22731"
 		},
 		"Gauntlets of Annihilation":{
-			"prio":["Bonzai(1)","Jsleazy(2)","LC","Fury->Tank","EP/GP"],
+			"prio":["Jsleazy(2)","LC","Fury->Tank","EP/GP"],
 			"gp":"10",
 			"wowID":"21581"
 		},
 		"Scepter of the False Prophet":{
-			"prio":["Lianli","Jowsus","Blunts","Thrane","Kare","EP/GP"],
+			"prio":["Mazzo","Lianli","Jowsus","Blunts","Thrane","Kare","EP/GP"],
 			"gp":"18",
 			"wowID":"21839"
 		},
