@@ -576,7 +576,7 @@
 			"wowID":"23048"
 		},
 		"Slayer's Crest":{
-			"prio":["Bendriller(flex)","Destain(crush)","Johnscar(sunnyD)","Sniped(crush)","EP/GP"],
+			"prio":["Johnscar(sunnyD)","EP/GP"],
 			"gp":"10",
 			"wowID":"23041"
 		},
@@ -608,7 +608,7 @@
 			"wowID":"22520"
 		},
 		"The Hungering Cold":{
-			"prio":["Aisli(1)","Frau(2)","Wizzo(2) if no TF","Bendriller(flex)","Tuglight(1) if no TF","Snydicate(1)","Dill(1)","Vajeen(1)","LC","EP/GP"],
+			"prio":["Aisli(1)","Frau(2)","Tuglight(1) if no TF","Bendriller(flex)","Snydicate(1)","Dill(1)","Vajeen(1)","LC","EP/GP"],
 			"gp":"18",
 			"wowID":"23577"
 		},
