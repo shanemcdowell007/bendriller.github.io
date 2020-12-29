@@ -48,7 +48,7 @@
 	},
 	"Razorgore the Untamed":{
 		"Bindings of Transcendence":{
-			"prio":["Navia","EP/GP"],
+			"prio":["EP/GP"],
 			"gp":"5",
 			"wowID":"16926"
 		},
@@ -120,7 +120,7 @@
 	},
 	"Vaelastrasz The Corrupt":{
 		"Belt of Transcendence":{
-			"prio":["Navia","EP/GP"],
+			"prio":["EP/GP"],
 			"gp":"5",
 			"wowID":"16925"
 		},
@@ -369,7 +369,7 @@
 			"wowID":"19397"
 		},
 		"Rejuvenating Gem":{
-			"prio":["Silkybalboa","Doligrian","Kare","Navia","EP/GP"],
+			"prio":["Doligrian","Kare","Navia","EP/GP"],
 			"gp":"10",
 			"wowID":"19395"
 		},
@@ -543,7 +543,7 @@
 	},
 	"Nefarian":{
 		"Robes of Transcendence":{
-			"prio":["Navia","EP/GP"],
+			"prio":["EP/GP"],
 			"gp":"7",
 			"wowID":"16923"
 		},
