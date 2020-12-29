@@ -142,7 +142,7 @@
 	},
 	"Grand Widow Faerlina":{
 		"The Widow's Embrace":{
-			"prio":["Lianli(1)","Claris(1)","Wildhealer(1)","Mazzo(1)","Healers", "EP/GP"],
+			"prio":["Lianli(1)","Claris(1)","Wildhealer(1)","Healers", "EP/GP"],
 			"gp":"12",
 			"wowID":"22942"
 		},
@@ -322,7 +322,7 @@
 			"wowID":"23018"
 		},
 		"Idol of Longevity":{
-			"prio":["Celesdea(1)","Kare(1)","Peku(2)","EP/GP"],
+			"prio":["Celesdea(1)","Kare(1)","EP/GP"],
 			"gp":"6",
 			"wowID":"23004"
 		},
@@ -411,14 +411,14 @@
 			"wowID":"22811"
 		}, 
 		"Warmth of Forgiveness":{
-			"prio":["Wildhealer(1)","Kare(1)","Mazzo(1)","Celesdea(1)","Chuffy(2)","Peku(2)","Snibbler(2)","Priest Druid Healers","EP/GP"],
+			"prio":["Wildhealer(1)","Kare(1)","Mazzo(1)","Celesdea(1)","Peku(2)","Snibbler(2)","Priest Druid Healers","EP/GP"],
 			"gp":"6",
 			"wowID":"23027"
 		}
 	},
 	"Patchwerk":{
 		"Cloak of Suturing":{
-			"prio":["Mazzo(1)","Navia(1)","Snibbler(2)","Peku(2)","Wildhealer(1)","Kare(1)","Blunts(2)","Natties(2)","Healer EP/GP"],
+			"prio":["Mazzo(1)","Snibbler(2)","Peku(2)","Wildhealer(1)","Kare(1)","Blunts(2)","Natties(2)","Healer EP/GP"],
 			"gp":"6",
 			"wowID":"22960"
 		},
@@ -551,7 +551,7 @@
 			"wowID":"23545"
 		},
 		"Eye of the Dead":{
-			"prio":["Lianli(1)","Claris(1)","Peku(2)","Soldeia(2)","Darkdwarf(2)","Healers EP/GP"],
+			"prio":["Thrane(1)","Lianli(1)","Claris(1)","Peku(2)","Soldeia(2)","Darkdwarf(2)","Jaz(1)","Healers EP/GP"],
 			"gp":"10",
 			"wowID":"23047"
 		},
@@ -571,7 +571,7 @@
 			"wowID":"23043"
 		},
 		"Sapphiron's right eye":{
-			"prio":["Celesdea(1)","Darkdwarf(2)","Peku(2)","Jowsus(1)","Silkyb(1)","Chuffy(2)","Healer EP/GP"],
+			"prio":["Celesdea(1)","Darkdwarf(2)","Peku(2)","Jowsus(1)","Chuffy(2)","Healer EP/GP"],
 			"gp":"10",
 			"wowID":"23048"
 		},
