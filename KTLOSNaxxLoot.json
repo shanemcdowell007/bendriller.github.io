@@ -16,7 +16,7 @@
 			"wowID":"23238"
 		},
 		"Necro-knight's Garb":{
-			"prio":["EP/GP"],
+			"prio":["coxy","EP/GP"],
 			"gp":"3",
 			"wowID":"23069"
 		},
@@ -591,7 +591,7 @@
 			"wowID":"23046"
 		},
 		"Cloak of the Necropolis":{
-			"prio":["Coxxy(1)","Alters(1)","EP/GP"],
+			"prio":["Coxxy(1)","Meow","prestige","EP/GP"],
 			"gp":"8",
 			"wowID":"23050"
 		},
