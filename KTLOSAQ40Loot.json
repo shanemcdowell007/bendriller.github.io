@@ -43,7 +43,7 @@
 			"wowID":"21232"
 		},
 		"Imperial Qiraji Regalia":{
-			"prio":["Bigthink","EP/GP"],
+			"prio":["EP/GP"],
 			"gp":"6",
 			"wowID":"21237"
 		}
@@ -270,7 +270,7 @@
 			"wowID":"21668"
 		},
 		"Silithid Claw":{
-			"prio":["Huckfin","Hunters","EP/GP"],
+			"prio":["Hunters","EP/GP"],
 			"gp":"4",
 			"wowID":"21673"
 		},
@@ -287,12 +287,12 @@
 			"wowID":"21650"
 		},
 		"Barb of the Sand Reaver":{
-			"prio":["Grayfox","Hunters","EP/GP"],
+			"prio":["Hunters","EP/GP"],
 			"gp":"3",
 			"wowID":"21635"
 		},
 		"Barbed Choker":{
-			"prio":["Dillmcpickle","Impactt","Warriors/PvP","EP/GP"],
+			"prio":["Dillmcpickle","Warriors/PvP","EP/GP"],
 			"gp":"6",
 			"wowID":"21664"
 		},
@@ -332,7 +332,7 @@
 			"wowID":"21651"
 		},
 		"Silithis Carapace Chestguard":{
-			"prio":["Tuglight","Bonzai","Impactt","Chrixus","Warriors","EP/GP"],
+			"prio":["Warriors","EP/GP"],
 			"gp":"1",
 			"wowID":"21652"
 		},
@@ -359,7 +359,7 @@
 			"wowID":"21622"
 		},
 		"Ring of the Qiraji Fury":{
-			"prio":["Warrior DPS->Hunter","EP/GP"],
+			"prio":["Warrior DPS","EP/GP"],
 			"gp":"6",
 			"wowID":"21677"
 		},
@@ -386,12 +386,12 @@
 	},
 	"Princess Huhuran":{
 		"Cloak of the Golden Hive":{
-			"prio":["Tank","Tug->Dill->Mulligen","EP/GP"],
+			"prio":["Tank","EP/GP"],
 			"gp":"5",
 			"wowID":"21621"
 		},
 		"Hive Defiler Wristguards":{
-			"prio":["Impactt","Healslol","Dillmcpickle","Killstepp","DPS Warriors","EP/GP"],
+			"prio":["Impactt","Healslol","Killstepp","DPS Warriors","EP/GP"],
 			"gp":"6",
 			"wowID":"21618"
 		},
@@ -443,7 +443,7 @@
 			"wowID":"21597"
 		},
 		"Qiraji Execution Bracers":{
-			"prio":["Killstep","Sniped","Rogues->Feral->Fury","EP/GP"],
+			"prio":["Sniped","Rogues->Feral->Fury","EP/GP"],
 			"gp":"6",
 			"wowID":"21602"
 		},
@@ -525,7 +525,7 @@
 			"wowID":"23557"
 		},
 		"Ouro's Intact Hide":{
-			"prio":["Impactt","Warrior TANKS->rogues->DPS Warrs","EP/GP"],
+			"prio":["Warrior TANKS->rogues->DPS Warrs","EP/GP"],
 			"gp":"8",
 			"wowID":"20927"
 		},
@@ -537,7 +537,7 @@
 	},
 	"Cthun":{
 		"Eye of C'Thun":{
-			"prio":["Caster->Healers->Tanks->Hunters->MDPS","EP/GP"],
+			"prio":["Caster=Healer=Hunters=Tanks, MDPS","EP/GP"],
 			"gp":"6",
 			"wowID":"21221"
 		},
@@ -547,7 +547,7 @@
 			"wowID":"20933"
 		},
 		"Carapace of the Old God":{
-			"prio":["Bonzai","Tanks","r12+ Hunter>Rogue>Ret>Warrior","EP/GP"],
+			"prio":["Tanks","EP/GP"],
 			"gp":"9",
 			"wowID":"20929"
 		},
@@ -567,7 +567,7 @@
 			"wowID":"22731"
 		},
 		"Gauntlets of Annihilation":{
-			"prio":["Jsleazy","LC","Fury->Tank","EP/GP"],
+			"prio":["LC","Fury->Tank","EP/GP"],
 			"gp":"10",
 			"wowID":"21581"
 		},
