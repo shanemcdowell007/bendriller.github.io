@@ -148,7 +148,7 @@
 		},
 		"Polar Shoulder Pads":{
 			"prio":["LC","EP/GP"],
-			"gp":"1",
+			"gp":"0",
 			"wowID":"22941"
 		},
 		"Widow's Remorse":{
@@ -411,7 +411,7 @@
 			"wowID":"22811"
 		}, 
 		"Warmth of Forgiveness":{
-			"prio":["Wildhealer(1)","Kare(1)","Mazzo(1)","Celesdea(1)","Peku(2)","Snibbler(2)","Priest Druid Healers","EP/GP"],
+			"prio":["Wildhealer(1)","Mazzo(1)","Celesdea(1)","Kare(1)","Peku(2)","Nisio(2)","Snibbler(2)","Priest Druid Healers","EP/GP"],
 			"gp":"6",
 			"wowID":"23027"
 		}
@@ -608,12 +608,12 @@
 			"wowID":"22520"
 		},
 		"The Hungering Cold":{
-			"prio":["Aisli(1)","Frau(2)","Tuglight(1) if no TF","Bendriller(flex)","Snydicate(1)","Dill(1)","Vajeen(1)","LC","EP/GP"],
+			"prio":["Frau(2)","Tuglight(1) if no TF","Bendriller(flex)","Snydicate(1)","Dill(1)","Vajeen(1)","LC","EP/GP"],
 			"gp":"18",
 			"wowID":"23577"
 		},
 		"Bonescythe Ring":{
-			"prio":["Sniped(crush)","Johnscar(sunnyD)","Bendriller(flex)","Killstep(sunnyD)","LC","EP/GP"],
+			"prio":["Johnscar(sunnyD)","Bendriller(flex)","Killstep(sunnyD)","LC","EP/GP"],
 			"gp":"6",
 			"wowID":"23060"
 		},
@@ -678,7 +678,7 @@
 			"wowID":"22821"
 		},
 		"Ring of Faith":{
-			"prio":["Darkdwarf(2)","Wildhealer(1)","Natties(2)","Claris(1)","Chuffy(2)","Priest Healer EP/GP"],
+			"prio":["Darkdwarf(2)","Natties(2)","Claris(1)","Chuffy(2)","Priest Healer EP/GP"],
 			"gp":"6",
 			"wowID":"23061"
 		},
