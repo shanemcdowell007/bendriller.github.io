@@ -16,7 +16,7 @@
 			"wowID":"23238"
 		},
 		"Necro-knight's Garb":{
-			"prio":["coxy","EP/GP"],
+			"prio":["cokky","EP/GP"],
 			"gp":"3",
 			"wowID":"23069"
 		},
@@ -53,7 +53,7 @@
 			"wowID":""
 		},
 		"Desecrated Bracers":{
-			"prio":["Dill(1)","4h Tanks","LC","EP/GP"],
+			"prio":["4h Tanks","LC","EP/GP"],
 			"gp":"8",
 			"wowID":"22355"
 		},
@@ -93,7 +93,7 @@
 			"wowID":"22365"
 		},
 		"Desecrated Sabatons":{
-			"prio":["Dill(1)","4h Tanks","LC","EP/GP"],
+			"prio":["4h Tanks","LC","EP/GP"],
 			"gp":"8",
 			"wowID":"22358"
 		},
@@ -115,7 +115,7 @@
 	},
 	"Anub'Rekhan":{
 		"Band of Unanswered Prayers":{
-			"prio":["Rallo(1)","Navia(1)","Druid Priest Healers EP/GP"],
+			"prio":["Druid Priest Healers EP/GP"],
 			"gp":"6",
 			"wowID":"22939"
 		},
@@ -147,7 +147,7 @@
 			"wowID":"22942"
 		},
 		"Polar Shoulder Pads":{
-			"prio":["Notpq","LC","EP/GP"],
+			"prio":["LC","EP/GP"],
 			"gp":"1",
 			"wowID":"22941"
 		},
@@ -285,7 +285,7 @@
 			"wowID":"22352"
 		},
 		"Band of Unnatural Forces":{
-			"prio":["Sniped(crush)","Destain(crush)","Killstep(sunnyD)","Johnscar(sunnyD)","Rogues","LC","EP/GP"],
+			"prio":["Destain(crush)","Killstep(sunnyD)","Johnscar(sunnyD)","Rogues","LC","EP/GP"],
 			"gp":"8",
 			"wowID":"23038"
 		},
@@ -322,7 +322,7 @@
 			"wowID":"23018"
 		},
 		"Idol of Longevity":{
-			"prio":["Celesdea(1)","Kare(1)","EP/GP"],
+			"prio":["Celesdea(1)","EP/GP"],
 			"gp":"6",
 			"wowID":"23004"
 		},
@@ -371,17 +371,17 @@
 	},
 	"Four Horsemen":{
 		"Corrupted Ashbringer":{
-			"prio":["Thrane(1)","Doli(1)","Bonzai(2)","LC","EP/GP"],
+			"prio":["Doli(1)","Bonzai(2)","LC","EP/GP"],
 			"gp":"16",
 			"wowID":"22691"
 		},
 		"Desecrated Breastplate":{
-			"prio":["Mulligen(1)","Vajeen(1)","Killstepp(1)","Tanks","LC","EP/GP"],
+			"prio":["Killstepp(1)","Tanks","LC","EP/GP"],
 			"gp":"8",
 			"wowID":"22349"
 		},
 		"Desecrated Robe":{
-			"prio":["Austeezy(1)","Alters(1)","Blacklisted(1)","Locks/Mages(2)","Wildhealer(1)","Meow","LC","EP/GP"],
+			"prio":["Alters(1)","Blacklisted(1)","Locks/Mages(2)","Wildhealer(1)","Meow","LC","EP/GP"],
 			"gp":"8",
 			"wowID":"22351"
 		},
@@ -477,7 +477,7 @@
 			"wowID":"22813"
 		},
 		"Gluth's Missing Collar":{
-			"prio":["Styleen(2)","Tanks","EP/GP"],
+			"prio":["Tanks","EP/GP"],
 			"gp":"3",
 			"wowID":"22981"
 		},
@@ -487,7 +487,7 @@
 			"wowID":"22994"
 		},
 		"Death's Bargain":{
-			"prio":["Thrane(1)","Healer EP/GP"],
+			"prio":["Healer EP/GP"],
 			"gp":"8",
 			"wowID":"23075"
 		},
@@ -499,7 +499,7 @@
 	},
 	"Thaddius":{
 		"Desecrated Helmet":{
-			"prio":["Snydicate(1)","Frau(2)","Tanks","LC","EP/GP"],
+			"prio":["Snydicate(1)","Tanks","LC","EP/GP"],
 			"gp":"8",
 			"wowID":"22353"
 		},
@@ -529,7 +529,7 @@
 			"wowID":"23001"
 		},
 		"Plated Abomination Ribcage":{
-			"prio":["Killstepp(1)","Rozzy(2)","Dill(1),","LC","Fury->Tank","EP/GP"],
+			"prio":["Rozzy(2)","Dill(1),","LC","Fury->Tank","EP/GP"],
 			"gp":"10",
 			"wowID":"23000"
 		},
@@ -551,7 +551,7 @@
 			"wowID":"23545"
 		},
 		"Eye of the Dead":{
-			"prio":["Thrane(1)","Lianli(1)","Claris(1)","Peku(2)","Soldeia(2)","Darkdwarf(2)","Jaz(1)","Healers EP/GP"],
+			"prio":["Lianli(1)","Claris(1)","Peku(2)","Soldeia(2)","Darkdwarf(2)","Jaz(1)","Healers EP/GP"],
 			"gp":"10",
 			"wowID":"23047"
 		},
