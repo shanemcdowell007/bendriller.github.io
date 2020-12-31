@@ -1,7 +1,7 @@
 {
 	"Trash":{
 		"Cloak of Draconic Might":{
-			"prio":["Vajeen(1)","Fury Warr","EP/GP"],
+			"prio":["Fury Warr","EP/GP"],
 			"gp":"4",
 			"wowID":"19436"
 		},
@@ -160,7 +160,7 @@
 			"wowID":"16960"
 		},
 		"Mind Quickening Gem":{
-			"prio":["Meowingtons (1)","Siknasty (2)","EP/GP"],
+			"prio":["EP/GP"],
 			"gp":"5",
 			"wowID":"19339"
 		},
@@ -170,7 +170,7 @@
 			"wowID":"19340"
 		},
 		"Helm of Endless Rage":{
-			"prio":["Tank Prio","PVP prio","EP/GP"],
+			"prio":["EP/GP"],
 			"gp":"7",
 			"wowID":"19372"
 		},
@@ -192,7 +192,7 @@
 	},
 	"Broodlord Lashlayer":{
 		"Boots of Transcendence":{
-			"prio":["Jowsus","EP/GP"],
+			"prio":["EP/GP"],
 			"gp":"5",
 			"wowID":"16919"
 		},
@@ -314,7 +314,7 @@
 			"wowID":"19343"
 		},
 		"Drake Talon Pauldrons":{
-			"prio":["Tank prio","Warrior Prio","EP/GP"],
+			"prio":["EP/GP"],
 			"gp":"6",
 			"wowID":"19394"
 		},
@@ -329,7 +329,7 @@
 			"wowID":"19399"
 		},
 		"Firemaws Clutch":{
-			"prio":["Spriest/Boomkin","EP/GP"],
+			"prio":["EP/GP"],
 			"gp":"5",
 			"wowID":"19400"
 		},
@@ -369,7 +369,7 @@
 			"wowID":"19397"
 		},
 		"Rejuvenating Gem":{
-			"prio":["Doligrian","Kare","Navia","EP/GP"],
+			"prio":["Kare","Navia","EP/GP"],
 			"gp":"10",
 			"wowID":"19395"
 		},
@@ -379,7 +379,7 @@
 			"wowID":"19345"
 		},
 		"Drake Fang Talisman":{
-			"prio":["Jsleazy(2)","LC","EP/GP"],
+			"prio":["Quigbert(2)","LC","EP/GP"],
 			"gp":"10",
 			"wowID":"19406"
 		},
@@ -389,7 +389,7 @@
 			"wowID":"19407"
 		},
 		"Malfurions Blessed Bulwark":{
-			"prio":["Feral druids","EP/GP"],
+			"prio":["EP/GP"],
 			"gp":"",
 			"wowID":"19405"
 		},
@@ -399,7 +399,7 @@
 			"wowID":"19368"
 		},
 		"Band of Forced Concentration":{
-			"prio":["Reahn(1)","Gotosleep(1)","Warlock prio","EP/GP"],
+			"prio":["EP/GP"],
 			"gp":"5",
 			"wowID":"19403"
 		},
@@ -414,7 +414,7 @@
 			"wowID":"19430"
 		},
 		"Emberweave Leggings":{
-			"prio":["Tank Prio","EP/GP"],
+			"prio":["EP/GP"],
 			"gp":"",
 			"wowID":"19433"
 		},
@@ -481,7 +481,7 @@
 			"wowID":"19389"
 		},
 		"Elementium Threaded Cloak":{
-			"prio":["Notpq(1)","EP/GP"],
+			"prio":["EP/GP"],
 			"gp":"5",
 			"wowID":"19386"
 		},
@@ -516,7 +516,7 @@
 			"wowID":"19391"
 		},
 		"Chromatic Boots":{
-			"prio":["Killstepp(1)","Warrior DPS Then Tanks","EP/GP"],
+			"prio":["Warrior DPS Then Tanks","EP/GP"],
 			"gp":"8",
 			"wowID":"19387"
 		},
@@ -526,7 +526,7 @@
 			"wowID":"19361"
 		},
 		"Elementium Reinforced Bulwark":{
-			"prio":["Tuglight","Tanks","EP/GP"],
+			"prio":["Tanks","EP/GP"],
 			"gp":"10",
 			"wowID":"19349"
 		},
@@ -558,7 +558,7 @@
 			"wowID":"16931"
 		},
 		"Bloodfang Chestpiece":{
-			"prio":["SilkyJohnsn","EP/GP"],
+			"prio":["EP/GP"],
 			"gp":"7",
 			"wowID":"16905"
 		},
@@ -598,7 +598,7 @@
 			"wowID":"19363"
 		},
 		"Ashkandi Greatsword of the Brotherhood":{
-			"prio":["Karrc(1)","Rozzy(2)","PVP prio","LC","Warriors, Hunter, Pally","EP/GP"],
+			"prio":["PVP prio","LC","Warriors, Hunter, Pally","EP/GP"],
 			"gp":"14",
 			"wowID":"19364"
 		},
