@@ -42,7 +42,7 @@
 		},
 		"Ring of the Eternal Flame":{
 			"prio":["Mages", "meow", "LC","EP/GP"],
-			"gp":"1",
+			"gp":"5",
 			"wowID":"23237"
 		}
 	},
@@ -88,7 +88,7 @@
 			"wowID":"22372"
 		},
 		"Desecrated Boots":{
-			"prio":["Pally","druid/hunter","EP/GP"],
+			"prio":["Pally/druid/hunter","EP/GP"],
 			"gp":"8",
 			"wowID":"22365"
 		},
@@ -312,7 +312,7 @@
 	},
 	"Instructor Razuvious":{
 		"Wand of the Whispering Dead":{
-			"prio":["Chuffy(2)","Mazzo(1)","Darkdwarf(2)","DocJaz(1)","Snibbler(2)","EP/GP"],
+			"prio":["Mazzo(1)","Darkdwarf(2)","DocJaz(1)","Snibbler(2)","EP/GP"],
 			"gp":"6",
 			"wowID":"23009"
 		},
