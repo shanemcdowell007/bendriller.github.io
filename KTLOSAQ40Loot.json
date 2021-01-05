@@ -322,7 +322,7 @@
 			"wowID":"21639"
 		},
 		"Robes of the Guardian Saint":{
-			"prio":["Peku","Claris","Healers EP/GP"],
+			"prio":["Healers EP/GP"],
 			"gp":"8",
 			"wowID":"21663"
 		},
@@ -369,7 +369,7 @@
 			"wowID":"21625"
 		},
 		"Idol of Health":{
-			"prio":["Druid healers","Kare","Celesdea","Druid Healer","EP/GP"],
+			"prio":["Kare","Celesdea","Druid Healer","EP/GP"],
 			"gp":"5",
 			"wowID":"22399"
 		},
@@ -401,12 +401,12 @@
 			"wowID":"21619"
 		},
 		"Wasphide Gauntlets":{
-			"prio":["Druid healers","Peku","EP/GP"],
+			"prio":["healer EP/GP"],
 			"gp":"6",
 			"wowID":"21617"
 		},
 		"Ring of the Martyr":{
-			"prio":["Kare","EP/GP"],
+			"prio":["Fruithunni","Blaziken","EP/GP"],
 			"gp":"6",
 			"wowID":"21620"
 		}, 
@@ -468,7 +468,7 @@
 			"wowID":"21606"
 		},
 		"Bracelets of Royal Redemption":{
-			"prio":["Druid and Pally Prio Healers","Lianli","Peku","EP/GP"],
+			"prio":["Druid and Pally Prio Healers","Lianli","EP/GP"],
 			"gp":"8",
 			"wowID":"21604"
 		},
