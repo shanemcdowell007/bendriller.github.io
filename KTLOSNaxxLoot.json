@@ -546,9 +546,19 @@
 			"wowID":"23548"
 		},
 		"Power of the Scourge":{
-			"prio":["Druid/Mage/Priest/Warlock","BIS shoulder prio","EP/GP"],
+			"prio":["Druid/Mage/Priest/Warlock/Pally","BIS shoulder prio","EP/GP"],
 			"gp":"6",
 			"wowID":"23545"
+		},
+		"Fortitude of the Scourge":{
+			"prio":["Tanks","BIS shoulder prio","EP/GP"],
+			"gp":"6",
+			"wowID":"23549"
+		},
+		"Resilience of the Scourge":{
+			"prio":["Non-pally healers","BIS shoulder prio","EP/GP"],
+			"gp":"6",
+			"wowID":"23547"
 		},
 		"Eye of the Dead":{
 			"prio":["Lianli(1)","Claris(1)","Peku(2)","Soldeia(2)","Darkdwarf(2)","Jaz(1)","Healers EP/GP"],
