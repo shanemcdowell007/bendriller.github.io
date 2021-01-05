@@ -115,7 +115,7 @@
 	},
 	"Anub'Rekhan":{
 		"Band of Unanswered Prayers":{
-			"prio":["Druid Priest Healers EP/GP"],
+			"prio":["Jessie(2)","Navia(1)","Druid Priest Healers EP/GP"],
 			"gp":"6",
 			"wowID":"22939"
 		},
@@ -216,7 +216,7 @@
 			"wowID":"23030"
 		},
 		"Noth's Frigid Heart":{
-			"prio":["Peku2","Nisio(2)","LC","EP/GP"],
+			"prio":["Nisio(2)","Peku(2)","LC","EP/GP"],
 			"gp":"4",
 			"wowID":"23029"
 		},
@@ -688,7 +688,7 @@
 			"wowID":"22821"
 		},
 		"Ring of Faith":{
-			"prio":["Darkdwarf(2)","Natties(2)","Claris(1)","Chuffy(2)","Priest Healer EP/GP"],
+			"prio":["Darkdwarf(2)","Natties(2)","Claris(1)","Jessie(2)","Chuffy(2)","Priest Healer EP/GP"],
 			"gp":"6",
 			"wowID":"23061"
 		},
