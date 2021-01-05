@@ -216,7 +216,7 @@
 			"wowID":"23030"
 		},
 		"Noth's Frigid Heart":{
-			"prio":["Peku","LC","EP/GP"],
+			"prio":["Peku2","Nisio(2)","LC","EP/GP"],
 			"gp":"4",
 			"wowID":"23029"
 		},
@@ -371,7 +371,7 @@
 	},
 	"Four Horsemen":{
 		"Corrupted Ashbringer":{
-			"prio":["Doli(1)","Bonzai(2)","LC","EP/GP"],
+			"prio":["Doli(1)","LC","EP/GP"],
 			"gp":"16",
 			"wowID":"22691"
 		},
@@ -638,7 +638,7 @@
 			"wowID":"22798"
 		},
 		"Ring of Redemption":{
-			"prio":["Soldeia(2)","Lianli(1)","Blunts(2)","Pally Healer EP/GP"],
+			"prio":["Vael(2)","Lianli(1)","Soldeia(2)","Pally Healer EP/GP"],
 			"gp":"6",
 			"wowID":"23066"
 		},
