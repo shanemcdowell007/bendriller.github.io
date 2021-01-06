@@ -628,7 +628,7 @@
 			"wowID":"23060"
 		},
 		"Gem of Trapped Innocents":{
-			"prio":["Kuku(1)","EP/GP"],
+			"prio":["Coxxynormous(1)","Blacklisted(1)","EP/GP"],
 			"gp":"6",
 			"wowID":"23057"
 		},
@@ -673,7 +673,7 @@
 			"wowID":"23067"
 		},
 		"Soulseeker":{
-			"prio":["Alters(1)","Rhaen(1)","EP/GP"],
+			"prio":["Alters(1)","Rhaen(1)","Mage Prio over warlocks EPGP","EP/GP"],
 			"gp":"18",
 			"wowID":"22799"
 		},
@@ -683,7 +683,7 @@
 			"wowID":"22812"
 		},
 		"Doomfinger":{
-			"prio":["Meow(1)", "Theprestige(1)", "Alters(1)","James Bond","Mage?","EP/GP"],
+			"prio":["Meow(1)", "Theprestige(1)", "Alters(1)","James Bond","Blacklisted(1)","EP/GP"],
 			"gp":"8",
 			"wowID":"22821"
 		},
