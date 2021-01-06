@@ -16,7 +16,7 @@
 			"wowID":"23238"
 		},
 		"Necro-knight's Garb":{
-			"prio":["cokky","EP/GP"],
+			"prio":["coxxy","EP/GP"],
 			"gp":"3",
 			"wowID":"23069"
 		},
@@ -41,7 +41,7 @@
 			"wowID":"23668"
 		},
 		"Ring of the Eternal Flame":{
-			"prio":["Mages", "meow", "LC","EP/GP"],
+			"prio":["Mages","Blondi","LC","EP/GP"],
 			"gp":"5",
 			"wowID":"23237"
 		}
@@ -83,7 +83,7 @@
 			"wowID":"22356"
 		},
 		"Desecrated Sandals":{
-			"prio":["warlock with T3 chest","Jowsus(1)", "blondi", "Theprestige(1)", "ThedoctorJaz(1)","LC","EP/GP"],
+			"prio":["warlock with T3 chest","Theprestige(1)", "ThedoctorJaz(1)","LC","EP/GP"],
 			"gp":"8",
 			"wowID":"22372"
 		},
@@ -418,7 +418,7 @@
 	},
 	"Patchwerk":{
 		"Cloak of Suturing":{
-			"prio":["Mazzo(1)","Snibbler(2)","Peku(2)","Wildhealer(1)","Kare(1)","Blunts(2)","Natties(2)","Healer EP/GP"],
+			"prio":["Mazzo(1)","Snibbler(2)","Peku(2)","Wildhealer(1)","Kare(1)","Natties(2)","Healer EP/GP"],
 			"gp":"6",
 			"wowID":"22960"
 		},
@@ -509,7 +509,7 @@
 			"wowID":"22360"
 		},
 		"Desecrated Circlet":{
-			"prio":["Lock/Mage(2)","Meow(1)","Coxxy(1)","Blacklisted(1)","Thedoctorjaz(1)", "Blondi","EP/GP"],
+			"prio":["Lock/Mage(2)","Coxxy(1)","Blacklisted(1)","Thedoctorjaz(1)", "Blondi","EP/GP"],
 			"gp":"8",
 			"wowID":"22367"
 		},
@@ -601,12 +601,12 @@
 			"wowID":"23046"
 		},
 		"Cloak of the Necropolis":{
-			"prio":["Coxxy(1)","Meow","prestige","EP/GP"],
+			"prio":["Prestige","Rahen","Alters","EP/GP"],
 			"gp":"8",
 			"wowID":"23050"
 		},
 		"Sapphiron's Left Eye":{
-			"prio":["Blacklisted(1)", "Austeezy(1)","Kuku(1)","EP/GP"],
+			"prio":["Blacklisted(1)","Austeezy(1)","Kuku(1)","prestige","EP/GP"],
 			"gp":"10",
 			"wowID":"23049"
 		}
