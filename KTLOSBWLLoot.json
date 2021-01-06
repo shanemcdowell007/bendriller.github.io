@@ -369,7 +369,7 @@
 			"wowID":"19397"
 		},
 		"Rejuvenating Gem":{
-			"prio":["Navia","Healer EP/GP"],
+			"prio":["Kare","Navia","Healer EP/GP"],
 			"gp":"10",
 			"wowID":"19395"
 		},
@@ -638,7 +638,7 @@
 			"wowID":"19376"
 		},
 		"Pure Elementium Band":{
-			"prio":["Navia","Dr","Healer EP/GP"],
+			"prio":["Kare","Navia","Dr","Healer EP/GP"],
 			"gp":"5",
 			"wowID":"19382"
 		},
