@@ -601,7 +601,7 @@
 			"wowID":"23046"
 		},
 		"Cloak of the Necropolis":{
-			"prio":["Meow(1)","Prestige","Blacklisted","EP/GP"],
+			"prio":["Prestige","Blacklisted","EP/GP"],
 			"gp":"8",
 			"wowID":"23050"
 		},
