@@ -16,7 +16,7 @@
 			"wowID":"23238"
 		},
 		"Necro-knight's Garb":{
-			"prio":["cokky","EP/GP"],
+			"prio":["coxxy","EP/GP"],
 			"gp":"3",
 			"wowID":"23069"
 		},
@@ -601,12 +601,12 @@
 			"wowID":"23046"
 		},
 		"Cloak of the Necropolis":{
-			"prio":["Coxxy(1)","Meow","prestige","EP/GP"],
+			"prio":["Prestige","Blacklisted","EP/GP"],
 			"gp":"8",
 			"wowID":"23050"
 		},
 		"Sapphiron's Left Eye":{
-			"prio":["Blacklisted(1)", "Austeezy(1)","Kuku(1)","EP/GP"],
+			"prio":["Blacklisted(1)","Austeezy(1)","Kuku(1)","prestige","EP/GP"],
 			"gp":"10",
 			"wowID":"23049"
 		}
