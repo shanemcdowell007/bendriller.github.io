@@ -41,7 +41,7 @@
 			"wowID":"23668"
 		},
 		"Ring of the Eternal Flame":{
-			"prio":["Mages", "meow", "LC","EP/GP"],
+			"prio":["Mages","Blondi","LC","EP/GP"],
 			"gp":"5",
 			"wowID":"23237"
 		}
@@ -83,7 +83,7 @@
 			"wowID":"22356"
 		},
 		"Desecrated Sandals":{
-			"prio":["warlock with T3 chest","Jowsus(1)", "blondi", "Theprestige(1)", "ThedoctorJaz(1)","LC","EP/GP"],
+			"prio":["warlock with T3 chest","Theprestige(1)", "ThedoctorJaz(1)","LC","EP/GP"],
 			"gp":"8",
 			"wowID":"22372"
 		},
@@ -601,7 +601,7 @@
 			"wowID":"23046"
 		},
 		"Cloak of the Necropolis":{
-			"prio":["Prestige","Blacklisted","EP/GP"],
+			"prio":["Prestige","Rahen","Alters","EP/GP"],
 			"gp":"8",
 			"wowID":"23050"
 		},
@@ -628,7 +628,7 @@
 			"wowID":"23060"
 		},
 		"Gem of Trapped Innocents":{
-			"prio":["Kuku(1)","EP/GP"],
+			"prio":["Coxy(1)","EP/GP"],
 			"gp":"6",
 			"wowID":"23057"
 		},
@@ -683,7 +683,7 @@
 			"wowID":"22812"
 		},
 		"Doomfinger":{
-			"prio":["Meow(1)", "Theprestige(1)", "Blondibock(1)","Alters(1)","Blacklisted(1) Only if Black does not have Wand of Fates","EP/GP"],
+			"prio":["Meow(1)", "Theprestige(1)", "Alters(1)","James Bond","Mage?","EP/GP"],
 			"gp":"8",
 			"wowID":"22821"
 		},
