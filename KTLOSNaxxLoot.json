@@ -115,7 +115,7 @@
 	},
 	"Anub'Rekhan":{
 		"Band of Unanswered Prayers":{
-			"prio":["Jessie(2)","Navia(1)","Druid Priest Healers EP/GP"],
+			"prio":["Jessie(2)","snibbler","nisio","Navia(1)","Druid Priest Healers EP/GP"],
 			"gp":"6",
 			"wowID":"22939"
 		},
@@ -418,7 +418,7 @@
 	},
 	"Patchwerk":{
 		"Cloak of Suturing":{
-			"prio":["Mazzo(1)","Snibbler(2)","Peku(2)","Wildhealer(1)","Kare(1)","Natties(2)","Healer EP/GP"],
+			"prio":["Healers without cloak of clarity","Mazzo(1)","Snibbler(2)","Peku(2)","Wildhealer(1)","Kare(1)","jessiemen(2)","Healer EP/GP"],
 			"gp":"6",
 			"wowID":"22960"
 		},
@@ -519,7 +519,7 @@
 			"wowID":"23070"
 		},
 		"Spire of Twilight":{
-			"prio":["Navia(1)","Nattys(2)","LC","EP/GP"],
+			"prio":["Navia(1)","EP/GP"],
 			"gp":"12",
 			"wowID":"22801"
 		},
@@ -558,17 +558,17 @@
 		"Resilience of the Scourge":{
 			"prio":["Non-pally healers","BIS shoulder prio","EP/GP"],
 			"gp":"6",
-			"wowID":"23547"
+			"wowID":"23547" 
 		},
 		"Eye of the Dead":{
 			"prio":["Lianli(1)","Claris(1)","Peku(2)","Soldeia(2)","Darkdwarf(2)","Jaz(1)","Healers EP/GP"],
-			"gp":"10",
-			"wowID":"23047"
+			"gp":"10", 
+			"wowID":"23047" 
 		},
 		"Shroud of Dominion":{
-			"prio":["Fury Warrs","LC R1","EP/GP"],
-			"gp":"6",
-			"wowID":"23045"
+			"prio":["Fury Warrs","LC R1","EP/GP"], 
+			"gp":"6", 
+			"wowID":"23045" 
 		},
 		"Claw of the Frost Wyrm":{
 			"prio":["Rogues->PVP","LC","EP/GP"],
@@ -581,9 +581,9 @@
 			"wowID":"23043"
 		},
 		"Sapphiron's right eye":{
-			"prio":["Celesdea(1)","Darkdwarf(2)","Peku(2)","Jowsus(1)","Chuffy(2)","Healer EP/GP"],
+			"prio":["Healers must have a main hand first!","Celesdea(1)","Darkdwarf(2)","Peku(2)","Jowsus(1)","Healer EP/GP"],
 			"gp":"10",
-			"wowID":"23048"
+			"wowID":"23048" 
 		},
 		"Slayer's Crest":{
 			"prio":["Johnscar(sunnyD)","LC","Rogues","EP/GP"],
@@ -688,7 +688,7 @@
 			"wowID":"22821"
 		},
 		"Ring of Faith":{
-			"prio":["Darkdwarf(2)","Natties(2)","Claris(1)","Jessie(2)","Chuffy(2)","Priest Healer EP/GP"],
+			"prio":["Shraps(2)","Claris(1)","Jessie(2)","Chuffy(2)","Priest Healer EP/GP"],
 			"gp":"6",
 			"wowID":"23061"
 		},
