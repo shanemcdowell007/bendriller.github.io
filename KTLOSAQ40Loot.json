@@ -303,7 +303,7 @@
 		},
 		"Fetish of the Sand Reaver":{
 			"prio":["EP/GP"],
-			"gp":"0",
+			"gp":"Gbid guild bank needs money.",
 			"wowID":"21647"
 		},
 		"Hive Tunneler's Boots":{
@@ -312,7 +312,7 @@
 			"wowID":"21645"
 		},
 		"Mantle of Wicked Revenge":{
-			"prio":["Notpq","Feral->Fury who will pass on t2.5->Rogues","EP/GP"],
+			"prio":["Feral->Fury who will pass on t2.5->Rogues","EP/GP"],
 			"gp":"5",
 			"wowID":"21665"
 		},
@@ -438,7 +438,7 @@
 			"wowID":"21599"
 		},
 		"Royal Scepter of Vek'lor":{
-			"prio":["Blacklisted","Coxxy","Kuku","Austeezy","Raehn","EP/GP"],
+			"prio":["Austeezy","Blacklisted","EP/GP"],
 			"gp":"8",
 			"wowID":"21597"
 		},
@@ -488,7 +488,7 @@
 			"wowID":"20926"
 		},
 		"Gloves of the Hidden Temple":{
-			"prio":["Notpq","EP/GP"],
+			"prio":["EP/GP"],
 			"gp":"3",
 			"wowID":"21605"
 		}
@@ -572,7 +572,7 @@
 			"wowID":"21581"
 		},
 		"Scepter of the False Prophet":{
-			"prio":["Mazzo","Lianli","Jowsus","Blunts","Thrane","Kare","EP/GP"],
+			"prio":["Mazzo","Lianli","Jowsus","Thrane","Kare","EP/GP"],
 			"gp":"18",
 			"wowID":"21839"
 		},
@@ -584,12 +584,12 @@
 		"Cloak of Clarity":{
 			"prio":["Wildhealer","Kare","Healers to EP/GP"],
 			"gp":"6",
-			"wowID":"21583"
+			"wowID":"21583" 
 		},
 		"Dark Storm Gauntlets":{
 			"prio":["blondi","Rasberry","EP/GP"],
 			"gp":"10",
-			"wowID":"21585"
+			"wowID":"21585" 
 		},
 		"Grasp of the Old God":{
 			"prio":["Bis for all Healers to EP/GP"],
