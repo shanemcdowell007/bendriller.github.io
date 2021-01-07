@@ -115,7 +115,7 @@
 	},
 	"Anub'Rekhan":{
 		"Band of Unanswered Prayers":{
-			"prio":["Jessie(2)","snibbler","nisio","Navia(1)","Druid Priest Healers EP/GP"],
+			"prio":["Healers W/O at least 1 bis epic ring","Jessie(2)","snibbler","nisio","Navia(1)","Druid Priest Healers EP/GP"],
 			"gp":"6",
 			"wowID":"22939"
 		},
@@ -418,7 +418,7 @@
 	},
 	"Patchwerk":{
 		"Cloak of Suturing":{
-			"prio":["Healers without cloak of clarity","Mazzo(1)","Snibbler(2)","Peku(2)","Wildhealer(1)","Kare(1)","jessiemen(2)","Healer EP/GP"],
+			"prio":["Healers without cloak of clarity","Mazzo(1)","Snibbler(2)","Peku(2)","Wildhealer(1)","jessiemen(2)","Healer EP/GP"],
 			"gp":"6",
 			"wowID":"22960"
 		},
@@ -688,7 +688,7 @@
 			"wowID":"22821"
 		},
 		"Ring of Faith":{
-			"prio":["Shraps(2)","Claris(1)","Jessie(2)","Chuffy(2)","Priest Healer EP/GP"],
+			"prio":["Shraps(2)","Claris(1)","Jessie(2)","Priest Healer EP/GP"],
 			"gp":"6",
 			"wowID":"23061"
 		},
@@ -703,7 +703,7 @@
 			"wowID":"23063"
 		},
 		"Ring of the Dreamwalker":{
-			"prio":["Peku","LC","EP/GP"],
+			"prio":["Peku","Kare(1)","LC","EP/GP"],
 			"gp":"3",
 			"wowID":"23064"
 		},
