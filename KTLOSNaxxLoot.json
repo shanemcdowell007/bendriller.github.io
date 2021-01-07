@@ -108,7 +108,7 @@
 			"wowID":"22354"
 		},
 		"Desecrated Spaulders":{
-			"prio":["Thrane(1)","Pally","druid/hunter","EP/GP"],
+			"prio":["Thrane(1)","Pally/druid/hunter","EP/GP"],
 			"gp":"8",
 			"wowID":"22361"
 		}
@@ -386,7 +386,7 @@
 			"wowID":"22351"
 		},
 		"Desecrated Tunic":{
-			"prio":["Lianli(1)","Doligrian(1)","Thrane(1)","Pally","druid/hunter","EP/GP"],
+			"prio":["Lianli(1)","Doligrian(1)","Thrane(1)","Pally/druid/hunter","EP/GP"],
 			"gp":"8",
 			"wowID":"22350"
 		},
@@ -504,7 +504,7 @@
 			"wowID":"22353"
 		},
 		"Desecrated Headpiece":{
-			"prio":["Doligrian","Pally","EP/GP"],
+			"prio":["Doligrian","Pally/Druid/Hunter","EP/GP"],
 			"gp":"8",
 			"wowID":"22360"
 		},
@@ -703,7 +703,7 @@
 			"wowID":"23063"
 		},
 		"Ring of the Dreamwalker":{
-			"prio":["Peku","Kare(1)","LC","EP/GP"],
+			"prio":["Kare(1)","EP/GP"],
 			"gp":"3",
 			"wowID":"23064"
 		},
