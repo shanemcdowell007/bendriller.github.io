@@ -618,7 +618,7 @@
 			"wowID":"22520"
 		},
 		"The Hungering Cold":{
-			"prio":["Frau(2)","Tuglight(1) if no TF","Bendriller(flex)","Snydicate(1)","Dill(1)","Vajeen(1)","LC","EP/GP"],
+			"prio":["Frau(2)","Tuglight(1) if no TF","Snydicate(1)","Dill(1)","Vajeen(1)","LC","EP/GP"],
 			"gp":"18",
 			"wowID":"23577"
 		},
