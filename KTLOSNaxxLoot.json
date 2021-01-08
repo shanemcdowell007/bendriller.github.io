@@ -418,7 +418,7 @@
 	},
 	"Patchwerk":{
 		"Cloak of Suturing":{
-			"prio":["Healers without cloak of clarity","Mazzo(1)","Snibbler(2)","Peku(2)","Wildhealer(1)","jessiemen(2)","Healer EP/GP"],
+			"prio":["Healers without cloak of clarity","Mazzo(1)","Snibbler(2)","Peku(2)","Wildhealer(1)","jessiemen(2)","Celesdea(1)","Healer EP/GP"],
 			"gp":"6",
 			"wowID":"22960"
 		},
