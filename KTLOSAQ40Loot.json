@@ -60,7 +60,7 @@
 			"wowID":"21814"
 		},
 		"Cloak of Concentrated Hatred":{
-     		"prio":["Destain","Johnscar","Rogue->Warrior","EP/GP"],
+     		"prio":["Rogue->Warrior","EP/GP"],
 			"gp":"7",
 			"wowID":"21701"
 		},
@@ -597,7 +597,7 @@
 			"wowID":"21582"
 		},
 		"Belt of Never-ending Agony":{
-			"prio":["Johnscar","Shadowsfade","Rogues->Feral ?","EP/GP"],
+			"prio":["Shadowsfade","Rogues->Feral ?","EP/GP"],
 			"gp":"10",
 			"wowID":"21586"
 		},
