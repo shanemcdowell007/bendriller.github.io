@@ -103,12 +103,12 @@
 			"wowID":"22368"
 		},
 		"Desecrated Pauldrons":{
-			"prio":["Dill(1)","4h Tanks","Bendriller(flex)","LC","EP/GP"],
+			"prio":["4h Tanks","Bendriller(flex)","LC","EP/GP"],
 			"gp":"8",
 			"wowID":"22354"
 		},
 		"Desecrated Spaulders":{
-			"prio":["Thrane(1)","Pally","druid/hunter","EP/GP"],
+			"prio":["Thrane(1)","Pally/druid/hunter","EP/GP"],
 			"gp":"8",
 			"wowID":"22361"
 		}
@@ -152,7 +152,7 @@
 			"wowID":"22941"
 		},
 		"Widow's Remorse":{
-			"prio":["Aisli(1)","EP/GP"],
+			"prio":["Brienne(1)","EP/GP"],
 			"gp":"8",
 			"wowID":"22806"
 		},
@@ -184,7 +184,7 @@
 			"wowID":"22357"
 		},
 		"Kiss of the Spider":{
-			"prio":["Vajeen(1)","Impactt(1)","Dill(1)", "Chrixus(2)","Fury Warrior->Rogue","LC","EP/GP"],
+			"prio":["Loot Council Raid 1","Dill(1)","Fury Warrior->Rogue","LC","EP/GP"],
 			"gp":"10",
 			"wowID":"22954"
 		},
@@ -231,7 +231,7 @@
 			"wowID":"23028"
 		},
 		"Hatchet of Sundered Bone":{
-			"prio":["Vesterx(1)","Impactt(1)","Edgemaster's Warriors Non-Human->Human","LC","EP/GP"],
+			"prio":["Vesterx(1)","Edgemaster's DPS Warriors Non-Human->Human","LC","EP/GP"],
 			"gp":"16",
 			"wowID":"22816"
 		},
@@ -386,7 +386,7 @@
 			"wowID":"22351"
 		},
 		"Desecrated Tunic":{
-			"prio":["Lianli(1)","Doligrian(1)","Thrane(1)","Pally","druid/hunter","EP/GP"],
+			"prio":["Lianli(1)","Doligrian(1)","Thrane(1)","Pally/druid/hunter","EP/GP"],
 			"gp":"8",
 			"wowID":"22350"
 		},
@@ -406,19 +406,19 @@
 			"wowID":"23025"
 		}, 
 		"Soulstring":{
-			"prio":["Bendriller(flex)","Dill(1)","LC","EP/GP"],
+			"prio":["Bendriller(flex)","LC","EP/GP"],
 			"gp":"6",
 			"wowID":"22811"
 		}, 
 		"Warmth of Forgiveness":{
-			"prio":["Wildhealer(1)","Mazzo(1)","Celesdea(1)","Kare(1)","Peku(2)","Nisio(2)","Snibbler(2)","Priest Druid Healers","EP/GP"],
+			"prio":["Wildhealer(1)","Mazzo(1)","Celesdea(1)","Kare(1)","Nisio(2)","Snibbler(2)","Priest Druid Healers","EP/GP"],
 			"gp":"6",
 			"wowID":"23027"
 		}
 	},
 	"Patchwerk":{
 		"Cloak of Suturing":{
-			"prio":["Healers without cloak of clarity","Mazzo(1)","Snibbler(2)","Peku(2)","Wildhealer(1)","jessiemen(2)","Healer EP/GP"],
+			"prio":["Healers without cloak of clarity","Mazzo(1)","Snibbler(2)","Peku(2)","Wildhealer(1)","jessiemen(2)","Celesdea(1)","Healer EP/GP"],
 			"gp":"6",
 			"wowID":"22960"
 		},
@@ -529,12 +529,12 @@
 			"wowID":"23001"
 		},
 		"Plated Abomination Ribcage":{
-			"prio":["Rozzy(2)","Dill(1),","LC","Fury->Tank","EP/GP"],
+			"prio":["LC","Fury->Tank","EP/GP"],
 			"gp":"10",
 			"wowID":"23000"
 		},
 		"The Castigator":{
-			"prio":["Soho(1)","Builtlike(2)","LC","EP/GP"],
+			"prio":["LC","EP/GP"],
 			"gp":"16",
 			"wowID":"22808"
 		}
@@ -653,7 +653,7 @@
 			"wowID":"22802"
 		},
 		"Stormrage's Talisman of Seething":{
-			"prio":["Dill(1)","Soho(1)","Fury Warr","LC","EP/GP"],
+			"prio":["Dill(1)","Warriors w/o Barbed Choker","Fury Warr","LC","EP/GP"],
 			"gp":"6",
 			"wowID":"23053"
 		},
