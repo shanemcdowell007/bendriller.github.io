@@ -21,7 +21,7 @@
 			"wowID":"23069"
 		},
 		"Ghoul Skin Tunic":{
-			"prio":["Feral","Fury Warrs","Soho(1)","EP/GP"],
+			"prio":["Feral","Fury Warrs","EP/GP"],
 			"gp":"8",
 			"wowID":"23226"
 		},
@@ -135,7 +135,7 @@
 			"wowID":"22938"
 		},
 		"Wristguards of Vengeance":{
-			"prio":["Dill(1)","Healslol(1)","Soho(1)","Warrior DPS","LC","EP/GP"],
+			"prio":["Dill(1)","Healslol(1)","Warrior DPS","LC","EP/GP"],
 			"gp":"5",
 			"wowID":"22936"
 		}
@@ -243,7 +243,7 @@
 	},
 	"Heigan the Unclean":{
 		"Legplates of Carnage":{
-			"prio":["Dill(1)","Healslol(1)","Soho(1)","Fury Warr","EP/GP"],
+			"prio":["Dill(1)","Healslol(1)","Fury Warr","EP/GP"],
 			"gp":"8",
 			"wowID":"23068"
 		},
@@ -499,7 +499,7 @@
 	},
 	"Thaddius":{
 		"Desecrated Helmet":{
-			"prio":["Snydicate(1)","Tanks","LC","EP/GP"],
+			"prio":["Tanks","LC","EP/GP"],
 			"gp":"8",
 			"wowID":"22353"
 		},
@@ -561,7 +561,7 @@
 			"wowID":"23547" 
 		},
 		"Eye of the Dead":{
-			"prio":["Lianli(1)","Claris(1)","Peku(2)","Soldeia(2)","Darkdwarf(2)","Jaz(1)","Healers EP/GP"],
+			"prio":["Lianli(1)","Claris(1)","Soldeia(2)","Peku(2)","Darkdwarf(2)","Jaz(1)","Healers EP/GP"],
 			"gp":"10", 
 			"wowID":"23047" 
 		},
