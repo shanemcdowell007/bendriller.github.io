@@ -103,15 +103,7 @@
 			"wowID":"22368"
 		},
 		"Desecrated Pauldrons":{
-<<<<<<< Updated upstream
-			"prio":["4h Tanks","Bendriller(flex)","LC","EP/GP"],
-=======
-<<<<<<< HEAD
-			"prio":["Dill(1)","4h Tanks","Bendriller(sunnyD)","LC","EP/GP"],
-=======
-			"prio":["4h Tanks","Bendriller(flex)","LC","EP/GP"],
->>>>>>> 3eba5b7e18784bd89bb8f8341da8537f2d671deb
->>>>>>> Stashed changes
+			"prio":["4h Tanks","Bendriller(sunnyD)","LC","EP/GP"],
 			"gp":"8",
 			"wowID":"22354"
 		},
@@ -414,15 +406,7 @@
 			"wowID":"23025"
 		}, 
 		"Soulstring":{
-<<<<<<< Updated upstream
-			"prio":["Bendriller(flex)","LC","EP/GP"],
-=======
-<<<<<<< HEAD
 			"prio":["Bendriller(sunnyD)","Dill(crush)","LC","EP/GP"],
-=======
-			"prio":["Bendriller(flex)","LC","EP/GP"],
->>>>>>> 3eba5b7e18784bd89bb8f8341da8537f2d671deb
->>>>>>> Stashed changes
 			"gp":"6",
 			"wowID":"22811"
 		}, 
