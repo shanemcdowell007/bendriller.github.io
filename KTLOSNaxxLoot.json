@@ -53,7 +53,7 @@
 			"wowID":""
 		},
 		"Desecrated Bracers":{
-			"prio":["4h Tanks","LC","Bendriller(flex)","Johnscar(crush)","EP/GP"],
+			"prio":["4h Tanks","LC","Bendriller(sunnyD)","Johnscar(sunnyD)","EP/GP"],
 			"gp":"8",
 			"wowID":"22355"
 		},
@@ -103,7 +103,15 @@
 			"wowID":"22368"
 		},
 		"Desecrated Pauldrons":{
+<<<<<<< Updated upstream
 			"prio":["4h Tanks","Bendriller(flex)","LC","EP/GP"],
+=======
+<<<<<<< HEAD
+			"prio":["Dill(1)","4h Tanks","Bendriller(sunnyD)","LC","EP/GP"],
+=======
+			"prio":["4h Tanks","Bendriller(flex)","LC","EP/GP"],
+>>>>>>> 3eba5b7e18784bd89bb8f8341da8537f2d671deb
+>>>>>>> Stashed changes
 			"gp":"8",
 			"wowID":"22354"
 		},
@@ -280,7 +288,7 @@
 			"wowID":"22359"
 		},
 		"Desecrated Legplates":{
-			"prio":["4H Tanks","LC","Bendriller(flex)","EP/GP"],
+			"prio":["4H Tanks","LC","Bendriller(sunnyD)","EP/GP"],
 			"gp":"6",
 			"wowID":"22352"
 		},
@@ -406,7 +414,15 @@
 			"wowID":"23025"
 		}, 
 		"Soulstring":{
+<<<<<<< Updated upstream
 			"prio":["Bendriller(flex)","LC","EP/GP"],
+=======
+<<<<<<< HEAD
+			"prio":["Bendriller(sunnyD)","Dill(crush)","LC","EP/GP"],
+=======
+			"prio":["Bendriller(flex)","LC","EP/GP"],
+>>>>>>> 3eba5b7e18784bd89bb8f8341da8537f2d671deb
+>>>>>>> Stashed changes
 			"gp":"6",
 			"wowID":"22811"
 		}, 
@@ -618,7 +634,7 @@
 			"wowID":"22520"
 		},
 		"The Hungering Cold":{
-			"prio":["Frau(2)","Bendriller(flex)","Snydicate(1)","Dill(1)","Vajeen(1)","LC","EP/GP"],
+			"prio":["Frau(2)","Snydicate(1)","Bendriller(flex)","Dill(1)","Vajeen(1)","LC","EP/GP"],
 			"gp":"18",
 			"wowID":"23577"
 		},
