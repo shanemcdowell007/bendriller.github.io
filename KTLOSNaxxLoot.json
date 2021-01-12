@@ -108,7 +108,7 @@
 			"wowID":"22354"
 		},
 		"Desecrated Spaulders":{
-			"prio":["Thrane(1)","Pally","druid/hunter","EP/GP"],
+			"prio":["Thrane(1)","Pally/druid/hunter","EP/GP"],
 			"gp":"8",
 			"wowID":"22361"
 		}
@@ -386,7 +386,7 @@
 			"wowID":"22351"
 		},
 		"Desecrated Tunic":{
-			"prio":["Lianli(1)","Doligrian(1)","Thrane(1)","Pally","druid/hunter","EP/GP"],
+			"prio":["Lianli(1)","Doligrian(1)","Thrane(1)","Pally/druid/hunter","EP/GP"],
 			"gp":"8",
 			"wowID":"22350"
 		},
@@ -411,7 +411,7 @@
 			"wowID":"22811"
 		}, 
 		"Warmth of Forgiveness":{
-			"prio":["Wildhealer(1)","Mazzo(1)","Celesdea(1)","Kare(1)","Peku(2)","Nisio(2)","Snibbler(2)","Priest Druid Healers","EP/GP"],
+			"prio":["Wildhealer(1)","Mazzo(1)","Celesdea(1)","Kare(1)","Nisio(2)","Snibbler(2)","Priest Druid Healers","EP/GP"],
 			"gp":"6",
 			"wowID":"23027"
 		}
@@ -534,7 +534,7 @@
 			"wowID":"23000"
 		},
 		"The Castigator":{
-			"prio":["Builtlike(2)","LC","EP/GP"],
+			"prio":["LC","EP/GP"],
 			"gp":"16",
 			"wowID":"22808"
 		}
