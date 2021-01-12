@@ -184,7 +184,7 @@
 			"wowID":"22357"
 		},
 		"Kiss of the Spider":{
-			"prio":["Loot Council Raid 1","Dill(1)","Fury Warrior->Rogue","LC","EP/GP"],
+			"prio":["Melee without DFT + Slayers / Phylactery","Loot Council Raid 1","Dill(1)","Fury Warrior->Rogue","LC","EP/GP"],
 			"gp":"10",
 			"wowID":"22954"
 		},
@@ -411,7 +411,7 @@
 			"wowID":"22811"
 		}, 
 		"Warmth of Forgiveness":{
-			"prio":["Wildhealer(1)","Mazzo(1)","Celesdea(1)","Kare(1)","Nisio(2)","Snibbler(2)","Priest Druid Healers","EP/GP"],
+			"prio":["Healers without Rejuv gem + Eye of the dead","Wildhealer(1)","Mazzo(1)","Celesdea(1)","Kare(1)","Nisio(2)","Snibbler(2)","Priest Druid Healers","EP/GP"],
 			"gp":"6",
 			"wowID":"23027"
 		}
@@ -561,7 +561,7 @@
 			"wowID":"23547" 
 		},
 		"Eye of the Dead":{
-			"prio":["Lianli(1)","Claris(1)","Soldeia(2)","Darkdwarf(2)","Jaz(1)","Healers EP/GP"],
+			"prio":["Healers without Rejuv gem + Warmth", "Lianli(1)","Claris(1)","Soldeia(2)","Darkdwarf(2)","Jaz(1)","Healers EP/GP"],
 			"gp":"10", 
 			"wowID":"23047" 
 		},
@@ -586,7 +586,7 @@
 			"wowID":"23048" 
 		},
 		"Slayer's Crest":{
-			"prio":["Johnscar(sunnyD)","LC","Rogues","EP/GP"],
+			"prio":["Melee without DFT + Kiss / Phylactery","Johnscar(sunnyD)","LC","Rogues","EP/GP"],
 			"gp":"10",
 			"wowID":"23041"
 		},
@@ -596,7 +596,7 @@
 			"wowID":"23040"
 		},
 		"Restrained Essence of Sapphiron":{
-			"prio":["Blacklisted(1)","Meow(1)","EP/GP"],
+			"prio":["Casters without Phlyactery","Blacklisted(1)","Meow(1)","EP/GP"],
 			"gp":"15",
 			"wowID":"23046"
 		},
