@@ -561,7 +561,7 @@
 			"wowID":"23547" 
 		},
 		"Eye of the Dead":{
-			"prio":["Lianli(1)","Claris(1)","Soldeia(2)","Peku(2)","Darkdwarf(2)","Jaz(1)","Healers EP/GP"],
+			"prio":["Lianli(1)","Claris(1)","Soldeia(2)","Darkdwarf(2)","Jaz(1)","Healers EP/GP"],
 			"gp":"10", 
 			"wowID":"23047" 
 		},
