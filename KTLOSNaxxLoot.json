@@ -2,12 +2,12 @@
 	"Trash":{
 		"Harbringer of Doom":{
 			"prio":["Shadowsfade","LC","EP/GP"],
-			"gp":"7",
+			"gp":"12",
 			"wowID":"23044"
 		},
 		"Misplaced Servo Arm":{
 			"prio":["Mulligen(1)","LC","EP/GP"],
-			"gp":"10",
+			"gp":"12",
 			"wowID":"23221"
 		},
 		"Stygian Buckler":{
@@ -22,7 +22,7 @@
 		},
 		"Ghoul Skin Tunic":{
 			"prio":["Feral","Fury Warrs","EP/GP"],
-			"gp":"8",
+			"gp":"10",
 			"wowID":"23226"
 		},
 		"Belt of the Grand Crusader":{
@@ -48,7 +48,7 @@
 	},
 	"Boss Shared":{
 		"Dreadnaught 4 pc":{
-			"prio":["Snydi(1)", "tug", "aisli", "Dill", "Mulligen", "Vajeen", "Healslol", "Killstepp(1)", "Frau(2)", "Beeny", "Wizzo", "Chrixus", "Rozzy", "Quigbert(2)"],
+			"prio":["Enf","Chrixus","Bonzai"],
 			"gp":"10",
 			"wowID":""
 		},
@@ -376,17 +376,17 @@
 			"wowID":"22691"
 		},
 		"Desecrated Breastplate":{
-			"prio":["Killstepp(1)","Tanks","Killstep(2)","LC","EP/GP"],
+			"prio":["Tanks","Killstep(2)","LC","EP/GP"],
 			"gp":"8",
 			"wowID":"22349"
 		},
 		"Desecrated Robe":{
-			"prio":["Alters(1)","Blacklisted(1)","Locks/Mages(2)","Wildhealer(1)","Meow","LC","EP/GP"],
+			"prio":["Blacklisted(1)","Locks/Mages(2)","Wildhealer(1)","Meow","LC","EP/GP"],
 			"gp":"8",
 			"wowID":"22351"
 		},
 		"Desecrated Tunic":{
-			"prio":["Lianli(1)","Doligrian(1)","Thrane(1)","Pally/druid/hunter","EP/GP"],
+			"prio":["Thrane(1)","Pally/druid/hunter","EP/GP"],
 			"gp":"8",
 			"wowID":"22350"
 		},
@@ -406,7 +406,7 @@
 			"wowID":"23025"
 		}, 
 		"Soulstring":{
-			"prio":["Bendriller(sunnyD)","Dill(crush)","LC","EP/GP"],
+			"prio":["Bendriller(sunnyD)","LC","EP/GP"],
 			"gp":"6",
 			"wowID":"22811"
 		}, 
@@ -534,7 +534,7 @@
 			"wowID":"23000"
 		},
 		"The Castigator":{
-			"prio":["LC","EP/GP"],
+			"prio":["LC","Human Fury Warr","EP/GP"],
 			"gp":"16",
 			"wowID":"22808"
 		}
@@ -601,7 +601,7 @@
 			"wowID":"23046"
 		},
 		"Cloak of the Necropolis":{
-			"prio":["Prestige","Rahen","Alters","EP/GP"],
+			"prio":["Prestige","Rhaen","Alters","EP/GP"],
 			"gp":"8",
 			"wowID":"23050"
 		},
@@ -648,7 +648,7 @@
 			"wowID":"23059"
 		},
 		"Kingsfall":{
-			"prio":["Destain(crush)","LC","EP/GP"],
+			"prio":["LC","EP/GP"],
 			"gp":"18",
 			"wowID":"22802"
 		},
