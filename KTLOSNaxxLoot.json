@@ -504,7 +504,7 @@
 			"wowID":"22353"
 		},
 		"Desecrated Headpiece":{
-			"prio":["Doligrian","Pally","EP/GP"],
+			"prio":["Doligrian","Pally/Druid/Hunter","EP/GP"],
 			"gp":"8",
 			"wowID":"22360"
 		},
@@ -703,7 +703,7 @@
 			"wowID":"23063"
 		},
 		"Ring of the Dreamwalker":{
-			"prio":["Peku","Kare(1)","LC","EP/GP"],
+			"prio":["Kare(1)","EP/GP"],
 			"gp":"3",
 			"wowID":"23064"
 		},
