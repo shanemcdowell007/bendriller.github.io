@@ -53,7 +53,7 @@
 			"wowID":""
 		},
 		"Desecrated Bracers":{
-			"prio":["4h Tanks","LC","EP/GP"],
+			"prio":["4h Tanks","LC","Bendriller(sunnyD)","Johnscar(sunnyD)","EP/GP"],
 			"gp":"8",
 			"wowID":"22355"
 		},
@@ -78,7 +78,7 @@
 			"wowID":"22370"
 		},
 		"Desecrated Waistguard":{
-			"prio":["4h Tanks","LC","EP/GP"],
+			"prio":["4h Tanks","Shadowsfade(crush)","LC","rogues w/o BoNEA","EP/GP"],
 			"gp":"8",
 			"wowID":"22356"
 		},
@@ -93,7 +93,7 @@
 			"wowID":"22365"
 		},
 		"Desecrated Sabatons":{
-			"prio":["4h Tanks","LC","EP/GP"],
+			"prio":["4h Tanks","Johnscar(sunnyD)","Killstep(sunnyD)","LC","EP/GP"],
 			"gp":"8",
 			"wowID":"22358"
 		},
@@ -103,7 +103,7 @@
 			"wowID":"22368"
 		},
 		"Desecrated Pauldrons":{
-			"prio":["4h Tanks","LC","EP/GP"],
+			"prio":["4h Tanks","Bendriller(sunnyD)","LC","EP/GP"],
 			"gp":"8",
 			"wowID":"22354"
 		},
@@ -179,7 +179,7 @@
 			"wowID":"22364"
 		},
 		"Desecrated Gauntlets":{
-			"prio":["Tanks->DPS Warrior 4horsemen tanks","EP/GP"],
+			"prio":["Tanks->DPS Warrior 4horsemen tanks","Johnscar(sunnyD)","EP/GP"],
 			"gp":"8",
 			"wowID":"22357"
 		},
@@ -280,7 +280,7 @@
 			"wowID":"22359"
 		},
 		"Desecrated Legplates":{
-			"prio":["4H Tanks","LC","EP/GP"],
+			"prio":["4H Tanks","LC","Bendriller(sunnyD)","EP/GP"],
 			"gp":"6",
 			"wowID":"22352"
 		},
@@ -376,7 +376,7 @@
 			"wowID":"22691"
 		},
 		"Desecrated Breastplate":{
-			"prio":["Killstepp(1)","Tanks","LC","EP/GP"],
+			"prio":["Killstepp(1)","Tanks","Killstep(2)","LC","EP/GP"],
 			"gp":"8",
 			"wowID":"22349"
 		},
@@ -406,7 +406,7 @@
 			"wowID":"23025"
 		}, 
 		"Soulstring":{
-			"prio":["Bendriller(flex)","LC","EP/GP"],
+			"prio":["Bendriller(sunnyD)","Dill(crush)","LC","EP/GP"],
 			"gp":"6",
 			"wowID":"22811"
 		}, 
@@ -613,17 +613,17 @@
 	},
 	"Kel'Thuzad":{
 		"The Phylactery of Kel'Thuzad":{
-			"prio":["Killstep(sunnyD)","ThePrestige(crush)","Johnscar(sunnyD)","LC","EP/GP"],
+			"prio":["Theprestige(crush)","Johnscar(sunnyD)","Killstep(sunnyD)","LC","EP/GP"],
 			"gp":"6",
 			"wowID":"22520"
 		},
 		"The Hungering Cold":{
-			"prio":["Frau(2)","R1 Loot Council","Snydicate(1)","Dill(1)","Vajeen(1)","LC","EP/GP"],
+			"prio":["Frau(sunnyD)","Snydicate(crush)","Bendriller(sunnyD)","Dill(1)","Vajeen(1)","LC","EP/GP"],
 			"gp":"18",
 			"wowID":"23577"
 		},
 		"Bonescythe Ring":{
-			"prio":["Johnscar(sunnyD)","Bendriller(flex)","Killstep(sunnyD)","LC","EP/GP"],
+			"prio":["Bendriller(sunnyD)","Johnscar(sunnyD)","Killstep(sunnyD)","LC","EP/GP"],
 			"gp":"6",
 			"wowID":"23060"
 		},
@@ -668,7 +668,7 @@
 			"wowID":"23056"
 		},
 		"Ring of the Cryptstalker":{
-			"prio":["Howard Carter","EP/GP"],
+			"prio":["EP/GP"],
 			"gp":"6",
 			"wowID":"23067"
 		},
