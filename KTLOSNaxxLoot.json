@@ -300,7 +300,7 @@
 			"wowID":"23037"
 		},
 		"Brimstone Staff":{
-			"prio":["Kuku(1)","Blondi(1)","EP/GP"],
+			"prio":["Kuku(1)","EP/GP"],
 			"gp":"16",
 			"wowID":"22800"
 		},
@@ -327,7 +327,7 @@
 			"wowID":"23004"
 		},
 		"Girdle of the Mentor":{
-			"prio":["Aisli(1)","Warriors without Onslaught","Tanks","Fury Warrs","EP/GP"],
+			"prio":["Warriors without Onslaught","Tanks","Fury Warrs","EP/GP"],
 			"gp":"10",
 			"wowID":"23219"
 		},
@@ -519,7 +519,7 @@
 			"wowID":"23070"
 		},
 		"Spire of Twilight":{
-			"prio":["Navia(1)","EP/GP"],
+			"prio":["EP/GP"],
 			"gp":"12",
 			"wowID":"22801"
 		},
@@ -561,7 +561,7 @@
 			"wowID":"23547" 
 		},
 		"Eye of the Dead":{
-			"prio":["Healers without Rejuv gem + Warmth", "Lianli(1)","Claris(1)","Soldeia(2)","Darkdwarf(2)","Jaz(1)","Healers EP/GP"],
+			"prio":["Healers without Rejuv gem + Warmth", "Claris(1)","Soldeia(2)","Darkdwarf(2)","Jaz(1)","Healers EP/GP"],
 			"gp":"10", 
 			"wowID":"23047" 
 		},
@@ -688,7 +688,7 @@
 			"wowID":"22821"
 		},
 		"Ring of Faith":{
-			"prio":["Shraps(2)","Claris(1)","Jessie(2)","Priest Healer EP/GP"],
+			"prio":["Shraps(2)","Jessie(2)","Priest Healer EP/GP"],
 			"gp":"6",
 			"wowID":"23061"
 		},
