@@ -613,7 +613,7 @@
 	},
 	"Kel'Thuzad":{
 		"The Phylactery of Kel'Thuzad":{
-			"prio":["Johnscar(sunnyD)","Killstep(sunnyD)","LC","EP/GP"],
+			"prio":["Theprestige(crush)","Johnscar(sunnyD)","Killstep(sunnyD)","LC","EP/GP"],
 			"gp":"6",
 			"wowID":"22520"
 		},
@@ -623,7 +623,7 @@
 			"wowID":"23577"
 		},
 		"Bonescythe Ring":{
-			"prio":["Bendriller(flex)","Johnscar(sunnyD)","Killstep(sunnyD)","LC","EP/GP"],
+			"prio":["Bendriller(sunnyD)","Johnscar(sunnyD)","Killstep(sunnyD)","LC","EP/GP"],
 			"gp":"6",
 			"wowID":"23060"
 		},
