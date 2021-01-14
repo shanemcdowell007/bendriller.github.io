@@ -16,7 +16,7 @@
 			"wowID":"23238"
 		},
 		"Necro-knight's Garb":{
-			"prio":["coxxy","EP/GP"],
+			"prio":["EP/GP"],
 			"gp":"3",
 			"wowID":"23069"
 		},
@@ -349,7 +349,7 @@
 			"wowID":"23032"
 		},
 		"The Soul Harvester's Bindings":{
-			"prio":["Blondi","Meow","EP/GP"],
+			"prio":["Meow","Alters","EP/GP"],
 			"gp":"6",
 			"wowID":"23021"
 		},
@@ -401,7 +401,7 @@
 			"wowID":"22809"
 		},
 		"Seal of the Damned":{
-			"prio":["Kuku(1)","Austeezy(1)","Coxxy(1)","Blacklisted(1)","Warlocks","EP/GP"],
+			"prio":["Kuku(1)","Austeezy(1)","Blacklisted(1)","Warlocks","EP/GP"],
 			"gp":"6",
 			"wowID":"23025"
 		}, 
@@ -596,7 +596,7 @@
 			"wowID":"23040"
 		},
 		"Restrained Essence of Sapphiron":{
-			"prio":["Blacklisted(1)","Meow(1)","EP/GP"],
+			"prio":["Blacklisted(1)","Meow(1)","prestige","EP/GP"],
 			"gp":"15",
 			"wowID":"23046"
 		},
@@ -606,7 +606,7 @@
 			"wowID":"23050"
 		},
 		"Sapphiron's Left Eye":{
-			"prio":["Blacklisted(1)","Austeezy(1)","Kuku(1)","prestige","EP/GP"],
+			"prio":["Blacklisted(1)","Austeezy(1)","Prestige(1)","EP/GP"],
 			"gp":"10",
 			"wowID":"23049"
 		}
