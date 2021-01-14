@@ -6,8 +6,8 @@
 			"wowID":"23044"
 		},
 		"Misplaced Servo Arm":{
-			"prio":["Mulligen(1)","LC","EP/GP"],
-			"gp":"12",
+			"prio":["LC","EP/GP"],
+			"gp":"10",
 			"wowID":"23221"
 		},
 		"Stygian Buckler":{
