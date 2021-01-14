@@ -648,7 +648,7 @@
 			"wowID":"23059"
 		},
 		"Kingsfall":{
-			"prio":["LC","EP/GP"],
+			"prio":["Shadowsfade(crush)","LC","EP/GP"],
 			"gp":"18",
 			"wowID":"22802"
 		},
@@ -693,7 +693,7 @@
 			"wowID":"23061"
 		},
 		"Gressil, Dawn of Ruin":{
-			"prio":["Killstep-rogue(2)","Chrixus(2)","Sniped(1)","Bendriller(flex)","LC","EP/GP"],
+			"prio":["Killstep-rogue(sunnyD)","Chrixus(sunnyD)","Sniped(crush)","Bendriller(sunnyD)","LC","EP/GP"],
 			"gp":"18",
 			"wowID":"23054"
 		},
