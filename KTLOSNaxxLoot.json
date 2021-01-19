@@ -626,12 +626,12 @@
 	},
 	"Kel'Thuzad":{
 		"The Phylactery of Kel'Thuzad":{
-			"prio":["Theprestige(crush)","Johnscar(sunnyD)","Killstep(sunnyD)","LC","EP/GP"],
+			"prio":["Theprestige(crush)","Killstep(sunnyD)","LC","EP/GP"],
 			"gp":"6",
 			"wowID":"22520"
 		},
 		"Bonescythe Ring":{
-			"prio":["Bendriller(sunnyD)","Johnscar(sunnyD)","Killstep(sunnyD)","LC","EP/GP"],
+			"prio":["Killstep(sunnyD)","LC","EP/GP"],
 			"gp":"6",
 			"wowID":"23060"
 		},
@@ -686,7 +686,7 @@
 			"wowID":"23054"
 		},
 		"Hammer of the Twisting Nether":{
-			"prio":["Doligrian(1)","Jaz(1)","Celesdea(1)","Soldeia(2)","Peku(2)","Nisio(2)","Nattys(2)","Jowsus, Claris, Thrane(1)","Healers to EP/GP"],
+			"prio":["Doligrian(1)","Jaz(1)","Celesdea(1)","Peku(2)","Nisio(2)","Nattys(2)","Jowsus, Claris, Thrane(1)","Healers to EP/GP"],
 			"gp":"18",
 			"wowID":"23056"
 		},
@@ -721,7 +721,7 @@
 			"wowID":"23053"
 		},
 		"The Hungering Cold":{
-			"prio":["Frau(sunnyD)","Snydicate(crush)","Bendriller(sunnyD)","Dill(1)","Vajeen(1)","LC","EP/GP"],
+			"prio":["Snydicate(crush)","Bendriller(sunnyD)","Dill(1)","Vajeen(1)","LC","EP/GP"],
 			"gp":"18",
 			"wowID":"23577"
 		}
