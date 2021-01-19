@@ -200,7 +200,7 @@
 	},
 	"Plague Quarter Shared":{
 		"Desecrated Girdle":{
-			"prio":["Hunter","druid/pally","EP/GP"],
+			"prio":["Hunter/druid/pally","EP/GP"],
 			"gp":"8",
 			"wowID":"22363"
 		},
@@ -281,7 +281,7 @@
 			"wowID":"22366"
 		},
 		"Desecrated Legguards":{
-			"prio":["Hunter","druid/pally","EP/GP"],
+			"prio":["Hunter/druid/pally","EP/GP"],
 			"gp":"8",
 			"wowID":"22359"
 		},
@@ -451,7 +451,7 @@
 			"wowID":"22369"
 		},
 		"Desecrated Wristguards":{
-      			"prio":["Hunters","druid/pally","EP/GP"],
+      			"prio":["Hunters/druid/pally","EP/GP"],
 			"gp":"8",
 			"wowID":"22362"
 		}
@@ -500,7 +500,7 @@
 			"wowID":"22941"
 		},
 		"The Widow's Embrace":{
-			"prio":["Lianli(1)","Claris(1)","Wildhealer(1)","Healers", "EP/GP"],
+			"prio":["Lianli(1)","Claris(1)","Wildhealer(1)","Celesdea(1)","Healers", "EP/GP"],
 			"gp":"12",
 			"wowID":"22942"
 		},
@@ -517,7 +517,7 @@
 			"wowID":"22371"
 		},
 		"Desecrated Handguards":{
-			"prio":["Hunter","druid/pally","EP/GP"],
+			"prio":["Hunter/druid/pally","EP/GP"],
 			"gp":"8",
 			"wowID":"22364"
 		},
@@ -646,7 +646,7 @@
 			"wowID":"23063"
 		},
 		"Ring of Faith":{
-			"prio":["Shraps(2)","Jessie(2)","Priest Healer EP/GP"],
+			"prio":["Doctorjaz","Mazzo","Shraps(2)","Jessie(2)","Priest Healer EP/GP"],
 			"gp":"6",
 			"wowID":"23061"
 		},
@@ -686,7 +686,7 @@
 			"wowID":"23054"
 		},
 		"Hammer of the Twisting Nether":{
-			"prio":["Doligrian(1)","Jaz(1)","Celesdea(1)","Peku(2)","Nisio(2)","Nattys(2)","Jowsus, Claris, Thrane(1)","Healers to EP/GP"],
+			"prio":["Doligrian(1)","Jaz(1)","Jowsus(1)","Peku(2)","Madline(2)","Claris, Thrane(1)","Healers to EP/GP"],
 			"gp":"18",
 			"wowID":"23056"
 		},
