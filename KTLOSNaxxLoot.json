@@ -183,7 +183,7 @@
 			"wowID":"23070"
 		},
 		"Plated Abomination Ribcage":{
-			"prio":["LC","Fury->Tank","EP/GP"],
+			"prio":["Vajeen(1)","Vesterx(1)","LC","Fury->Tank","EP/GP"],
 			"gp":"10",
 			"wowID":"23000"
 		},
@@ -429,7 +429,7 @@
 			"wowID":"23025"
 		}, 
 		"Soulstring":{
-			"prio":["Bendriller(sunnyD)","LC","EP/GP"],
+			"prio":["Vesterx(1)","Bendriller(sunnyD)","LC","EP/GP"],
 			"gp":"6",
 			"wowID":"22811"
 		}, 
@@ -532,7 +532,7 @@
 			"wowID":"23220"
 		},
 		"Kiss of the Spider":{
-			"prio":["Melee without DFT + Slayers","Loot Council Raid 1","Dill(1)","Fury Warrior->Rogue","LC","EP/GP"],
+			"prio":["Melee without DFT + Slayers","Killstepp(1)","Dill(1)","Fury Warrior->Rogue","LC","EP/GP"],
 			"gp":"10",
 			"wowID":"22954"
 		},
@@ -626,7 +626,7 @@
 	},
 	"Kel'Thuzad":{
 		"The Phylactery of Kel'Thuzad":{
-			"prio":["Theprestige(crush)","Killstep(sunnyD)","LC","EP/GP"],
+			"prio":["Killstep(sunnyD)","LC","EP/GP"],
 			"gp":"6",
 			"wowID":"22520"
 		},
