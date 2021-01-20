@@ -97,7 +97,7 @@
 			"wowID":"22818"
 		},
 		"Wand of Fates":{
-			"prio":["Austeezy(1)","Black(1)","Coxxy(1)","Blondi(1)","Warlocks","EP/GP"],
+			"prio":["Coxxy(1)","Blondi(1)","Austeezy(1)","Warlocks","EP/GP"],
 			"gp":"6",
 			"wowID":"22820"
 		}
@@ -168,7 +168,7 @@
 			"wowID":"22360"
 		},
 		"Desecrated Circlet":{
-			"prio":["Lock/Mage(2)","Coxxy(1)","Blacklisted(1)","Thedoctorjaz(1)", "Blondi","EP/GP"],
+			"prio":["Lock/Mage(2)","Blacklisted(1)","Thedoctorjaz(1)", "Blondi","EP/GP"],
 			"gp":"8",
 			"wowID":"22367"
 		},
@@ -291,7 +291,7 @@
 			"wowID":"22352"
 		},
 		"Band of Unnatural Forces":{
-			"prio":["Destain(crush)","Killstep(sunnyD)","Johnscar(sunnyD)","Rogues","LC","EP/GP"],
+			"prio":["Killstep(sunnyD)","Johnscar(sunnyD)","Rogues","LC","EP/GP"],
 			"gp":"8",
 			"wowID":"23038"
 		},
@@ -500,7 +500,7 @@
 			"wowID":"22941"
 		},
 		"The Widow's Embrace":{
-			"prio":["Lianli(1)","Claris(1)","Wildhealer(1)","Healers", "EP/GP"],
+			"prio":["Claris(1)","Wildhealer(1)","Healers", "EP/GP"],
 			"gp":"12",
 			"wowID":"22942"
 		},
@@ -604,7 +604,7 @@
 			"wowID":"23049"
 		},
 		"Sapphiron's Right Eye":{
-			"prio":["Healers must have a main hand first!","Celesdea(1)","Nisio(2)","Darkdwarf(2)","Peku(2)","Jowsus(1)","Healer EP/GP"],
+			"prio":["Healers must have a main hand first!","Nisio(2)","Darkdwarf(2)","Peku(2)","Jowsus(1)","Mazzo(1)","Healer EP/GP"],
 			"gp":"10",
 			"wowID":"23048" 
 		},
@@ -636,7 +636,7 @@
 			"wowID":"23060"
 		},
 		"Frostfire Ring":{
-			"prio":["Alter(1)", "meow(1)", "Theprestige(1)","Rahen(1)","EP/GP"],
+			"prio":["meow(1)", "Theprestige(1)","Rahen(1)","EP/GP"],
 			"gp":"6",
 			"wowID":"23062"
 		},
@@ -646,7 +646,7 @@
 			"wowID":"23063"
 		},
 		"Ring of Faith":{
-			"prio":["Shraps(2)","Jessie(2)","Priest Healer EP/GP"],
+			"prio":["Shraps(2)","Jessie(2)","Jaz(1)","Mazzo(1)","Priest Healer EP/GP"],
 			"gp":"6",
 			"wowID":"23061"
 		},
@@ -686,7 +686,7 @@
 			"wowID":"23054"
 		},
 		"Hammer of the Twisting Nether":{
-			"prio":["Doligrian(1)","Jaz(1)","Celesdea(1)","Peku(2)","Nisio(2)","Nattys(2)","Jowsus, Claris, Thrane(1)","Healers to EP/GP"],
+			"prio":["Jaz(1)","Jowsus(1)","Mazzo(1)","Peku(2)","Nisio(2)","Nattys(2)","Thrane(2)","Healers to EP/GP"],
 			"gp":"18",
 			"wowID":"23056"
 		},
@@ -716,7 +716,7 @@
 			"wowID":"22799"
 		},
 		"Stormrage's Talisman of Seething":{
-			"prio":["Dill(1)","Warriors w/o Barbed Choker","Fury Warr","LC","EP/GP"],
+			"prio":["Warriors w/o Barbed Choker","Fury Warr","LC","EP/GP"],
 			"gp":"6",
 			"wowID":"23053"
 		},
