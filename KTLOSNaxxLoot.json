@@ -200,7 +200,7 @@
 	},
 	"Plague Quarter Shared":{
 		"Desecrated Girdle":{
-			"prio":["Hunter","druid/pally","EP/GP"],
+			"prio":["Hunter/druid/pally","EP/GP"],
 			"gp":"8",
 			"wowID":"22363"
 		},
@@ -281,7 +281,7 @@
 			"wowID":"22366"
 		},
 		"Desecrated Legguards":{
-			"prio":["Hunter","druid/pally","EP/GP"],
+			"prio":["Hunter/druid/pally","EP/GP"],
 			"gp":"8",
 			"wowID":"22359"
 		},
@@ -451,7 +451,7 @@
 			"wowID":"22369"
 		},
 		"Desecrated Wristguards":{
-      			"prio":["Hunters","druid/pally","EP/GP"],
+      			"prio":["Hunters/druid/pally","EP/GP"],
 			"gp":"8",
 			"wowID":"22362"
 		}
@@ -517,7 +517,7 @@
 			"wowID":"22371"
 		},
 		"Desecrated Handguards":{
-			"prio":["Hunter","druid/pally","EP/GP"],
+			"prio":["Hunter/druid/pally","EP/GP"],
 			"gp":"8",
 			"wowID":"22364"
 		},
@@ -646,7 +646,7 @@
 			"wowID":"23063"
 		},
 		"Ring of Faith":{
-			"prio":["Shraps(2)","Jessie(2)","Jaz(1)","Mazzo(1)","Priest Healer EP/GP"],
+			"prio":["Doctorjaz(crush)","Mazzo(crush)","Shraps(sunnyD)","Jessie(sunnyD)","Priest Healer EP/GP"],
 			"gp":"6",
 			"wowID":"23061"
 		},
