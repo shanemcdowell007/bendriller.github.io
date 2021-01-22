@@ -48,7 +48,7 @@
 	},
 	"Miscellaneous":{
 		"Dreadnaught 4 pc":{
-			"prio":["Enf","Chrixus","Bonzai"],
+			"prio":["Chrixus","Bonzai"],
 			"gp":"10",
 			"wowID":""
 		},
@@ -163,7 +163,7 @@
 			"wowID":"22353"
 		},
 		"Desecrated Headpiece":{
-			"prio":["Doligrian","Pally/Druid/Hunter","EP/GP"],
+			"prio":["Pally/Druid/Hunter","EP/GP"],
 			"gp":"8",
 			"wowID":"22360"
 		},
@@ -458,7 +458,7 @@
 	},
 	"Anub'Rekhan":{
 		"Band of Unanswered Prayers":{
-			"prio":["Healers W/O at least 1 bis epic ring","Jessie(2)","Snibbler(2)","Nisio(2)","Navia(1)","Druid Priest Healers EP/GP"],
+			"prio":["Healers W/O at least 1 bis epic ring","Jessie(2)","Snibbler(2)","Nisio(2)","Druid Priest Healers EP/GP"],
 			"gp":"6",
 			"wowID":"22939"
 		},
