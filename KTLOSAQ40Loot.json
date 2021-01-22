@@ -597,7 +597,7 @@
 			"wowID":"21582"
 		},
 		"Belt of Never-ending Agony":{
-			"prio":["Rogues->Feral","EP/GP"]
+			"prio":["Rogues->Feral","EP/GP"],
 			"gp":"10",
 			"wowID":"21586"
 		},
