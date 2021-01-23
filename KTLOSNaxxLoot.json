@@ -387,7 +387,7 @@
 			"wowID":"23023"
 		},
 		"The Soul Harvester's Bindings":{
-			"prio":["Blondi";"EP/GP"],
+			"prio":["Blondi","EP/GP"],
 			"gp":"6",
 			"wowID":"23021"
 		}
