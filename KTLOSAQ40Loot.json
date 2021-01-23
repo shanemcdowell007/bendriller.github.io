@@ -379,7 +379,7 @@
 			"wowID":"20928"
 		},
 		"Qiraji Bindings of Dominance":{
-			"prio":["Warlock(shoulders)->Mages(boots)>Ret Pally","EP/GP"],
+			"prio":["Warlock(shoulders)","Mages(boots)","EP/GP"],
 			"gp":"8, 5 (pally)",
 			"wowID":"20932"
 		}
@@ -406,7 +406,7 @@
 			"wowID":"21617"
 		},
 		"Ring of the Martyr":{
-			"prio":["Fruithunni","Blaziken","EP/GP"],
+			"prio":["Blaziken","EP/GP"],
 			"gp":"6",
 			"wowID":"21620"
 		}, 
@@ -423,7 +423,7 @@
 			"wowID":"21598"
 		},
 		"Amulet of Veknilash":{
-			"prio":["Blacklisted","Coxy","Mages/Warlocks","EP/GP"],
+			"prio":["Blacklisted","Coxxy","Mages/Warlocks","EP/GP"],
 			"gp":"8",
 			"wowID":"21608"
 		},
@@ -438,7 +438,7 @@
 			"wowID":"21599"
 		},
 		"Royal Scepter of Vek'lor":{
-			"prio":["Austeezy","Blacklisted","EP/GP"],
+			"prio":["EP/GP"],
 			"gp":"8",
 			"wowID":"21597"
 		},
@@ -495,7 +495,7 @@
 	},
 	"Ouro":{
 		"Don Rigoberto's Lost Hat":{
-			"prio":["Wildhealer","Jowsus","Priest and Druid Prio Healers","EP/GP"],
+			"prio":["Priest and Druid Prio Healers","EP/GP"],
 			"gp":"8",
 			"wowID":"21615"
 		},
@@ -537,7 +537,7 @@
 	},
 	"Cthun":{
 		"Eye of C'Thun":{
-			"prio":["Caster=Healer=Hunters=Tanks=Rogue, >Warrior DPS","EP/GP"],
+			"prio":["EP/GP"],
 			"gp":"6",
 			"wowID":"21221"
 		},
@@ -572,7 +572,7 @@
 			"wowID":"21581"
 		},
 		"Scepter of the False Prophet":{
-			"prio":["Mazzo","Lianli","Celesdea","Thrane","Kare","EP/GP"],
+			"prio":["Mazzo","Celesdea","Thrane","Kare","EP/GP"],
 			"gp":"18",
 			"wowID":"21839"
 		},
@@ -587,7 +587,7 @@
 			"wowID":"21583" 
 		},
 		"Dark Storm Gauntlets":{
-			"prio":["blondi","Rasberry","EP/GP"],
+			"prio":["blondi","EP/GP"],
 			"gp":"10",
 			"wowID":"21585" 
 		},
