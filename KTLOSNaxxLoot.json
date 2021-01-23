@@ -60,7 +60,7 @@
 	},
 	"Abomination Quarter Shared":{
 		"Desecrated Shoulderpads":{
-			"prio":["Warlock/Priest(2)","Coxxy(1)","Mazzo(1)","Austeezy(1)","Navia(1)","priest","LC","EP/GP"],
+			"prio":["Warlock/Priest(2)","Coxxy(1)","Mazzo(1)","Navia(1)","priest","LC","EP/GP"],
 			"gp":"8",
 			"wowID":"22368"
 		},
@@ -97,7 +97,7 @@
 			"wowID":"22818"
 		},
 		"Wand of Fates":{
-			"prio":["Coxxy(1)","Blondi(1)","Austeezy(1)","Warlocks","EP/GP"],
+			"prio":["Coxxy(1)","Blondi(1)","Warlocks","EP/GP"],
 			"gp":"6",
 			"wowID":"22820"
 		}
@@ -387,7 +387,7 @@
 			"wowID":"23023"
 		},
 		"The Soul Harvester's Bindings":{
-			"prio":["Meow","Alters","EP/GP"],
+			"prio":["Blondi","EP/GP"],
 			"gp":"6",
 			"wowID":"23021"
 		}
@@ -399,7 +399,7 @@
 			"wowID":"22349"
 		},
 		"Desecrated Robe":{
-			"prio":["Blacklisted(1)","Locks/Mages(2)","Wildhealer(1)","Meow","LC","EP/GP"],
+			"prio":["Locks/Mages(2)","Wildhealer(1)","Meow","Blondi","LC","EP/GP"],
 			"gp":"8",
 			"wowID":"22351"
 		},
@@ -547,7 +547,7 @@
 			"wowID":"22947"
 		},
 		"Wraith blade":{
-			"prio":["Blacklisted(1)","Meow(1)","Austeezy(1)","EP/GP"],
+			"prio":["Blacklisted(1)","Meow(1)","EP/GP"],
 			"gp":"18",
 			"wowID":"22807"
 		}
@@ -599,7 +599,7 @@
 			"wowID":"23046"
 		},
 		"Sapphiron's Left Eye":{
-			"prio":["Blacklisted(1)","Austeezy(1)","Prestige(1)","EP/GP"],
+			"prio":["Blacklisted(1)","Prestige(1)","EP/GP"],
 			"gp":"10",
 			"wowID":"23049"
 		},
@@ -636,7 +636,7 @@
 			"wowID":"23060"
 		},
 		"Frostfire Ring":{
-			"prio":["meow(1)", "Theprestige(1)","Rahen(1)","EP/GP"],
+			"prio":["Meow(1)","Theprestige(1)","Rahen(1)","EP/GP"],
 			"gp":"6",
 			"wowID":"23062"
 		},
@@ -671,7 +671,7 @@
 			"wowID":"23064"
 		},
 		"Doomfinger":{
-			"prio":["Meow(1)", "Theprestige(1)", "Alters(1)","James Bond","Blacklisted(1)","EP/GP"],
+			"prio":["Meow(1)", "Theprestige(1)", "Alters(1)","Blondi(1)","James Bond","EP/GP"],
 			"gp":"8",
 			"wowID":"22821"
 		},
