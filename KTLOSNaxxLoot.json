@@ -48,12 +48,12 @@
 	},
 	"Miscellaneous":{
 		"Dreadnaught 4 pc":{
-			"prio":["Chrixus","Bonzai"],
+			"prio":["Bonzai"],
 			"gp":"10",
 			"wowID":""
 		},
 		"Splinter of Atiesh":{
-			"prio":["Coxxy(1)","Blacklisted(1)","Moxie(2)","EP/GP"],
+			"prio":["Blacklisted(1)","Moxie(2)","Kruzctrl(2)","EP/GP"],
 			"gp":"1",
 			"wowID":"22726"
 		}
@@ -97,7 +97,7 @@
 			"wowID":"22818"
 		},
 		"Wand of Fates":{
-			"prio":["Coxxy(1)","Blondi(1)","Warlocks","EP/GP"],
+			"prio":["Blondi(1)","Warlocks","EP/GP"],
 			"gp":"6",
 			"wowID":"22820"
 		}
@@ -188,12 +188,12 @@
 			"wowID":"23000"
 		},
 		"Spire of Twilight":{
-			"prio":["EP/GP"],
+			"prio":["Fruithunni(1)","Wildhealer(1)","EP/GP"],
 			"gp":"12",
 			"wowID":"22801"
 		},
 		"The Castigator":{
-			"prio":["LC","Human Fury Warr","EP/GP"],
+			"prio":["Morphiend(2)","LC","Human Fury Warr","EP/GP"],
 			"gp":"16",
 			"wowID":"22808"
 		}
@@ -237,7 +237,7 @@
 			"wowID":"22816"
 		},
 		"Libram of Light":{
-			"prio":["Lianli(1)","Soldeia(2)","Healer EP/GP"],
+			"prio":["Lianli(1)","Healer EP/GP"],
 			"gp":"6",
 			"wowID":"23006"
 		},
@@ -254,7 +254,7 @@
 			"wowID":"23019"
 		},
 		"Icy Scale Coif":{
-			"prio":["Oph(1)","EP/GP"],
+			"prio":["EP/GP"],
 			"gp":"0",
 			"wowID":"23033"
 		},
@@ -291,7 +291,7 @@
 			"wowID":"22352"
 		},
 		"Band of Unnatural Forces":{
-			"prio":["Killstep(sunnyD)","Johnscar(sunnyD)","Rogues","LC","EP/GP"],
+			"prio":["Shadowsfade(1)","Rogues","LC","EP/GP"],
 			"gp":"8",
 			"wowID":"23038"
 		},
@@ -328,7 +328,7 @@
 			"wowID":"22365"
 		},
 		"Desecrated Sabatons":{
-			"prio":["4h Tanks","Johnscar(sunnyD)","Killstep(sunnyD)","LC","EP/GP"],
+			"prio":["4h Tanks","Killstep(sunnyD)","LC","EP/GP"],
 			"gp":"8",
 			"wowID":"22358"
 		}
@@ -345,7 +345,7 @@
 			"wowID":"23014"
 		},
 		"Idol of Longevity":{
-			"prio":["Celesdea(1)","EP/GP"],
+			"prio":["EP/GP"],
 			"gp":"6",
 			"wowID":"23004"
 		},
@@ -399,7 +399,7 @@
 			"wowID":"22349"
 		},
 		"Desecrated Robe":{
-			"prio":["Locks/Mages(2)","Wildhealer(1)","Meow","Blondi","LC","EP/GP"],
+			"prio":["Locks/Mages(2)","Blacklisted(1)","Wildhealer(1)","Meow","Blondi","LC","EP/GP"],
 			"gp":"8",
 			"wowID":"22351"
 		},
@@ -424,17 +424,17 @@
 			"wowID":"22809"
 		},
 		"Seal of the Damned":{
-			"prio":["Kuku(1)","Austeezy(1)","Blacklisted(1)","Warlocks","EP/GP"],
+			"prio":["Blacklisted(1)","Warlocks","EP/GP"],
 			"gp":"6",
 			"wowID":"23025"
 		}, 
 		"Soulstring":{
-			"prio":["Vesterx(1)","Bendriller(sunnyD)","LC","EP/GP"],
+			"prio":["Vesterx(1)","LC","EP/GP"],
 			"gp":"6",
 			"wowID":"22811"
 		}, 
 		"Warmth of Forgiveness":{
-			"prio":["Healers without Rejuv gem + Eye of the dead","Wildhealer(1)","Mazzo(1)","Celesdea(1)","Kare(1)","Nisio(2)","Snibbler(2)","Priest Druid Healers","EP/GP"],
+			"prio":["Healers without Rejuv gem + Eye of the dead","Wildhealer(1)","Mazzo(1)","Celesdea(1)","Kare(1)","Nisio(2)","Snibbler(2)","LC","Priest Druid Healers","EP/GP"],
 			"gp":"6",
 			"wowID":"23027"
 		}
@@ -478,7 +478,7 @@
 			"wowID":"22935"
 		},
 		"Wristguards of Vengeance":{
-			"prio":["Dill(1)","Healslol(1)","Warrior DPS","LC","EP/GP"],
+			"prio":["Warrior DPS w/o Hive Defilers","LC","EP/GP"],
 			"gp":"5",
 			"wowID":"22936"
 		}
@@ -500,12 +500,12 @@
 			"wowID":"22941"
 		},
 		"The Widow's Embrace":{
-			"prio":["Claris(1)","Wildhealer(1)","Healers", "EP/GP"],
+			"prio":["Claris(1)","Wildhealer(1)","Blaz(1)","Disthania(1)","Fruithunni(1)","Healers", "EP/GP"],
 			"gp":"12",
 			"wowID":"22942"
 		},
 		"Widow's Remorse":{
-			"prio":["Brienne(1)","EP/GP"],
+			"prio":["EP/GP"],
 			"gp":"8",
 			"wowID":"22806"
 		}
@@ -547,7 +547,7 @@
 			"wowID":"22947"
 		},
 		"Wraith blade":{
-			"prio":["Blacklisted(1)","Meow(1)","EP/GP"],
+			"prio":["Blacklisted(1)","EP/GP"],
 			"gp":"18",
 			"wowID":"22807"
 		}
@@ -584,7 +584,7 @@
 			"wowID":"23050"
 		},
 		"Eye of the Dead":{
-			"prio":["Healers without Rejuv gem + Warmth", "Claris(1)","Soldeia(2)","Darkdwarf(2)","Jaz(1)","Healers EP/GP"],
+			"prio":["Healers without Rejuv gem + Warmth","Soldeia(2)","Darkdwarf(2)","Jaz(1)","Fruithunni(1)","(LC)","Healers EP/GP"],
 			"gp":"10", 
 			"wowID":"23047" 
 		},
@@ -594,7 +594,7 @@
 			"wowID":"23040"
 		},
 		"Restrained Essence of Sapphiron":{
-			"prio":["Blacklisted(1)","Meow(1)","prestige","EP/GP"],
+			"prio":["Meow(1)","prestige","EP/GP"],
 			"gp":"15",
 			"wowID":"23046"
 		},
@@ -604,7 +604,7 @@
 			"wowID":"23049"
 		},
 		"Sapphiron's Right Eye":{
-			"prio":["Healers must have a main hand first!","Nisio(2)","Darkdwarf(2)","Peku(2)","Jowsus(1)","Mazzo(1)","Healer EP/GP"],
+			"prio":["Healers must have a main hand first!","Darkdwarf(2)","Peku(2)","Jowsus(1)","Mazzo(1)","Healer EP/GP"],
 			"gp":"10",
 			"wowID":"23048" 
 		},
@@ -614,19 +614,19 @@
 			"wowID":"23045" 
 		},
 		"Slayer's Crest":{
-			"prio":["Melee without DFT + Kiss","Johnscar(sunnyD)","LC","Rogues","EP/GP"],
+			"prio":["Melee without DFT + Kiss","Sniped(1)","LC","Rogues","EP/GP"],
 			"gp":"10",
 			"wowID":"23041"
 		},
 		"The Face of Death":{
-			"prio":["Brienne(1)","Aisli(1)","Frau(2)","Tanks","LC","EP/GP"],
+			"prio":["Frau(2)","Tanks","LC","EP/GP"],
 			"gp":"10",
 			"wowID":"23043"
 		}
 	},
 	"Kel'Thuzad":{
 		"The Phylactery of Kel'Thuzad":{
-			"prio":["Killstep(sunnyD)","LC","EP/GP"],
+			"prio":["EP/GP"],
 			"gp":"6",
 			"wowID":"22520"
 		},
@@ -636,7 +636,7 @@
 			"wowID":"23060"
 		},
 		"Frostfire Ring":{
-			"prio":["Meow(1)","Theprestige(1)","Rahen(1)","EP/GP"],
+			"prio":["Theprestige(1)","Raehn(1)","EP/GP"],
 			"gp":"6",
 			"wowID":"23062"
 		},
@@ -646,7 +646,7 @@
 			"wowID":"23063"
 		},
 		"Ring of Faith":{
-			"prio":["Doctorjaz(crush)","Mazzo(crush)","Shraps(sunnyD)","Jessie(sunnyD)","Priest Healer EP/GP"],
+			"prio":["Doctorjaz(crush)","Mazzo(crush)","Jessie(sunnyD)","Priest Healer EP/GP"],
 			"gp":"6",
 			"wowID":"23061"
 		},
@@ -656,7 +656,7 @@
 			"wowID":"23066"
 		},
 		"Ring of the Cryptstalker":{
-			"prio":["EP/GP"],
+			"prio":["Mavan","EP/GP"],
 			"gp":"6",
 			"wowID":"23067"
 		},
@@ -666,7 +666,7 @@
 			"wowID":"23059"
 		},
 		"Ring of the Dreamwalker":{
-			"prio":["Kare(1)","EP/GP"],
+			"prio":["EP/GP"],
 			"gp":"3",
 			"wowID":"23064"
 		},
@@ -686,7 +686,7 @@
 			"wowID":"23054"
 		},
 		"Hammer of the Twisting Nether":{
-			"prio":["Jaz(1)","Jowsus(1)","Mazzo(1)","Peku(2)","Madline(2)","Thrane(2)","Healers to EP/GP"],
+			"prio":["Jowsus(1)","Mazzo(1)","Wildhealer(1 -if no WE)","Kare(1)","Peku(2)","Madline(2)","Thrane(2)","Healers to EP/GP"],
 			"gp":"18",
 			"wowID":"23056"
 		},
@@ -696,12 +696,12 @@
 			"wowID":"22802"
 		},
 		"Might of Menethil":{
-			"prio":["Dillmcpickle(1)","LC","EP/GP"],
+			"prio":["LC","EP/GP"],
 			"gp":"20",
 			"wowID":"22798"
 		},
 		"Nerubian Slavemaker":{
-			"prio":["Hunter","LC","EP/GP"],
+			"prio":["Millzz(2)","Hunter","LC","EP/GP"],
 			"gp":"20",
 			"wowID":"22812"
 		},
@@ -711,7 +711,7 @@
 			"wowID":"22819"
 		},
 		"Soulseeker":{
-			"prio":["Alters(1)","Rhaen(1)","Mage Prio over warlocks EPGP","EP/GP"],
+			"prio":["Rhaen(1)","Mage Prio over warlocks EPGP","EP/GP"],
 			"gp":"18",
 			"wowID":"22799"
 		},
@@ -721,7 +721,7 @@
 			"wowID":"23053"
 		},
 		"The Hungering Cold":{
-			"prio":["Snydicate(crush)","Bendriller(sunnyD)","Dill(1)","Vajeen(1)","LC","EP/GP"],
+			"prio":["Snydicate(crush)","Dill(1)","Vajeen(1)","LC","EP/GP"],
 			"gp":"18",
 			"wowID":"23577"
 		}
