@@ -257,7 +257,7 @@
 			"wowID":"19350"
 		},
 		"Maladath, Runed Blade of the Black Flight":{
-			"prio":["Beeny(2)","Vajeen(1)","Jsleazy(2)","LC","Human Warr/Non-human Rogue","EP/GP"],
+			"prio":["Beeny(2)","Vajeen(1)","LC","Human Warr/Non-human Rogue","EP/GP"],
 			"gp":"12",
 			"wowID":"19351"
 		},
@@ -379,7 +379,7 @@
 			"wowID":"19345"
 		},
 		"Drake Fang Talisman":{
-			"prio":["Quigbert(2)","LC","EP/GP"],
+			"prio":["Numelin","LC","EP/GP"],
 			"gp":"10",
 			"wowID":"19406"
 		},
