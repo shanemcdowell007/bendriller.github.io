@@ -612,7 +612,7 @@
 			"wowID":"21134"
 		},
 		"Death's Sting":{
-			"prio":["Destain","Shadowsfade","LC/Rogues","EP/GP"],
+			"prio":["Shadowsfade","LC/Rogues","EP/GP"],
 			"gp":"18",
 			"wowID":"21126"
 		}
