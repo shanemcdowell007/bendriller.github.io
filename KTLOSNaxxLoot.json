@@ -340,7 +340,7 @@
 			"wowID":"23219"
 		},
 		"Iblis, Blade of the Fallen Seraph":{
-			"prio":["Johnscar(sunnyD)","Vajeen(1)","Human Sword Rogues-> Human Fury","LC","EP/GP"],
+			"prio":["Vajeen(1)","Human Sword Rogues-> Human Fury","LC","EP/GP"],
 			"gp":"12",
 			"wowID":"23014"
 		},
@@ -522,7 +522,7 @@
 			"wowID":"22364"
 		},
 		"Desecrated Gauntlets":{
-			"prio":["Tanks->DPS Warrior 4horsemen tanks","Johnscar(sunnyD)","EP/GP"],
+			"prio":["Tanks->DPS Warrior 4horsemen tanks","EP/GP"],
 			"gp":"8",
 			"wowID":"22357"
 		},
@@ -721,7 +721,7 @@
 			"wowID":"23053"
 		},
 		"The Hungering Cold":{
-			"prio":["Snydicate(crush)","Dill(1)","Vajeen(1)","LC","EP/GP"],
+			"prio":["Snydicate(crush)","Beeny(2)","Dill(1)","Vajeen(1)","LC","EP/GP"],
 			"gp":"18",
 			"wowID":"23577"
 		}
