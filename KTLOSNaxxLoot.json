@@ -119,7 +119,7 @@
 			"wowID":"22803"
 		},
 		"The End of Dreams":{
-			"prio":["Celesdea(1)","Shadow","EP/GP"],
+			"prio":["Celesdea(1)","Blaz(1)","Slap(1)","Shadow","EP/GP"],
 			"gp":"16",
 			"wowID":"22988"
 		},
@@ -168,7 +168,7 @@
 			"wowID":"22360"
 		},
 		"Desecrated Circlet":{
-			"prio":["Lock/Mage(2)","Thedoctorjaz(1)", "Blondi","EP/GP"],
+			"prio":["Lock/Mage(2)","Blondi","EP/GP"],
 			"gp":"8",
 			"wowID":"22367"
 		},
@@ -434,7 +434,7 @@
 			"wowID":"22811"
 		}, 
 		"Warmth of Forgiveness":{
-			"prio":["Healers without Rejuv gem + Eye of the dead","Wildhealer(1)","Mazzo(1)","Celesdea(1)","Kare(1)","Nisio(2)","Snibbler(2)","LC","Priest Druid Healers","EP/GP"],
+			"prio":["Healers without Rejuv gem + Eye of the dead","Wildhealer(1)","Mazzo(1)","Celesdea(1)","Nisio(2)","Snibbler(2)","LC","Priest Druid Healers","EP/GP"],
 			"gp":"6",
 			"wowID":"23027"
 		}
