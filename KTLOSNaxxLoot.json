@@ -242,7 +242,7 @@
 			"wowID":"23006"
 		},
 		"Noth's Frigid Heart":{
-			"prio":["Peku(2)","LC","EP/GP"],
+			"prio":["LC","EP/GP"],
 			"gp":"4",
 			"wowID":"23029"
 		}
@@ -360,7 +360,7 @@
 			"wowID":"23017"
 		},
 		"Wand of the Whispering Dead":{
-			"prio":["Mazzo(1)","Darkdwarf(2)","DocJaz(1)","Snibbler(2)","EP/GP"],
+			"prio":["Mazzo(1)","DocJaz(1)","Snibbler(2)","LC","EP/GP"],
 			"gp":"6",
 			"wowID":"23009"
 		}
@@ -434,7 +434,7 @@
 			"wowID":"22811"
 		}, 
 		"Warmth of Forgiveness":{
-			"prio":["Healers without Rejuv gem + Eye of the dead","Wildhealer(1)","Mazzo(1)","Celesdea(1)","Nisio(2)","Snibbler(2)","LC","Priest Druid Healers","EP/GP"],
+			"prio":["Healers without Rejuv gem + Eye of the dead","Wildhealer(1)","Mazzo(1)","Celesdea(1)","Snibbler(2)","LC","Priest Druid Healers","EP/GP"],
 			"gp":"6",
 			"wowID":"23027"
 		}
@@ -458,7 +458,7 @@
 	},
 	"Anub'Rekhan":{
 		"Band of Unanswered Prayers":{
-			"prio":["Healers W/O at least 1 bis epic ring","Jessie(2)","Snibbler(2)","Nisio(2)","Druid Priest Healers EP/GP"],
+			"prio":["Healers W/O at least 1 bis epic ring","Jessie(2)","Snibbler(2)","LC","Druid Priest Healers EP/GP"],
 			"gp":"6",
 			"wowID":"22939"
 		},
@@ -584,7 +584,7 @@
 			"wowID":"23050"
 		},
 		"Eye of the Dead":{
-			"prio":["Healers without Rejuv gem + Warmth","Soldeia(2)","Darkdwarf(2)","Jaz(1)","Fruithunni(1)","Celesdea(1)","(LC)","Healers EP/GP"],
+			"prio":["Healers without Rejuv gem + Warmth","Darkdwarf(2)","Jaz(1)","Fruithunni(1)","Celesdea(1)","LC","Healers EP/GP"],
 			"gp":"10", 
 			"wowID":"23047" 
 		},
@@ -604,7 +604,7 @@
 			"wowID":"23049"
 		},
 		"Sapphiron's Right Eye":{
-			"prio":["Healers must have a main hand first!","Peku(2)","Mazzo(1)w/MH","Jaz(1)","Healer EP/GP"],
+			"prio":["Healers must have a main hand first!","Peku(2)","Madline(2)","Mazzo(1)w/MH","Jaz(1)","LC","Healer EP/GP"],
 			"gp":"10",
 			"wowID":"23048" 
 		},
@@ -686,7 +686,7 @@
 			"wowID":"23054"
 		},
 		"Hammer of the Twisting Nether":{
-			"prio":["Jowsus(1)","Mazzo(1)","Wildhealer(1 -if no WE)","Kare(1)","Madline(2)","Thrane(2)","Healers to EP/GP"],
+			"prio":["Jowsus(1)","Mazzo(1)","Wildhealer(1 -if no WE)","Kare(1)","Thrane(2)","LC","Healers to EP/GP"],
 			"gp":"18",
 			"wowID":"23056"
 		},
