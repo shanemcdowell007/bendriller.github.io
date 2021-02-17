@@ -65,7 +65,7 @@
 			"wowID":"22368"
 		},
 		"Desecrated Pauldrons":{
-			"prio":["4h Tanks","Bendriller(sunnyD)","LC","EP/GP"],
+			"prio":["4h Tanks","LC","EP/GP"],
 			"gp":"8",
 			"wowID":"22354"
 		},
@@ -328,7 +328,7 @@
 			"wowID":"22365"
 		},
 		"Desecrated Sabatons":{
-			"prio":["4h Tanks","Killstep(sunnyD)","LC","EP/GP"],
+			"prio":["4h Tanks","LC","EP/GP"],
 			"gp":"8",
 			"wowID":"22358"
 		}
@@ -394,7 +394,7 @@
 	},
 	"Four Horsemen":{
 		"Desecrated Breastplate":{
-			"prio":["Tanks","Killstep(2)","LC","EP/GP"],
+			"prio":["Tanks","LC","EP/GP"],
 			"gp":"8",
 			"wowID":"22349"
 		},
@@ -441,7 +441,7 @@
 	},
 	"Arachnid Quarter Shared":{
 		"Desecrated Bracers":{
-			"prio":["4h Tanks","LC","Bendriller(sunnyD)","Johnscar(sunnyD)","EP/GP"],
+			"prio":["4h Tanks","LC","EP/GP"],
 			"gp":"8",
 			"wowID":"22355"
 		},
