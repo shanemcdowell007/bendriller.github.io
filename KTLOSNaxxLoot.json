@@ -60,7 +60,7 @@
 	},
 	"Abomination Quarter Shared":{
 		"Desecrated Shoulderpads":{
-			"prio":["Warlock/Priest(2)","Coxxy(1)","Mazzo(1)","Navia(1)","priest","LC","EP/GP"],
+			"prio":["Warlock/Priest(2)","Mazzo(1)","Navia(1)","priest","LC","EP/GP"],
 			"gp":"8",
 			"wowID":"22368"
 		},
@@ -82,7 +82,7 @@
 			"wowID":"22961"
 		},
 		"Cloak of Suturing":{
-			"prio":["Healers without cloak of clarity","Mazzo(1)","Snibbler(2)","Peku(2)","Wildhealer(1)","jessiemen(2)","Celesdea(1)","Healer EP/GP"],
+			"prio":["Healers without cloak of clarity","Snibbler(2)","Peku(2)","Wildhealer(1)","jessiemen(2)","Celesdea(1)","Healer EP/GP"],
 			"gp":"6",
 			"wowID":"22960"
 		},
@@ -178,7 +178,7 @@
 			"wowID":"23001"
 		},
 		"Leggings of Polarity":{
-			"prio":["Rhaen(1)","Meowingtons(1)","Theprestige(1)","Blacklisted(1)","Warlocks and Mages","EP/GP"],
+			"prio":["Meowingtons(1)","Theprestige(1)","Blacklisted(1)","Warlocks and Mages","EP/GP"],
 			"gp":"8",
 			"wowID":"23070"
 		},
@@ -360,7 +360,7 @@
 			"wowID":"23017"
 		},
 		"Wand of the Whispering Dead":{
-			"prio":["Mazzo(1)","DocJaz(1)","Snibbler(2)","LC","EP/GP"],
+			"prio":["DocJaz(1)","Snibbler(2)","LC","EP/GP"],
 			"gp":"6",
 			"wowID":"23009"
 		}
@@ -584,7 +584,7 @@
 			"wowID":"23050"
 		},
 		"Eye of the Dead":{
-			"prio":["Healers without Rejuv gem + Warmth","Darkdwarf(2)","Jaz(1)","Fruithunni(1)","Celesdea(1)","LC","Healers EP/GP"],
+			"prio":["Healers without Rejuv gem + Warmth","Darkdwarf(2)","Vael(2)","Shraps(2)","Fruithunni(1)","Celesdea(1)","LC","Healers EP/GP"],
 			"gp":"10", 
 			"wowID":"23047" 
 		},
@@ -651,7 +651,7 @@
 			"wowID":"23061"
 		},
 		"Ring of Redemption":{
-			"prio":["Vael(2)","Lianli(1)","Soldeia(2)","Pally Healer EP/GP"],
+			"prio":["Blaz(1)","Doli(1)","Vael(2)","Soldeia(2)","Pally Healer EP/GP"],
 			"gp":"6",
 			"wowID":"23066"
 		},
