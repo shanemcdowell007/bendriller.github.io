@@ -291,7 +291,7 @@
 			"wowID":"22352"
 		},
 		"Band of Unnatural Forces":{
-			"prio":["Shadowsfade(1)","Rogues","LC","EP/GP"],
+			"prio":["Shadowsfade(1)","Devilspebble(1)","Rogues","LC","EP/GP"],
 			"gp":"8",
 			"wowID":"23038"
 		},
@@ -614,7 +614,7 @@
 			"wowID":"23045" 
 		},
 		"Slayer's Crest":{
-			"prio":["Melee without DFT + Kiss","Sniped(1)","LC","Rogues","EP/GP"],
+			"prio":["Melee without DFT + Kiss","Aviendha(1)","Devilspebble(1)","LC","Rogues","EP/GP"],
 			"gp":"10",
 			"wowID":"23041"
 		},
@@ -631,7 +631,7 @@
 			"wowID":"22520"
 		},
 		"Bonescythe Ring":{
-			"prio":["Killstep(sunnyD)","LC","EP/GP"],
+			"prio":["LC","EP/GP"],
 			"gp":"6",
 			"wowID":"23060"
 		},
