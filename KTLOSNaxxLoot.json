@@ -151,7 +151,7 @@
 			"wowID":"22981"
 		},
 		"Rime covered Mantle":{
-			"prio":["Meow(1)","Rhaen(1)","Theprestige(1)","Rasbeary(1)","Mages","EP/GP"],
+			"prio":["Rhaen(1)","Theprestige(1)","Rasbeary(1)","Mages","EP/GP"],
 			"gp":"10",
 			"wowID":"22983"
 		}
@@ -168,7 +168,7 @@
 			"wowID":"22360"
 		},
 		"Desecrated Circlet":{
-			"prio":["Lock/Mage(2)","Blondi","EP/GP"],
+			"prio":["Lock/Mage(2)","EP/GP"],
 			"gp":"8",
 			"wowID":"22367"
 		},
@@ -183,7 +183,7 @@
 			"wowID":"23070"
 		},
 		"Plated Abomination Ribcage":{
-			"prio":["Vajeen(1)","Vesterx(1)","LC","Fury->Tank","EP/GP"],
+			"prio":["Vajeen(1)","LC","Fury->Tank","EP/GP"],
 			"gp":"10",
 			"wowID":"23000"
 		},
@@ -399,7 +399,7 @@
 			"wowID":"22349"
 		},
 		"Desecrated Robe":{
-			"prio":["Locks/Mages(2)","Wildhealer(1)","Meow","Blondi","LC","EP/GP"],
+			"prio":["Locks/Mages(2)","The Prestige(1)","Mazzo(1)","LC","EP/GP"],
 			"gp":"8",
 			"wowID":"22351"
 		},
@@ -424,7 +424,7 @@
 			"wowID":"22809"
 		},
 		"Seal of the Damned":{
-			"prio":["Blacklisted(1)","Warlocks","EP/GP"],
+			"prio":["Warlocks","EP/GP"],
 			"gp":"6",
 			"wowID":"23025"
 		}, 
@@ -604,7 +604,7 @@
 			"wowID":"23049"
 		},
 		"Sapphiron's Right Eye":{
-			"prio":["Healers must have a main hand first!","Peku(2)","Madline(2)","Mazzo(1)w/MH","Jaz(1)","LC","Healer EP/GP"],
+			"prio":["Healers must have a main hand first!","Peku(2)","Madline(2)","Mazzo(1)w/MH","Kare(1)","LC","Healer EP/GP"],
 			"gp":"10",
 			"wowID":"23048" 
 		},
@@ -671,7 +671,7 @@
 			"wowID":"23064"
 		},
 		"Doomfinger":{
-			"prio":["Meow(1)", "Theprestige(1)", "Alters(1)","Blondi(1)","James Bond","EP/GP"],
+			"prio":["Theprestige(1)", "Alters(1)","Blondi(1)","James Bond","EP/GP"],
 			"gp":"8",
 			"wowID":"22821"
 		},
@@ -721,7 +721,7 @@
 			"wowID":"23053"
 		},
 		"The Hungering Cold":{
-			"prio":["Snydicate(crush)","Beeny(2)","Dill(1)","Vajeen(1)","LC","EP/GP"],
+			"prio":["Beeny(2)","Dill(1)","Vajeen(1)","LC","EP/GP"],
 			"gp":"18",
 			"wowID":"23577"
 		}
