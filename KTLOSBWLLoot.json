@@ -135,7 +135,7 @@
 			"wowID":"16933"
 		},
 		"Bloodfang Belt":{
-			"prio":["SilkyJohnsn(2)","BenDriller(1)","EP/GP"],
+			"prio":["EP/GP"],
 			"gp":"5",
 			"wowID":"16910"
 		},
@@ -379,7 +379,7 @@
 			"wowID":"19345"
 		},
 		"Drake Fang Talisman":{
-			"prio":["Numelin","LC","EP/GP"],
+			"prio":["Devilspebble","LC","EP/GP"],
 			"gp":"10",
 			"wowID":"19406"
 		},
