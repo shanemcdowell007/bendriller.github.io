@@ -259,7 +259,7 @@
 			"wowID":"23033"
 		},
 		"Legplates of Carnage":{
-			"prio":["Dill(1)","Healslol(1)","Fury Warr","EP/GP"],
+			"prio":["Healslol(1)","Fury Warr","EP/GP"],
 			"gp":"8",
 			"wowID":"23068"
 		},
@@ -584,7 +584,7 @@
 			"wowID":"23050"
 		},
 		"Eye of the Dead":{
-			"prio":["Healers without Rejuv gem + Warmth","Darkdwarf(2)","Vael(2)","Shraps(2)","Fruithunni(1)","Mazzo(1)","Celesdea(1)","LC","Healers EP/GP"],
+			"prio":["Healers without Rejuv gem + Warmth","Vael(2)","Shraps(2)","Fruithunni(1)","Mazzo(1)","Celesdea(1)","LC","Healers EP/GP"],
 			"gp":"10", 
 			"wowID":"23047" 
 		},
@@ -646,7 +646,7 @@
 			"wowID":"23063"
 		},
 		"Ring of Faith":{
-			"prio":["Mazzo(Crush)","Fruit(Crush)","Jessie(sunnyD)","Priest Healer EP/GP"],
+			"prio":["Mazzo(Crush)","Fruit(Crush)","Priest Healer EP/GP"],
 			"gp":"6",
 			"wowID":"23061"
 		},
