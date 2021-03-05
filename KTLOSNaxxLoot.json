@@ -178,7 +178,7 @@
 			"wowID":"23001"
 		},
 		"Leggings of Polarity":{
-			"prio":["Meowingtons(1)","Theprestige(1)","Blacklisted(1)","Warlocks and Mages","EP/GP"],
+			"prio":["Blacklisted(1)","Warlocks and Mages","EP/GP"],
 			"gp":"8",
 			"wowID":"23070"
 		},
@@ -291,7 +291,7 @@
 			"wowID":"22352"
 		},
 		"Band of Unnatural Forces":{
-			"prio":["Shadowsfade(1)","Rogues","LC","EP/GP"],
+			"prio":["Shadowsfade(1)","Healslol(1)","Rogues","LC","EP/GP"],
 			"gp":"8",
 			"wowID":"23038"
 		},
@@ -335,12 +335,12 @@
 	},
 	"Instructor Razuvious":{
 		"Girdle of the Mentor":{
-			"prio":["Warriors without Onslaught","Tanks","Fury Warrs","EP/GP"],
+			"prio":["Dill?(1)","Warriors without Onslaught","Tanks","Fury Warrs","EP/GP"],
 			"gp":"10",
 			"wowID":"23219"
 		},
 		"Iblis, Blade of the Fallen Seraph":{
-			"prio":["Vajeen(1)","Human Sword Rogues-> Human Fury","LC","EP/GP"],
+			"prio":["Vajeen(1)","Devils(1)","Human Sword Rogues-> Human Fury","LC","EP/GP"],
 			"gp":"12",
 			"wowID":"23014"
 		},
@@ -532,7 +532,7 @@
 			"wowID":"23220"
 		},
 		"Kiss of the Spider":{
-			"prio":["Melee without DFT + Slayers","Killstepp(1)","Dill(1)","Fury Warrior->Rogue","LC","EP/GP"],
+			"prio":["Melee without DFT + Slayers","Killstepp(1)","Fury Warrior->Rogue","LC","EP/GP"],
 			"gp":"10",
 			"wowID":"22954"
 		},
@@ -609,7 +609,7 @@
 			"wowID":"23048" 
 		},
 		"Shroud of Dominion":{
-			"prio":["Fury Warrs","LC R1","EP/GP"], 
+			"prio":["Vajeen(1)","Fury Warrs","LC R1","EP/GP"], 
 			"gp":"6", 
 			"wowID":"23045" 
 		},
@@ -619,7 +619,7 @@
 			"wowID":"23041"
 		},
 		"The Face of Death":{
-			"prio":["Frau(2)","Tanks","LC","EP/GP"],
+			"prio":["Frau(2)","Dill(1)","Tanks","LC","EP/GP"],
 			"gp":"10",
 			"wowID":"23043"
 		}
@@ -671,7 +671,7 @@
 			"wowID":"23064"
 		},
 		"Doomfinger":{
-			"prio":["Theprestige(1)", "Alters(1)","Blondi(1)","James Bond","EP/GP"],
+			"prio":["Alters(1)","Blondi(1)","James Bond","EP/GP"],
 			"gp":"8",
 			"wowID":"22821"
 		},
