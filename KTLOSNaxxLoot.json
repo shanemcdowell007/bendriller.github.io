@@ -60,7 +60,7 @@
 	},
 	"Abomination Quarter Shared":{
 		"Desecrated Shoulderpads":{
-			"prio":["Warlock/Priest(2)","Mazzo(1)","Navia(1)","priest","LC","EP/GP"],
+			"prio":["Warlock/Priest(2)","Navia(1)","priest","LC","EP/GP"],
 			"gp":"8",
 			"wowID":"22368"
 		},
@@ -82,7 +82,7 @@
 			"wowID":"22961"
 		},
 		"Cloak of Suturing":{
-			"prio":["Healers without cloak of clarity","Mazzo(1)","Snibbler(2)","Peku(2)","Wildhealer(1)","jessiemen(2)","Celesdea(1)","Healer EP/GP"],
+			"prio":["Healers without cloak of clarity","Snibbler(2)","Peku(2)","Wildhealer(1)","jessiemen(2)","Celesdea(1)","Healer EP/GP"],
 			"gp":"6",
 			"wowID":"22960"
 		},
@@ -188,7 +188,7 @@
 			"wowID":"23000"
 		},
 		"Spire of Twilight":{
-			"prio":["Fruithunni(1)","Wildhealer(1)","EP/GP"],
+			"prio":["Fruithunni(minor upgrade)","EP/GP"],
 			"gp":"12",
 			"wowID":"22801"
 		},
@@ -399,12 +399,12 @@
 			"wowID":"22349"
 		},
 		"Desecrated Robe":{
-			"prio":["Locks/Mages(2)","The Prestige(1)","Mazzo(1)","LC","EP/GP"],
+			"prio":["Locks/Mages(2)","LC","EP/GP"],
 			"gp":"8",
 			"wowID":"22351"
 		},
 		"Desecrated Tunic":{
-			"prio":["Thrane(1)","Pally/druid/hunter","EP/GP"],
+			"prio":["Pally/druid/hunter","EP/GP"],
 			"gp":"8",
 			"wowID":"22350"
 		},
@@ -434,7 +434,7 @@
 			"wowID":"22811"
 		}, 
 		"Warmth of Forgiveness":{
-			"prio":["Healers without Rejuv gem + Eye of the dead","Wildhealer(1)","Mazzo(1)","Celesdea(1)","Snibbler(2)","LC","Priest Druid Healers","EP/GP"],
+			"prio":["Healers without Rejuv gem + Eye of the dead","Celesdea(1)","Mazzo(1)","LC","Priest Druid Healers","EP/GP"],
 			"gp":"6",
 			"wowID":"23027"
 		}
@@ -604,7 +604,7 @@
 			"wowID":"23049"
 		},
 		"Sapphiron's Right Eye":{
-			"prio":["Healers must have a main hand first!","Peku(2)","Madline(2)","Mazzo(1)w/MH","Kare(1)","LC","Healer EP/GP"],
+			"prio":["Healers must have a main hand first!","Peku(2)","Madline(2)","Mazzo(1)w/MH","LC","Healer EP/GP"],
 			"gp":"10",
 			"wowID":"23048" 
 		},
@@ -646,7 +646,7 @@
 			"wowID":"23063"
 		},
 		"Ring of Faith":{
-			"prio":["Mazzo(Crush)","Fruit(Crush)","Priest Healer EP/GP"],
+			"prio":["Fruit(Crush)","Priest Healer EP/GP"],
 			"gp":"6",
 			"wowID":"23061"
 		},
@@ -686,7 +686,7 @@
 			"wowID":"23054"
 		},
 		"Hammer of the Twisting Nether":{
-			"prio":["Jowsus(1)","Mazzo(1)","Wildhealer(1 -if no WE)","Kare(1)","Thrane(2)","Shraps(2)","Vael(2)","LC","Healers to EP/GP"],
+			"prio":["Jowsus(1)","Mazzo(1)","Blaz(1)","Kare(1)","Thrane(2)","Shraps(2)","Vael(2)","LC","Healers to EP/GP"],
 			"gp":"18",
 			"wowID":"23056"
 		},
