@@ -232,7 +232,7 @@
 			"wowID":"23028"
 		},
 		"Hatchet of Sundered Bone":{
-			"prio":["Vesterx(1)","Edgemaster's DPS Warriors Non-Human->Human","LC","EP/GP"],
+			"prio":["Edgemaster's DPS Warriors Non-Human->Human","LC","EP/GP"],
 			"gp":"16",
 			"wowID":"22816"
 		},
@@ -286,7 +286,7 @@
 			"wowID":"22359"
 		},
 		"Desecrated Legplates":{
-			"prio":["4H Tanks","LC","Bendriller(sunnyD)","EP/GP"],
+			"prio":["4H Tanks","LC","EP/GP"],
 			"gp":"6",
 			"wowID":"22352"
 		},
@@ -681,7 +681,7 @@
 			"wowID":"23057"
 		},
 		"Gressil, Dawn of Ruin":{
-			"prio":["Chrixus(sunnyD)","Sniped(crush)","Johnscar(sunnyD)","LC","EP/GP"],
+			"prio":["Chrixus(sunnyD)","Sniped(crush)","LC","EP/GP"],
 			"gp":"18",
 			"wowID":"23054"
 		},
@@ -691,7 +691,7 @@
 			"wowID":"23056"
 		},
 		"Kingsfall":{
-			"prio":["Xlordpickles(crush)","LC","EP/GP"],
+			"prio":["Avi(crush)","LC","EP/GP"],
 			"gp":"18",
 			"wowID":"22802"
 		},
