@@ -11,7 +11,7 @@
 			"wowID":"23226"
 		},
 		"Harbringer of Doom":{
-			"prio":["Shadowsfade","LC","EP/GP"],
+			"prio":["LC","EP/GP"],
 			"gp":"12",
 			"wowID":"23044"
 		},
@@ -291,7 +291,7 @@
 			"wowID":"22352"
 		},
 		"Band of Unnatural Forces":{
-			"prio":["Shadowsfade(1)","Healslol(1)","Rogues","LC","EP/GP"],
+			"prio":["Shadowsfade(1)","Healslol(1)","LC","EP/GP"],
 			"gp":"8",
 			"wowID":"23038"
 		},
