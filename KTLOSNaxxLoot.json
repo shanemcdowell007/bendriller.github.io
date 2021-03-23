@@ -340,7 +340,7 @@
 			"wowID":"23219"
 		},
 		"Iblis, Blade of the Fallen Seraph":{
-			"prio":["Vajeen(1)","Devils(1)","Human Sword Rogues-> Human Fury","LC","EP/GP"],
+			"prio":["Devils(1)","Human Sword Rogues-> Human Fury","LC","EP/GP"],
 			"gp":"12",
 			"wowID":"23014"
 		},
@@ -681,7 +681,7 @@
 			"wowID":"23057"
 		},
 		"Gressil, Dawn of Ruin":{
-			"prio":["Chrixus(sunnyD)","Sniped(crush)","LC","EP/GP"],
+			"prio":["Chrixus(sunnyD)","Devils(crush)","LC","EP/GP"],
 			"gp":"18",
 			"wowID":"23054"
 		},
@@ -721,7 +721,7 @@
 			"wowID":"23053"
 		},
 		"The Hungering Cold":{
-			"prio":["Beeny(2)","Dill(1)","Vajeen(1)","LC","EP/GP"],
+			"prio":["Dill(1)","Vesterx(1)","LC","EP/GP"],
 			"gp":"18",
 			"wowID":"23577"
 		}
