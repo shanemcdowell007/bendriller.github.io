@@ -151,7 +151,7 @@
 			"wowID":"22981"
 		},
 		"Rime covered Mantle":{
-			"prio":["Rhaen(1)","Theprestige(1)","Rasbeary(1)","Mages","EP/GP"],
+			"prio":["Rasbeary(1)","Blondi","Mages","EP/GP"],
 			"gp":"10",
 			"wowID":"22983"
 		}
@@ -296,7 +296,7 @@
 			"wowID":"23038"
 		},
 		"Brimstone Staff":{
-			"prio":["Kuku(1)","EP/GP"],
+			"prio":["EP/GP"],
 			"gp":"16",
 			"wowID":"22800"
 		},
@@ -547,7 +547,7 @@
 			"wowID":"22947"
 		},
 		"Wraith blade":{
-			"prio":["Blacklisted(1)","EP/GP"],
+			"prio":["LC","EP/GP"],
 			"gp":"18",
 			"wowID":"22807"
 		}
@@ -579,7 +579,7 @@
 			"wowID":"23242"
 		},
 		"Cloak of the Necropolis":{
-			"prio":["Prestige","Rhaen","Alters","EP/GP"],
+			"prio":["Rhaen","Alters","EP/GP"],
 			"gp":"8",
 			"wowID":"23050"
 		},
@@ -599,7 +599,7 @@
 			"wowID":"23046"
 		},
 		"Sapphiron's Left Eye":{
-			"prio":["Blacklisted(1)","Prestige(1)","EP/GP"],
+			"prio":["Blondi","Meow","EP/GP"],
 			"gp":"10",
 			"wowID":"23049"
 		},
@@ -636,7 +636,7 @@
 			"wowID":"23060"
 		},
 		"Frostfire Ring":{
-			"prio":["Theprestige(1)","Raehn(1)","EP/GP"],
+			"prio":["Raehn(1)","EP/GP"],
 			"gp":"6",
 			"wowID":"23062"
 		},
