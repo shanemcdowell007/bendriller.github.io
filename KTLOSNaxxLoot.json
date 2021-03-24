@@ -82,7 +82,7 @@
 			"wowID":"22961"
 		},
 		"Cloak of Suturing":{
-			"prio":["Healers without cloak of clarity","Snibbler(2)","Peku(2)","Wildhealer(1)","jessiemen(2)","Celesdea(1)","Healer EP/GP"],
+			"prio":["Healers without cloak of clarity","Peku(2)","Wildhealer(1)","jessiemen(2)","Celesdea(1)","Healer EP/GP"],
 			"gp":"6",
 			"wowID":"22960"
 		},
@@ -188,7 +188,7 @@
 			"wowID":"23000"
 		},
 		"Spire of Twilight":{
-			"prio":["Fruithunni(minor upgrade)","EP/GP"],
+			"prio":["EP/GP"],
 			"gp":"12",
 			"wowID":"22801"
 		},
@@ -237,7 +237,7 @@
 			"wowID":"22816"
 		},
 		"Libram of Light":{
-			"prio":["Lianli(1)","Healer EP/GP"],
+			"prio":["Healer EP/GP"],
 			"gp":"6",
 			"wowID":"23006"
 		},
@@ -276,7 +276,7 @@
 	},
 	"Loatheb":{
 		"Desecrated Leggings":{
-			"prio":["Priest","EP/GP"],
+			"prio":["EP/GP"],
 			"gp":"8",
 			"wowID":"22366"
 		},
@@ -318,7 +318,7 @@
 	},
 	"Military Quarter Shared":{
 		"Desecrated Sandals":{
-			"prio":["warlock with T3 chest", "ThedoctorJaz(1)","LC","EP/GP"],
+			"prio":["warlock with T3 chest","LC","EP/GP"],
 			"gp":"8",
 			"wowID":"22372"
 		},
@@ -584,7 +584,7 @@
 			"wowID":"23050"
 		},
 		"Eye of the Dead":{
-			"prio":["Healers without Rejuv gem + Warmth","Vael(2)","Shraps(2)","Fruithunni(1)","Mazzo(1)","Celesdea(1)","LC","Healers EP/GP"],
+			"prio":["Healers without Rejuv gem + Warmth","Vael(2)","Shraps(2)","Mazzo(1)","Celesdea(1)","LC","Healers EP/GP"],
 			"gp":"10", 
 			"wowID":"23047" 
 		},
@@ -651,7 +651,7 @@
 			"wowID":"23061"
 		},
 		"Ring of Redemption":{
-			"prio":["Blaz(1)","Doli(1)","Vael(2)","Soldeia(2)","Pally Healer EP/GP"],
+			"prio":["Blaz(1)","Vael(2)","Soldeia(2)","Pally Healer EP/GP"],
 			"gp":"6",
 			"wowID":"23066"
 		},
