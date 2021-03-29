@@ -183,7 +183,7 @@
 			"wowID":"23070"
 		},
 		"Plated Abomination Ribcage":{
-			"prio":["Vajeen(1)","LC","Fury->Tank","EP/GP"],
+			"prio":["LC","Fury->Tank","EP/GP"],
 			"gp":"10",
 			"wowID":"23000"
 		},
@@ -522,7 +522,7 @@
 			"wowID":"22364"
 		},
 		"Desecrated Gauntlets":{
-			"prio":["Tanks->DPS Warrior 4horsemen tanks","EP/GP"],
+			"prio":["Rogues","Tanks->DPS Warrior 4horsemen tanks","EP/GP"],
 			"gp":"8",
 			"wowID":"22357"
 		},
@@ -681,7 +681,7 @@
 			"wowID":"23057"
 		},
 		"Gressil, Dawn of Ruin":{
-			"prio":["Chrixus(sunnyD)","Devils(crush)","LC","EP/GP"],
+			"prio":["Chrixus(sunnyD)","Bonzai(sunnyD)","Healslol(crush)","LC","EP/GP"],
 			"gp":"18",
 			"wowID":"23054"
 		},
@@ -721,7 +721,7 @@
 			"wowID":"23053"
 		},
 		"The Hungering Cold":{
-			"prio":["Dill(1)","Vesterx(1)","LC","EP/GP"],
+			"prio":["Dill(1)","Vesterx(1)","Jsleazy(SunnyD)","LC","EP/GP"],
 			"gp":"18",
 			"wowID":"23577"
 		}
