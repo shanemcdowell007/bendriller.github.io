@@ -626,7 +626,7 @@
 	},
 	"Kel'Thuzad":{
 		"The Phylactery of Kel'Thuzad":{
-			"prio":["EP/GP"],
+			"prio":["DPS prio EP/GP"],
 			"gp":"6",
 			"wowID":"22520"
 		},
