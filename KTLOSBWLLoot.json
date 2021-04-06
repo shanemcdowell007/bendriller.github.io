@@ -369,7 +369,7 @@
 			"wowID":"19397"
 		},
 		"Rejuvenating Gem":{
-		"prio":["Vael","Blaziken","LC","Healer EP/GP"],
+		"prio":["Fruithunni","LC","Healer EP/GP"],
 			"gp":"10",
 			"wowID":"19395"
 		},
@@ -638,7 +638,7 @@
 			"wowID":"19376"
 		},
 		"Pure Elementium Band":{
-			"prio":["Healers W/O at least 1 bis epic ring","Navia","Bath","Shraps","Healer EP/GP"],
+			"prio":["Healers W/O at least 1 bis epic ring","Bath","Shraps","LC","Healer EP/GP"],
 			"gp":"5",
 			"wowID":"19382"
 		},
