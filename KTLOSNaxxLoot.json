@@ -259,7 +259,7 @@
 			"wowID":"23033"
 		},
 		"Legplates of Carnage":{
-			"prio":["Healslol(1)","Fury Warr","EP/GP"],
+			"prio":["Fury Warr","EP/GP"],
 			"gp":"8",
 			"wowID":"23068"
 		},
@@ -429,7 +429,7 @@
 			"wowID":"23025"
 		}, 
 		"Soulstring":{
-			"prio":["Vesterx(1)","LC","EP/GP"],
+			"prio":["LC","EP/GP"],
 			"gp":"6",
 			"wowID":"22811"
 		}, 
@@ -532,7 +532,7 @@
 			"wowID":"23220"
 		},
 		"Kiss of the Spider":{
-			"prio":["Melee without DFT + Slayers","Killstepp(1)","Fury Warrior->Rogue","LC","EP/GP"],
+			"prio":["Melee without DFT + Slayers","Fury Warrior->Rogue","LC","EP/GP"],
 			"gp":"10",
 			"wowID":"22954"
 		},
@@ -609,12 +609,12 @@
 			"wowID":"23048" 
 		},
 		"Shroud of Dominion":{
-			"prio":["Vajeen(1)","Fury Warrs","LC R1","EP/GP"], 
+			"prio":["Fury Warrs","LC R1","EP/GP"], 
 			"gp":"6", 
 			"wowID":"23045" 
 		},
 		"Slayer's Crest":{
-			"prio":["Melee without DFT + Kiss","Aviendha(1)","Devilspebble(1)","LC","Rogues","EP/GP"],
+			"prio":["Melee without DFT + Kiss","Devilspebble(1)","LC","Rogues","EP/GP"],
 			"gp":"10",
 			"wowID":"23041"
 		},
@@ -681,7 +681,7 @@
 			"wowID":"23057"
 		},
 		"Gressil, Dawn of Ruin":{
-			"prio":["Chrixus(sunnyD)","Bonzai(sunnyD)","Healslol(crush)","LC","EP/GP"],
+			"prio":["Chrixus(sunnyD)","Bonzai(sunnyD)","LC","EP/GP"],
 			"gp":"18",
 			"wowID":"23054"
 		},
@@ -691,7 +691,7 @@
 			"wowID":"23056"
 		},
 		"Kingsfall":{
-			"prio":["Avi(crush)","LC","EP/GP"],
+			"prio":["LC","EP/GP"],
 			"gp":"18",
 			"wowID":"22802"
 		},
@@ -721,7 +721,7 @@
 			"wowID":"23053"
 		},
 		"The Hungering Cold":{
-			"prio":["Dill(1)","Vesterx(1)","Jsleazy(SunnyD)","LC","EP/GP"],
+			"prio":["Dill(1)","Jsleazy(SunnyD)","LC","EP/GP"],
 			"gp":"18",
 			"wowID":"23577"
 		}
