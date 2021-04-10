@@ -70,7 +70,7 @@
 			"wowID":"22354"
 		},
 		"Desecrated Spaulders":{
-			"prio":["Thrane(1)","Pally/druid/hunter","EP/GP"],
+			"prio":["Pally/druid/hunter","EP/GP"],
 			"gp":"8",
 			"wowID":"22361"
 		}
@@ -119,7 +119,7 @@
 			"wowID":"22803"
 		},
 		"The End of Dreams":{
-			"prio":["Celesdea(1)","Blaz(1)","Slap(1)","Shadow","EP/GP"],
+			"prio":["LC","EP/GP"],
 			"gp":"16",
 			"wowID":"22988"
 		},
@@ -500,7 +500,7 @@
 			"wowID":"22941"
 		},
 		"The Widow's Embrace":{
-			"prio":["Claris(1)","Wildhealer(1)","Blaz(1)","Fruithunni(1)","Disthania(1)","Healers", "EP/GP"],
+			"prio":["Blaz(1)","Wildhealer(1)","Fruithunni(1)","Healers", "EP/GP"],
 			"gp":"12",
 			"wowID":"22942"
 		},
@@ -584,7 +584,7 @@
 			"wowID":"23050"
 		},
 		"Eye of the Dead":{
-			"prio":["Healers without Rejuv gem + Warmth","Vael(2)","Shraps(2)","Mazzo(1)","Celesdea(1)","LC","Healers EP/GP"],
+			"prio":["Healers without Rejuv gem + Warmth","Shraps(2)","Mazzo(1)","Celesdea(1)","LC","Healers EP/GP"],
 			"gp":"10", 
 			"wowID":"23047" 
 		},
@@ -604,7 +604,7 @@
 			"wowID":"23049"
 		},
 		"Sapphiron's Right Eye":{
-			"prio":["Healers must have a main hand first!","Peku(2)","Madline(2)","Mazzo(1)w/MH","LC","Healer EP/GP"],
+			"prio":["Healers must have a main hand first!","Madline(2)","Mazzo(1)w/MH","LC","Healer EP/GP"],
 			"gp":"10",
 			"wowID":"23048" 
 		},
@@ -686,7 +686,7 @@
 			"wowID":"23054"
 		},
 		"Hammer of the Twisting Nether":{
-			"prio":["Jowsus(1)","Mazzo(1)","Blaz(1)","Kare(1)","Thrane(2)","Shraps(2)","Vael(2)","LC","Healers to EP/GP"],
+			"prio":["Jowsus(1)","Mazzo(1)","Blaz(1)","Kare(1)","Vael(2)","LC","Healers to EP/GP"],
 			"gp":"18",
 			"wowID":"23056"
 		},
