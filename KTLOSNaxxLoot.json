@@ -82,7 +82,7 @@
 			"wowID":"22961"
 		},
 		"Cloak of Suturing":{
-			"prio":["Healers without cloak of clarity","jessiemen(2)","Celesdea(1)","Blaz(1)", "Healer EP/GP"],
+			"prio":["Healers without cloak of clarity","jessiemen(2)","Darkdwarf(2)","Froh(2)","Nattys(2)","Celesdea(1)","Blaz(1)","Healer EP/GP"],
 			"gp":"6",
 			"wowID":"22960"
 		},
@@ -242,7 +242,7 @@
 			"wowID":"23006"
 		},
 		"Noth's Frigid Heart":{
-			"prio":["LC","EP/GP"],
+			"prio":["Prio to toons with MH","LC","EP/GP"],
 			"gp":"4",
 			"wowID":"23029"
 		}
@@ -360,7 +360,7 @@
 			"wowID":"23017"
 		},
 		"Wand of the Whispering Dead":{
-			"prio":["DocJaz(1)","LC","EP/GP"],
+			"prio":["Madline(2)","Jessie(2)","Shraps(2)","Fruit(1)","Jowsus(1)","LC","EP/GP"],
 			"gp":"6",
 			"wowID":"23009"
 		}
@@ -584,7 +584,7 @@
 			"wowID":"23050"
 		},
 		"Eye of the Dead":{
-			"prio":["Healers without Rejuv gem + Warmth","Shraps(2)","Mazzo(1)","Celesdea(1)","Blaz(1)","LC","Healers EP/GP"],
+			"prio":["Healers without Rejuv gem + Warmth","Mazzo(1)","Celesdea(1)","Blaz(1)","Nattys(2)","Froh(2)","LC","Healers EP/GP"],
 			"gp":"10", 
 			"wowID":"23047" 
 		},
