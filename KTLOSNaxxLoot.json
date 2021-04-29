@@ -291,7 +291,7 @@
 			"wowID":"22352"
 		},
 		"Band of Unnatural Forces":{
-			"prio":["Shadowsfade(1)","Healslol(1)","LC","EP/GP"],
+			"prio":["Healslol(1)","LC","EP/GP"],
 			"gp":"8",
 			"wowID":"23038"
 		},
@@ -335,7 +335,7 @@
 	},
 	"Instructor Razuvious":{
 		"Girdle of the Mentor":{
-			"prio":["Dill?(1)","Warriors without Onslaught","Tanks","Fury Warrs","EP/GP"],
+			"prio":["Warriors without Onslaught","Tanks","Fury Warrs","LC","EP/GP"],
 			"gp":"10",
 			"wowID":"23219"
 		},
@@ -721,7 +721,7 @@
 			"wowID":"23053"
 		},
 		"The Hungering Cold":{
-			"prio":["Dill(1)","Jsleazy(SunnyD)","LC","EP/GP"],
+			"prio":["Jsleazy(SunnyD)","LC","EP/GP"],
 			"gp":"18",
 			"wowID":"23577"
 		}
