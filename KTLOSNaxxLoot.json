@@ -60,7 +60,7 @@
 	},
 	"Abomination Quarter Shared":{
 		"Desecrated Shoulderpads":{
-			"prio":["Warlock/Priest(2)","Navia(1)","priest","LC","EP/GP"],
+			"prio":["Warlock/Priest(2)","priest","LC","EP/GP"],
 			"gp":"8",
 			"wowID":"22368"
 		},
@@ -434,7 +434,7 @@
 			"wowID":"22811"
 		}, 
 		"Warmth of Forgiveness":{
-			"prio":["Healers without Rejuv gem + Eye of the dead","Celesdea(1)","LC","Priest Druid Healers","EP/GP"],
+			"prio":["Healers without Rejuv gem + Eye of the dead","LC","Priest Druid Healers","EP/GP"],
 			"gp":"6",
 			"wowID":"23027"
 		}
@@ -500,7 +500,7 @@
 			"wowID":"22941"
 		},
 		"The Widow's Embrace":{
-			"prio":["Blaz(1)","Wildhealer(1)","Fruithunni(1)","Healers", "EP/GP"],
+			"prio":["Healers", "EP/GP"],
 			"gp":"12",
 			"wowID":"22942"
 		},
@@ -604,7 +604,7 @@
 			"wowID":"23049"
 		},
 		"Sapphiron's Right Eye":{
-			"prio":["Healers must have a main hand first!","Madline(2)","Shraps(2)","Mazzo(1)","LC","Healer EP/GP"],
+			"prio":["Healers must have a main hand first!","Madline(2)","Shraps(2)","LC","Healer EP/GP"],
 			"gp":"10",
 			"wowID":"23048" 
 		},
