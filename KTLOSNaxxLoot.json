@@ -82,7 +82,7 @@
 			"wowID":"22961"
 		},
 		"Cloak of Suturing":{
-			"prio":["Healers without cloak of clarity","jessiemen(2)","Darkdwarf(2)","Froh(2)","Nattys(2)","Celesdea(1)","Blaz(1)","Healer EP/GP"],
+			"prio":["Healers without cloak of clarity","Darkdwarf(2)","Froh(2)","Nattys(2)","Celesdea(1)","Blaz(1)","Healer EP/GP"],
 			"gp":"6",
 			"wowID":"22960"
 		},
@@ -151,7 +151,7 @@
 			"wowID":"22981"
 		},
 		"Rime covered Mantle":{
-			"prio":["Rasbeary(1)","Blondi","Mages","EP/GP"],
+			"prio":["Mages","EP/GP"],
 			"gp":"10",
 			"wowID":"22983"
 		}
@@ -594,12 +594,12 @@
 			"wowID":"23040"
 		},
 		"Restrained Essence of Sapphiron":{
-			"prio":["Meow(1)","prestige","EP/GP"],
+			"prio":["Alters(1)","EP/GP"],
 			"gp":"15",
 			"wowID":"23046"
 		},
 		"Sapphiron's Left Eye":{
-			"prio":["Blondi","Meow","EP/GP"],
+			"prio":["Meow","EP/GP"],
 			"gp":"10",
 			"wowID":"23049"
 		},
@@ -671,12 +671,12 @@
 			"wowID":"23064"
 		},
 		"Doomfinger":{
-			"prio":["Alters(1)","Blondi(1)","James Bond","EP/GP"],
+			"prio":["Blondi(1)","James Bond","EP/GP"],
 			"gp":"8",
 			"wowID":"22821"
 		},
 		"Gem of Trapped Innocents":{
-			"prio":["Coxxynormous(1)","Blacklisted(1)","EP/GP"],
+			"prio":["Blacklisted(1)","EP/GP"],
 			"gp":"6",
 			"wowID":"23057"
 		},
@@ -711,7 +711,7 @@
 			"wowID":"22819"
 		},
 		"Soulseeker":{
-			"prio":["Rhaen(1)","Mage Prio over warlocks EPGP","EP/GP"],
+			"prio":["Mage Prio over warlocks EPGP","EP/GP"],
 			"gp":"18",
 			"wowID":"22799"
 		},
