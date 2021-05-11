@@ -1,0 +1,89 @@
+{
+	"Magtheridon":{
+		"Magtheridon's Head":{
+			"prio":["EP/GP"],
+			"gp":"",
+			"wowID":"32385"
+		},
+		"Chestguard of the Fallen Defender":{
+			"prio":["EP/GP"],
+			"gp":"",
+			"wowID":"29753"
+		},
+		"Chestguard of the Fallen Champion":{
+			"prio":["EP/GP"],
+			"gp":"",
+			"wowID":"29754"
+		},
+		"Chestguard of the Fallen Hero":{
+			"prio":["EP/GP"],
+			"gp":"",
+			"wowID":"29755"
+		},
+		"Pit Lord's Satchel":{
+			"prio":["GBID"],
+			"gp":"",
+			"wowID":"34845"
+		},
+		"Aegis of the Vindicator":{
+			"prio":["EP/GP"],
+			"gp":"",
+			"wowID":"29458"
+		},
+		"Cloak of the Pit Stalker":{
+			"prio":["EP/GP"],
+			"gp":"",
+			"wowID":"28777"
+		},
+		"Crystalheart Pulse-Staff":{
+			"prio":["EP/GP"],
+			"gp":"",
+			"wowID":"28782"
+		},
+		"Eredar Wand of Obliteration":{
+			"prio":["EP/GP"],
+			"gp":"",
+			"wowID":"28783"
+		},
+		"Eye of Magtheridon":{
+			"prio":["EP/GP"],
+			"gp":"",
+			"wowID":"28789"
+		},
+		"Girdle of the Endless Pit":{
+			"prio":["EP/GP"],
+			"gp":"",
+			"wowID":"28779"
+		},
+		"Glaive of the Pit":{
+			"prio":["EP/GP"],
+			"gp":"",
+			"wowID":"28774"
+		},
+		"Karaborian Talisman":{
+			"prio":["EP/GP"],
+			"gp":"",
+			"wowID":"28781"
+		},
+		"Liar's Tongue Gloves":{
+			"prio":["EP/GP"],
+			"gp":"",
+			"wowID":"28776"
+		},
+		"Soul-Eater's Handwraps":{
+			"prio":["EP/GP"],
+			"gp":"",
+			"wowID":"28780"
+		},
+		"Terror Pit Girdle":{
+			"prio":["EP/GP"],
+			"gp":"",
+			"wowID":"28778"
+		},
+		"Thundering Greathelm":{
+			"prio":["EP/GP"],
+			"gp":"",
+			"wowID":"28775"
+		}
+	}
+}
