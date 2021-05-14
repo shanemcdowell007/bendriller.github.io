@@ -1,0 +1,131 @@
+{
+	"High King Maulgar":{
+		"Pauldrons of the Fallen Defender":{
+			"prio":["EP/GP"],
+			"gp":"",
+			"wowID":"29764"
+		},
+		"Pauldrons of the Fallen Champion":{
+			"prio":["EP/GP"],
+			"gp":"",
+			"wowID":"29763"
+		},
+		"Pauldons of the Fallen Hero":{
+			"prio":["EP/GP"],
+			"gp":"",
+			"wowID":"29762"
+		},
+		"Belt of Divine Inspiration":{
+			"prio":["EP/GP"],
+			"gp":"",
+			"wowID":"28799"
+		},
+		"Bladespire Warbands":{
+			"prio":["EP/GP"],
+			"gp":"",
+			"wowID":"28795"
+		},
+		"Brute Cloak of the Ogre-Magi":{
+			"prio":["EP/GP"],
+			"gp":"",
+			"wowID":"28797"
+		},
+		"Hammer of the Naaru":{
+			"prio":["EP/GP"],
+			"gp":"",
+			"wowID":"28800"
+		},
+		"Malefic Mask of the Shadows":{
+			"prio":["EP/GP"],
+			"gp":"",
+			"wowID":"28796"
+		},
+		"Maulgar's Warhelm":{
+			"prio":["EP/GP"],
+			"gp":"",
+			"wowID":"28801"
+		}
+	},
+	"Gruul the Dragonkiller":{
+		"Leggings of the Fallen Defender":{
+			"prio":["EP/GP"],
+			"gp":"",
+			"wowID":"29767"
+		},
+		"Leggings of the Fallen Hero":{
+			"prio":["EP/GP"],
+			"gp":"",
+			"wowID":"29765"
+		},
+		"Leggings of the Fallen Champion":{
+			"prio":["EP/GP"],
+			"gp":"",
+			"wowID":"29766"
+		},
+		"Aldori Legacy Defender":{
+			"prio":["EP/GP"],
+			"gp":"",
+			"wowID":"28825"
+		},
+		"Axe of the Gronn Lords":{
+			"prio":["EP/GP"],
+			"gp":"",
+			"wowID":"28794"
+		},
+		"Bloodmaw Magus-Blade":{
+			"prio":["EP/GP"],
+			"gp":"",
+			"wowID":"28802"
+		},
+		"Collar of Cho'gall":{
+			"prio":["EP/GP"],
+			"gp":"",
+			"wowID":"28804"
+		},
+		"Cowl of Nature's Breath":{
+			"prio":["EP/GP"],
+			"gp":"",
+			"wowID":"28803"
+		},
+		"Dragonspine Trophy":{
+			"prio":["EP/GP"],
+			"gp":"",
+			"wowID":"28830"
+		},
+		"Eye of Gruul":{
+			"prio":["EP/GP"],
+			"gp":"",
+			"wowID":"28823"
+		},
+		"Gauntlets of Martial Perfection":{
+			"prio":["EP/GP"],
+			"gp":"",
+			"wowID":"28824"
+		},
+		"Gauntlets of the Dragonslayer":{
+			"prio":["EP/GP"],
+			"gp":"",
+			"wowID":"28827"
+		},
+		"Gronn-Stitched Girdle":{
+			"prio":["EP/GP"],
+			"gp":"",
+			"wowID":"28828"
+		},
+		"Shuriken of Negation":{
+			"prio":["EP/GP"],
+			"gp":"",
+			"wowID":"28826"
+		},
+		"Teeth of Gruul":{
+			"prio":["EP/GP"],
+			"gp":"",
+			"wowID":"28822"
+		},
+		"Windshear Boots":{
+			"prio":["EP/GP"],
+			"gp":"",
+			"wowID":"28810"
+		}
+	}
+}
