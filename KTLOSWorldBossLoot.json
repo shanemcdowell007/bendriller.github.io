@@ -1,281 +1,106 @@
 {
-	"Green Dragons":{
-		"Acid Inscribed Greaves":{
+	"Doomwalker":{
+		"Anger-Spark Gloves":{
 			"prio":["EP/GP"],
 			"gp":"",
-			"wowID":""
+			"wowID":"30725"
 		},
-		"Ancient Corroded Leggings":{
+		"Archaic Charm of Presence":{
 			"prio":["EP/GP"],
 			"gp":"",
-			"wowID":""
+			"wowID":"30726"
 		},
-		"Dragonbone Wristguards":{
+		"Barrel-Blade Longrifle":{
 			"prio":["EP/GP"],
 			"gp":"",
-			"wowID":""
+			"wowID":"30724"
 		},
-		"Dragonspur Wraps":{
+		"Black-Iron Battlecloak":{
 			"prio":["EP/GP"],
 			"gp":"",
-			"wowID":""
+			"wowID":"30729"
 		},
-		"Gloves of Delusional Power":{
+		"Ethereum Nexus-Reaver":{
 			"prio":["EP/GP"],
 			"gp":"",
-			"wowID":""
+			"wowID":"30722"
 		},
-		"Green Dragonskin Cloak":{
-			"prio":["EP/GP"],
-			"gp:":"",
-			"wowID":""
-		},
-		"Hammer of Bestial Fury":{
-			"prio":["EP/GP"],
-			"gp:":"",
-			"wowID":""
-		},
-		"Nightmare engulfed object":{
-			"prio":["mdps prio","EP/GP"],
-			"gp:":"",
-			"wowID":""
-		},
-		"Staff of Rampant Growth":{
+		"Faceguard of the Endless Watch":{
 			"prio":["EP/GP"],
 			"gp":"",
-			"wowID":""
+			"wowID":"30731"
 		},
-		"Trance Stone":{
+		"Fathom-Helm of the Deeps":{
 			"prio":["EP/GP"],
 			"gp":"",
-			"wowID":""
+			"wowID":"30728"
+		},
+		"Gilded Trousers of Benediction":{
+			"prio":["EP/GP"],
+			"gp":"",
+			"wowID":"30727"
+		},
+		"Talon of the Tempest":{
+			"prio":["EP/GP"],
+			"gp":"",
+			"wowID":"30723"
+		},
+		"Terrorweave Tunic":{
+			"prio":["EP/GP"],
+			"gp":"",
+			"wowID":"30730"
 		}
 	},
-	"Emeriss":{
-		"Boots of the Endless Moor":{
+	"Doom Lord Kazzak":{
+		"Ancient Spellcloak of the Highborne":{
 			"prio":["EP/GP"],
-			"gp:":"",
-			"wowID":""
+			"gp":"",
+			"wowID":"30735"
 		},
-		"Circlet of Restless Dreams":{
-			"prio":["Mage Prio","EP/GP"],
-			"gp:":"",
-			"wowID":""
-		},
-		"Dragonheart Necklace":{
+		"Exodar Life-Staff":{
 			"prio":["EP/GP"],
-			"gp:":"",
-			"wowID":""
+			"gp":"",
+			"wowID":"30732"
 		},
-		"Polished Ironwood Crossbow":{
+		"Gold-Leaf Wildboots":{
 			"prio":["EP/GP"],
-			"gp:":"",
-			"wowID":""
+			"gp":"",
+			"wowID":"30737"
 		},
-		"Ring of the Unliving":{
+		"Hope Ender":{
 			"prio":["EP/GP"],
-			"gp:":"",
-			"wowID":""
-		}
-	},
-	"Lethon":{
-		"Belt of the Dark Bog":{
+			"gp":"",
+			"wowID":"30733"
+		},
+		"Leggings of the Seventh Circle":{
 			"prio":["EP/GP"],
-			"gp:":"",
-			"wowID":""
+			"gp":"",
+			"wowID":"30734"
 		},
-		"Black Bark Wristbands":{
+		"Ring of Flowing Light":{
 			"prio":["EP/GP"],
-			"gp:":"",
-			"wowID":""
+			"gp":"",
+			"wowID":"30736"
 		},
-		"Dark Heart Pants":{
+		"Ring of Reciprocity":{
 			"prio":["EP/GP"],
-			"gp:":"",
-			"wowID":""
+			"gp":"",
+			"wowID":"30738"
 		},
-		"Deviate Growth Cap":{
-			"prio":["Pekumen","LC"],
-			"gp:":"10",
-			"wowID":""
-		},
-		"Gauntlets of the Shining Light":{
-			"prio":["LC"],
-			"gp:":"",
-			"wowID":""
-		},
-		"Malignant Footguards":{
-			"prio":["LC"],
-			"gp:":"",
-			"wowID":""
-		}
-	},
-	"Taerar":{
-		"Boots of Fright":{
-			"prio":["LC"],
-			"gp:":"5",
-			"wowID":""
-		},
-		"Mendicant's Slippers":{
-			"prio":["LC"],
-			"gp:":"1",
-			"wowID":""
-		},
-		"Mindtear Band":{
-			"prio":["Mages","LC"],
-			"gp:":"5",
-			"wowID":""
-		},
-		"Nightmare Blade":{
-			"prio":["LC"],
-			"gp:":"5",
-			"wowID":""
-		},
-		"Unnatural Leather Spaulders":{
-			"prio":["LC"],
-			"gp:":"",
-			"wowID":""
-		}
-	},
-	"Ysondre":{
-		"Emerald Dragonfang":{
-			"prio":["LC"],
-			"gp:":"",
-			"wowID":""
-		},
-		"Jade Inlaid Vestments":{
-			"prio":["LC"],
-			"gp:":"",
-			"wowID":""
-		},
-		"Leggings of the Demented Mind":{
-			"prio":["LC"],
-			"gp:":"",
-			"wowID":""
-		},
-		"Strangely Glyphed Legplates":{
-			"prio":["LC"],
-			"gp:":"",
-			"wowID":""
-		},
-		"Acid Inscribed Pauldrons":{
-			"prio":["LC"],
-			"gp:":"",
-			"wowID":""
-		},
-		"Hibernation Crystal":{
-			"prio":["LC"],
-			"gp:":"14",
-			"wowID":""
-		}
-	},
-	"Kazzak":{
-		"Blazefury Medallion":{
-			"prio":["LC"],
-			"gp:":"",
-			"wowID":""
-		},
-		"Ring of Entropy":{
-			"prio":["LC"],
-			"gp:":"",
-			"wowID":""
-		},
-		"Eskhandar's Pelt":{
-			"prio":["Bonzai"],
-			"gp:":"",
-			"wowID":""
-		},
-		"Infernal Headcage":{
-			"prio":["LC"],
-			"gp:":"",
-			"wowID":""
-		},
-		"Amberseal Keeper":{
-			"prio":["LC"],
-			"gp:":"",
-			"wowID":""
-		},
-		"Doomhide Gauntlets":{
-			"prio":["LC"],
-			"gp:":"",
-			"wowID":""
-		},
-		"Fel Infused Leggings":{
-			"prio":["Gotosleep","LC"],
-			"gp:":"",
-			"wowID":""
-		},
-		"Empyrean Demolisher":{
-			"prio":["Chrixus","Mulligen","LC"],
-			"gp:":"14",
-			"wowID":""
-		},
-		"Blacklight Bracer":{
-			"prio":["Blacklisted's Bracer?","LC"],
-			"gp:":"",
-			"wowID":""
-		},
-		"Flayed Doomguard Belt":{
+		"Ripfiend Shoulderplates":{
 			"prio":["EP/GP"],
-			"gp:":"",
-			"wowID":""
-		}
-	},
-	"Azuregos":{
-		"Mature Blue Dragon Sinew":{
-			"prio":["GBID"],
-			"gp:":"",
-			"wowID":""
+			"gp":"",
+			"wowID":"30740"
 		},
-		"Puissant Cape":{
-			"prio":["non-AQ40 cloak havin MDPS","LC"],
-			"gp:":"6",
-			"wowID":""
+		"Scaled Greaves of the Marksman":{
+			"prio":["EP/GP"],
+			"gp":"",
+			"wowID":"30739"
 		},
-		"Crystal Adorned Crown":{
-			"prio":["Pekumen","LC"],
-			"gp:":"10",
-			"wowID":""
-		},
-		"Eskhandar's Left Claw":{
-			"prio":["Builtlike","Bonzai","LC"],
-			"gp:":"",
-			"wowID":""
-		},
-		"Fang of the Mystics":{
-			"prio":["LC"],
-			"gp:":"5",
-			"wowID":""
-		},
-		"Unmelting Ice Girdle":{
-			"prio":[" DPS Warr Prio"],
-			"gp:":"1",
-			"wowID":""
-		},
-		"Cold Snap":{
-			"prio":["LC"],
-			"gp:":"7",
-			"wowID":""
-		},
-		"Drape of Benediction":{
-			"prio":["LC"],
-			"gp:":"",
-			"wowID":""
-		},
-		"Snowblind Shoes":{
-			"prio":["Gotosleep","Bodyhair","LC"],
-			"gp:":"5",
-			"wowID":""
-		},
-		"Typhoon":{
-			"prio":["Death knight prio","LC"],
-			"gp:":"1",
-			"wowID":""
-		},
-		"Leggings of Arcane Supremacy":{
-			"prio":["Boomkin Prio","LC"],
-			"gp:":"1",
-			"wowID":""
+		"Topaz-Studded Battlegrips":{
+			"prio":["EP/GP"],
+			"gp":"",
+			"wowID":"30741"
 		}
 	}
 }
