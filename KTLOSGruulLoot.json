@@ -17,32 +17,32 @@
 		},
 		"Belt of Divine Inspiration":{
 			"prio":["EP/GP"],
-			"gp":"7",
+			"gp":"3",
 			"wowID":"28799"
 		},
 		"Bladespire Warbands":{
 			"prio":["EP/GP"],
-			"gp":"4",
+			"gp":"6",
 			"wowID":"28795"
 		},
 		"Brute Cloak of the Ogre-Magi":{
 			"prio":["Mage/Ele Shaman","EP/GP"],
-			"gp":"4",
+			"gp":"5",
 			"wowID":"28797"
 		},
 		"Hammer of the Naaru":{
 			"prio":["EP/GP"],
-			"gp":"14",
+			"gp":"9",
 			"wowID":"28800"
 		},
 		"Malefic Mask of the Shadows":{
 			"prio":["EP/GP"],
-			"gp":"9",
+			"gp":"5",
 			"wowID":"28796"
 		},
 		"Maulgar's Warhelm":{
 			"prio":["EP/GP"],
-			"gp":"10",
+			"gp":"5",
 			"wowID":"28801"
 		}
 	},
@@ -64,17 +64,17 @@
 		},
 		"Aldori Legacy Defender":{
 			"prio":["EP/GP"],
-			"gp":"9",
+			"gp":"12",
 			"wowID":"28825"
 		},
 		"Axe of the Gronn Lords":{
 			"prio":["EP/GP"],
-			"gp":"14",
+			"gp":"9",
 			"wowID":"28794"
 		},
 		"Bloodmaw Magus-Blade":{
 			"prio":["EP/GP"],
-			"gp":"11",
+			"gp":"14",
 			"wowID":"28802"
 		},
 		"Collar of Cho'gall":{
@@ -84,7 +84,7 @@
 		},
 		"Cowl of Nature's Breath":{
 			"prio":["EP/GP"],
-			"gp":"8",
+			"gp":"5",
 			"wowID":"28803"
 		},
 		"Dragonspine Trophy":{
@@ -94,7 +94,7 @@
 		},
 		"Eye of Gruul":{
 			"prio":["EP/GP"],
-			"gp":"6",
+			"gp":"10",
 			"wowID":"28823"
 		},
 		"Gauntlets of Martial Perfection":{
@@ -104,27 +104,27 @@
 		},
 		"Gauntlets of the Dragonslayer":{
 			"prio":["EP/GP"],
-			"gp":"8",
+			"gp":"5",
 			"wowID":"28827"
 		},
 		"Gronn-Stitched Girdle":{
 			"prio":["EP/GP"],
-			"gp":"7",
+			"gp":"6",
 			"wowID":"28828"
 		},
 		"Shuriken of Negation":{
 			"prio":["EP/GP"],
-			"gp":"8",
+			"gp":"5",
 			"wowID":"28826"
 		},
 		"Teeth of Gruul":{
 			"prio":["EP/GP"],
-			"gp":"6",
+			"gp":"5",
 			"wowID":"28822"
 		},
 		"Windshear Boots":{
 			"prio":["Ele Shaman","EP/GP"],
-			"gp":"7",
+			"gp":"4",
 			"wowID":"28810"
 		}
 	}
