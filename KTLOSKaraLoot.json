@@ -2,47 +2,47 @@
 	"Trash":{
 		"Belt of the Tracker":{
 			"prio":["EP/GP"],
-			"gp":"",
+			"gp":"1",
 			"wowID":"30643"
 		},
 		"Boots of Elusion":{
 			"prio":["EP/GP"],
-			"gp":"",
+			"gp":"3",
 			"wowID":"30641"
 		},
 		"Drape of the Righteous":{
 			"prio":["EP/GP"],
-			"gp":"",
+			"gp":"1",
 			"wowID":"30642"
 		},
 		"Grasp of the Dead":{
 			"prio":["EP/GP"],
-			"gp":"",
+			"gp":"1",
 			"wowID":"30668"
 		},
 		"Grips of Deftness":{
 			"prio":["EP/GP"],
-			"gp":"",
+			"gp":"6",
 			"wowID":"30644"
 		},
 		"Inferno Wasit Cord":{
 			"prio":["EP/GP"],
-			"gp":"",
+			"gp":"3",
 			"wowID":"30673"
 		},
 		"Ring of Unrelenting Storms":{
 			"prio":["EP/GP"],
-			"gp":"",
+			"gp":"5",
 			"wowID":"30667"
 		},
 		"Ritssyn's Lost Pendant":{
 			"prio":["EP/GP"],
-			"gp":"",
+			"gp":"5",
 			"wowID":"30666"
 		},
 		"Zierhut's Lost Treads":{
 			"prio":["EP/GP"],
-			"gp":"",
+			"gp":"6",
 			"wowID":"30674"
 		}
 	},
@@ -54,693 +54,708 @@
 		},
 		"Gauntlets of Renewed Hope":{
 			"prio":["EP/GP"],
-			"gp":"",
+			"gp":"3",
 			"wowID":"28505"
 		},
 		"Gloves of Dexterous Manipulation":{
 			"prio":["EP/GP"],
-			"gp":"",
+			"gp":"6",
 			"wowID":"28506"
 		},
 		"Gloves of Saintly Blessings":{
 			"prio":["EP/GP"],
-			"gp":"",
+			"gp":"6",
 			"wowID":"28508"
 		},
 		"Handwraps of Flowing Thought":{
 			"prio":["EP/GP"],
-			"gp":"",
+			"gp":"3",
 			"wowID":"28507"
 		},
 		"Harbinger Bands":{
 			"prio":["EP/GP"],
-			"gp":"",
+			"gp":"3",
 			"wowID":"28477"
 		},
 		"Spectral Band of Innervation":{
 			"prio":["EP/GP"],
-			"gp":"",
+			"gp":"3",
 			"wowID":"28510"
 		},
 		"Stalker's War Bands":{
 			"prio":["EP/GP"],
-			"gp":"",
+			"gp":"4",
 			"wowID":"28454"
 		},
 		"Steelhawk Crossbow":{
 			"prio":["EP/GP"],
-			"gp":"",
+			"gp":"6",
 			"wowID":"28504"
 		},
 		"Vambraces of Courage":{
 			"prio":["EP/GP"],
-			"gp":"",
+			"gp":"6",
 			"wowID":"28502"
 		},
 		"Whirlwind Bracers":{
 			"prio":["EP/GP"],
-			"gp":"",
+			"gp":"6",
 			"wowID":"28503"
 		},
 		"Worgen Claw Necklace":{
 			"prio":["EP/GP"],
-			"gp":"",
+			"gp":"5",
 			"wowID":"28509"
 		}
 	},
 	"Moroes":{
 		"Belt of Gale Force":{
 			"prio":["EP/GP"],
-			"gp":"",
+			"gp":"5",
 			"wowID":"28567"
 		},
 		"Boots of Valiance":{
 			"prio":["EP/GP"],
-			"gp":"",
+			"gp":"5",
 			"wowID":"28569"
 		},
 		"Brooch of Unquenchable Fury":{
 			"prio":["EP/GP"],
-			"gp":"",
+			"gp":"5",
 			"wowID":"28530"
 		},
 		"Crimson Girdle of the Indomitable":{
 			"prio":["EP/GP"],
-			"gp":"",
+			"gp":"6",
 			"wowID":"28566"
 		},
 		"Edgewalker Longboots":{
 			"prio":["EP/GP"],
-			"gp":"",
+			"gp":"6",
 			"wowID":"28545"
 		},
 		"Emerald Ripper":{
 			"prio":["EP/GP"],
-			"gp":"",
+			"gp":"8",
 			"wowID":"28524"
+		},
+		"Idol of the Avian Heart":{
+			"prio":["EP/GP"],
+			"gp":"3",
+			"wowID":"28568"
 		},
 		"Moroes' Lucky Pocket Watch":{
 			"prio":["EP/GP"],
-			"gp":"",
+			"gp":"6",
 			"wowID":"28528"
 		},
 		"Nethershard Girdle":{
 			"prio":["EP/GP"],
-			"gp":"",
+			"gp":"3",
 			"wowID":"28565"
 		},
 		"Royal Cloak of Arathi Kings":{
 			"prio":["EP/GP"],
-			"gp":"",
+			"gp":"3",
 			"wowID":"28529"
 		},
 		"Shadow-Cloak of Dalaran":{
 			"prio":["EP/GP"],
-			"gp":"",
+			"gp":"5",
 			"wowID":"28570"
 		},
 		"Signet of Unshakable Faith":{
 			"prio":["EP/GP"],
-			"gp":"",
+			"gp":"4",
 			"wowID":"28525"
 		}
 	},
 	"Maiden of Virtue":{
 		"Bands of Indwelling":{
 			"prio":["EP/GP"],
-			"gp":"",
+			"gp":"5",
 			"wowID":"28511"
 		},
 		"Bands of Nefarious Deeds":{
 			"prio":["EP/GP"],
-			"gp":"",
+			"gp":"3",
 			"wowID":"28515"
 		},
 		"Barbed Choker of Discipline":{
 			"prio":["EP/GP"],
-			"gp":"",
+			"gp":"5",
 			"wowID":"28516"
 		},
 		"Boots of Foretelling":{
 			"prio":["EP/GP"],
-			"gp":"",
+			"gp":"6",
 			"wowID":"28517"
 		},
 		"Bracers of Justice":{
 			"prio":["EP/GP"],
-			"gp":"",
+			"gp":"6",
 			"wowID":"28512"
 		},
 		"Bracers of Maliciousness":{
 			"prio":["EP/GP"],
-			"gp":"",
+			"gp":"6",
 			"wowID":"28514"
 		},
 		"Gloves of Centering":{
 			"prio":["EP/GP"],
-			"gp":"",
+			"gp":"6",
 			"wowID":"28520"
 		},
 		"Gloves of Quickening":{
 			"prio":["EP/GP"],
-			"gp":"",
+			"gp":"3",
 			"wowID":"28519"
 		},
 		"Iron Gauntlets of the Maiden":{
 			"prio":["EP/GP"],
-			"gp":"",
+			"gp":"6",
 			"wowID":"28518"
 		},
 		"Mitts of the Treemender":{
 			"prio":["EP/GP"],
-			"gp":"",
+			"gp":"6",
 			"wowID":"28521"
 		},
 		"Shard of the Virtuous":{
 			"prio":["EP/GP"],
-			"gp":"",
+			"gp":"11",
 			"wowID":"28522"
+		},
+		"Totem of Healing Rains":{
+			"prio":["EP/GP"],
+			"gp":"5",
+			"wowID":"28523"
 		}
 	},
 	"Opera Shared":{
 		"Beastmaw Pauldrons":{
 			"prio":["EP/GP"],
-			"gp":"",
+			"gp":"5",
 			"wowID":"28589"
 		},
 		"Earthsoul Leggings":{
 			"prio":["EP/GP"],
-			"gp":"",
+			"gp":"6",
 			"wowID":"28591"
 		},
 		"Eternium Greathelm":{
 			"prio":["EP/GP"],
-			"gp":"",
+			"gp":"6",
 			"wowID":"28593"
 		},
 		"Ribbon of Sacrifice":{
 			"prio":["EP/GP"],
-			"gp":"",
+			"gp":"5",
 			"wowID":"28590"
 		},
 		"Trial-Fire Trowsers":{
 			"prio":["EP/GP"],
-			"gp":"",
+			"gp":"3",
 			"wowID":"28594"
 		}
 	},
 	"Red Riding Hood":{
 		"Big Bad Wolf's Head":{
 			"prio":["EP/GP"],
-			"gp":"",
+			"gp":"4",
 			"wowID":"28583"
 		},
 		"Big Bad Wolf's Paw":{
 			"prio":["EP/GP"],
-			"gp":"",
+			"gp":"8",
 			"wowID":"28584"
 		},
 		"Red Riding Hood's Cloak":{
 			"prio":["EP/GP"],
-			"gp":"",
+			"gp":"4",
 			"wowID":"28582"
 		},
 		"Wolfslayer Sniper Rifle":{
 			"prio":["EP/GP"],
-			"gp":"",
+			"gp":"4",
 			"wowID":"28581"
 		}
 	},
 	"Romulo and Julianne":{
 		"Blade of the Unrequited":{
 			"prio":["EP/GP"],
-			"gp":"",
+			"gp":"8",
 			"wowID":"28572"
 		},
 		"Despair":{
 			"prio":["EP/GP"],
-			"gp":"",
+			"gp":"8",
 			"wowID":"28573"
 		},
 		"Masquerade Gown":{
 			"prio":["EP/GP"],
-			"gp":"",
+			"gp":"4",
 			"wowID":"28578"
 		},
 		"Romulo's Poison Vial":{
 			"prio":["EP/GP"],
-			"gp":"",
+			"gp":"8",
 			"wowID":"28579"
 		}
 	},
 	"Wizard of Oz":{
 		"Blue Diamond Witchwand":{
 			"prio":["EP/GP"],
-			"gp":"",
+			"gp":"6",
 			"wowID":"28588"
 		},
 		"Legacy":{
 			"prio":["EP/GP"],
-			"gp":"",
+			"gp":"8",
 			"wowID":"28587"
 		},
 		"Ruby Slippers":{
 			"prio":["EP/GP"],
-			"gp":"",
+			"gp":"5",
 			"wowID":"28585"
 		},
 		"Wicked Witch's Hat":{
 			"prio":["EP/GP"],
-			"gp":"",
+			"gp":"4",
 			"wowID":"28586"
 		}
 	},
 	"Nightbane":{
 		"Chestguard of the Conniver":{
 			"prio":["EP/GP"],
-			"gp":"",
+			"gp":"5",
 			"wowID":"28601"
 		},
 		"Dragonheart Flameshield":{
 			"prio":["EP/GP"],
-			"gp":"",
+			"gp":"8",
 			"wowID":"28611"
 		},
 		"Emberspur Talisman":{
 			"prio":["EP/GP"],
-			"gp":"",
+			"gp":"5",
 			"wowID":"28609"
 		},
 		"Ferocious Swift-Kickers":{
 			"prio":["EP/GP"],
-			"gp":"",
+			"gp":"4",
 			"wowID":"28610"
 		},
 		"Ironstriders of Urgency":{
 			"prio":["EP/GP"],
-			"gp":"",
+			"gp":"3",
 			"wowID":"28608"
 		},
 		"Nightstaff of the Everliving":{
 			"prio":["EP/GP"],
-			"gp":"",
+			"gp":"10",
 			"wowID":"28604"
 		},
 		"Panzar'Thar Breastplate":{
 			"prio":["EP/GP"],
-			"gp":"",
+			"gp":"6",
 			"wowID":"28597"
 		},
 		"Robe of the Elder Scribes":{
 			"prio":["EP/GP"],
-			"gp":"",
+			"gp":"5",
 			"wowID":"28602"
 		},
 		"Scaled Breastplate of Carnage":{
 			"prio":["EP/GP"],
-			"gp":"",
+			"gp":"3",
 			"wowID":"28599"
 		},
 		"Shield of Impenetrable Darkness":{
 			"prio":["EP/GP"],
-			"gp":"",
+			"gp":"8",
 			"wowID":"28606"
 		},
 		"Stonebough Jerkin":{
 			"prio":["EP/GP"],
-			"gp":"",
+			"gp":"4",
 			"wowID":"28600"
 		},
 		"Talisman of Nightbane":{
 			"prio":["EP/GP"],
-			"gp":"",
+			"gp":"4",
 			"wowID":"28603"
 		}
 	},
 	"The Curator":{
 		"Gloves of the Fallen Hero":{
 			"prio":["EP/GP"],
-			"gp":"",
+			"gp":"6",
 			"wowID":"29756"
 		},
 		"Gloves of the Fallen Champion":{
 			"prio":["EP/GP"],
-			"gp":"",
+			"gp":"6",
 			"wowID":"29757"
 		},
 		"Gloves of the Fallen Defender":{
 			"prio":["EP/GP"],
-			"gp":"",
+			"gp":"6",
 			"wowID":"29758"
 		},
 		"Dragon-Quake Shoulderguards":{
 			"prio":["EP/GP"],
-			"gp":"",
+			"gp":"4",
 			"wowID":"28631"
 		},
 		"Forest Wind Shoulderpads":{
 			"prio":["EP/GP"],
-			"gp":"",
+			"gp":"4",
 			"wowID":"28647"
 		},
 		"Garona's Signet Ring":{
 			"prio":["EP/GP"],
-			"gp":"",
+			"gp":"5",
 			"wowID":"28649"
 		},
 		"Pauldrons of the Solace-Giver":{
 			"prio":["EP/GP"],
-			"gp":"",
+			"gp":"4",
 			"wowID":"28612"
 		},
 		"Staff of Infinite Mysteries":{
 			"prio":["EP/GP"],
-			"gp":"",
+			"gp":"10",
 			"wowID":"28633"
 		},
 		"Wrynn Dynasty Greaves":{
 			"prio":["EP/GP"],
-			"gp":"",
+			"gp":"6",
 			"wowID":"28621"
 		}
 	},
 	"Terestian Illhoof":{
 		"Breastplate of the Lightbinder":{
 			"prio":["EP/GP"],
-			"gp":"",
+			"gp":"4",
 			"wowID":"28662"
 		},
 		"Cincture of Will":{
 			"prio":["EP/GP"],
-			"gp":"",
+			"gp":"3",
 			"wowID":"28652"
 		},
 		"Cord of Nature's Sustenance":{
 			"prio":["EP/GP"],
-			"gp":"",
+			"gp":"5",
 			"wowID":"28655"
 		},
 		"Fool's Bane":{
 			"prio":["EP/GP"],
-			"gp":"",
+			"gp":"12",
 			"wowID":"28657"
 		},
 		"Gilded Thorium Cloak":{
-			"prio":["EP/GP"],
-			"gp":"",
+			"prio":["Feral Bear","EP/GP"],
+			"gp":"5",
 			"wowID":"28660"
 		},
 		"Girdle of the Prowler":{
 			"prio":["EP/GP"],
-			"gp":"",
+			"gp":"4",
 			"wowID":"28656"
 		},
 		"Malefic Girdle":{
 			"prio":["EP/GP"],
-			"gp":"",
+			"gp":"4",
 			"wowID":"28654"
 		},
 		"Mender's Heart-Ring":{
 			"prio":["EP/GP"],
-			"gp":"",
+			"gp":"3",
 			"wowID":"28661"
 		},
 		"Shadowvine Cloak of Infusion":{
 			"prio":["EP/GP"],
-			"gp":"",
+			"gp":"1",
 			"wowID":"28653"
 		},
 		"Terestian's Stranglestaff":{
-			"prio":["EP/GP"],
-			"gp":"",
+			"prio":["Feral","EP/GP"],
+			"gp":"12",
 			"wowID":"28658"
 		},
 		"The Lightning Capacitor":{
 			"prio":["EP/GP"],
-			"gp":"",
+			"gp":"8",
 			"wowID":"28785"
+		},
+		"Xavian Stiletto":{
+			"prio":["EP/GP"],
+			"gp":"4",
+			"wowID":"28659"
 		}
 	},
 	"Shade of Aran":{
 		"Aran's Soothing Sapphire":{
 			"prio":["EP/GP"],
-			"gp":"",
+			"gp":"8",
 			"wowID":"28728"
 		},
 		"Boots of the Incorrupt":{
-			"prio":["EP/GP"],
-			"gp":"",
+			"prio":["Not Rasbeary","EP/GP"],
+			"gp":"5",
 			"wowID":"28663"
 		},
 		"Boots of the Infernal Coven":{
 			"prio":["EP/GP"],
-			"gp":"",
+			"gp":"3",
 			"wowID":"28670"
 		},
 		"Drape of the Dark Reavers":{
 			"prio":["EP/GP"],
-			"gp":"",
+			"gp":"6",
 			"wowID":"28672"
 		},
 		"Mantle of the Mind Flayer":{
 			"prio":["EP/GP"],
-			"gp":"",
+			"gp":"3",
 			"wowID":"28726"
 		},
 		"Pauldrons of the Justice-Seeker":{
 			"prio":["EP/GP"],
-			"gp":"",
+			"gp":"5",
 			"wowID":"28666"
 		},
 		"Pendant of the Violet Eye":{
 			"prio":["EP/GP"],
-			"gp":"",
+			"gp":"4",
 			"wowID":"28727"
 		},
 		"Rapscallion Boots":{
 			"prio":["EP/GP"],
-			"gp":"",
+			"gp":"5",
 			"wowID":"28669"
 		},
 		"Saberclaw Talisman":{
 			"prio":["EP/GP"],
-			"gp":"",
+			"gp":"4",
 			"wowID":"28674"
 		},
 		"Shermanar Great-Ring":{
 			"prio":["EP/GP"],
-			"gp":"",
+			"gp":"4",
 			"wowID":"28675"
 		},
 		"Steelspine Faceguard":{
 			"prio":["EP/GP"],
-			"gp":"",
+			"gp":"3",
 			"wowID":"28671"
 		},
 		"Tirisfal Wand of Ascendancy":{
 			"prio":["EP/GP"],
-			"gp":"",
+			"gp":"6",
 			"wowID":"28673"
 		}
 	},
 	"Netherspite":{
 		"Cowl of Defiance":{
 			"prio":["EP/GP"],
-			"gp":"",
+			"gp":"4",
 			"wowID":"28732"
 		},
 		"Earthblood Chestguard":{
 			"prio":["EP/GP"],
-			"gp":"",
+			"gp":"4",
 			"wowID":"28735"
 		},
 		"Girdle of Truth":{
 			"prio":["EP/GP"],
-			"gp":"",
+			"gp":"3",
 			"wowID":"28733"
 		},
 		"Jewel of Infinite Possibilities":{
 			"prio":["EP/GP"],
-			"gp":"",
+			"gp":"6",
 			"wowID":"28734"
 		},
 		"Mantle of Abrahmis":{
 			"prio":["EP/GP"],
-			"gp":"",
+			"gp":"5",
 			"wowID":"28743"
 		},
 		"Mithril Band of the Unscarred":{
 			"prio":["EP/GP"],
-			"gp":"",
+			"gp":"3",
 			"wowID":"28730"
 		},
 		"Pantaloons of Repentance":{
 			"prio":["EP/GP"],
-			"gp":"",
+			"gp":"4",
 			"wowID":"28742"
 		},
 		"Rip-Flayer Leggings":{
 			"prio":["EP/GP"],
-			"gp":"",
+			"gp":"4",
 			"wowID":"28740"
 		},
 		"Shining Chain of the Afterworld":{
 			"prio":["EP/GP"],
-			"gp":"",
+			"gp":"3",
 			"wowID":"28731"
 		},
 		"Skulker's Greaves":{
 			"prio":["EP/GP"],
-			"gp":"",
+			"gp":"6",
 			"wowID":"28741"
 		},
 		"Spiteblade":{
 			"prio":["EP/GP"],
-			"gp":"",
+			"gp":"14",
 			"wowID":"28729"
 		},
 		"Uni-Mind Headdress":{
 			"prio":["EP/GP"],
-			"gp":"",
+			"gp":"5",
 			"wowID":"28744"
 		}
 	},
 	"Chess Event":{
 		"Battlescar Boots":{
 			"prio":["EP/GP"],
-			"gp":"",
+			"gp":"6",
 			"wowID":"28747"
 		},
 		"Bladed Shoulderpads of the Merciless":{
 			"prio":["EP/GP"],
-			"gp":"",
+			"gp":"6",
 			"wowID":"28755"
 		},
 		"Fiend Slayer Boots":{
 			"prio":["EP/GP"],
-			"gp":"",
+			"gp":"6",
 			"wowID":"28746"
 		},
 		"Forestlord Striders":{
 			"prio":["EP/GP"],
-			"gp":"",
+			"gp":"5",
 			"wowID":"28752"
 		},
 		"Girdle of Treachery":{
 			"prio":["EP/GP"],
-			"gp":"",
-			"wowID":"28752"
+			"gp":"4",
+			"wowID":"28750"
 		},
 		"Headdress of the High Potentate":{
 			"prio":["EP/GP"],
-			"gp":"",
-			"wowID":"28752"
+			"gp":"5",
+			"wowID":"28756"
 		},
 		"Heart-Flame Leggings":{
 			"prio":["EP/GP"],
-			"gp":"",
-			"wowID":"28752"
+			"gp":"5",
+			"wowID":"28751"
 		},
 		"King's Defender":{
 			"prio":["EP/GP"],
-			"gp":"",
+			"gp":"14",
 			"wowID":"28749"
 		},
 		"Legplates of the Innocent":{
 			"prio":["EP/GP"],
-			"gp":"",
+			"gp":"6",
 			"wowID":"28748"
 		},
 		"Mithril Chain of Heroism":{
 			"prio":["EP/GP"],
-			"gp":"",
+			"gp":"3",
 			"wowID":"28745"
 		},
 		"Ring of Recurrence":{
 			"prio":["EP/GP"],
-			"gp":"",
+			"gp":"5",
 			"wowID":"28753"
 		},
 		"Triptych Shield of the Anients":{
 			"prio":["EP/GP"],
-			"gp":"",
+			"gp":"8",
 			"wowID":"28754"
 		}
 	},
 	"Prince Malchezaar":{
 		"Helm of the Fallen Hero":{
 			"prio":["EP/GP"],
-			"gp":"",
+			"gp":"6",
 			"wowID":"29759"
 		},
 		"Helm of the Fallen Champion":{
 			"prio":["EP/GP"],
-			"gp":"",
+			"gp":"6",
 			"wowID":"29760"
 		},
 		"Helm of the Fallen Defender":{
 			"prio":["EP/GP"],
-			"gp":"",
+			"gp":"6",
 			"wowID":"29761"
 		},
 		"Adornment of Stolen Souls":{
 			"prio":["EP/GP"],
-			"gp":"",
+			"gp":"5",
 			"wowID":"28762"
 		},
 		"Farstrider Wildercloak":{
 			"prio":["EP/GP"],
-			"gp":"",
+			"gp":"4",
 			"wowID":"28764"
 		},
 		"Gorehowl":{
 			"prio":["EP/GP"],
-			"gp":"",
+			"gp":"10",
 			"wowID":"28773"
 		},
 		"Jade Ring of the Everliving":{
 			"prio":["EP/GP"],
-			"gp":"",
+			"gp":"5",
 			"wowID":"28763"
 		},
 		"Light's Justice":{
 			"prio":["EP/GP"],
-			"gp":"",
+			"gp":"14",
 			"wowID":"28771"
 		},
 		"Malchazeen":{
 			"prio":["EP/GP"],
-			"gp":"",
+			"gp":"14",
 			"wowID":"28768"
 		},
 		"Nathrezim Mindblade":{
 			"prio":["EP/GP"],
-			"gp":"",
+			"gp":"14",
 			"wowID":"28770"
 		},
 		"Ring of a Thousand Marks":{
 			"prio":["EP/GP"],
-			"gp":"",
+			"gp":"5",
 			"wowID":"28757"
 		},
 		"Ruby Drape of the Mysticant":{
 			"prio":["EP/GP"],
-			"gp":"",
+			"gp":"5",
 			"wowID":"28766"
 		},
 		"Stainless Cloak of the Pure Hearted":{
 			"prio":["EP/GP"],
-			"gp":"",
+			"gp":"5",
 			"wowID":"28765"
 		},
 		"Sunfury Bow of the Phoenix":{
 			"prio":["EP/GP"],
-			"gp":"",
+			"gp":"14",
 			"wowID":"28772"
 		},
 		"The Decapitator":{
 			"prio":["EP/GP"],
-			"gp":"",
+			"gp":"14",
 			"wowID":"28767"
 		}
 	},
