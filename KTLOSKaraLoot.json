@@ -248,6 +248,11 @@
 			"gp":"6",
 			"wowID":"28593"
 		},
+		"Libram of Souls Redeemed":{
+			"prio":["EP/GP"],
+			"gp":"3",
+			"wowID":"28592"
+		},
 		"Ribbon of Sacrifice":{
 			"prio":["EP/GP"],
 			"gp":"5",
