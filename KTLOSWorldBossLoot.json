@@ -2,104 +2,104 @@
 	"Doomwalker":{
 		"Anger-Spark Gloves":{
 			"prio":["EP/GP"],
-			"gp":"",
+			"gp":"10",
 			"wowID":"30725"
 		},
 		"Archaic Charm of Presence":{
 			"prio":["EP/GP"],
-			"gp":"",
+			"gp":"10",
 			"wowID":"30726"
 		},
 		"Barrel-Blade Longrifle":{
 			"prio":["EP/GP"],
-			"gp":"",
+			"gp":"10",
 			"wowID":"30724"
 		},
 		"Black-Iron Battlecloak":{
 			"prio":["EP/GP"],
-			"gp":"",
+			"gp":"8",
 			"wowID":"30729"
 		},
 		"Ethereum Nexus-Reaver":{
 			"prio":["EP/GP"],
-			"gp":"",
+			"gp":"18",
 			"wowID":"30722"
 		},
 		"Faceguard of the Endless Watch":{
 			"prio":["EP/GP"],
-			"gp":"",
+			"gp":"10",
 			"wowID":"30731"
 		},
 		"Fathom-Helm of the Deeps":{
 			"prio":["EP/GP"],
-			"gp":"",
+			"gp":"10",
 			"wowID":"30728"
 		},
 		"Gilded Trousers of Benediction":{
 			"prio":["EP/GP"],
-			"gp":"",
+			"gp":"12",
 			"wowID":"30727"
 		},
 		"Talon of the Tempest":{
 			"prio":["EP/GP"],
-			"gp":"",
+			"gp":"14",
 			"wowID":"30723"
 		},
 		"Terrorweave Tunic":{
 			"prio":["EP/GP"],
-			"gp":"",
+			"gp":"12",
 			"wowID":"30730"
 		}
 	},
 	"Doom Lord Kazzak":{
 		"Ancient Spellcloak of the Highborne":{
 			"prio":["EP/GP"],
-			"gp":"",
+			"gp":"10",
 			"wowID":"30735"
 		},
 		"Exodar Life-Staff":{
 			"prio":["EP/GP"],
-			"gp":"",
+			"gp":"16",
 			"wowID":"30732"
 		},
 		"Gold-Leaf Wildboots":{
 			"prio":["EP/GP"],
-			"gp":"",
+			"gp":"10",
 			"wowID":"30737"
 		},
 		"Hope Ender":{
 			"prio":["EP/GP"],
-			"gp":"",
+			"gp":"8",
 			"wowID":"30733"
 		},
 		"Leggings of the Seventh Circle":{
 			"prio":["EP/GP"],
-			"gp":"",
+			"gp":"12",
 			"wowID":"30734"
 		},
 		"Ring of Flowing Light":{
 			"prio":["EP/GP"],
-			"gp":"",
+			"gp":"10",
 			"wowID":"30736"
 		},
 		"Ring of Reciprocity":{
 			"prio":["EP/GP"],
-			"gp":"",
+			"gp":"10",
 			"wowID":"30738"
 		},
 		"Ripfiend Shoulderplates":{
 			"prio":["EP/GP"],
-			"gp":"",
+			"gp":"10",
 			"wowID":"30740"
 		},
 		"Scaled Greaves of the Marksman":{
 			"prio":["EP/GP"],
-			"gp":"",
+			"gp":"10",
 			"wowID":"30739"
 		},
 		"Topaz-Studded Battlegrips":{
 			"prio":["EP/GP"],
-			"gp":"",
+			"gp":"8",
 			"wowID":"30741"
 		}
 	}
