@@ -73,7 +73,7 @@
 			"wowID":"28794"
 		},
 		"Bloodmaw Magus-Blade":{
-			"prio":["EP/GP"],
+			"prio":["If you have atiesh no.","EP/GP"],
 			"gp":"14",
 			"wowID":"28802"
 		},
@@ -88,7 +88,7 @@
 			"wowID":"28803"
 		},
 		"Dragonspine Trophy":{
-			"prio":["Hunter","EP/GP"],
+			"prio":["Chiron","Mavan","Hunter","EP/GP"],
 			"gp":"12",
 			"wowID":"28830"
 		},
